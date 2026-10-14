@@ -24,7 +24,7 @@ import type { Item as AnyItem } from '../schema';
 import { lexiconGenerator, gapExample, realOrFake, similarTo, lexiconItem } from './lexicon';
 import { WORD_FAMILIES } from '@content/data/word-families';
 import { ARTICLES, COLLOCATIONS, CONFUSABLES, FALSE_FRIENDS, PLURALS, PREPOSITIONS, UNCOUNTABLES, ADJ_COLLOCATIONS } from '@content/data/tables';
-import { LEXICON } from '@content/lexicon';
+import { LEX_SIMILAR, LEXICON } from '@content/lexicon';
 import { assertUniformAnswers, assertValidItem, sweep } from './testkit';
 import { checkItem } from '../checking';
 import { Rng } from '../rng';
@@ -133,8 +133,8 @@ describe('vocabulary generators', () => {
 });
 
 describe('lexicon', () => {
-  it('has at least 100 entries in batch 001', () => {
-    expect(LEXICON.length).toBeGreaterThanOrEqual(100);
+  it('has at least 1000 entries', () => {
+    expect(LEXICON.length).toBeGreaterThanOrEqual(1000);
   });
 
   it('words are unique', () => {
@@ -151,6 +151,11 @@ describe('lexicon', () => {
 
   it('fake definitions differ from the real one', () => {
     for (const e of LEXICON) for (const f of e.fakes) expect(f).not.toBe(e.def);
+  });
+
+  it('every word in a similarity group is a Lexicon entry', () => {
+    const words = new Set(LEXICON.map((e) => e.word));
+    for (const g of LEX_SIMILAR) for (const w of g) expect(words.has(w), w).toBe(true);
   });
 
   it('similar words are grouped both ways', () => {

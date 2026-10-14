@@ -1,4 +1,4 @@
-import { LEXICON, ORIGINS, type LexEntry } from '@content/lexicon';
+import { LEX_SIMILAR, LEXICON, ORIGINS, type LexEntry } from '@content/lexicon';
 import { Rng } from '../rng';
 import type { Item } from '../schema';
 import { buildMcq, genId, type Generator, type ItemMeta } from './core';
@@ -35,6 +35,7 @@ const SIMILAR: string[][] = [
   ['bonhomie', 'verve'],
   ['limerence', 'tryst'],
   ['kudos', 'largesse'],
+  ...LEX_SIMILAR,
 ];
 
 export function similarTo(word: string): Set<string> {
