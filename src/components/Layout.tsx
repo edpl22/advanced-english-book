@@ -2,9 +2,11 @@ import { useEffect } from 'react';
 import { Link, NavLink, Outlet, useLocation } from 'react-router-dom';
 import { applyTheme, useStore } from '@/lib/useStore';
 import { isStorageAvailable, update } from '@/lib/storage';
+import { dateKey, doneToday, liveStreak } from '@/lib/daily';
 
 const TABS: Array<[string, string]> = [
   ['/book', 'The Book'],
+  ['/daily', 'Daily Challenge'],
   ['/tests', 'Practice Tests'],
   ['/toefl', 'TOEFL Simulator'],
   ['/lexicon', 'Lexicon'],
@@ -17,6 +19,21 @@ const THEMES = [
   ['day', 'Day', 'Cream paper'],
   ['night', 'Night', 'Dark sepia paper for night reading'],
 ] as const;
+
+/** Streak count beside the Daily Challenge tab; a dot while today is still to do. */
+function DailyBadge() {
+  const { daily } = useStore();
+  const today = dateKey();
+  const streak = liveStreak(daily, today);
+  const pending = !doneToday(daily, today);
+  return (
+    <>
+      {streak > 0 && <span className="tab-badge">{streak}</span>}
+      {pending && <span className="tab-dot" title="Today’s challenge is waiting" />}
+      <span className="sr-only">{`, ${streak}-day streak${pending ? ', today not done yet' : ', done today'}`}</span>
+    </>
+  );
+}
 
 export function Layout() {
   const state = useStore();
@@ -64,6 +81,7 @@ export function Layout() {
           {TABS.map(([to, label]) => (
             <NavLink key={to} to={to} aria-current={location.pathname.startsWith(to) ? 'page' : undefined}>
               {label}
+              {to === '/daily' && <DailyBadge />}
             </NavLink>
           ))}
         </nav>

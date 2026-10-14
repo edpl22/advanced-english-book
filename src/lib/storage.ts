@@ -55,6 +55,25 @@ export type Bookmark = z.infer<typeof BookmarkSchema>;
 export const LexStatSchema = z.object({ box: z.number().min(1).max(5), due: z.number(), seen: z.number(), correct: z.number() });
 export type LexStat = z.infer<typeof LexStatSchema>;
 
+export const DailyDaySchema = z.object({ score: z.number(), total: z.number(), at: z.number(), level: z.string() });
+export const DailySchema = z
+  .object({
+    /** Consecutive days completed, ending today or yesterday. */
+    streak: z.number().default(0),
+    best: z.number().default(0),
+    /** Local date (YYYY-MM-DD) of the last completed challenge. */
+    last: z.string().nullable().default(null),
+    level: z.enum(['B1', 'B2', 'C1', 'C2']).default('B2'),
+    days: z.record(DailyDaySchema).default({}),
+    /** Challenge in progress: first verdict of each question answered so far. */
+    current: z
+      .object({ date: z.string(), level: z.string(), results: z.array(z.enum(['correct', 'almost', 'incorrect'])) })
+      .nullable()
+      .default(null),
+  })
+  .default({});
+export type Daily = z.infer<typeof DailySchema>;
+
 export const StateSchema = z.object({
   version: z.literal(1),
   attempts: z.array(AttemptSchema),
@@ -62,6 +81,7 @@ export const StateSchema = z.object({
   tests: z.array(TestRecordSchema),
   bookmarks: z.array(BookmarkSchema),
   lexicon: z.record(LexStatSchema),
+  daily: DailySchema,
   settings: z
     .object({
       theme: z.enum(['auto', 'day', 'night']).default('auto'),
@@ -81,6 +101,7 @@ export function emptyState(): State {
     tests: [],
     bookmarks: [],
     lexicon: {},
+    daily: { streak: 0, best: 0, last: null, level: 'B2', days: {}, current: null },
     settings: { theme: 'auto', speechRate: 0.95, streak: 0, bestStreak: 0 },
   };
 }
@@ -173,11 +194,18 @@ export function importJson(text: string, mode: 'replace' | 'merge' = 'replace'):
       tests: [...cur.tests, ...inc.tests.filter((t) => !cur.tests.some((c) => c.id === t.id))],
       bookmarks: [...cur.bookmarks, ...inc.bookmarks.filter((b) => !cur.bookmarks.some((c) => c.path === b.path))],
       lexicon: { ...inc.lexicon, ...cur.lexicon },
+      daily: mergeDaily(cur.daily, inc.daily),
     });
     return null;
   } catch {
     return 'Could not read the file (invalid JSON).';
   }
+}
+
+/** Merge two daily records: union of completed days, the more recent streak. */
+function mergeDaily(a: Daily, b: Daily): Daily {
+  const newer = (b.last ?? '') > (a.last ?? '') ? b : a;
+  return { ...newer, best: Math.max(a.best, b.best), days: { ...b.days, ...a.days } };
 }
 
 export function resetAll(): void {

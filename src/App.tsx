@@ -12,6 +12,7 @@ const Toefl = lazy(() => import('./features/toefl/ToeflHome'));
 const Lexicon = lazy(() => import('./features/lexicon/LexiconHome'));
 const Medieval = lazy(() => import('./features/medieval/MedievalHome'));
 const Progress = lazy(() => import('./features/progress/ProgressPage'));
+const Daily = lazy(() => import('./features/daily/DailyChallenge'));
 
 function Lazy({ children }: { children: ReactNode }) {
   return <Suspense fallback={<p className="muted">Turning the page…</p>}>{children}</Suspense>;
@@ -38,6 +39,7 @@ export function App() {
           <Route path="/lexicon/*" element={<Lazy><Lexicon /></Lazy>} />
           <Route path="/medieval/*" element={<Lazy><Medieval /></Lazy>} />
           <Route path="/progress" element={<Lazy><Progress /></Lazy>} />
+          <Route path="/daily" element={<Lazy><Daily /></Lazy>} />
           <Route path="*" element={<Navigate to="/book" replace />} />
         </Route>
       </Routes>

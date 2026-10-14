@@ -1419,6 +1419,306 @@ select.blank {
   }
 }
 
+/* ── Daily Challenge ────────────────────────────────────────────────── */
+
+/* Tab badge: the streak, set like a superior figure; a dot while today waits. */
+.tab-badge {
+  font-variant-caps: normal;
+  font-variant-numeric: lining-nums;
+  font-size: 0.72rem;
+  letter-spacing: 0;
+  color: var(--accent);
+  margin-left: 0.3rem;
+  vertical-align: super;
+}
+.tab-dot {
+  display: inline-block;
+  width: 0.32rem;
+  height: 0.32rem;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-left: 0.3rem;
+  vertical-align: 0.55em;
+}
+
+.daily-head {
+  text-align: center;
+  margin-bottom: 1.8rem;
+}
+.daily-kicker {
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.12em;
+  color: var(--accent);
+  margin: 0 0 0.3rem;
+}
+.daily-head h1 {
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.05em;
+  font-size: 2.3rem;
+  font-weight: 400;
+}
+.daily-lede {
+  max-width: 34rem;
+  margin: 0.8rem auto 0;
+  font-style: italic;
+  color: var(--ink-2);
+}
+
+/* The streak: one large figure and a two-week strip of calendar squares. */
+.streak-panel {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: center;
+  gap: 1rem 2.2rem;
+  border-top: 3px double var(--rule-strong);
+  border-bottom: 1px solid var(--rule);
+  padding: 1.2rem 0;
+  margin: 0 0 1.6rem;
+}
+.streak-count {
+  display: flex;
+  align-items: baseline;
+  gap: 0.7rem;
+}
+.streak-num {
+  font-size: 4.2rem;
+  line-height: 0.9;
+  color: var(--accent);
+  font-variant-numeric: lining-nums;
+}
+.streak-label {
+  display: flex;
+  flex-direction: column;
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.08em;
+  font-size: 1.05rem;
+  line-height: 1.25;
+}
+.streak-best {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+.streak-days {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(14, minmax(0, 1fr));
+  gap: 0.3rem;
+}
+.streak-days .day {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.2rem;
+  font-size: 0.72rem;
+  color: var(--muted);
+  font-variant-numeric: lining-nums;
+}
+.streak-days .day-w {
+  font-variant-caps: all-small-caps;
+}
+.streak-days .day-mark {
+  width: 100%;
+  max-width: 1.6rem;
+  aspect-ratio: 1;
+  border: 1px solid var(--rule-strong);
+}
+.streak-days .is-done .day-mark {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+.streak-days .is-today .day-mark {
+  outline: 1px solid var(--ink);
+  outline-offset: 2px;
+}
+.streak-days .is-today {
+  color: var(--ink);
+}
+
+.daily-level {
+  margin-top: 0.4rem;
+}
+.level-choice {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  border: 1px solid var(--rule-strong);
+}
+.level-choice label {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.55rem 0.3rem 0.5rem;
+  cursor: pointer;
+  text-align: center;
+}
+.level-choice label + label {
+  border-left: 1px solid var(--rule-strong);
+}
+.level-choice input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+.level-choice .lv {
+  font-size: 1.3rem;
+  font-variant-numeric: lining-nums;
+  line-height: 1.1;
+}
+.level-choice .lv-label {
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.05em;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+.level-choice label:hover {
+  background: var(--paper-2);
+}
+.level-choice label.is-on {
+  background: var(--ink);
+  color: var(--paper);
+}
+.level-choice label.is-on .lv-label {
+  color: var(--paper-2);
+}
+.level-choice label:has(input:focus-visible) {
+  outline: 2px solid var(--focus);
+  outline-offset: -3px;
+}
+
+.daily-topic-line {
+  color: var(--ink-2);
+}
+.daily-topic-line .sep {
+  color: var(--rule-strong);
+}
+.daily-start {
+  display: block;
+  margin: 1.8rem auto 0;
+  font-size: 1.1rem;
+  padding: 0.4rem 1.6rem 0.45rem;
+}
+
+/* In progress: a running head with a ledger of ten marks. */
+.daily-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.6rem 1.5rem;
+  flex-wrap: wrap;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.6rem;
+  margin-bottom: 1.6rem;
+}
+.daily-bar .daily-kicker {
+  margin: 0;
+}
+.daily-ledger {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 0.25rem;
+}
+.daily-ledger li {
+  width: 1.4rem;
+  height: 0.4rem;
+  background: var(--rule);
+}
+.daily-ledger li.is-now {
+  outline: 1px solid var(--ink);
+  outline-offset: 2px;
+}
+.daily-ledger li.is-now:not(.correct):not(.almost):not(.incorrect) {
+  background: var(--ink);
+}
+.daily-ledger li.correct {
+  background: var(--ok);
+}
+.daily-ledger li.almost {
+  background: var(--almost);
+}
+.daily-ledger li.incorrect {
+  background: var(--accent);
+}
+
+.daily-card {
+  min-height: 16rem;
+}
+.daily-topic {
+  margin: 0 0 0.3rem;
+  color: var(--accent);
+}
+.daily-card .item {
+  border-bottom: 0;
+  font-size: 1.08rem;
+}
+.daily-actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 1rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid var(--rule);
+}
+
+.daily-result {
+  text-align: center;
+  margin: 1rem 0 2rem;
+}
+.daily-score {
+  margin: 0 0 0.4rem;
+}
+.daily-score .big {
+  font-size: 4.6rem;
+  line-height: 1;
+  color: var(--accent);
+  font-variant-numeric: lining-nums;
+}
+.daily-score .of {
+  font-size: 1.6rem;
+  color: var(--muted);
+  margin-left: 0.3rem;
+}
+.daily-verdict {
+  font-style: italic;
+  font-size: 1.15rem;
+}
+.countdown {
+  font-variant-numeric: tabular-nums lining-nums;
+  color: var(--ink);
+}
+.daily-topics {
+  columns: 2 16rem;
+  column-gap: 2rem;
+  padding-left: 1.2rem;
+}
+.daily-topics li {
+  break-inside: avoid;
+  margin-bottom: 0.25rem;
+}
+
+@media (max-width: 40rem) {
+  .streak-panel {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .streak-days {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+  .level-choice {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .level-choice label:nth-child(3) {
+    border-left: 0;
+  }
+  .level-choice label:nth-child(n + 3) {
+    border-top: 1px solid var(--rule-strong);
+  }
+  .daily-ledger li {
+    width: 1rem;
+  }
+}
+
 /* ── Lists, cards, forms (sober) ────────────────────────────────────── */
 
 .ledger {

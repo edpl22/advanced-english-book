@@ -80,6 +80,7 @@ Abra esse endereço no navegador. Enquanto o comando estiver rodando, qualquer a
 | Aba | Conteúdo |
 |---|---|
 | **The Book** | 29 unidades de gramática e vocabulário, cada uma com explicação, exemplos, erros comuns, foco em provas, exercícios e revisão |
+| **Daily Challenge** | 10 questões por dia, de 10 tópicos sorteados (iguais para todos na mesma data). Fazer todos os dias mantém o streak, que zera se você pular um dia |
 | **Practice Tests** | simulados montados a partir do banco (mais de 3000 pontos) e dos geradores, filtrando por nível, tópico, tipo de questão e prova (inclusive vestibulares militares) |
 | **TOEFL Simulator** | 6 simulados completos no formato de 2026, além da prática de uma tarefa por vez |
 | **Lexicon** | 1000 palavras raras com IPA, etimologia, exemplo e o jogo *Real or Fake?* |

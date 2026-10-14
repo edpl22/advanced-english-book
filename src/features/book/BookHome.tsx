@@ -6,6 +6,7 @@ import { LEXICON } from '@content/lexicon';
 import { itemPoints } from '@/lib/schema';
 import { dueForReview, everCorrect } from '@/lib/progress';
 import { useStore } from '@/lib/useStore';
+import { dateKey, doneToday, liveStreak } from '@/lib/daily';
 import type { State } from '@/lib/storage';
 
 interface Section {
@@ -112,6 +113,20 @@ function sections(state: State): Section[] {
         [fmt(dueForReview(state).length), 'due for review'],
       ],
       cta: 'See my progress',
+    },
+    {
+      key: 'daily',
+      numeral: 'VII',
+      label: 'Daily Challenge',
+      to: '/daily',
+      kicker: doneToday(state.daily, dateKey()) ? 'Done for today' : 'Today’s page is waiting',
+      text: 'Ten questions on ten random topics, the same for everyone each day. Finish them daily to build a streak, and miss a day to start again.',
+      facts: [
+        [String(liveStreak(state.daily, dateKey())), 'day streak'],
+        [String(state.daily.best), 'best streak'],
+        ['10', 'questions a day'],
+      ],
+      cta: doneToday(state.daily, dateKey()) ? 'See today’s result' : 'Take today’s challenge',
     },
   ];
 }
