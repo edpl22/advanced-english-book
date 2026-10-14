@@ -12,8 +12,11 @@ const TABS: Array<[string, string]> = [
   ['/progress', 'My Progress'],
 ];
 
-const THEME_LABEL = { auto: 'Paper: auto', day: 'Paper: day', night: 'Paper: night reading' } as const;
-const NEXT_THEME = { auto: 'day', day: 'night', night: 'auto' } as const;
+const THEMES = [
+  ['auto', 'Auto', 'Paper follows your system setting'],
+  ['day', 'Day', 'Cream paper'],
+  ['night', 'Night', 'Dark sepia paper for night reading'],
+] as const;
 
 export function Layout() {
   const state = useStore();
@@ -34,18 +37,27 @@ export function Layout() {
       </a>
       <header className="masthead">
         <div className="masthead-inner">
-          <Link to="/book" className="masthead-title">
-            Advanced English <b>·</b> Grammar, Vocabulary &amp; Exams
+          <Link to="/book" className="masthead-title" aria-label="Advanced English — home">
+            <span className="wordmark">Advanced English</span>
+            <span className="fleuron" aria-hidden="true">
+              ❧
+            </span>
+            <span className="strap">Grammar, Vocabulary &amp; Exams</span>
           </Link>
           <div className="masthead-tools">
-            <button
-              type="button"
-              className="linkish"
-              onClick={() => update((s) => ({ ...s, settings: { ...s.settings, theme: NEXT_THEME[theme] } }))}
-              aria-label={`${THEME_LABEL[theme]}. Change paper colour`}
-            >
-              {THEME_LABEL[theme]}
-            </button>
+            <div className="paper-switch" role="group" aria-label="Paper colour">
+              {THEMES.map(([value, label, title]) => (
+                <button
+                  key={value}
+                  type="button"
+                  title={title}
+                  aria-pressed={theme === value}
+                  onClick={() => update((s) => ({ ...s, settings: { ...s.settings, theme: value } }))}
+                >
+                  {label}
+                </button>
+              ))}
+            </div>
           </div>
         </div>
         <nav className="tabs" aria-label="Main sections">
@@ -66,6 +78,12 @@ export function Layout() {
       <main id="main" className="page">
         <Outlet />
       </main>
+      <footer className="colophon">
+        <span>
+          <span className="sc">Advanced English</span> · set in EB Garamond
+        </span>
+        <span>All texts and exercises are original. Your progress stays on this device.</span>
+      </footer>
     </>
   );
 }

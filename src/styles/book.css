@@ -19,6 +19,15 @@
   --almost: #7a5b0c;
   --almost-soft: #f3e7c6;
   --focus: #1f4e79;
+  /* The desk the book lies on, and the cloth of its boards. */
+  --desk: #e9e1cf;
+  --sheet-edge: #ddd2bb;
+  --sheet-shadow: 0 1px 2px rgba(64, 44, 22, 0.06), 0 18px 40px -28px rgba(64, 44, 22, 0.35);
+  --cloth: #5b1c1c;
+  --cloth-2: #4c1616;
+  --cloth-line: #7a3530;
+  --cloth-ink: #f2e7d3;
+  --gilt: #d9b77a;
   --serif: 'EB Garamond', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif;
   --medieval: 'Junicode', 'EB Garamond', 'Palatino Linotype', serif;
   --measure: 66ch;
@@ -43,6 +52,14 @@
   --almost: #e2c27a;
   --almost-soft: #463a1f;
   --focus: #9cc3e6;
+  --desk: #1f1913;
+  --sheet-edge: #3a3026;
+  --sheet-shadow: 0 1px 2px rgba(0, 0, 0, 0.25), 0 18px 40px -26px rgba(0, 0, 0, 0.6);
+  --cloth: #3d1514;
+  --cloth-2: #331110;
+  --cloth-line: #5b2a25;
+  --cloth-ink: #eadfc8;
+  --gilt: #cfae73;
   color-scheme: dark;
 }
 
@@ -62,6 +79,14 @@
     --almost: #e2c27a;
     --almost-soft: #463a1f;
     --focus: #9cc3e6;
+    --desk: #1f1913;
+    --sheet-edge: #3a3026;
+    --sheet-shadow: 0 1px 2px rgba(0, 0, 0, 0.25), 0 18px 40px -26px rgba(0, 0, 0, 0.6);
+    --cloth: #3d1514;
+    --cloth-2: #331110;
+    --cloth-line: #5b2a25;
+    --cloth-ink: #eadfc8;
+    --gilt: #cfae73;
     color-scheme: dark;
   }
 }
@@ -79,7 +104,7 @@ html {
 
 body {
   margin: 0;
-  background: var(--paper);
+  background: var(--desk);
   color: var(--ink);
   font-family: var(--serif);
   font-size: 1rem;
@@ -152,14 +177,17 @@ hr,
 
 /* ── Masthead and navigation ────────────────────────────────────────── */
 
+/* The masthead lies on the desk, above the page; its tabs are ribbon
+   markers: the open section hangs a short oxblood ribbon from the top edge. */
 .masthead {
-  border-bottom: 1px solid var(--rule);
-  background: var(--paper);
+  position: relative;
+  z-index: 2;
+  background: var(--desk);
 }
 .masthead-inner {
   max-width: 72rem;
   margin: 0 auto;
-  padding: 0.9rem 1.25rem 0;
+  padding: 1rem 1.25rem 0;
   display: flex;
   align-items: baseline;
   justify-content: space-between;
@@ -167,21 +195,57 @@ hr,
   flex-wrap: wrap;
 }
 .masthead-title {
-  font-variant-caps: all-small-caps;
-  letter-spacing: 0.12em;
-  font-size: 1.15rem;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.6rem;
   color: var(--ink);
   text-decoration: none;
 }
-.masthead-title b {
+.masthead-title .wordmark {
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.16em;
+  font-size: 1.2rem;
+}
+.masthead-title .fleuron {
   color: var(--accent);
-  font-weight: 500;
+  font-size: 0.9rem;
+  transform: translateY(-0.05em);
+}
+.masthead-title .strap {
+  font-style: italic;
+  color: var(--muted);
+  font-size: 0.95rem;
 }
 .masthead-tools {
   display: flex;
   gap: 0.75rem;
   align-items: baseline;
-  font-size: 0.9rem;
+  font-size: 0.88rem;
+}
+.paper-switch {
+  display: inline-flex;
+  border: 1px solid var(--rule-strong);
+}
+.paper-switch button {
+  font: inherit;
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.08em;
+  background: transparent;
+  color: var(--ink-2);
+  border: 0;
+  padding: 0.05rem 0.55rem 0.1rem;
+  cursor: pointer;
+}
+.paper-switch button + button {
+  border-left: 1px solid var(--rule-strong);
+}
+.paper-switch button[aria-pressed='true'] {
+  background: var(--ink);
+  color: var(--paper);
+}
+.paper-switch button:not([aria-pressed='true']):hover {
+  background: var(--paper);
+  color: var(--ink);
 }
 
 .tabs {
@@ -189,25 +253,71 @@ hr,
   margin: 0 auto;
   padding: 0 1.25rem;
   display: flex;
-  gap: 0.25rem 1.6rem;
+  gap: 0 1.7rem;
   flex-wrap: wrap;
 }
 .tabs a {
+  position: relative;
   display: inline-block;
-  padding: 0.55rem 0 0.5rem;
+  padding: 0.85rem 0 0.7rem;
   font-variant-caps: all-small-caps;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.09em;
   font-size: 1.02rem;
   color: var(--ink-2);
   text-decoration: none;
-  border-bottom: 2px solid transparent;
+  transition: color 0.15s ease;
+}
+.tabs a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 100%;
+  bottom: 0.45rem;
+  height: 1px;
+  background: currentColor;
+  transition: right 0.2s ease;
 }
 .tabs a:hover {
   color: var(--ink);
 }
+.tabs a:hover::after {
+  right: 0;
+}
 .tabs a[aria-current='page'] {
-  color: var(--accent);
-  border-bottom-color: var(--accent);
+  color: var(--ink);
+}
+.tabs a[aria-current='page']::after {
+  display: none;
+}
+/* The open section is marked by a ribbon that hangs from the masthead
+   over the top edge of the page, like a bookmark. */
+.tabs a[aria-current='page']::before {
+  content: '';
+  position: absolute;
+  top: calc(100% - 0.15rem);
+  left: 50%;
+  width: 0.6rem;
+  height: 1.5rem;
+  margin-left: -0.3rem;
+  background: var(--accent);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 74%, 0 100%);
+  z-index: 2;
+}
+
+/* Colophon: the last lines of every page, as in a printed book. */
+.colophon {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 0 1.25rem 2.5rem;
+  display: flex;
+  justify-content: space-between;
+  gap: 0.5rem 1.5rem;
+  flex-wrap: wrap;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+.colophon .sc {
+  letter-spacing: 0.1em;
 }
 
 .linkish {
@@ -224,10 +334,21 @@ hr,
 
 /* ── Page layout: text column + margin column ───────────────────────── */
 
+/* The open page: a sheet of paper lying on the desk. */
 .page {
   max-width: 72rem;
   margin: 0 auto;
-  padding: 1.5rem 1.25rem 4rem;
+  padding: 2rem 1.25rem 4rem;
+  background: var(--paper);
+  min-height: calc(100vh - 7rem);
+}
+@media (min-width: 64rem) {
+  .page {
+    margin: 0.4rem auto 3rem;
+    padding: 2.6rem 3rem 4.5rem;
+    border: 1px solid var(--sheet-edge);
+    box-shadow: var(--sheet-shadow);
+  }
 }
 
 .running-head {
@@ -283,6 +404,7 @@ hr,
 p {
   margin: 0 0 0.9rem;
   hyphens: auto;
+  text-wrap: pretty;
 }
 
 h1,
@@ -292,6 +414,7 @@ h4 {
   font-weight: 500;
   line-height: 1.2;
   margin: 0;
+  text-wrap: balance;
 }
 
 h1 {
@@ -844,79 +967,456 @@ select.blank {
   margin-left: 0.4rem;
 }
 
-/* ── Contents page and cover ────────────────────────────────────────── */
+/* ── Cover: a clothbound board with a thumb index ───────────────────── */
 
-.cover {
-  min-height: 70vh;
+/* The cover is the only loud surface in the book: oxblood cloth, gilt
+   lettering, a blind-stamped frame. Everything else stays paper and ink. */
+.book-home {
+  margin-top: -0.6rem;
+}
+.jacket {
   display: grid;
-  align-content: center;
-  justify-items: center;
-  text-align: center;
-  border: 1px solid var(--rule-strong);
-  outline: 1px solid var(--rule);
-  outline-offset: 6px;
-  margin: 1rem auto 3rem;
-  max-width: 38rem;
-  padding: 3rem 2rem;
+  grid-template-columns: minmax(0, 1fr) 13rem;
+  max-width: 60rem;
+  margin: 0 auto 3.5rem;
+  align-items: stretch;
 }
-.cover .publisher {
+.board {
+  position: relative;
+  background: var(--cloth);
+  color: var(--cloth-ink);
+  padding: 1.1rem;
+  border-radius: 2px 0 0 2px;
+  box-shadow: inset -6px 0 0 var(--cloth-2), 0 1px 1px rgba(40, 10, 10, 0.25), 0 22px 40px -26px rgba(40, 10, 10, 0.7);
+  z-index: 1;
+}
+/* Blind-stamped double frame. */
+.board-frame {
+  height: 100%;
+  border: 1px solid var(--cloth-line);
+  outline: 1px solid var(--cloth-line);
+  outline-offset: -7px;
+  padding: 2.6rem 2.6rem 2rem;
+  display: flex;
+  flex-direction: column;
+}
+.imprint {
   font-variant-caps: all-small-caps;
-  letter-spacing: 0.2em;
-  color: var(--muted);
+  letter-spacing: 0.22em;
+  color: var(--gilt);
+  font-size: 0.92rem;
+  margin: 0;
 }
-.cover h1 {
-  font-size: 3.2rem;
+.title-lockup {
+  margin: 1.4rem 0 0.2rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: var(--gilt);
+}
+.title-lockup span {
+  display: block;
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.07em;
+  font-size: clamp(2.8rem, 6.4vw, 4.4rem);
+}
+.title-lockup span + span {
+  padding-left: 1.1em;
+}
+.board-subtitle {
+  font-style: italic;
+  font-size: 1.22rem;
+  margin: 1rem 0 0;
+  color: var(--cloth-ink);
+}
+.board-levels {
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.18em;
+  color: var(--gilt);
+  margin: 0.25rem 0 0;
+}
+
+.plate {
+  margin: 2.2rem 0 1.6rem;
+  padding-top: 1.1rem;
+  border-top: 1px solid var(--cloth-line);
+  max-width: 30rem;
+  animation: plate-in 0.28s ease-out;
+}
+@keyframes plate-in {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.plate-kicker {
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.12em;
+  color: var(--gilt);
+  margin: 0 0 0.45rem;
+}
+.plate-num {
+  font-variant-numeric: lining-nums;
+  margin-right: 0.35rem;
+}
+.plate-text {
+  margin: 0 0 1.1rem;
+  line-height: 1.5;
+  text-wrap: pretty;
+  hyphens: manual;
+}
+.plate-facts {
+  display: flex;
+  gap: 0 2.2rem;
+  flex-wrap: wrap;
+  margin: 0 0 1.2rem;
+}
+.plate-facts div {
+  display: flex;
+  flex-direction: column-reverse;
+}
+.plate-facts dd {
+  margin: 0;
+  font-size: 1.7rem;
+  line-height: 1.1;
+  color: var(--gilt);
+  font-variant-numeric: lining-nums;
+}
+.plate-facts dt {
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.08em;
+  font-size: 0.88rem;
+  opacity: 0.85;
+}
+.plate-cta {
+  align-self: flex-start;
+  color: var(--cloth-ink);
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.1em;
+  text-decoration: none;
+  border-bottom: 1px solid var(--gilt);
+  padding-bottom: 0.05rem;
+}
+.plate-cta:hover {
+  color: var(--gilt);
+}
+.board-exams {
+  margin: auto 0 0;
+  font-size: 0.86rem;
+  letter-spacing: 0.02em;
+  opacity: 0.78;
+}
+.board a:focus-visible {
+  outline-color: var(--gilt);
+}
+
+/* A silk bookmark ribbon: continue where you stopped. */
+.ribbon {
+  position: absolute;
+  top: -0.5rem;
+  right: 2.4rem;
+  width: 3.6rem;
+  padding: 1rem 0.2rem 1.6rem;
+  background: var(--gilt);
+  color: var(--cloth-2);
+  text-align: center;
+  text-decoration: none;
+  line-height: 1.1;
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 86%, 0 100%);
+  transition: transform 0.18s ease;
+}
+.ribbon:hover {
+  transform: translateY(3px);
+}
+.ribbon-label {
+  display: block;
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.04em;
+  font-size: 0.68rem;
+}
+.ribbon-unit {
+  display: block;
+  font-size: 0.82rem;
+  font-variant-numeric: lining-nums;
+}
+
+/* Thumb index: paper tabs cut into the fore-edge of the book. */
+.thumb-index {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  gap: 0.4rem;
+  padding: 2.2rem 0;
+}
+.thumb {
+  position: relative;
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  padding: 0.62rem 1.4rem 0.62rem 1.15rem;
+  white-space: nowrap;
+  margin-left: -0.6rem;
+  background: var(--paper-2);
+  border: 1px solid var(--rule);
+  border-left: 0;
+  border-radius: 0 3px 3px 0;
+  color: var(--ink-2);
+  text-decoration: none;
+  transform: translateX(0);
+  transition: transform 0.2s ease, background-color 0.2s ease, color 0.2s ease;
+}
+.thumb:hover,
+.thumb:focus-visible {
+  transform: translateX(6px);
+  color: var(--ink);
+}
+.thumb.is-active {
+  background: var(--paper);
+  color: var(--ink);
+  transform: translateX(10px);
+  border-color: var(--rule-strong);
+}
+.thumb.is-active::after {
+  content: '';
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  width: 0.35rem;
+  height: 0.35rem;
+  margin-top: -0.175rem;
+  background: var(--accent);
+  border-radius: 50%;
+}
+.thumb-num {
+  min-width: 1.7rem;
+  font-variant-numeric: lining-nums;
+  color: var(--accent);
+  font-size: 0.9rem;
+  letter-spacing: 0.04em;
+}
+.thumb-label {
   font-variant-caps: all-small-caps;
   letter-spacing: 0.06em;
-  margin: 1.2rem 0 0.4rem;
-}
-.cover .subtitle {
-  font-style: italic;
-  font-size: 1.2rem;
-  color: var(--ink-2);
-}
-.cover .ornament {
-  color: var(--accent);
-  margin: 1.5rem 0;
-  letter-spacing: 0.6em;
+  font-size: 0.97rem;
+  line-height: 1.15;
 }
 
-.toc {
+@media (prefers-reduced-motion: reduce) {
+  .plate,
+  .thumb,
+  .ribbon,
+  .tabs a::after,
+  .toc .unit {
+    animation: none;
+    transition: none;
+  }
+}
+
+/* ── Contents ───────────────────────────────────────────────────────── */
+
+.contents-title {
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.14em;
+  font-size: 2rem;
+  font-weight: 400;
+  text-align: center;
+  margin: 0 0 0.4rem;
+}
+.contents-title::after {
+  content: '';
+  display: block;
+  width: 3rem;
+  margin: 0.6rem auto 0;
+  border-top: 1px solid var(--accent);
+}
+
+.toc,
+.toc-units {
   list-style: none;
   padding: 0;
   margin: 0;
 }
 .toc .part {
-  margin-top: 1.8rem;
+  margin-top: 2.4rem;
 }
 .toc .part-title {
+  display: flex;
+  align-items: baseline;
+  gap: 0.9rem;
+  border-bottom: 1px solid var(--rule-strong);
+  padding-bottom: 0.3rem;
+  margin-bottom: 0.4rem;
+}
+.toc .part-num {
   font-variant-caps: all-small-caps;
-  letter-spacing: 0.1em;
-  font-size: 1.15rem;
+  letter-spacing: 0.14em;
   color: var(--accent);
-  border-bottom: 1px solid var(--rule);
-  padding-bottom: 0.2rem;
+  font-size: 0.95rem;
+  white-space: nowrap;
+}
+.toc .part-name {
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.08em;
+  font-size: 1.25rem;
 }
 .toc .unit {
+  position: relative;
   display: grid;
-  grid-template-columns: 2.4rem 1fr auto;
-  gap: 0.5rem;
-  padding: 0.45rem 0 0.2rem;
+  grid-template-columns: 2.4rem auto minmax(1rem, 1fr) auto;
+  column-gap: 0.45rem;
   align-items: baseline;
+  padding: 0.55rem 0.5rem 0.45rem 0;
+  transition: background-color 0.15s ease;
+}
+.toc .unit:hover {
+  background: var(--paper-2);
 }
 .toc .unit .n {
   color: var(--accent);
-  font-variant-numeric: lining-nums;
+  font-variant-numeric: lining-nums tabular-nums;
+  text-align: right;
+  padding-right: 0.5rem;
 }
-.toc .unit .leader {
+.toc .unit-title {
+  font-size: 1.06rem;
+}
+.toc a.unit-title {
+  color: var(--ink);
+  text-decoration: none;
+}
+/* The whole row is the link target. */
+.toc a.unit-title::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+}
+.toc .unit:hover a.unit-title {
+  color: var(--accent);
+}
+.toc .leader {
+  align-self: end;
+  margin-bottom: 0.42em;
+  border-bottom: 1px dotted var(--rule-strong);
+  min-width: 1rem;
+}
+.toc .meta {
   color: var(--muted);
   font-size: 0.85rem;
   white-space: nowrap;
+  font-variant-numeric: lining-nums;
 }
-.toc .unit .sections {
-  grid-column: 2 / 4;
-  font-size: 0.88rem;
-  color: var(--ink-2);
+.toc .meta .done {
+  color: var(--ok);
+}
+.toc .unit-progress {
+  grid-column: 2 / 5;
+  height: 2px;
+  background: var(--rule);
+  margin: 0.3rem 0 0.1rem;
+}
+.toc .unit-progress span {
+  display: block;
+  height: 100%;
+  background: var(--ok);
+}
+.toc .sections {
+  grid-column: 2 / 5;
+  font-size: 0.86rem;
+  color: var(--muted);
+  line-height: 1.45;
+  margin-top: 0.15rem;
+}
+.toc .sec-n {
+  font-variant-numeric: lining-nums;
+}
+.toc .sep {
+  color: var(--rule-strong);
+}
+
+@media (max-width: 52rem) {
+  .jacket {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .board {
+    border-radius: 2px;
+    box-shadow: 0 1px 1px rgba(40, 10, 10, 0.25), 0 18px 30px -24px rgba(40, 10, 10, 0.7);
+  }
+  .title-lockup span + span {
+    padding-left: 0.6em;
+  }
+  /* The thumb index becomes a row of folder tabs on top of the board. */
+  .thumb-index {
+    order: -1;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 0.3rem;
+    padding: 0 0.4rem;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+  .thumb-index::-webkit-scrollbar {
+    display: none;
+  }
+  .thumb {
+    flex: none;
+    margin: 0;
+    border: 1px solid var(--rule);
+    border-bottom: 0;
+    border-radius: 3px 3px 0 0;
+    padding: 0.55rem 0.75rem 0.45rem;
+    transform: translateY(4px);
+  }
+  .thumb:hover,
+  .thumb:focus-visible {
+    transform: translateY(1px);
+  }
+  .thumb.is-active {
+    transform: translateY(0);
+    background: var(--cloth);
+    border-color: var(--cloth);
+    color: var(--cloth-ink);
+  }
+  .thumb.is-active .thumb-num {
+    color: var(--gilt);
+  }
+  .thumb.is-active::after {
+    display: none;
+  }
+  .board-frame {
+    padding: 1.6rem 1.2rem 1.4rem;
+  }
+  .title-lockup {
+    margin-top: 1rem;
+  }
+  .plate {
+    margin: 1.5rem 0 1.2rem;
+  }
+  .plate-facts {
+    gap: 0 1.4rem;
+  }
+  .plate-facts dd {
+    font-size: 1.4rem;
+  }
+  .board-exams {
+    font-size: 0.8rem;
+  }
+  .ribbon {
+    right: 1.2rem;
+  }
+  .toc .unit {
+    grid-template-columns: 2rem minmax(0, 1fr) auto;
+  }
+  .toc .leader {
+    display: none;
+  }
+  .toc .unit-progress,
+  .toc .sections {
+    grid-column: 2 / 4;
+  }
 }
 
 /* ── Lists, cards, forms (sober) ────────────────────────────────────── */
@@ -1193,9 +1693,6 @@ textarea.writing {
   .unit-opening h1 {
     font-size: 1.9rem;
   }
-  .cover h1 {
-    font-size: 2.3rem;
-  }
   .matching,
   .two-col,
   .exam-split,
@@ -1208,11 +1705,30 @@ textarea.writing {
     border-bottom: 1px solid var(--rule);
     padding-bottom: 1rem;
   }
+  .masthead-inner {
+    padding-top: 0.7rem;
+  }
+  .masthead-title .strap {
+    display: none;
+  }
+  /* One line of tabs that scrolls sideways instead of wrapping. */
   .tabs {
-    gap: 0 1rem;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    gap: 0 1.15rem;
+    scrollbar-width: none;
+    padding-bottom: 0.2rem;
+  }
+  .tabs::-webkit-scrollbar {
+    display: none;
   }
   .tabs a {
     font-size: 0.95rem;
+    white-space: nowrap;
+    flex: none;
+  }
+  .tabs a[aria-current='page']::before {
+    height: 1rem;
   }
   .item {
     grid-template-columns: 1.6rem minmax(0, 1fr);
@@ -1251,6 +1767,8 @@ textarea.writing {
   }
   .masthead,
   .tabs,
+  .colophon,
+  .jacket,
   .controls,
   .no-print,
   .feedback,
