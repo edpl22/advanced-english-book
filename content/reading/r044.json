@@ -1,0 +1,270 @@
+{
+ "id": "r044",
+ "title": "Loved to Death",
+ "level": "C1",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "FUVEST",
+  "CAE",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "For centuries, travel was a privilege of the few. Today, cheap flights, budget accommodation and social media have opened the world to hundreds of millions of people, and international tourist arrivals have grown enormously in recent decades. In many respects this is an achievement worth celebrating: tourism creates jobs, sustains local crafts and allows people to experience cultures other than their own. But in a growing number of places, residents have begun to ask whether there can be too much of a good thing.\n\nThe term \"overtourism\" is now commonly used to describe situations in which the number of visitors exceeds what a place can absorb without damage to its environment, its infrastructure or the quality of life of its inhabitants. Historic city centres such as Venice, Barcelona and Dubrovnik have become emblematic examples. Their narrow streets are congested with visitors, their housing stock is increasingly converted into short-term rentals, and the shops that once served residents have been replaced by souvenir stalls. In Venice, the resident population of the historic centre has fallen dramatically over the past half century, and some critics warn that the city risks becoming a kind of theme park, admired by millions but inhabited by few.\n\nNatural sites face comparable pressures. Popular beaches, mountain trails and national parks have suffered erosion, pollution and disturbance to wildlife. In some cases, a single photograph shared widely online can transform a quiet location into a crowded attraction almost overnight, leaving local authorities struggling to cope.\n\nResponses have varied. Some cities have introduced tourist taxes or entry fees, limited the number of cruise ships allowed to dock, or restricted new hotels and short-term rentals in central areas. Certain natural sites now require advance booking and cap the number of daily visitors. Such measures are not without controversy. Critics argue that charging for access risks turning popular places into playgrounds for the wealthy, and businesses dependent on tourism fear the loss of income.\n\nPart of the difficulty is that tourism is highly concentrated. Most visitors are drawn to the same few famous attractions, often at the same times of year, while nearby towns and regions receive relatively few. Many experts therefore advocate strategies to spread visitors more evenly — promoting lesser-known destinations, encouraging travel outside peak seasons and redesigning itineraries.\n\nUltimately, the debate raises a question about what kind of traveller we wish to be. A visit that is brief, crowded and focused on a single photograph may contribute little to either visitor or host. Travelling more slowly, staying longer and spending money in locally owned businesses may not solve overtourism, but it could make tourism something closer to what it promises to be: an encounter rather than a consumption.",
+ "questions": [
+  {
+   "id": "r044-q01",
+   "type": "reading",
+   "passageId": "r044",
+   "prompt": "How does the author view the growth of tourism in paragraph 1?",
+   "options": [
+    "As partly positive but potentially harmful in excess",
+    "As entirely negative",
+    "As a recent and temporary trend",
+    "As benefiting only wealthy travellers"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "An achievement, but “can there be too much of a good thing?”"
+  },
+  {
+   "id": "r044-q02",
+   "type": "reading",
+   "passageId": "r044",
+   "prompt": "What does “overtourism” describe?",
+   "options": [
+    "Tourists who travel too frequently",
+    "The high cost of popular destinations",
+    "Tourism in natural sites only",
+    "Visitor numbers exceeding what a place can absorb without damage"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Defined in paragraph 2."
+  },
+  {
+   "id": "r044-q03",
+   "type": "reading",
+   "passageId": "r044",
+   "prompt": "Which problem in historic city centres is NOT mentioned?",
+   "options": [
+    "rising crime rates",
+    "congested streets",
+    "housing converted into short-term rentals",
+    "residents' shops replaced by souvenir stalls"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Crime is not mentioned."
+  },
+  {
+   "id": "r044-q04",
+   "type": "reading",
+   "passageId": "r044",
+   "prompt": "What do critics fear Venice might become?",
+   "options": [
+    "an important industrial port",
+    "a city closed to all tourists",
+    "a place visited by many but inhabited by few",
+    "a modern city without historic buildings"
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“a kind of theme park, admired by millions but inhabited by few”."
+  },
+  {
+   "id": "r044-q05",
+   "type": "reading",
+   "passageId": "r044",
+   "prompt": "According to paragraph 3, how can social media contribute to the problem?",
+   "options": [
+    "Tourists post negative reviews of places.",
+    "Social media replaces real travel.",
+    "Local authorities use it to attract visitors.",
+    "A widely shared photograph can suddenly make a place crowded."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r044-q06",
+   "type": "reading",
+   "passageId": "r044",
+   "prompt": "What criticism of entry fees is mentioned?",
+   "options": [
+    "They may make popular places accessible mainly to the wealthy.",
+    "They do not reduce visitor numbers at all.",
+    "They are too complicated to collect.",
+    "They encourage cruise ships."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Risk of “playgrounds for the wealthy”."
+  },
+  {
+   "id": "r044-q07",
+   "type": "reading",
+   "passageId": "r044",
+   "prompt": "What is meant by saying that tourism is “highly concentrated”?",
+   "options": [
+    "Tourists travel in large groups.",
+    "Tourism companies are owned by a few people.",
+    "Most visitors go to the same places at the same times.",
+    "Tourists spend very little money."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 5."
+  },
+  {
+   "id": "r044-q08",
+   "type": "reading",
+   "passageId": "r044",
+   "prompt": "Which strategy do many experts advocate?",
+   "options": [
+    "Closing famous attractions completely",
+    "Spreading visitors more evenly across places and seasons",
+    "Building more hotels in city centres",
+    "Banning photography at popular sites"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Promote lesser-known places and off-peak travel."
+  },
+  {
+   "id": "r044-q09",
+   "type": "reading",
+   "passageId": "r044",
+   "prompt": "The phrase “an encounter rather than a consumption” suggests that tourism should",
+   "options": [
+    "be cheaper and faster",
+    "involve genuine contact with places and people",
+    "focus on shopping",
+    "be avoided altogether"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Meaningful contact rather than using up a place."
+  }
+ ]
+}

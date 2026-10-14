@@ -1,0 +1,1433 @@
+{
+ "topic": "conditionals",
+ "batch": 1,
+ "title": "Conditionals — mixed levels",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "cond-001-01",
+   "type": "mcq",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "7.1",
+   "explanation": "Zero conditional: present simple in both clauses for something that always happens.",
+   "prompt": "If you ___ ice in the sun, it melts quickly.",
+   "options": [
+    "leave",
+    "will leave",
+    "left",
+    "would leave"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "cond-001-02",
+   "type": "mcq",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "7.1",
+   "explanation": "First conditional: will + infinitive in the main clause.",
+   "prompt": "We ___ late if we don't take a taxi.",
+   "options": [
+    "are",
+    "will be",
+    "would be",
+    "were"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "cond-001-03",
+   "type": "mcq",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "7.1",
+   "explanation": "No will in the if-clause: if it rains tomorrow.",
+   "prompt": "If it ___ tomorrow, the picnic will be cancelled.",
+   "options": [
+    "will rain",
+    "would rain",
+    "rains",
+    "rained"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "cond-001-04",
+   "type": "mcq",
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "7.1",
+   "explanation": "First conditional: present simple in the if-clause even for the future.",
+   "prompt": "What will you do if the shop ___ closed?",
+   "options": [
+    "will be",
+    "would be",
+    "was",
+    "is"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "cond-001-05",
+   "type": "gap",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "7.1",
+   "explanation": "Zero conditional for a fact: present simple.",
+   "prompt": "If you ___ oil and water, they separate.",
+   "cue": "mix",
+   "acceptedAnswers": [
+    "mix"
+   ]
+  },
+  {
+   "id": "cond-001-06",
+   "type": "gap",
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "7.1",
+   "explanation": "After as soon as, use the present; in the main clause, will.",
+   "prompt": "I ___ you as soon as I arrive.",
+   "cue": "call",
+   "acceptedAnswers": [
+    "will call"
+   ]
+  },
+  {
+   "id": "cond-001-07",
+   "type": "mcq",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "7.2",
+   "explanation": "If I were you is the fixed phrase for advice.",
+   "prompt": "If I ___ you, I would talk to the teacher.",
+   "options": [
+    "were",
+    "am",
+    "will be",
+    "have been"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "cond-001-08",
+   "type": "mcq",
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "7.1",
+   "explanation": "First conditional: if + present simple.",
+   "prompt": "If they ___ the bus, they will arrive at nine.",
+   "options": [
+    "would catch",
+    "catch",
+    "caught",
+    "will catch"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "cond-001-09",
+   "type": "gap",
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "7.4",
+   "explanation": "Unless + affirmative present simple.",
+   "prompt": "Unless you ___, you'll miss the beginning of the film.",
+   "cue": "hurry",
+   "acceptedAnswers": [
+    "hurry"
+   ]
+  },
+  {
+   "id": "cond-001-10",
+   "type": "mcq",
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "7.2",
+   "explanation": "Second conditional: if + past simple, would + infinitive.",
+   "prompt": "If she ___ more money, she would buy a new phone.",
+   "options": [
+    "has",
+    "will have",
+    "had",
+    "would have"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "cond-001-11",
+   "type": "mcq",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.2",
+   "explanation": "Third conditional: would have + past participle.",
+   "prompt": "If I had seen the sign, I ___ stopped.",
+   "options": [
+    "will have",
+    "would",
+    "had",
+    "would have"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "cond-001-12",
+   "type": "mcq",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.2",
+   "explanation": "Second conditional for an unreal present (it is raining): were.",
+   "prompt": "If the weather ___ better, we would eat outside, but it's raining.",
+   "options": [
+    "were",
+    "is",
+    "will be",
+    "would be"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "cond-001-13",
+   "type": "gap",
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.2",
+   "explanation": "Third conditional, negative: had not + past participle.",
+   "prompt": "If he ___ his keys, he wouldn't have been late.",
+   "cue": "not / lose",
+   "acceptedAnswers": [
+    "had not lost"
+   ]
+  },
+  {
+   "id": "cond-001-14",
+   "type": "mcq",
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.4",
+   "explanation": "As long as = only if. Unless would need an affirmative verb.",
+   "prompt": "You can use my laptop ___ you don't install anything.",
+   "options": [
+    "unless",
+    "as long as",
+    "in case",
+    "otherwise"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "cond-001-15",
+   "type": "mcq",
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.4",
+   "explanation": "In case = as a precaution.",
+   "prompt": "Write down her number ___ you forget it.",
+   "options": [
+    "unless",
+    "provided",
+    "in case",
+    "if"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "cond-001-16",
+   "type": "kwt",
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.4",
+   "explanation": "Unless = if … not.",
+   "first": "If you don't book now, there won't be any seats left.",
+   "keyword": "UNLESS",
+   "before": "There won't be any seats left",
+   "after": "now.",
+   "acceptedAnswers": [
+    "unless you book"
+   ]
+  },
+  {
+   "id": "cond-001-17",
+   "type": "error-correction",
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM"
+   ],
+   "source": "authored",
+   "ref": "7.1",
+   "explanation": "No will in the if-clause: If she finishes early…",
+   "parts": [
+    "If she ",
+    {
+     "u": "will finish"
+    },
+    " early, she ",
+    {
+     "u": "will join"
+    },
+    " us for dinner."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "finishes"
+   ]
+  },
+  {
+   "id": "cond-001-18",
+   "type": "mcq",
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.2",
+   "explanation": "Third conditional: if + past perfect.",
+   "prompt": "I'd have bought the house if the bank ___ me the loan.",
+   "options": [
+    "would give",
+    "gave",
+    "has given",
+    "had given"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "cond-001-19",
+   "type": "gap",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.2",
+   "explanation": "Second conditional: if + past simple.",
+   "prompt": "If we ___ now, we would get there before dark.",
+   "cue": "leave",
+   "acceptedAnswers": [
+    "left"
+   ]
+  },
+  {
+   "id": "cond-001-20",
+   "type": "mcq",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.2",
+   "explanation": "Third conditional: if + had known.",
+   "prompt": "If I ___ about the problem, I would have helped you.",
+   "options": [
+    "had known",
+    "knew",
+    "would know",
+    "have known"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "cond-001-21",
+   "type": "error-correction",
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM"
+   ],
+   "source": "authored",
+   "ref": "7.2",
+   "explanation": "Would is not used in the if-clause: If I were (was) rich…",
+   "parts": [
+    "If I ",
+    {
+     "u": "would be"
+    },
+    " rich, I ",
+    {
+     "u": "would travel"
+    },
+    " around the world."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "were",
+    "was"
+   ]
+  },
+  {
+   "id": "cond-001-22",
+   "type": "kwt",
+   "level": "B2",
+   "difficulty": 4,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.2",
+   "explanation": "Third conditional (negative): if I hadn't been ill.",
+   "first": "I didn't go to the party because I was ill.",
+   "keyword": "IF",
+   "before": "I would have gone to the party",
+   "after": "ill.",
+   "acceptedAnswers": [
+    "if I had not been"
+   ]
+  },
+  {
+   "id": "cond-001-23",
+   "type": "mcq",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.4",
+   "explanation": "Otherwise = if not.",
+   "prompt": "Hurry up, ___ we'll miss the train.",
+   "options": [
+    "unless",
+    "otherwise",
+    "in case",
+    "provided"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "cond-001-24",
+   "type": "gap",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.2",
+   "explanation": "Second conditional: if + past simple.",
+   "prompt": "If people ___ more slowly, there would be fewer accidents.",
+   "cue": "drive",
+   "acceptedAnswers": [
+    "drove"
+   ]
+  },
+  {
+   "id": "cond-001-25",
+   "type": "mcq",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.1",
+   "explanation": "Zero conditional: a scientific fact.",
+   "prompt": "If you heat metal, it ___.",
+   "options": [
+    "would expand",
+    "expanded",
+    "expands",
+    "had expanded"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "cond-001-26",
+   "type": "mcq",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.2",
+   "explanation": "Third conditional: if + past perfect.",
+   "prompt": "She would have passed the test if she ___ more.",
+   "options": [
+    "studies",
+    "would study",
+    "studied",
+    "had studied"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "cond-001-27",
+   "type": "kwt",
+   "level": "B2",
+   "difficulty": 4,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.4",
+   "explanation": "Without your help = if you hadn't helped me (a negative contraction of the key word is allowed).",
+   "first": "Without your help, I wouldn't have finished the project.",
+   "keyword": "HADN'T",
+   "before": "If you",
+   "after": ", I wouldn't have finished the project.",
+   "acceptedAnswers": [
+    "hadn't helped me"
+   ]
+  },
+  {
+   "id": "cond-001-28",
+   "type": "error-correction",
+   "level": "B2",
+   "difficulty": 4,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM"
+   ],
+   "source": "authored",
+   "ref": "7.3",
+   "explanation": "“An hour ago” refers to the past: would have arrived.",
+   "parts": [
+    "If the train ",
+    {
+     "u": "had left"
+    },
+    " on time, we ",
+    {
+     "u": "would arrive"
+    },
+    " an hour ago."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "would have arrived"
+   ]
+  },
+  {
+   "id": "cond-001-29",
+   "type": "gap",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "EsPCEx",
+    "AFA",
+    "EFOMM",
+    "EN",
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.2",
+   "explanation": "Second conditional for advice: would not + infinitive.",
+   "prompt": "I ___ that job if I were you.",
+   "cue": "not / accept",
+   "acceptedAnswers": [
+    "would not accept"
+   ]
+  },
+  {
+   "id": "cond-001-30",
+   "type": "mcq",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "7.5",
+   "explanation": "Were + subject + to-infinitive (formal second conditional).",
+   "prompt": "___ the government to invest more in research, the economy would grow faster.",
+   "options": [
+    "Were",
+    "Had",
+    "Should",
+    "If"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "cond-001-31",
+   "type": "mcq",
+   "level": "C1",
+   "difficulty": 3,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "TOEFL"
+   ],
+   "source": "authored",
+   "ref": "7.5",
+   "explanation": "Should + subject + infinitive (formal first conditional).",
+   "prompt": "___ you require further assistance, please contact our help desk.",
+   "options": [
+    "Had",
+    "Should",
+    "Were",
+    "Would"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "cond-001-32",
+   "type": "kwt",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "7.5",
+   "explanation": "Inverted third conditional: Had I known…",
+   "first": "If I had known you were coming, I would have cooked something.",
+   "keyword": "HAD",
+   "before": "",
+   "after": "you were coming, I would have cooked something.",
+   "acceptedAnswers": [
+    "Had I known"
+   ]
+  },
+  {
+   "id": "cond-001-33",
+   "type": "kwt",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "7.5",
+   "explanation": "Inverted first conditional: Should you need…",
+   "first": "If you need anything, just ask.",
+   "keyword": "SHOULD",
+   "before": "",
+   "after": "anything, just ask.",
+   "acceptedAnswers": [
+    "Should you need"
+   ]
+  },
+  {
+   "id": "cond-001-34",
+   "type": "mcq",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.3",
+   "explanation": "The meeting is in the past: third conditional result.",
+   "prompt": "If I hadn't accepted that job in Recife, I ___ my wife.",
+   "options": [
+    "wouldn't meet",
+    "won't meet",
+    "wouldn't have met",
+    "didn't meet"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "cond-001-35",
+   "type": "mcq",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.3",
+   "explanation": "Mixed: permanent condition (were) with a past result (last week).",
+   "prompt": "If she were more organised, she ___ the deadline last week.",
+   "options": [
+    "wouldn't miss",
+    "won't miss",
+    "hadn't missed",
+    "wouldn't have missed"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "cond-001-36",
+   "type": "gap",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "7.4",
+   "explanation": "If it hadn't been for + noun = without.",
+   "prompt": "If ___ for the storm, the ship would have arrived on time.",
+   "cue": "it / not / be",
+   "acceptedAnswers": [
+    "it had not been"
+   ]
+  },
+  {
+   "id": "cond-001-37",
+   "type": "error-correction",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "7.5",
+   "explanation": "Negative inversion: Had they not invested…",
+   "parts": [
+    {
+     "u": "Hadn't they"
+    },
+    " invested in new technology, the company ",
+    {
+     "u": "would have"
+    },
+    " gone bankrupt."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "Had they not"
+   ]
+  },
+  {
+   "id": "cond-001-38",
+   "type": "mcq",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "7.4",
+   "explanation": "But for + noun = if it hadn't been for.",
+   "prompt": "___ his quick reaction, the accident would have been much worse.",
+   "options": [
+    "But for",
+    "Unless",
+    "Otherwise",
+    "Provided"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "cond-001-39",
+   "type": "kwt",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "7.4",
+   "explanation": "On condition that = only if.",
+   "first": "She will help you, but only if you ask her politely.",
+   "keyword": "CONDITION",
+   "before": "She will help you",
+   "after": "ask her politely.",
+   "acceptedAnswers": [
+    "on condition that you"
+   ]
+  },
+  {
+   "id": "cond-001-40",
+   "type": "mcq",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.3",
+   "explanation": "Mixed: past condition, present result (now).",
+   "prompt": "If I had studied harder at school, I ___ a better job now.",
+   "options": [
+    "would have had",
+    "would have",
+    "will have",
+    "had had"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "cond-001-41",
+   "type": "gap",
+   "level": "C1",
+   "difficulty": 3,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "7.4",
+   "explanation": "Supposing works like if: past simple for a hypothesis.",
+   "prompt": "Supposing you ___ offered a job abroad, would you take it?",
+   "cue": "be",
+   "acceptedAnswers": [
+    "were",
+    "was"
+   ]
+  },
+  {
+   "id": "cond-001-42",
+   "type": "mcq",
+   "level": "C1",
+   "difficulty": 3,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.4",
+   "explanation": "Provided = only if.",
+   "prompt": "I'll lend you the car ___ you promise to drive carefully.",
+   "options": [
+    "unless",
+    "otherwise",
+    "provided",
+    "in case"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "cond-001-43",
+   "type": "error-correction",
+   "level": "C1",
+   "difficulty": 3,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "7.5",
+   "explanation": "Hesitate to + infinitive: don't hesitate to contact us.",
+   "parts": [
+    {
+     "u": "Should"
+    },
+    " you have any questions, ",
+    {
+     "u": "don't hesitate"
+    },
+    " to ",
+    {
+     "u": "contacting"
+    },
+    " us."
+   ],
+   "errorIndex": 2,
+   "acceptedAnswers": [
+    "contact"
+   ]
+  },
+  {
+   "id": "cond-001-44",
+   "type": "mcq",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "7.3",
+   "explanation": "Mixed: past condition (last month) with a present result (now).",
+   "prompt": "If it hadn't rained so much last month, the reservoirs ___ almost empty now.",
+   "options": [
+    "are",
+    "will be",
+    "would have been",
+    "would be"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "cond-001-45",
+   "type": "kwt",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "7.5",
+   "explanation": "Had it not been for = but for.",
+   "first": "But for the lifeguard, the boy would have drowned.",
+   "keyword": "BEEN",
+   "before": "Had it",
+   "after": "the lifeguard, the boy would have drowned.",
+   "acceptedAnswers": [
+    "not been for"
+   ]
+  },
+  {
+   "id": "cond-001-46",
+   "type": "mcq",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "7.5",
+   "explanation": "Inversion with there: Had there been…",
+   "prompt": "___ the slightest doubt about his honesty, they would never have hired him.",
+   "options": [
+    "Had there been",
+    "Had been there",
+    "There had been",
+    "If there had"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "cond-001-47",
+   "type": "mcq",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "7.5",
+   "explanation": "Were + subject + passive infinitive (to be rejected).",
+   "prompt": "Were the proposal ___, thousands of jobs would be lost.",
+   "options": [
+    "to reject",
+    "to be rejected",
+    "to rejecting",
+    "be rejected"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "cond-001-48",
+   "type": "gap",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "7.3",
+   "explanation": "Mixed: past condition (had listened) with a present result (would still be alive).",
+   "prompt": "If only she ___ to her doctor, she would still be alive today.",
+   "cue": "listen",
+   "acceptedAnswers": [
+    "had listened"
+   ]
+  },
+  {
+   "id": "cond-001-49",
+   "type": "error-correction",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "7.5",
+   "explanation": "Were I to… is a second conditional: would tell.",
+   "parts": [
+    "Were I ",
+    {
+     "u": "to know"
+    },
+    " the answer, I ",
+    {
+     "u": "will tell"
+    },
+    " you ",
+    {
+     "u": "at once"
+    },
+    "."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "would tell"
+   ]
+  },
+  {
+   "id": "cond-001-50",
+   "type": "mcq",
+   "level": "C2",
+   "difficulty": 4,
+   "topics": [
+    "conditionals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "7.4",
+   "explanation": "On condition that = only if (formal).",
+   "prompt": "She agreed to sign the contract ___ her name was kept confidential.",
+   "options": [
+    "in case that",
+    "unless that",
+    "otherwise",
+    "on condition that"
+   ],
+   "answer": 3
+  }
+ ]
+}

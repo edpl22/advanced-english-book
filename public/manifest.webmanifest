@@ -1,0 +1,11 @@
+{
+  "name": "Advanced English",
+  "short_name": "Adv. English",
+  "description": "Grammar, vocabulary and exam practice for Brazilian learners (B2–C2).",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f2e7",
+  "theme_color": "#f7f2e7",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

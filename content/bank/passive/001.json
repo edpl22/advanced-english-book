@@ -1,0 +1,1886 @@
+{
+ "topic": "passive",
+ "batch": 1,
+ "title": "The passive and causative",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "pas-001-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "mcq",
+   "explanation": "Present simple passive.",
+   "prompt": "English ___ in many countries.",
+   "options": [
+    "is spoken",
+    "speaks",
+    "is speaking",
+    "spoken"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pas-001-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "mcq",
+   "explanation": "Past simple passive + by.",
+   "prompt": "The Mona Lisa ___ by Leonardo da Vinci.",
+   "options": [
+    "painted",
+    "was painted",
+    "is painting",
+    "was painting"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pas-001-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "mcq",
+   "explanation": "Future passive.",
+   "prompt": "The new hospital ___ next year.",
+   "options": [
+    "will build",
+    "is built",
+    "will be built",
+    "builds"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pas-001-04",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "mcq",
+   "explanation": "Present continuous passive.",
+   "prompt": "The road ___ at the moment, so take another route.",
+   "options": [
+    "is repaired",
+    "is repairing",
+    "has repaired",
+    "is being repaired"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pas-001-05",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "mcq",
+   "explanation": "Past perfect passive.",
+   "prompt": "All the tickets ___ by the time we arrived.",
+   "options": [
+    "had been sold",
+    "have been sold",
+    "were selling",
+    "had sold"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pas-001-06",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "9.2",
+   "type": "mcq",
+   "explanation": "Verb with two objects: the person becomes the subject.",
+   "prompt": "I ___ a watch for my birthday.",
+   "options": [
+    "was giving",
+    "was given",
+    "gave",
+    "have given"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pas-001-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "9.3",
+   "type": "mcq",
+   "explanation": "Causative: have + object + past participle.",
+   "prompt": "I’m going to ___ next week — it’s far too long.",
+   "options": [
+    "have cut my hair",
+    "cut my hair by someone",
+    "have my hair cut",
+    "have my hair cutting"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pas-001-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "9.3",
+   "type": "mcq",
+   "explanation": "have something done.",
+   "prompt": "We ___ our car serviced every year.",
+   "options": [
+    "make",
+    "do",
+    "let",
+    "have"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pas-001-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "mcq",
+   "explanation": "Present perfect passive.",
+   "prompt": "The results ___ yet.",
+   "options": [
+    "haven’t been published",
+    "haven’t published",
+    "didn’t publish",
+    "aren’t publishing"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pas-001-10",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.4",
+   "type": "mcq",
+   "explanation": "Personal passive with a reporting verb.",
+   "prompt": "The suspect ___ to have left the country.",
+   "options": [
+    "believes",
+    "is believed",
+    "is believing",
+    "has believed"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pas-001-11",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.4",
+   "type": "mcq",
+   "explanation": "It is expected that…",
+   "prompt": "It ___ that the new airport will create 3,000 jobs.",
+   "options": [
+    "expects",
+    "is expecting",
+    "is expected",
+    "has expected"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pas-001-12",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "mcq",
+   "explanation": "Past continuous passive.",
+   "prompt": "The bridge ___ when the earthquake struck.",
+   "options": [
+    "was building",
+    "had built",
+    "is built",
+    "was being built"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pas-001-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.3",
+   "type": "mcq",
+   "explanation": "have something done = an unpleasant experience.",
+   "prompt": "She ___ her bag stolen on the train.",
+   "options": [
+    "had",
+    "made",
+    "was",
+    "did"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pas-001-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "mcq",
+   "explanation": "need + passive infinitive (or need + -ing).",
+   "prompt": "This problem needs ___ immediately.",
+   "options": [
+    "solving to",
+    "to be solved",
+    "to solve",
+    "be solved"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pas-001-15",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "9.4",
+   "type": "mcq",
+   "explanation": "Earlier action: perfect infinitive.",
+   "prompt": "The minister is said ___ the decision before the meeting.",
+   "options": [
+    "to make",
+    "having made",
+    "to have made",
+    "to be made"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pas-001-16",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "9.4",
+   "type": "mcq",
+   "explanation": "Perfect passive infinitive.",
+   "prompt": "The documents are thought ___ in the fire.",
+   "options": [
+    "to be destroying",
+    "to have destroyed",
+    "having been destroyed",
+    "to have been destroyed"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pas-001-17",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "mcq",
+   "explanation": "Passive -ing form after a preposition.",
+   "prompt": "There are rumours of the director ___ before the end of the year.",
+   "options": [
+    "being replaced",
+    "replacing",
+    "to be replaced",
+    "replaced"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pas-001-18",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "mcq",
+   "explanation": "since → present perfect passive.",
+   "prompt": "Not a word ___ about the incident since.",
+   "options": [
+    "has said",
+    "has been said",
+    "was said",
+    "is saying"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pas-001-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "gap",
+   "explanation": "Present simple passive.",
+   "prompt": "Coffee ___ in Minas Gerais.",
+   "acceptedAnswers": [
+    "is grown"
+   ],
+   "cue": "grow"
+  },
+  {
+   "id": "pas-001-20",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "gap",
+   "explanation": "Present perfect passive, negative.",
+   "prompt": "The missing documents ___ yet.",
+   "acceptedAnswers": [
+    "haven’t been found",
+    "have not been found"
+   ],
+   "cue": "not / find"
+  },
+  {
+   "id": "pas-001-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "gap",
+   "explanation": "Past simple passive.",
+   "prompt": "This bridge ___ in 1890.",
+   "acceptedAnswers": [
+    "was built"
+   ],
+   "cue": "build"
+  },
+  {
+   "id": "pas-001-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "9.3",
+   "type": "gap",
+   "explanation": "Causative.",
+   "prompt": "My phone is broken, so I need to ___.",
+   "acceptedAnswers": [
+    "have my phone repaired",
+    "get my phone repaired",
+    "have it repaired",
+    "get it repaired"
+   ],
+   "cue": "my phone / repair"
+  },
+  {
+   "id": "pas-001-23",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "gap",
+   "explanation": "Future perfect passive.",
+   "prompt": "The new law ___ by the time the elections take place.",
+   "acceptedAnswers": [
+    "will have been passed"
+   ],
+   "cue": "pass"
+  },
+  {
+   "id": "pas-001-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.4",
+   "type": "gap",
+   "explanation": "Personal passive + to-infinitive.",
+   "prompt": "The painting ___ worth millions.",
+   "acceptedAnswers": [
+    "is thought to be"
+   ],
+   "cue": "think / be"
+  },
+  {
+   "id": "pas-001-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.2",
+   "type": "gap",
+   "explanation": "Two objects: the person becomes the subject.",
+   "prompt": "The students ___ extra time to finish the exam yesterday.",
+   "acceptedAnswers": [
+    "were given"
+   ],
+   "cue": "give"
+  },
+  {
+   "id": "pas-001-26",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "9.4",
+   "type": "gap",
+   "explanation": "Perfect infinitive after a passive reporting verb.",
+   "prompt": "The missing climbers ___ in the snowstorm.",
+   "acceptedAnswers": [
+    "are feared to have died",
+    "were feared to have died"
+   ],
+   "cue": "fear / die"
+  },
+  {
+   "id": "pas-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "gap",
+   "explanation": "Passive -ing after a preposition.",
+   "prompt": "I object to ___ like a child.",
+   "acceptedAnswers": [
+    "being treated"
+   ],
+   "cue": "treat"
+  },
+  {
+   "id": "pas-001-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "9.3",
+   "type": "gap",
+   "explanation": "Causative with a future meaning.",
+   "prompt": "She ___ by a specialist next week.",
+   "acceptedAnswers": [
+    "is having her eyes tested",
+    "is going to have her eyes tested",
+    "will have her eyes tested",
+    "is getting her eyes tested"
+   ],
+   "cue": "her eyes / test"
+  },
+  {
+   "id": "pas-001-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "passive"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "kwt",
+   "explanation": "Past simple passive.",
+   "first": "Someone stole my bike yesterday.",
+   "keyword": "WAS",
+   "before": "My bike",
+   "after": "yesterday.",
+   "acceptedAnswers": [
+    "was stolen"
+   ]
+  },
+  {
+   "id": "pas-001-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "passive"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.3",
+   "type": "kwt",
+   "explanation": "Causative in the present continuous.",
+   "first": "A mechanic is repairing my car.",
+   "keyword": "HAVING",
+   "before": "I",
+   "after": "by a mechanic.",
+   "acceptedAnswers": [
+    "am having my car repaired"
+   ]
+  },
+  {
+   "id": "pas-001-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "passive"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.4",
+   "type": "kwt",
+   "explanation": "Personal passive.",
+   "first": "People say that he is a genius.",
+   "keyword": "SAID",
+   "before": "He",
+   "after": "a genius.",
+   "acceptedAnswers": [
+    "is said to be"
+   ]
+  },
+  {
+   "id": "pas-001-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "passive"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "9.4",
+   "type": "kwt",
+   "explanation": "Earlier action: perfect infinitive.",
+   "first": "People believe that the thieves escaped through the roof.",
+   "keyword": "BELIEVED",
+   "before": "The thieves",
+   "after": "through the roof.",
+   "acceptedAnswers": [
+    "are believed to have escaped"
+   ]
+  },
+  {
+   "id": "pas-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "passive"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "kwt",
+   "explanation": "Future perfect passive.",
+   "first": "They will have finished the stadium by May.",
+   "keyword": "COMPLETED",
+   "before": "The stadium",
+   "after": "by May.",
+   "acceptedAnswers": [
+    "will have been completed"
+   ]
+  },
+  {
+   "id": "pas-001-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "error-correction",
+   "explanation": "be + past participle.",
+   "parts": [
+    "The letter ",
+    {
+     "u": "was write"
+    },
+    " by my ",
+    {
+     "u": "grandfather"
+    },
+    " in 1950."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "was written"
+   ]
+  },
+  {
+   "id": "pas-001-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "error-correction",
+   "explanation": "is being + past participle.",
+   "parts": [
+    "The house ",
+    {
+     "u": "is"
+    },
+    " being ",
+    {
+     "u": "paint"
+    },
+    " this week."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "painted"
+   ]
+  },
+  {
+   "id": "pas-001-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "error-correction",
+   "explanation": "The passport did not steal: passive.",
+   "parts": [
+    "My passport ",
+    {
+     "u": "has stolen"
+    },
+    " — I need to go to the ",
+    {
+     "u": "embassy"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "has been stolen",
+    "was stolen"
+   ]
+  },
+  {
+   "id": "pas-001-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.4",
+   "type": "error-correction",
+   "explanation": "Perfect infinitive for an earlier action.",
+   "parts": [
+    "He is ",
+    {
+     "u": "said"
+    },
+    " ",
+    {
+     "u": "to be"
+    },
+    " left the country last week."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "to have"
+   ]
+  },
+  {
+   "id": "pas-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "error-correction",
+   "explanation": "Past perfect passive: had been + past participle.",
+   "parts": [
+    "The match ",
+    {
+     "u": "was"
+    },
+    " cancelled after the stadium had been ",
+    {
+     "u": "damaging"
+    },
+    " by the storm."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "damaged"
+   ]
+  },
+  {
+   "id": "pas-001-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "word-order",
+   "explanation": "Past simple passive.",
+   "fragments": [
+    "The",
+    "museum",
+    "was",
+    "opened",
+    "in",
+    "1922."
+   ],
+   "acceptedAnswers": [
+    "The museum was opened in 1922."
+   ]
+  },
+  {
+   "id": "pas-001-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "9.3",
+   "type": "word-order",
+   "explanation": "have + object + past participle.",
+   "fragments": [
+    "I",
+    "had",
+    "my",
+    "car",
+    "washed",
+    "yesterday."
+   ],
+   "acceptedAnswers": [
+    "I had my car washed yesterday.",
+    "Yesterday I had my car washed."
+   ]
+  },
+  {
+   "id": "pas-001-41",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "9.4",
+   "type": "word-order",
+   "explanation": "Personal passive + perfect infinitive.",
+   "fragments": [
+    "He",
+    "is",
+    "thought",
+    "to",
+    "have",
+    "left",
+    "the country."
+   ],
+   "acceptedAnswers": [
+    "He is thought to have left the country."
+   ]
+  },
+  {
+   "id": "pas-001-42",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "matching",
+   "explanation": "The passive in different tenses.",
+   "prompt": "Match each active sentence with its passive form.",
+   "left": [
+    "They make cars here.",
+    "They made cars here.",
+    "They are making cars here.",
+    "They have made cars here.",
+    "They will make cars here."
+   ],
+   "right": [
+    "Cars were made here.",
+    "Cars will be made here.",
+    "Cars are made here.",
+    "Cars have been made here.",
+    "Cars are being made here.",
+    "Cars had been made here."
+   ],
+   "answer": [
+    2,
+    0,
+    4,
+    3,
+    1
+   ]
+  },
+  {
+   "id": "pas-001-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "9.3",
+   "type": "matching",
+   "explanation": "Causative have / get.",
+   "prompt": "Match each sentence with its meaning.",
+   "left": [
+    "I cut my hair.",
+    "I had my hair cut.",
+    "I had my bag stolen.",
+    "I got the car fixed.",
+    "I got my brother to fix the car."
+   ],
+   "right": [
+    "Someone stole my bag (an unpleasant experience).",
+    "I did it myself.",
+    "I arranged for a hairdresser to do it.",
+    "I persuaded him to do it.",
+    "I arranged for someone to repair it.",
+    "I fixed it myself."
+   ],
+   "answer": [
+    1,
+    2,
+    0,
+    4,
+    3
+   ]
+  },
+  {
+   "id": "pas-001-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "matching",
+   "explanation": "Passive forms.",
+   "prompt": "Name each passive form.",
+   "left": [
+    "is being built",
+    "had been built",
+    "will have been built",
+    "has been built",
+    "was being built"
+   ],
+   "right": [
+    "present perfect passive",
+    "past continuous passive",
+    "present continuous passive",
+    "future perfect passive",
+    "present simple passive",
+    "past perfect passive"
+   ],
+   "answer": [
+    2,
+    5,
+    3,
+    0,
+    1
+   ]
+  },
+  {
+   "id": "pas-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "passive"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "9.4",
+   "type": "matching",
+   "explanation": "Simple, continuous and perfect infinitives.",
+   "prompt": "Match each active sentence with its passive report.",
+   "left": [
+    "People think he escaped.",
+    "People think he is escaping.",
+    "People thought he had escaped.",
+    "People expect him to escape.",
+    "People say he is hiding."
+   ],
+   "right": [
+    "He is said to be hiding.",
+    "He was thought to have escaped.",
+    "He is expected to escape.",
+    "He is thought to have escaped.",
+    "He was said to hide.",
+    "He is thought to be escaping."
+   ],
+   "answer": [
+    3,
+    5,
+    1,
+    2,
+    0
+   ]
+  },
+  {
+   "id": "pas-001-46",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "passive"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "open-cloze",
+   "explanation": "Describing a process with the passive.",
+   "title": "How chocolate is made",
+   "text": "Chocolate [1] made from the beans of the cacao tree, which [2] grown in tropical countries such as Brazil, Ghana and Ivory Coast. First, the pods are cut from the trees and the beans [3] removed. Then the beans are left to ferment for several days, after [4] they are dried in the sun. Next, they are sent to factories, where they [5] roasted and ground into a paste. Sugar and milk [6] added, and the mixture is heated and stirred for hours. Finally, the chocolate is poured [7] moulds and left to cool. Most chocolate [8] eaten in Europe and North America, although cacao has been grown in Latin America [9] thousands of years. It is believed [10] have been drunk as a bitter drink by the Maya.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "is"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "is",
+      "are"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "are"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "which"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "are"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "are"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "into"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "is"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "for"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pas-001-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "passive"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "9.4",
+   "type": "open-cloze",
+   "explanation": "Passive forms in a crime report.",
+   "title": "A famous robbery",
+   "text": "The robbery [1] carried out on a weekend in 2005, when the bank was closed. The thieves are thought to [2] entered through a tunnel that [3] been dug from a house nearby. More than 160 million reais [4] taken from the vault. The tunnel, which had [5] built over several months, was almost 80 metres long. The house had been rented by the gang, whose members [6] said to have pretended to run a gardening business. The theft was not discovered until the vault [7] opened on Monday morning. Several members of the gang [8] later arrested, but much of the money has never [9] found. Parts of the case are still [10] investigated today.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "was"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "have"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "was",
+      "were"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "been"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "are",
+      "were"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "was"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "were"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "been"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "being"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pas-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "passive"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "9.4",
+   "type": "open-cloze",
+   "explanation": "Passive infinitives and reporting verbs.",
+   "title": "The end of smallpox",
+   "text": "Smallpox is estimated to [1] killed hundreds of millions of people in the twentieth century alone. The first vaccine [2] developed by Edward Jenner in 1796, who noticed that milkmaids who [3] been infected with cowpox seemed to be protected. Jenner is said [4] have tested his idea on a young boy — an experiment that would never be [5] today. Despite his success, vaccination was [6] by many critics. In 1967, a global campaign [7] launched, and in 1980 the disease was declared [8] have been eradicated. It remains the only human disease ever to have been [9] out completely, and its story [10] still told to medical students as an example of what science can achieve.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "have"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "was"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "allowed",
+      "permitted",
+      "approved",
+      "accepted",
+      "tolerated"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "opposed",
+      "attacked",
+      "criticised",
+      "criticized",
+      "resisted",
+      "rejected",
+      "mocked",
+      "ridiculed",
+      "questioned",
+      "doubted"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "was"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "wiped",
+      "stamped"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "is"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pas-001-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "passive"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "9.1",
+   "type": "mc-cloze",
+   "explanation": "The passive in different tenses.",
+   "title": "Our town, then and now",
+   "text": "Our town has changed a lot. The old station [1] in 1990, and a shopping centre [2] in its place. A new road [3] at the moment, which [4] by next year. Many old houses [5] since 2000. For centuries, goods [6] by boat along the river, but now most of them [7] by lorry. Next year, a new museum [8] by the mayor.",
+   "gaps": [
+    {
+     "options": [
+      "was closing",
+      "has closed",
+      "was closed",
+      "is closed"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "built",
+      "has built",
+      "is building",
+      "was built"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "is being built",
+      "is building",
+      "builds",
+      "has built"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "will finish",
+      "will be finished",
+      "is finishing",
+      "has finished"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "have knocked down",
+      "were knocking down",
+      "have been knocked down",
+      "knocked down"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "carried",
+      "have carried",
+      "were carrying",
+      "were carried"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "are transported",
+      "transport",
+      "are transporting",
+      "have transported"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "will open",
+      "will be opened",
+      "opens",
+      "is opening"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "pas-001-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "passive"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "9.4",
+   "type": "mc-cloze",
+   "explanation": "Impersonal and personal passives in journalism.",
+   "title": "Reporting a crisis",
+   "text": "The company [1] to be facing serious financial difficulties. Two of its directors [2] to have resigned last week, although this has not yet [3]. It [4] that as many as 500 jobs could be lost. The government [5] to be considering a rescue package. Workers, who [6] anything about the situation, are angry. One employee, who asked not to [7], said: “We deserve [8] the truth.”",
+   "gaps": [
+    {
+     "options": [
+      "reports",
+      "is reporting",
+      "is reported",
+      "has reported"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "say",
+      "are saying",
+      "have said",
+      "are said"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "been confirmed",
+      "confirmed",
+      "being confirmed",
+      "to confirm"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "fears",
+      "is feared",
+      "is fearing",
+      "has feared"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "understands",
+      "is understanding",
+      "is understood",
+      "has understood"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "have not told",
+      "were not telling",
+      "did not tell",
+      "have not been told"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "be named",
+      "name",
+      "be naming",
+      "have named"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "to tell",
+      "to be told",
+      "telling",
+      "being told"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

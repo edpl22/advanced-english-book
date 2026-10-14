@@ -1,0 +1,280 @@
+{
+ "id": "r029",
+ "title": "Teaching the Body to Defend Itself",
+ "level": "B2",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "FUVEST",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "The human immune system is remarkably good at learning. When a virus or bacterium enters the body for the first time, the immune system needs time to recognise it and organise a response, and during this period the person may become seriously ill. But once the infection has been defeated, the body keeps a record of the invader in the form of memory cells. If the same organism appears again, these cells recognise it immediately and launch a faster, stronger response, often before any symptoms develop. This is why people rarely catch diseases such as measles twice.\n\nVaccines take advantage of this ability. Their basic principle is to show the immune system what a dangerous organism looks like without exposing the person to the disease itself. The body then produces memory cells, just as it would after a real infection, and is ready to respond if it ever meets the real thing.\n\nThere are several ways of achieving this. Some of the earliest vaccines used live organisms that had been weakened so that they could no longer cause serious illness. Others use organisms that have been killed, or only parts of them, such as a protein from their surface. More recent technologies give the body instructions to produce one of these proteins itself for a short time, so that the immune system can learn to recognise it. Whatever the method, the aim is the same: to train the immune system safely.\n\nSome vaccines provide protection for life, while others must be repeated. Protection may fade over the years, or the organism may change, as influenza viruses do constantly. For this reason, the composition of flu vaccines is updated regularly according to which strains are expected to circulate.\n\nVaccines also protect people who have not been vaccinated. When a large proportion of a population is immune, a disease has difficulty spreading from person to person, because most of the people it reaches cannot be infected. This effect, often called herd immunity, is particularly important for those who cannot receive certain vaccines, such as newborn babies or people with weakened immune systems. The proportion of the population that needs to be immune varies from disease to disease; for highly contagious diseases such as measles, it is very high.\n\nLike all medicines, vaccines can have side effects, most commonly a sore arm or a mild fever for a day or two. Serious reactions are rare, and vaccines are monitored after they are introduced to detect any problems. Most public health experts consider vaccination one of the most effective health measures ever developed.",
+ "glossary": [
+  [
+   "strain",
+   "a particular type of a virus or bacterium"
+  ],
+  [
+   "immune",
+   "protected against a disease"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r029-q01",
+   "type": "reading",
+   "passageId": "r029",
+   "prompt": "Why do people rarely catch diseases such as measles twice?",
+   "options": [
+    "Memory cells recognise the organism and respond quickly.",
+    "The measles virus disappears after one infection.",
+    "Measles is not contagious for adults.",
+    "People take medicine after the first infection."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Memory cells launch a faster, stronger response."
+  },
+  {
+   "id": "r029-q02",
+   "type": "reading",
+   "passageId": "r029",
+   "prompt": "What is the basic principle of vaccines?",
+   "options": [
+    "Killing all bacteria in the body",
+    "Giving people a mild form of every disease",
+    "Showing the immune system an organism without causing the disease",
+    "Replacing the immune system"
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 2."
+  },
+  {
+   "id": "r029-q03",
+   "type": "reading",
+   "passageId": "r029",
+   "prompt": "Which method of making vaccines is NOT mentioned in paragraph 3?",
+   "options": [
+    "using weakened live organisms",
+    "using killed organisms",
+    "using antibiotics",
+    "giving the body instructions to make a protein"
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Antibiotics are not mentioned."
+  },
+  {
+   "id": "r029-q04",
+   "type": "reading",
+   "passageId": "r029",
+   "prompt": "The phrase “the real thing” in paragraph 2 refers to",
+   "options": [
+    "a real vaccine",
+    "a real doctor",
+    "a natural immune system",
+    "the actual dangerous organism"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "If the body meets the real organism."
+  },
+  {
+   "id": "r029-q05",
+   "type": "reading",
+   "passageId": "r029",
+   "prompt": "Why is the flu vaccine updated regularly?",
+   "options": [
+    "It loses its effect after one month.",
+    "It causes too many side effects.",
+    "Children need a different vaccine every year.",
+    "Influenza viruses change constantly."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The organism may change, as influenza viruses do."
+  },
+  {
+   "id": "r029-q06",
+   "type": "reading",
+   "passageId": "r029",
+   "prompt": "What is herd immunity?",
+   "options": [
+    "Immunity that only animals have",
+    "Protection that occurs when most people in a population are immune",
+    "Immunity that lasts for life",
+    "A vaccine given to large groups at the same time"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Defined in paragraph 5."
+  },
+  {
+   "id": "r029-q07",
+   "type": "reading",
+   "passageId": "r029",
+   "prompt": "Why is herd immunity especially important for newborn babies?",
+   "options": [
+    "They cannot receive certain vaccines.",
+    "They have stronger immune systems.",
+    "They are never exposed to diseases.",
+    "They need more vaccines than adults."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 5."
+  },
+  {
+   "id": "r029-q08",
+   "type": "reading",
+   "passageId": "r029",
+   "prompt": "What does the text say about measles and herd immunity?",
+   "options": [
+    "Herd immunity does not work for measles.",
+    "A very high proportion of people must be immune.",
+    "Only a small proportion of people needs to be vaccinated.",
+    "Measles vaccines must be repeated every year."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "For highly contagious diseases such as measles, it is very high."
+  },
+  {
+   "id": "r029-q09",
+   "type": "reading",
+   "passageId": "r029",
+   "prompt": "What are the most common side effects of vaccines, according to the text?",
+   "options": [
+    "serious allergic reactions",
+    "a sore arm or a mild fever",
+    "long-term illness",
+    "loss of memory cells"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 6."
+  }
+ ]
+}

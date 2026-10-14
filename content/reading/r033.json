@@ -1,0 +1,280 @@
+{
+ "id": "r033",
+ "title": "Keeping a Fragile Peace",
+ "level": "B2",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "EsPCEx",
+  "EFOMM",
+  "AFA",
+  "EN"
+ ],
+ "text": "Peacekeeping is one of the least understood roles of modern armed forces. When people imagine soldiers, they usually picture combat. Peacekeepers, however, are sent to areas where a conflict has stopped, or is supposed to have stopped, and their task is to help the peace hold. Since the first major United Nations peacekeeping missions in the mid-twentieth century, many thousands of military personnel from dozens of countries, including Brazil, have served in such operations around the world.\n\nTraditional peacekeeping was based on a few key principles. Missions were deployed only with the consent of the parties to the conflict; peacekeepers were expected to be impartial, treating all sides equally; and they were allowed to use force only in self-defence. Their typical tasks included monitoring ceasefires, patrolling buffer zones between opposing forces and reporting violations.\n\nOver time, the role has become more complex. Many recent conflicts have taken place within countries rather than between them, involving armed groups that do not always respect agreements. Peacekeeping missions have therefore been given broader mandates: protecting civilians, supporting elections, helping to disarm former fighters and assisting in the reconstruction of institutions such as the police and the courts. In some cases, peacekeepers have been authorised to use force more actively to protect people under threat.\n\nThis expansion has brought new challenges. Peacekeepers must often operate in vast territories with limited resources, and they may be seen as enemies by groups that oppose the peace process. They must work closely with civilian organisations, humanitarian agencies and local communities, which requires skills that are not always part of traditional military training: negotiation, cultural awareness and the ability to communicate with people who may have good reasons to distrust anyone in uniform.\n\nThe record of peacekeeping is mixed. There have been notable failures, in which missions were unable to prevent terrible violence against civilians, and cases of misconduct by peacekeepers that seriously damaged trust. At the same time, studies suggest that, on average, the presence of peacekeepers reduces the likelihood that a conflict will start again, and many countries that hosted missions have gone on to enjoy long periods of relative stability.\n\nFor the soldiers involved, peacekeeping can be a profoundly formative experience. Many describe the challenge of maintaining discipline and restraint in tense situations as more demanding than they had expected. As one officer put it, \"In combat, the objective is clear. In peacekeeping, every day you have to decide what the right thing to do is.\"",
+ "glossary": [
+  [
+   "ceasefire",
+   "an agreement to stop fighting"
+  ],
+  [
+   "mandate",
+   "the official authority and tasks given to a mission"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r033-q01",
+   "type": "reading",
+   "passageId": "r033",
+   "prompt": "What is the main task of peacekeepers, according to paragraph 1?",
+   "options": [
+    "To help a peace that has been agreed to last",
+    "To win wars quickly",
+    "To train the armies of other countries",
+    "To deliver humanitarian aid only"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“their task is to help the peace hold”."
+  },
+  {
+   "id": "r033-q02",
+   "type": "reading",
+   "passageId": "r033",
+   "prompt": "Which was NOT a principle of traditional peacekeeping?",
+   "options": [
+    "Missions needed the consent of the parties.",
+    "Peacekeepers had to be impartial.",
+    "Peacekeepers could attack armed groups whenever necessary.",
+    "Force could be used only in self-defence."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Force was allowed only in self-defence."
+  },
+  {
+   "id": "r033-q03",
+   "type": "reading",
+   "passageId": "r033",
+   "prompt": "The word “impartial” in paragraph 2 is closest in meaning to",
+   "options": [
+    "well armed",
+    "temporary",
+    "experienced",
+    "not favouring any side"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Treating all sides equally."
+  },
+  {
+   "id": "r033-q04",
+   "type": "reading",
+   "passageId": "r033",
+   "prompt": "Why have peacekeeping mandates become broader?",
+   "options": [
+    "Countries have more soldiers available.",
+    "Many recent conflicts are within countries and involve armed groups that ignore agreements.",
+    "The United Nations has stopped traditional missions.",
+    "Peacekeepers asked for more responsibilities."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r033-q05",
+   "type": "reading",
+   "passageId": "r033",
+   "prompt": "Which skill does the author say is not always part of traditional military training?",
+   "options": [
+    "shooting",
+    "physical fitness",
+    "map reading",
+    "negotiation"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“negotiation, cultural awareness and the ability to communicate”."
+  },
+  {
+   "id": "r033-q06",
+   "type": "reading",
+   "passageId": "r033",
+   "prompt": "Why might local people distrust peacekeepers?",
+   "options": [
+    "Peacekeepers do not speak to civilians.",
+    "They may have good reasons to distrust anyone in uniform.",
+    "Peacekeepers always support one side.",
+    "Peacekeepers are not allowed to help civilians."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r033-q07",
+   "type": "reading",
+   "passageId": "r033",
+   "prompt": "How does the author describe the record of peacekeeping?",
+   "options": [
+    "It has been a complete success.",
+    "It includes both failures and successes.",
+    "It has been a complete failure.",
+    "It is impossible to evaluate."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“The record of peacekeeping is mixed.”"
+  },
+  {
+   "id": "r033-q08",
+   "type": "reading",
+   "passageId": "r033",
+   "prompt": "According to studies mentioned in paragraph 5, peacekeepers",
+   "options": [
+    "reduce the likelihood that a conflict will start again",
+    "always prevent violence against civilians",
+    "make conflicts last longer",
+    "have no measurable effect"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 5."
+  },
+  {
+   "id": "r033-q09",
+   "type": "reading",
+   "passageId": "r033",
+   "prompt": "What does the officer suggest in the last sentence?",
+   "options": [
+    "Combat is more difficult than peacekeeping.",
+    "Peacekeepers do not need clear orders.",
+    "Peacekeeping requires constant moral judgement.",
+    "Peacekeeping missions have no objectives."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“every day you have to decide what the right thing to do is”."
+  }
+ ]
+}

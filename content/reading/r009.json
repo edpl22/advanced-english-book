@@ -1,0 +1,308 @@
+{
+ "id": "r009",
+ "title": "The Placebo Puzzle",
+ "level": "C1",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "TOEFL",
+  "IELTS",
+  "CAE",
+  "FUVEST"
+ ],
+ "text": "A placebo is, by definition, a treatment with no active ingredient: a sugar pill, an injection of salt water, a procedure that does nothing to the body's chemistry. It ought, therefore, to do nothing at all. Yet for decades clinical researchers have observed that a substantial proportion of patients who receive placebos report genuine improvements, particularly in conditions such as pain, nausea and fatigue. This apparently paradoxical result has turned the placebo from a mere control condition into an object of study in its own right.\n\nPart of what is labelled the \"placebo effect\" is not an effect of the placebo at all. Many conditions improve naturally over time, and symptoms that are unusually severe when a patient enrolls in a trial tend to become less severe later, a statistical phenomenon known as regression to the mean. Patients may also report improvement in order to please the doctors treating them. A carefully designed study must therefore include a third group that receives no treatment whatsoever, so that the natural course of the illness can be distinguished from the response to the placebo itself.\n\nEven when such factors are taken into account, however, a residual effect often remains, and it is far from imaginary. Brain-imaging studies have shown that patients who expect pain relief from an inert cream release the body's own pain-relieving chemicals, and that their brain activity in pain-processing regions measurably decreases. Expectation, it seems, is not merely a state of mind but a physiological event.\n\nThe strength of the response depends on a remarkable range of contextual details. Injections tend to produce stronger effects than pills, two pills stronger effects than one, and branded tablets stronger effects than plain ones. The manner of the practitioner matters too: in one well-known experiment, patients treated by a warm, attentive clinician reported considerably more relief than those who received the same sham treatment from a brisk and distant one.\n\nPerhaps most surprising are studies of so-called \"open-label\" placebos, in which patients are told explicitly that they are taking an inactive pill. Some of these trials have reported meaningful improvements, although the samples were small and the findings remain contested. If confirmed, they would suggest that deception is not essential to the effect — a conclusion with considerable ethical significance, since prescribing placebos secretly conflicts with the principle of informed consent.\n\nNone of this means that placebos can cure disease. They do not shrink tumours or eliminate infections. What they appear to influence is the experience of symptoms, which is shaped by the brain as much as by the body. For medicine, the lesson may be less about sugar pills than about the healing potential of the clinical encounter itself.",
+ "glossary": [
+  [
+   "inert",
+   "having no chemical or biological action"
+  ],
+  [
+   "sham",
+   "false; made to look real"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r009-q01",
+   "type": "reading",
+   "passageId": "r009",
+   "prompt": "Why does the author describe the placebo result as “apparently paradoxical”?",
+   "options": [
+    "Placebos are cheaper than real drugs but less popular.",
+    "A treatment without active ingredients should have no effect, yet patients improve.",
+    "Doctors refuse to use placebos although they work.",
+    "Placebos work only on patients who are seriously ill."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "It “ought … to do nothing at all”, yet patients report improvements."
+  },
+  {
+   "id": "r009-q02",
+   "type": "reading",
+   "passageId": "r009",
+   "prompt": "According to paragraph 2, why should a well-designed study include a group receiving no treatment?",
+   "options": [
+    "To reduce the cost of the trial",
+    "To make sure that patients please their doctors",
+    "To separate natural recovery from the response to the placebo",
+    "To test the effectiveness of the active drug"
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“so that the natural course of the illness can be distinguished from the response to the placebo itself”."
+  },
+  {
+   "id": "r009-q03",
+   "type": "reading",
+   "passageId": "r009",
+   "prompt": "Regression to the mean is mentioned as an example of",
+   "options": [
+    "a type of placebo used in pain trials",
+    "a method of measuring brain activity",
+    "an ethical problem in clinical research",
+    "a factor that can be mistaken for a placebo effect"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Part of the so-called placebo effect is not an effect of the placebo at all."
+  },
+  {
+   "id": "r009-q04",
+   "type": "reading",
+   "passageId": "r009",
+   "prompt": "The word “residual” in paragraph 3 is closest in meaning to",
+   "options": [
+    "temporary",
+    "harmful",
+    "remaining",
+    "invisible"
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "A residual effect is what remains after other factors are removed."
+  },
+  {
+   "id": "r009-q05",
+   "type": "reading",
+   "passageId": "r009",
+   "prompt": "What do the brain-imaging studies suggest?",
+   "options": [
+    "Placebo effects are mainly imaginary.",
+    "Inert creams contain small amounts of medicine.",
+    "Pain cannot be measured objectively.",
+    "Expectations can produce real physical changes in the body."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“Expectation … is not merely a state of mind but a physiological event.”"
+  },
+  {
+   "id": "r009-q06",
+   "type": "reading",
+   "passageId": "r009",
+   "prompt": "Which of the following would, according to the passage, probably produce the WEAKEST response?",
+   "options": [
+    "a single plain pill given by a distant clinician",
+    "two branded tablets",
+    "an injection given by an attentive clinician",
+    "a branded pill given by a warm clinician"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Injections, two pills, branding and warmth all strengthen the effect."
+  },
+  {
+   "id": "r009-q07",
+   "type": "reading",
+   "passageId": "r009",
+   "prompt": "The word “brisk” in paragraph 4 most nearly means",
+   "options": [
+    "quick and rather impersonal",
+    "careful and patient",
+    "inexperienced",
+    "rude and aggressive"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Contrasted with “warm, attentive”: brisk and distant = quick and impersonal."
+  },
+  {
+   "id": "r009-q08",
+   "type": "reading",
+   "passageId": "r009",
+   "prompt": "Why would confirmation of the open-label findings be ethically significant?",
+   "options": [
+    "Patients would no longer need informed consent.",
+    "Placebos could be given without deceiving patients.",
+    "Doctors could stop prescribing real drugs.",
+    "Placebo trials would no longer be necessary."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Deception would not be essential, avoiding conflict with informed consent."
+  },
+  {
+   "id": "r009-q09",
+   "type": "reading",
+   "passageId": "r009",
+   "prompt": "How does the author present the open-label studies?",
+   "options": [
+    "As definitive proof that placebos cure disease",
+    "As unethical and therefore worthless",
+    "As interesting but not yet conclusive",
+    "As identical to traditional placebo trials"
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“the samples were small and the findings remain contested”."
+  },
+  {
+   "id": "r009-q10",
+   "type": "reading",
+   "passageId": "r009",
+   "prompt": "Which statement best summarises the author's conclusion?",
+   "options": [
+    "Placebos should replace conventional treatment for most diseases.",
+    "Placebos affect how symptoms are experienced, which points to the value of the doctor–patient relationship.",
+    "The placebo effect is entirely explained by statistical errors.",
+    "Doctors should prescribe placebos secretly whenever possible."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "They influence the experience of symptoms; the lesson concerns the clinical encounter."
+  }
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "id": "r026",
+ "title": "Islands of Heat",
+ "level": "B2",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "FUVEST",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "On a summer evening, the temperature in the centre of a large city can be several degrees higher than in the countryside just a few kilometres away. This difference, known as the urban heat island effect, was first described in the early nineteenth century by an amateur scientist who compared temperature readings in London with those taken outside the city. Since then, it has been observed in cities all over the world, and as urban populations and global temperatures rise, it has become a serious concern for public health.\n\nSeveral factors contribute to the effect. The most important is the replacement of vegetation and soil by materials such as asphalt, concrete and brick. These surfaces absorb a large proportion of the sun's energy during the day and release it slowly at night, which is why the difference between city and countryside is often greatest after sunset. Plants, by contrast, cool their surroundings by releasing water vapour through their leaves, a process called evapotranspiration. Tall buildings also play a role: they trap heat between them and reduce the wind that would otherwise carry it away. Finally, cities produce heat of their own, from vehicles, factories and air-conditioning units, which ironically warm the streets while cooling the buildings.\n\nThe consequences can be severe. During heatwaves, high night-time temperatures prevent the human body from recovering from the heat of the day, and elderly people, young children and those with heart or lung disease are particularly at risk. Higher temperatures also increase the demand for electricity and can worsen air pollution, since some pollutants form more quickly in hot conditions. The effects are often unequal: poorer neighbourhoods tend to have fewer trees and parks and more densely packed buildings, so their residents may experience the highest temperatures.\n\nFortunately, the heat island effect can be reduced. One of the most effective strategies is to plant trees, which provide shade and cool the air through evapotranspiration. Parks, green roofs covered with plants, and walls with climbing vegetation can all help. Another approach is to use \"cool\" materials: light-coloured roofs and pavements reflect more sunlight and absorb less heat. Some cities have painted roofs white or replaced dark asphalt with lighter surfaces, with measurable results.\n\nNone of these solutions is complete on its own, and each has costs. Trees need water and maintenance, and reflective surfaces can create glare. Yet experts agree that, as the climate warms, designing cities that stay cooler will be essential, not optional.",
+ "glossary": [
+  [
+   "evapotranspiration",
+   "the release of water vapour from plants and soil into the air"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r026-q01",
+   "type": "reading",
+   "passageId": "r026",
+   "prompt": "What is the urban heat island effect?",
+   "options": [
+    "Cities being warmer than the surrounding countryside",
+    "Islands being warmer than the mainland",
+    "The heating of buildings in winter",
+    "The rise of global temperatures"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Defined in paragraph 1."
+  },
+  {
+   "id": "r026-q02",
+   "type": "reading",
+   "passageId": "r026",
+   "prompt": "Why is the temperature difference often greatest after sunset?",
+   "options": [
+    "The wind usually stops at night.",
+    "People use more cars in the evening.",
+    "Urban surfaces release the heat they absorbed during the day.",
+    "The countryside heats up at night."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Asphalt and concrete release heat slowly at night."
+  },
+  {
+   "id": "r026-q03",
+   "type": "reading",
+   "passageId": "r026",
+   "prompt": "How do plants cool their surroundings?",
+   "options": [
+    "By absorbing heat from buildings",
+    "By blocking the wind",
+    "By releasing water vapour through their leaves",
+    "By reflecting sunlight"
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Evapotranspiration."
+  },
+  {
+   "id": "r026-q04",
+   "type": "reading",
+   "passageId": "r026",
+   "prompt": "Why does the author use the word “ironically” in paragraph 2?",
+   "options": [
+    "Factories produce less heat than cars.",
+    "Tall buildings are cooler than small ones.",
+    "The countryside is warmer than expected.",
+    "Air conditioners cool buildings but warm the streets."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The irony: devices that cool buildings heat the city."
+  },
+  {
+   "id": "r026-q05",
+   "type": "reading",
+   "passageId": "r026",
+   "prompt": "According to paragraph 3, why are high night-time temperatures dangerous?",
+   "options": [
+    "People cannot use electricity at night.",
+    "The body cannot recover from the heat of the day.",
+    "Pollution disappears at night.",
+    "People go out more at night."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r026-q06",
+   "type": "reading",
+   "passageId": "r026",
+   "prompt": "Why may residents of poorer neighbourhoods experience higher temperatures?",
+   "options": [
+    "They use more air conditioning.",
+    "Their areas have fewer trees and more crowded buildings.",
+    "They live closer to the countryside.",
+    "Their houses are made of wood."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r026-q07",
+   "type": "reading",
+   "passageId": "r026",
+   "prompt": "The word “measurable” in paragraph 4 suggests that the results",
+   "options": [
+    "could not be observed",
+    "were extremely large",
+    "were only temporary",
+    "were large enough to be detected"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Measurable results = results that can be measured."
+  },
+  {
+   "id": "r026-q08",
+   "type": "reading",
+   "passageId": "r026",
+   "prompt": "Which disadvantage of reflective surfaces is mentioned?",
+   "options": [
+    "They need a lot of water.",
+    "They make roofs weaker.",
+    "They can create glare.",
+    "They increase pollution."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“reflective surfaces can create glare”."
+  },
+  {
+   "id": "r026-q09",
+   "type": "reading",
+   "passageId": "r026",
+   "prompt": "What does the last sentence suggest?",
+   "options": [
+    "Cooler city design will become a necessity.",
+    "Cities should stop growing.",
+    "Trees are the only real solution.",
+    "The problem will disappear naturally."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“essential, not optional”."
+  }
+ ]
+}

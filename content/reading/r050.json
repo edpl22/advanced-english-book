@@ -1,0 +1,296 @@
+{
+ "id": "r050",
+ "title": "Eyes Above the Flood",
+ "level": "C1",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ITA",
+  "IME",
+  "EN",
+  "EFOMM",
+  "AFA",
+  "EsPCEx"
+ ],
+ "text": "When severe floods struck a large region of southern Brazil, the scale of the disaster quickly overwhelmed conventional means of response. Roads and bridges were destroyed, entire neighbourhoods were cut off, and thousands of people waited on rooftops for rescue. Alongside boats, helicopters and civilian volunteers, the armed forces deployed a tool that has become increasingly common in such emergencies: small unmanned aircraft, commonly known as drones.\n\nThe appeal of drones in disaster relief lies primarily in their capacity to provide information rapidly and cheaply. A small drone can be launched within minutes from almost anywhere, without a runway, and can transmit live video of areas that are inaccessible or too dangerous for people to reach. Equipped with thermal cameras, drones can locate people at night or under partial cover, while repeated flights allow responders to monitor the rising or falling of water levels and the stability of damaged structures. Images can be combined into detailed maps, which are often more up to date than anything available from satellites, whose coverage may be obstructed by cloud.\n\nDrones have also been used to deliver small but critical items — medicines, radios, life jackets, food for isolated families — to places that boats and vehicles cannot reach quickly. Their payloads are modest, and they cannot replace helicopters for evacuating people, but they can bridge the dangerous interval before a rescue team arrives.\n\nThe integration of drones into relief operations nonetheless raises significant challenges. The most immediate is airspace coordination. During a large emergency, helicopters from different organisations may be flying at low altitude in the same area, and an uncoordinated drone presents a genuine risk of collision. On several occasions, rescue helicopters elsewhere have been forced to suspend operations because privately operated drones, flown by curious members of the public, entered the area. Effective use therefore requires clear rules, a central coordination cell and communication between all operators.\n\nThere are also questions of data management and privacy. Drones collect large quantities of imagery, including pictures of people in vulnerable circumstances and of private property. Relief organisations must decide who may access this material, how long it is retained and how it may be used once the emergency is over.\n\nFinally, technology cannot substitute for local knowledge and human judgement. A video feed may reveal a person on a roof, but deciding the safest route to reach them, and in what order to rescue those in need, still depends on experienced personnel working with communities on the ground. Used in this supporting role, drones have proved to be a valuable addition to the response — not a replacement for the people who carry it out.",
+ "glossary": [
+  [
+   "payload",
+   "the load that an aircraft or vehicle can carry"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r050-q01",
+   "type": "reading",
+   "passageId": "r050",
+   "prompt": "According to paragraph 2, what is the main advantage of drones in disaster relief?",
+   "options": [
+    "They can carry large numbers of people.",
+    "They replace the need for helicopters.",
+    "They provide information quickly and cheaply.",
+    "They work only during the day."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“their capacity to provide information rapidly and cheaply”."
+  },
+  {
+   "id": "r050-q02",
+   "type": "reading",
+   "passageId": "r050",
+   "prompt": "Why can drone maps be more up to date than satellite images?",
+   "options": [
+    "Satellites are switched off during floods.",
+    "Drone cameras are always more powerful.",
+    "Satellites photograph only urban areas.",
+    "Satellite coverage may be blocked by cloud."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Satellite coverage may be obstructed by cloud."
+  },
+  {
+   "id": "r050-q03",
+   "type": "reading",
+   "passageId": "r050",
+   "prompt": "What is the role of drones in delivering supplies?",
+   "options": [
+    "They can deliver small, critical items before a rescue team arrives.",
+    "They evacuate injured people.",
+    "They carry heavy equipment for rebuilding.",
+    "They replace boats completely."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "They bridge the dangerous interval before rescue."
+  },
+  {
+   "id": "r050-q04",
+   "type": "reading",
+   "passageId": "r050",
+   "prompt": "The phrase “bridge the dangerous interval” in paragraph 3 means",
+   "options": [
+    "build temporary bridges",
+    "connect two dangerous areas",
+    "shorten the time of the flood",
+    "help during the dangerous period of waiting"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Fill the gap before rescuers arrive."
+  },
+  {
+   "id": "r050-q05",
+   "type": "reading",
+   "passageId": "r050",
+   "prompt": "What is the most immediate challenge of using drones?",
+   "options": [
+    "Training enough pilots",
+    "Their high cost",
+    "Coordinating them with other aircraft in the same airspace",
+    "Their inability to fly in rain"
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Airspace coordination."
+  },
+  {
+   "id": "r050-q06",
+   "type": "reading",
+   "passageId": "r050",
+   "prompt": "Why have some rescue helicopters had to suspend operations?",
+   "options": [
+    "Privately operated drones entered the area.",
+    "Military drones malfunctioned.",
+    "The weather was too bad.",
+    "They had run out of fuel."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Drones flown by curious members of the public."
+  },
+  {
+   "id": "r050-q07",
+   "type": "reading",
+   "passageId": "r050",
+   "prompt": "Which concern is raised in paragraph 5?",
+   "options": [
+    "The cost of storing data",
+    "The quality of thermal cameras",
+    "How images of vulnerable people and property should be managed",
+    "The legal right to fly over rivers"
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Data management and privacy."
+  },
+  {
+   "id": "r050-q08",
+   "type": "reading",
+   "passageId": "r050",
+   "prompt": "What is the author's conclusion about drones?",
+   "options": [
+    "They will soon replace rescue teams.",
+    "They are a valuable support but cannot replace human judgement.",
+    "They cause more problems than they solve.",
+    "They should be used only by the military."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“a valuable addition … not a replacement”."
+  },
+  {
+   "id": "r050-q09",
+   "type": "reading",
+   "passageId": "r050",
+   "prompt": "The word “them” in the last paragraph (“the safest route to reach them”) refers to",
+   "options": [
+    "drones",
+    "people in need of rescue",
+    "communities",
+    "experienced personnel"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "A person on a roof — those in need."
+  }
+ ]
+}

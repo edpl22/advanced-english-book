@@ -1,0 +1,298 @@
+{
+ "id": "r040",
+ "title": "The Hand That Writes",
+ "level": "C1",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "FUVEST",
+  "CAE",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "In classrooms across the world, the pen is steadily giving way to the keyboard. Many schools have reduced the time devoted to handwriting, and some have stopped teaching joined-up writing altogether, reasoning that children will spend their adult lives typing and that the hours saved could be better spent elsewhere. The argument has an obvious practical appeal. Yet a growing number of researchers and teachers have begun to question whether something of value is being lost in the transition.\n\nTheir concern is not primarily nostalgic. Several studies suggest that writing by hand engages the brain differently from typing. Forming letters requires a complex sequence of precise movements, and each letter must be constructed rather than simply selected by pressing a key. In experiments with young children, those who practised writing letters by hand were subsequently better at recognising them than those who practised typing them, a finding that researchers attribute to the richer motor and visual information involved in handwriting.\n\nOlder students may also be affected. In a frequently cited series of experiments, university students who took notes on laptops tended to transcribe lectures almost word for word, whereas those writing by hand, unable to keep up, were forced to summarise and rephrase. When tested later on their conceptual understanding, the handwriters performed better on some measures. The explanation offered was that the slowness of handwriting, far from being a drawback, compels a degree of processing that verbatim typing allows students to avoid.\n\nThese findings should be treated with appropriate caution. Some attempts to replicate the note-taking results have produced weaker or inconsistent effects, and much depends on how a device is used: a student who types selectively and reorganises their notes may gain the same benefits. Moreover, for many people with certain motor or learning difficulties, keyboards are a liberation rather than a loss, enabling them to express ideas that their handwriting would obscure.\n\nThere are, too, considerations beyond cognition. A handwritten letter conveys a personal presence that a typed message rarely achieves; signatures remain legally significant; and archives of handwritten documents allow historians to read not only what people wrote but how they wrote it — the corrections, the hesitations, the pressure of the pen.\n\nThe sensible conclusion is probably not that schools must choose between pen and keyboard, but that they should resist abandoning either too hastily. Handwriting may no longer be the main means of communication, but it may remain one of the best means of learning. To discard it on purely practical grounds would be to confuse what is efficient with what is effective.",
+ "questions": [
+  {
+   "id": "r040-q01",
+   "type": "reading",
+   "passageId": "r040",
+   "prompt": "What is the practical argument for reducing handwriting instruction?",
+   "options": [
+    "Handwriting damages children's motor skills.",
+    "Keyboards are cheaper than pens and paper.",
+    "Children will mainly type as adults, so the time could be used better.",
+    "Teachers no longer know how to teach handwriting."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 1."
+  },
+  {
+   "id": "r040-q02",
+   "type": "reading",
+   "passageId": "r040",
+   "prompt": "The author says the researchers' concern is “not primarily nostalgic”. This means it is",
+   "options": [
+    "unrelated to the history of writing",
+    "based on evidence rather than a sentimental attachment to the past",
+    "shared by only older teachers",
+    "an emotional reaction to technology"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Their concern is based on studies, not nostalgia."
+  },
+  {
+   "id": "r040-q03",
+   "type": "reading",
+   "passageId": "r040",
+   "prompt": "According to paragraph 2, why might children recognise letters better after handwriting practice?",
+   "options": [
+    "Handwriting provides richer motor and visual information.",
+    "Handwriting is faster than typing.",
+    "Children enjoy handwriting more.",
+    "Keyboards show letters in capital form only."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Researchers attribute it to richer motor and visual information."
+  },
+  {
+   "id": "r040-q04",
+   "type": "reading",
+   "passageId": "r040",
+   "prompt": "What difference was observed between students taking notes on laptops and by hand?",
+   "options": [
+    "Laptop users wrote less than handwriters.",
+    "Handwriters copied the lecture exactly.",
+    "There was no difference in their notes.",
+    "Laptop users tended to transcribe word for word."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Laptop users transcribed almost verbatim."
+  },
+  {
+   "id": "r040-q05",
+   "type": "reading",
+   "passageId": "r040",
+   "prompt": "The phrase “far from being a drawback” in paragraph 3 suggests that slowness is",
+   "options": [
+    "actually an advantage",
+    "a serious disadvantage",
+    "irrelevant",
+    "a temporary problem"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Slowness compels processing — it helps."
+  },
+  {
+   "id": "r040-q06",
+   "type": "reading",
+   "passageId": "r040",
+   "prompt": "Why does the author urge caution in paragraph 4?",
+   "options": [
+    "The original studies were fraudulent.",
+    "Replications have been inconsistent and results depend on how devices are used.",
+    "Keyboards have been proved superior.",
+    "The studies included only young children."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r040-q07",
+   "type": "reading",
+   "passageId": "r040",
+   "prompt": "Why are keyboards described as “a liberation” for some people?",
+   "options": [
+    "They free students from attending lectures.",
+    "They help people with certain difficulties express their ideas.",
+    "They are lighter than books.",
+    "They reduce the cost of education."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "For people with motor or learning difficulties."
+  },
+  {
+   "id": "r040-q08",
+   "type": "reading",
+   "passageId": "r040",
+   "prompt": "Which value of handwriting beyond cognition is NOT mentioned in paragraph 5?",
+   "options": [
+    "It improves spelling in foreign languages.",
+    "It conveys personal presence.",
+    "Signatures have legal significance.",
+    "Handwritten archives reveal how people wrote."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Spelling in foreign languages is not mentioned."
+  },
+  {
+   "id": "r040-q09",
+   "type": "reading",
+   "passageId": "r040",
+   "prompt": "What does the author mean by “confuse what is efficient with what is effective”?",
+   "options": [
+    "Typing is both efficient and effective.",
+    "Handwriting is efficient but not effective.",
+    "Schools should measure efficiency more carefully.",
+    "Something faster is not necessarily better for learning."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Efficiency (speed) ≠ effectiveness (learning)."
+  },
+  {
+   "id": "r040-q10",
+   "type": "reading",
+   "passageId": "r040",
+   "prompt": "Which statement best reflects the author's conclusion?",
+   "options": [
+    "Schools should abandon keyboards.",
+    "Handwriting should replace typing entirely.",
+    "Schools should keep both handwriting and typing.",
+    "The debate is no longer relevant."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“resist abandoning either too hastily”."
+  }
+ ]
+}

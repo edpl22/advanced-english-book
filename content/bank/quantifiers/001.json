@@ -1,0 +1,1894 @@
+{
+ "topic": "quantifiers",
+ "batch": 1,
+ "title": "Quantifiers",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "quan-001-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.4",
+   "type": "mcq",
+   "explanation": "much + uncountable noun.",
+   "prompt": "How ___ money do you need?",
+   "options": [
+    "much",
+    "many",
+    "lot",
+    "few"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "quan-001-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.4",
+   "type": "mcq",
+   "explanation": "many + plural noun.",
+   "prompt": "How ___ brothers and sisters have you got?",
+   "options": [
+    "much",
+    "many",
+    "lot of",
+    "little"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "quan-001-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.4",
+   "type": "mcq",
+   "explanation": "a lot of + plural noun.",
+   "prompt": "There are ___ restaurants in this street.",
+   "options": [
+    "much",
+    "a lot",
+    "a lot of",
+    "a little"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "quan-001-04",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.1",
+   "type": "mcq",
+   "explanation": "a few + plural noun.",
+   "prompt": "Can I ask you ___ questions?",
+   "options": [
+    "a little",
+    "little",
+    "much",
+    "a few"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "quan-001-05",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.1",
+   "type": "mcq",
+   "explanation": "a little + uncountable noun.",
+   "prompt": "Could I have ___ sugar in my coffee?",
+   "options": [
+    "a little",
+    "a few",
+    "few",
+    "many"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "quan-001-06",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.3",
+   "type": "mcq",
+   "explanation": "both = the two.",
+   "prompt": "___ my parents work in a hospital.",
+   "options": [
+    "All",
+    "Both",
+    "Each",
+    "Every"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "quan-001-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "15.2",
+   "type": "mcq",
+   "explanation": "neither of + singular verb.",
+   "prompt": "We had two options, but ___ of them was good.",
+   "options": [
+    "either",
+    "both",
+    "neither",
+    "none"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "quan-001-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "15.2",
+   "type": "mcq",
+   "explanation": "every + singular noun.",
+   "prompt": "___ day, I walk to work.",
+   "options": [
+    "All",
+    "Whole",
+    "Both",
+    "Every"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "quan-001-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "15.1",
+   "type": "mcq",
+   "explanation": "few = not many (negative).",
+   "prompt": "The film was so bad that ___ people stayed until the end.",
+   "options": [
+    "few",
+    "a few",
+    "little",
+    "a little"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "quan-001-10",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "15.3",
+   "type": "mcq",
+   "explanation": "the whole + singular noun.",
+   "prompt": "I spent the ___ morning looking for my keys.",
+   "options": [
+    "all",
+    "whole",
+    "every",
+    "total"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "quan-001-11",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "15.4",
+   "type": "mcq",
+   "explanation": "enough + noun.",
+   "prompt": "Is there ___ bread for sandwiches?",
+   "options": [
+    "many",
+    "few",
+    "enough",
+    "plenty"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "quan-001-12",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "15.3",
+   "type": "mcq",
+   "explanation": "most of the + plural noun.",
+   "prompt": "___ of the guests had left by the time we arrived.",
+   "options": [
+    "Much",
+    "Every",
+    "Whole",
+    "Most"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "quan-001-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.1",
+   "type": "mcq",
+   "explanation": "little = not much (uncountable).",
+   "prompt": "Very ___ is known about the author’s early life.",
+   "options": [
+    "little",
+    "few",
+    "many",
+    "a few"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "quan-001-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.2",
+   "type": "mcq",
+   "explanation": "either + singular noun = one or the other.",
+   "prompt": "You can park on ___ side of the street.",
+   "options": [
+    "both",
+    "either",
+    "neither of",
+    "all"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "quan-001-15",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.4",
+   "type": "mcq",
+   "explanation": "plenty of = more than enough.",
+   "prompt": "There’s ___ of time — the train doesn’t leave until ten.",
+   "options": [
+    "many",
+    "much",
+    "plenty",
+    "enough"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "quan-001-16",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.2",
+   "type": "mcq",
+   "explanation": "neither of two.",
+   "prompt": "___ of the two answers is correct — they are both wrong.",
+   "options": [
+    "Either",
+    "None",
+    "Both",
+    "Neither"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "quan-001-17",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "15.4",
+   "type": "mcq",
+   "explanation": "a handful of = a very small number of.",
+   "prompt": "Only a ___ of students chose the advanced course.",
+   "options": [
+    "handful",
+    "little",
+    "few deal",
+    "bit"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "quan-001-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "15.1",
+   "type": "mcq",
+   "explanation": "few, if any = almost none.",
+   "prompt": "Few, ___ any, of the original buildings survived the earthquake.",
+   "options": [
+    "as",
+    "if",
+    "so",
+    "even"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "quan-001-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.4",
+   "type": "gap",
+   "explanation": "How much (price).",
+   "prompt": "How ___ does this jacket cost?",
+   "acceptedAnswers": [
+    "much"
+   ]
+  },
+  {
+   "id": "quan-001-20",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.4",
+   "type": "gap",
+   "explanation": "Negative + any / many.",
+   "prompt": "There aren’t ___ eggs left — we need to buy some.",
+   "acceptedAnswers": [
+    "any",
+    "many",
+    "enough"
+   ]
+  },
+  {
+   "id": "quan-001-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "15.1",
+   "type": "gap",
+   "explanation": "a few times.",
+   "prompt": "I’ve been to Lisbon a ___ times.",
+   "acceptedAnswers": [
+    "few"
+   ]
+  },
+  {
+   "id": "quan-001-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "15.3",
+   "type": "gap",
+   "explanation": "none of (three or more).",
+   "prompt": "___ of my three sisters is married — they’re all single.",
+   "acceptedAnswers": [
+    "None"
+   ]
+  },
+  {
+   "id": "quan-001-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "15.2",
+   "type": "gap",
+   "explanation": "not every / not one.",
+   "prompt": "Not ___ student passed the test; it was very hard.",
+   "acceptedAnswers": [
+    "every",
+    "one",
+    "a"
+   ]
+  },
+  {
+   "id": "quan-001-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.1",
+   "type": "gap",
+   "explanation": "hardly anyone = almost nobody.",
+   "prompt": "Hardly ___ came to the meeting.",
+   "acceptedAnswers": [
+    "anyone",
+    "anybody"
+   ]
+  },
+  {
+   "id": "quan-001-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.1",
+   "type": "gap",
+   "explanation": "little or no.",
+   "prompt": "There’s little ___ no chance of rain today.",
+   "acceptedAnswers": [
+    "or"
+   ]
+  },
+  {
+   "id": "quan-001-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.2",
+   "type": "gap",
+   "explanation": "every single = emphatic every.",
+   "prompt": "___ single person in the room stood up.",
+   "acceptedAnswers": [
+    "Every"
+   ]
+  },
+  {
+   "id": "quan-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "15.4",
+   "type": "gap",
+   "explanation": "as many… as.",
+   "prompt": "She has visited ___ many countries as I have.",
+   "acceptedAnswers": [
+    "as"
+   ]
+  },
+  {
+   "id": "quan-001-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "15.3",
+   "type": "gap",
+   "explanation": "the vast majority of.",
+   "prompt": "The vast ___ of voters supported the plan.",
+   "acceptedAnswers": [
+    "majority"
+   ]
+  },
+  {
+   "id": "quan-001-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "15.1",
+   "type": "kwt",
+   "explanation": "not many = few.",
+   "first": "There weren’t many tourists in the town.",
+   "keyword": "FEW",
+   "before": "There were",
+   "after": "in the town.",
+   "acceptedAnswers": [
+    "only a few tourists",
+    "few tourists",
+    "very few tourists"
+   ]
+  },
+  {
+   "id": "quan-001-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.3",
+   "type": "kwt",
+   "explanation": "both (of) my + plural noun.",
+   "first": "My brothers are both doctors.",
+   "keyword": "BOTH",
+   "before": "",
+   "after": "are doctors.",
+   "acceptedAnswers": [
+    "Both of my brothers",
+    "Both my brothers"
+   ]
+  },
+  {
+   "id": "quan-001-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.2",
+   "type": "kwt",
+   "explanation": "every + singular noun + singular verb.",
+   "first": "None of the hotels had a free room.",
+   "keyword": "EVERY",
+   "before": "",
+   "after": "was full.",
+   "acceptedAnswers": [
+    "Every hotel",
+    "Every single hotel"
+   ]
+  },
+  {
+   "id": "quan-001-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "15.4",
+   "type": "kwt",
+   "explanation": "plenty of = more than enough.",
+   "first": "We have more than enough food for the party.",
+   "keyword": "PLENTY",
+   "before": "We have",
+   "after": "for the party.",
+   "acceptedAnswers": [
+    "plenty of food"
+   ]
+  },
+  {
+   "id": "quan-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "15.1",
+   "type": "kwt",
+   "explanation": "hardly any = almost no.",
+   "first": "Only a small number of students passed.",
+   "keyword": "HARDLY",
+   "before": "",
+   "after": "passed.",
+   "acceptedAnswers": [
+    "Hardly any students"
+   ]
+  },
+  {
+   "id": "quan-001-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.4",
+   "type": "error-correction",
+   "explanation": "much + uncountable noun.",
+   "parts": [
+    "I don’t have ",
+    {
+     "u": "many"
+    },
+    " time, so I’ll be ",
+    {
+     "u": "quick"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "much"
+   ]
+  },
+  {
+   "id": "quan-001-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "15.2",
+   "type": "error-correction",
+   "explanation": "every / each + singular noun.",
+   "parts": [
+    {
+     "u": "All"
+    },
+    " student in the class has ",
+    {
+     "u": "a"
+    },
+    " laptop."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "Every",
+    "Each"
+   ]
+  },
+  {
+   "id": "quan-001-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "15.1",
+   "type": "error-correction",
+   "explanation": "a little + uncountable noun.",
+   "parts": [
+    "There’s ",
+    {
+     "u": "a few"
+    },
+    " water left in the ",
+    {
+     "u": "bottle"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "a little",
+    "some"
+   ]
+  },
+  {
+   "id": "quan-001-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.3",
+   "type": "error-correction",
+   "explanation": "all my life / my whole life.",
+   "parts": [
+    "I’ve lived here for ",
+    {
+     "u": "the whole"
+    },
+    " my ",
+    {
+     "u": "life"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "all"
+   ]
+  },
+  {
+   "id": "quan-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "15.4",
+   "type": "error-correction",
+   "explanation": "less + uncountable noun.",
+   "parts": [
+    {
+     "u": "Fewer"
+    },
+    " money was spent on ",
+    {
+     "u": "education"
+    },
+    " this year."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "Less"
+   ]
+  },
+  {
+   "id": "quan-001-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.4",
+   "type": "word-order",
+   "explanation": "How many + plural noun.",
+   "fragments": [
+    "How",
+    "many",
+    "people",
+    "live",
+    "in",
+    "your house?"
+   ],
+   "acceptedAnswers": [
+    "How many people live in your house?"
+   ]
+  },
+  {
+   "id": "quan-001-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "15.2",
+   "type": "word-order",
+   "explanation": "neither of + singular verb.",
+   "fragments": [
+    "Neither",
+    "of",
+    "my",
+    "parents",
+    "speaks",
+    "Spanish."
+   ],
+   "acceptedAnswers": [
+    "Neither of my parents speaks Spanish."
+   ]
+  },
+  {
+   "id": "quan-001-41",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.1",
+   "type": "word-order",
+   "explanation": "hardly any.",
+   "fragments": [
+    "Hardly",
+    "any",
+    "tickets",
+    "were",
+    "left."
+   ],
+   "acceptedAnswers": [
+    "Hardly any tickets were left."
+   ]
+  },
+  {
+   "id": "quan-001-42",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.4",
+   "type": "matching",
+   "explanation": "Countable and uncountable quantifiers.",
+   "prompt": "Match the halves.",
+   "left": [
+    "How much",
+    "How many",
+    "A few",
+    "A little",
+    "Plenty of"
+   ],
+   "right": [
+    "milk, please.",
+    "water drinks.",
+    "time and money.",
+    "water do you drink a day?",
+    "friends came to help.",
+    "cars does your family have?"
+   ],
+   "answer": [
+    3,
+    5,
+    4,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "quan-001-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "15.1",
+   "type": "matching",
+   "explanation": "few / a few, little / a little.",
+   "prompt": "Match each sentence with its meaning.",
+   "left": [
+    "Few people came.",
+    "A few people came.",
+    "Little help was offered.",
+    "A little help was offered.",
+    "No one came."
+   ],
+   "right": [
+    "Everyone came.",
+    "Some help (positive).",
+    "Zero people came.",
+    "Not much help (negative).",
+    "Not many came (disappointing).",
+    "Some came (positive)."
+   ],
+   "answer": [
+    4,
+    5,
+    3,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "quan-001-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.3",
+   "type": "matching",
+   "explanation": "Quantifiers for two and for three or more.",
+   "prompt": "How many does each word refer to?",
+   "left": [
+    "both",
+    "either",
+    "neither",
+    "all",
+    "none"
+   ],
+   "right": [
+    "zero out of a group",
+    "a small number",
+    "the two of them",
+    "every one of a group",
+    "any one of two",
+    "zero out of two"
+   ],
+   "answer": [
+    2,
+    4,
+    5,
+    3,
+    0
+   ]
+  },
+  {
+   "id": "quan-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "15.4",
+   "type": "matching",
+   "explanation": "Quantifiers in formal writing.",
+   "prompt": "Match each formal quantifier with its meaning.",
+   "left": [
+    "a handful of",
+    "the vast majority of",
+    "a great deal of",
+    "a fraction of",
+    "scores of"
+   ],
+   "right": [
+    "almost all",
+    "exactly half of",
+    "a small part of",
+    "a very small number of",
+    "a large amount of (uncountable)",
+    "many (literally: groups of twenty)"
+   ],
+   "answer": [
+    3,
+    0,
+    4,
+    2,
+    5
+   ]
+  },
+  {
+   "id": "quan-001-46",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.4",
+   "type": "open-cloze",
+   "explanation": "Quantifiers in everyday English.",
+   "title": "Shopping list",
+   "text": "We don’t have [1] food in the house, so I’m going to the supermarket. We need [2] eggs — maybe six — and [3] little cheese. We don’t need [4] potatoes; there are still a [5] in the cupboard. How [6] milk do we have? Not [7] — I’ll buy two litres. We have [8] of rice, so I won’t buy any. [9] of us likes fish, so I won’t get that either. Is there anything [10] you need?",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "much",
+      "any",
+      "enough"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "some"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "a"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "any",
+      "many",
+      "more"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "few"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "much"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "much",
+      "enough"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "plenty",
+      "lots",
+      "loads"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "Neither",
+      "None"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "else"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "quan-001-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "15.3",
+   "type": "open-cloze",
+   "explanation": "Quantifiers in a report.",
+   "title": "A survey of students",
+   "text": "A recent survey of 2,000 university students produced some surprising results. The [1] majority — almost 90% — said they studied at home rather than in the library. [2] few, just 3%, preferred cafés. [3] of the students interviewed owned a laptop, and [4] single one had a smartphone. However, [5] than half said they had enough time to sleep. Very [6] of them did any exercise. When asked whether they would prefer online or face-to-face classes, the students were split: [7] option was clearly preferred. A [8] number of students — around 15% — said they worked more than twenty hours a week. [9] of them, however, regretted going to university. In fact, [10] every student said they would make the same choice again.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "vast",
+      "great",
+      "overwhelming"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "A",
+      "Very"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "Most",
+      "All",
+      "Many"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "every"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "fewer",
+      "less"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "few"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "neither",
+      "no"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "large",
+      "significant",
+      "small",
+      "considerable",
+      "substantial",
+      "sizeable",
+      "sizable"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "None",
+      "Few"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "almost",
+      "nearly",
+      "virtually",
+      "practically"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "quan-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "15.4",
+   "type": "open-cloze",
+   "explanation": "Formal quantifiers in an essay.",
+   "title": "Water",
+   "text": "Of all the water on Earth, only a tiny [1] is fresh water that humans can use. The [2] bulk is salt water in the oceans, and [3] of the rest is frozen in glaciers. A great [4] of attention has been paid to oil shortages, but far [5] has been paid to water. In [6] a few regions, groundwater is being used faster than it can be replaced. Scores [7] cities, from Mexico City to Chennai, have come close to running dry. [8] single solution will solve the problem; a combination of measures is needed. Few, [9] any, governments have yet taken the issue seriously enough. Unless they do, [10] number of people affected will continue to grow.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "fraction",
+      "proportion",
+      "percentage",
+      "amount",
+      "part"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "vast",
+      "great"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "most",
+      "much"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "deal"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "less"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "quite",
+      "not"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "of"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "No"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "if"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "the"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "quan-001-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "15.4",
+   "type": "mc-cloze",
+   "explanation": "Quantifiers in a description.",
+   "title": "My neighbourhood",
+   "text": "There are [1] shops in my street, but not many restaurants. There’s [2] traffic in the morning, so it’s noisy. [3] house has a small garden. [4] of my neighbours are friendly, but one or two are a bit rude. There isn’t [5] space to park, so I usually walk. There are [6] parks nearby — just one — but it’s lovely. I’ve lived here my [7] life, and I know [8] everyone.",
+   "gaps": [
+    {
+     "options": [
+      "much",
+      "a little",
+      "a lot of",
+      "any"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "many",
+      "few",
+      "a few",
+      "a lot of"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "Every",
+      "All",
+      "Both",
+      "Whole"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "Much",
+      "Most",
+      "Every",
+      "Whole"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "many",
+      "few",
+      "much",
+      "a few"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "a few",
+      "little",
+      "much",
+      "few"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "whole",
+      "all",
+      "every",
+      "total"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "most",
+      "almost",
+      "much",
+      "many"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "quan-001-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "quantifiers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "15.1",
+   "type": "mc-cloze",
+   "explanation": "Quantifiers in academic writing.",
+   "title": "Sleep and memory: the state of research",
+   "text": "A [1] number of studies have examined the link between sleep and memory. [2] of them have found a positive correlation, although [3] have been conducted on adults over sixty. A great [4] of uncertainty remains. [5] of the two main theories has been fully confirmed. [6] few researchers, if [7], would claim that the question is settled. What is clear is that [8] sleep, rather than more, harms memory.",
+   "gaps": [
+    {
+     "options": [
+      "great deal",
+      "much",
+      "large",
+      "lot"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "Much",
+      "Every",
+      "Whole",
+      "Most"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "few",
+      "little",
+      "a little",
+      "much"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "number",
+      "deal",
+      "many",
+      "lot of"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "None",
+      "Either",
+      "Neither",
+      "Both"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "Too",
+      "So",
+      "Much",
+      "Very"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "any",
+      "some",
+      "none",
+      "all"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "fewer",
+      "less",
+      "few",
+      "much"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

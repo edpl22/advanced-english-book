@@ -1,0 +1,1902 @@
+{
+ "topic": "present-past",
+ "batch": 1,
+ "title": "Present and past: simple and continuous",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "pres-001-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.1",
+   "type": "mcq",
+   "explanation": "Scientific fact: present simple.",
+   "prompt": "Water ___ at 100 °C.",
+   "options": [
+    "boils",
+    "is boiling",
+    "boil",
+    "boiled"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pres-001-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.1",
+   "type": "mcq",
+   "explanation": "Happening now: present continuous.",
+   "prompt": "Listen! Someone ___ at the door.",
+   "options": [
+    "knocks",
+    "is knocking",
+    "knock",
+    "knocked"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pres-001-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.2",
+   "type": "mcq",
+   "explanation": "Action in progress interrupted: past continuous.",
+   "prompt": "I ___ a shower when the phone rang.",
+   "options": [
+    "has",
+    "have",
+    "was having",
+    "am having"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pres-001-04",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.2",
+   "type": "mcq",
+   "explanation": "Past simple question: did + subject + base form.",
+   "prompt": "What ___ last weekend?",
+   "options": [
+    "you did",
+    "did you did",
+    "were you do",
+    "did you do"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pres-001-05",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.3",
+   "type": "mcq",
+   "explanation": "Past habit: used to + base form.",
+   "prompt": "I ___ play football every day when I was a child.",
+   "options": [
+    "used to",
+    "use to",
+    "was used to",
+    "am used to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pres-001-06",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.1",
+   "type": "mcq",
+   "explanation": "Permanent situation: present simple.",
+   "prompt": "My sister ___ in a bank.",
+   "options": [
+    "is work",
+    "works",
+    "work",
+    "working"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pres-001-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "1.4",
+   "type": "mcq",
+   "explanation": "Stative verb: present simple.",
+   "prompt": "This soup ___ delicious.",
+   "options": [
+    "is tasting",
+    "taste",
+    "tastes",
+    "is tasted"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pres-001-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "1.1",
+   "type": "mcq",
+   "explanation": "Temporary activity: present continuous.",
+   "prompt": "I ___ for a new job at the moment.",
+   "options": [
+    "look",
+    "looked",
+    "have look",
+    "am looking"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pres-001-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "1.3",
+   "type": "mcq",
+   "explanation": "be used to + -ing.",
+   "prompt": "I’m not ___ getting up so early.",
+   "options": [
+    "used to",
+    "use to",
+    "using to",
+    "usual to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pres-001-10",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "1.2",
+   "type": "mcq",
+   "explanation": "while + past continuous.",
+   "prompt": "While I ___ dinner, the lights went out.",
+   "options": [
+    "cooked",
+    "was cooking",
+    "am cooking",
+    "cook"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pres-001-11",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "1.4",
+   "type": "mcq",
+   "explanation": "see = understand: stative.",
+   "prompt": "I ___ what you mean.",
+   "options": [
+    "am seeing",
+    "seeing",
+    "see",
+    "am see"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pres-001-12",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "1.1",
+   "type": "mcq",
+   "explanation": "always + continuous = annoying habit.",
+   "prompt": "He’s always ___ his keys — it’s so annoying!",
+   "options": [
+    "lose",
+    "lost",
+    "loses",
+    "losing"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pres-001-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.3",
+   "type": "mcq",
+   "explanation": "would for repeated past actions.",
+   "prompt": "When we lived by the sea, we ___ go swimming every morning.",
+   "options": [
+    "would",
+    "were used to",
+    "are used to",
+    "use to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pres-001-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.4",
+   "type": "mcq",
+   "explanation": "think of = consider: dynamic.",
+   "prompt": "We ___ of moving to Portugal next year.",
+   "options": [
+    "think",
+    "are thinking",
+    "thought of",
+    "are think"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pres-001-15",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.2",
+   "type": "mcq",
+   "explanation": "Background description: past continuous.",
+   "prompt": "The sun ___ and the birds were singing as we set off.",
+   "options": [
+    "shines",
+    "is shining",
+    "was shining",
+    "has shone"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pres-001-16",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.4",
+   "type": "mcq",
+   "explanation": "Stative use: the law states.",
+   "prompt": "The new law ___ that all drivers must carry identification.",
+   "options": [
+    "is stating",
+    "state",
+    "stating",
+    "states"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pres-001-17",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.1",
+   "type": "mcq",
+   "explanation": "Changing situation: present continuous.",
+   "prompt": "Little by little, the economy ___.",
+   "options": [
+    "is recovering",
+    "recovers",
+    "recover",
+    "has recover"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pres-001-18",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.1",
+   "type": "mcq",
+   "explanation": "Formal letters: I am writing to…",
+   "prompt": "I ___ to apologise for the delay in replying to your email.",
+   "options": [
+    "write",
+    "am writing",
+    "wrote",
+    "have write"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pres-001-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.1",
+   "type": "gap",
+   "explanation": "Negative present simple.",
+   "prompt": "She ___ coffee in the morning — she prefers tea.",
+   "acceptedAnswers": [
+    "doesn’t drink",
+    "does not drink"
+   ],
+   "cue": "not / drink"
+  },
+  {
+   "id": "pres-001-20",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.2",
+   "type": "gap",
+   "explanation": "Past simple question.",
+   "prompt": "Where ___ on holiday last year?",
+   "acceptedAnswers": [
+    "did you go"
+   ],
+   "cue": "you / go"
+  },
+  {
+   "id": "pres-001-21",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.1",
+   "type": "gap",
+   "explanation": "Happening now.",
+   "prompt": "Look outside! It ___.",
+   "acceptedAnswers": [
+    "is snowing"
+   ],
+   "cue": "snow"
+  },
+  {
+   "id": "pres-001-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "1.2",
+   "type": "gap",
+   "explanation": "Action in progress.",
+   "prompt": "I ___ along the street when I saw an old friend.",
+   "acceptedAnswers": [
+    "was walking"
+   ],
+   "cue": "walk"
+  },
+  {
+   "id": "pres-001-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "1.1",
+   "type": "gap",
+   "explanation": "Temporary situation.",
+   "prompt": "He usually drives to work, but this week he ___ the bus.",
+   "acceptedAnswers": [
+    "is taking"
+   ],
+   "cue": "take"
+  },
+  {
+   "id": "pres-001-24",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "1.3",
+   "type": "gap",
+   "explanation": "Past state: used to.",
+   "prompt": "I ___ live in Salvador, but now I live in Recife.",
+   "acceptedAnswers": [
+    "used to"
+   ],
+   "cue": "use"
+  },
+  {
+   "id": "pres-001-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.3",
+   "type": "gap",
+   "explanation": "would for past habits.",
+   "prompt": "When I was young, my grandfather ___ us stories every night.",
+   "acceptedAnswers": [
+    "would tell"
+   ],
+   "cue": "would / tell"
+  },
+  {
+   "id": "pres-001-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.4",
+   "type": "gap",
+   "explanation": "have = hold (an event): dynamic.",
+   "prompt": "We ___ a party on Saturday — can you come?",
+   "acceptedAnswers": [
+    "are having"
+   ],
+   "cue": "have"
+  },
+  {
+   "id": "pres-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "1.4",
+   "type": "gap",
+   "explanation": "be + continuous = temporary behaviour.",
+   "prompt": "You ___ silly — of course she likes you!",
+   "acceptedAnswers": [
+    "are being"
+   ],
+   "cue": "be"
+  },
+  {
+   "id": "pres-001-28",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.1",
+   "type": "gap",
+   "explanation": "Ongoing process.",
+   "prompt": "The firm ___ hiring more staff, but nothing has been decided.",
+   "acceptedAnswers": [
+    "is considering"
+   ],
+   "cue": "consider"
+  },
+  {
+   "id": "pres-001-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "1.3",
+   "type": "kwt",
+   "explanation": "Past habit: used to.",
+   "first": "I was a smoker, but I stopped.",
+   "keyword": "USED",
+   "before": "I",
+   "after": "smoke.",
+   "acceptedAnswers": [
+    "used to"
+   ]
+  },
+  {
+   "id": "pres-001-30",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "1.3",
+   "type": "kwt",
+   "explanation": "be used to + -ing.",
+   "first": "It’s strange for me to drive on the left.",
+   "keyword": "USED",
+   "before": "I’m not",
+   "after": "on the left.",
+   "acceptedAnswers": [
+    "used to driving"
+   ]
+  },
+  {
+   "id": "pres-001-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.2",
+   "type": "kwt",
+   "explanation": "Interrupted action: past continuous.",
+   "first": "In the middle of my presentation, the projector stopped working.",
+   "keyword": "GIVING",
+   "before": "I",
+   "after": "my presentation when the projector stopped working.",
+   "acceptedAnswers": [
+    "was giving"
+   ]
+  },
+  {
+   "id": "pres-001-32",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.1",
+   "type": "kwt",
+   "explanation": "always + continuous = annoying habit.",
+   "first": "He complains all the time, which is irritating.",
+   "keyword": "ALWAYS",
+   "before": "He",
+   "after": ", which is irritating.",
+   "acceptedAnswers": [
+    "is always complaining"
+   ]
+  },
+  {
+   "id": "pres-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "1.3",
+   "type": "kwt",
+   "explanation": "be accustomed to + -ing.",
+   "first": "Getting up early is still difficult for her.",
+   "keyword": "ACCUSTOMED",
+   "before": "She still isn’t",
+   "after": "up early.",
+   "acceptedAnswers": [
+    "accustomed to getting"
+   ]
+  },
+  {
+   "id": "pres-001-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.4",
+   "type": "error-correction",
+   "explanation": "like is a stative verb.",
+   "parts": [
+    "I ",
+    {
+     "u": "am liking"
+    },
+    " this music ",
+    {
+     "u": "very much"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "like",
+    "really like"
+   ]
+  },
+  {
+   "id": "pres-001-35",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.2",
+   "type": "error-correction",
+   "explanation": "didn’t + base form.",
+   "parts": [
+    "She ",
+    {
+     "u": "didn’t went"
+    },
+    " to school ",
+    {
+     "u": "yesterday"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "didn’t go",
+    "did not go"
+   ]
+  },
+  {
+   "id": "pres-001-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "1.3",
+   "type": "error-correction",
+   "explanation": "used to (affirmative).",
+   "parts": [
+    "I ",
+    {
+     "u": "use to"
+    },
+    " go to the beach ",
+    {
+     "u": "every"
+    },
+    " weekend when I was a child."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "used to"
+   ]
+  },
+  {
+   "id": "pres-001-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.2",
+   "type": "error-correction",
+   "explanation": "Background action: past continuous.",
+   "parts": [
+    "While we ",
+    {
+     "u": "walked"
+    },
+    " in the park, it ",
+    {
+     "u": "started"
+    },
+    " to rain."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "were walking"
+   ]
+  },
+  {
+   "id": "pres-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "1.3",
+   "type": "error-correction",
+   "explanation": "be used to + -ing.",
+   "parts": [
+    "I’m ",
+    {
+     "u": "used to work"
+    },
+    " at night, so I don’t ",
+    {
+     "u": "mind"
+    },
+    " the late shifts."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "used to working",
+    "accustomed to working"
+   ]
+  },
+  {
+   "id": "pres-001-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.1",
+   "type": "word-order",
+   "explanation": "Present continuous question.",
+   "fragments": [
+    "Why",
+    "is",
+    "the",
+    "baby",
+    "crying",
+    "again?"
+   ],
+   "acceptedAnswers": [
+    "Why is the baby crying again?"
+   ]
+  },
+  {
+   "id": "pres-001-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "1.2",
+   "type": "word-order",
+   "explanation": "Past continuous + past simple.",
+   "fragments": [
+    "I",
+    "was",
+    "having",
+    "lunch",
+    "when",
+    "she",
+    "called."
+   ],
+   "acceptedAnswers": [
+    "I was having lunch when she called.",
+    "When she called, I was having lunch."
+   ]
+  },
+  {
+   "id": "pres-001-41",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.3",
+   "type": "word-order",
+   "explanation": "would for past habits.",
+   "fragments": [
+    "My",
+    "grandmother",
+    "would",
+    "bake",
+    "bread",
+    "every Sunday."
+   ],
+   "acceptedAnswers": [
+    "My grandmother would bake bread every Sunday.",
+    "Every Sunday my grandmother would bake bread."
+   ]
+  },
+  {
+   "id": "pres-001-42",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.1",
+   "type": "matching",
+   "explanation": "Uses of the present tenses.",
+   "prompt": "Match each sentence with its use.",
+   "left": [
+    "I work in a bank.",
+    "I’m working in a bank this summer.",
+    "The train leaves at six.",
+    "She’s always leaving the door open!",
+    "Water freezes at 0 °C."
+   ],
+   "right": [
+    "a temporary situation",
+    "a permanent situation",
+    "an annoying habit",
+    "a scientific fact",
+    "a timetable",
+    "a past habit"
+   ],
+   "answer": [
+    1,
+    0,
+    4,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "pres-001-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "1.3",
+   "type": "matching",
+   "explanation": "used to, be used to, get used to, would.",
+   "prompt": "Match each sentence with its meaning.",
+   "left": [
+    "I used to live in Rio.",
+    "I’m used to living in Rio.",
+    "I’m getting used to living in Rio.",
+    "I would walk to school.",
+    "I was walking to school."
+   ],
+   "right": [
+    "It is no longer strange for me.",
+    "It is becoming less strange for me.",
+    "I lived there before, but not now.",
+    "A repeated action in the past.",
+    "An action in progress at a past moment.",
+    "I will live there."
+   ],
+   "answer": [
+    2,
+    0,
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "pres-001-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.4",
+   "type": "matching",
+   "explanation": "Verbs with stative and dynamic meanings.",
+   "prompt": "State or action? Match each beginning with its ending.",
+   "left": [
+    "I think",
+    "I’m thinking",
+    "She has",
+    "She’s having",
+    "It tastes"
+   ],
+   "right": [
+    "about it — give me a minute.",
+    "a shower right now.",
+    "that you’re right.",
+    "of salt.",
+    "three brothers.",
+    "tasted."
+   ],
+   "answer": [
+    2,
+    0,
+    4,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "pres-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "1.4",
+   "type": "matching",
+   "explanation": "Stative and dynamic meanings.",
+   "prompt": "Match each sentence with its meaning.",
+   "left": [
+    "He’s being rude.",
+    "He’s rude.",
+    "I’m seeing the doctor tomorrow.",
+    "I see what you mean.",
+    "The jacket fits you."
+   ],
+   "right": [
+    "This is his character.",
+    "This is his behaviour now.",
+    "I understand.",
+    "I have an appointment.",
+    "It is the right size.",
+    "I am looking at it."
+   ],
+   "answer": [
+    1,
+    0,
+    3,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "pres-001-46",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.1",
+   "type": "open-cloze",
+   "explanation": "Present and past tenses in a personal account.",
+   "title": "My morning routine",
+   "text": "I usually [1] up at seven o’clock. First, I [2] a shower and then I have breakfast. I [3] drink coffee — I prefer tea. I leave home at eight and [4] the bus to work. This week, however, I [5] working from home because the office is being painted. Yesterday I [6] up late because I didn’t have to travel. While I [7] having breakfast, my neighbour knocked on the door. She [8] to ask if I could help her with her computer. I [9] to be good with computers when I was at school, so I agreed. We [10] two hours trying to fix it!",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "get",
+      "wake"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "have",
+      "take"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "don’t",
+      "never"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "take",
+      "catch",
+      "get"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "am"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "got",
+      "woke",
+      "stayed"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "was"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "wanted",
+      "came"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "used"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "spent"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pres-001-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.3",
+   "type": "open-cloze",
+   "explanation": "would, used to, be used to and the past continuous.",
+   "title": "Childhood summers",
+   "text": "When I was a child, we [1] spend every summer at my grandparents’ farm. My grandfather [2] get up before dawn to milk the cows, and he was [3] whistling as he worked. We children were not [4] to getting up so early, so we [5] usually still asleep when he came back. In the afternoons, while the adults [6] resting, we [7] explore the woods. I remember one day in particular: it [8] raining heavily and we [9] playing in the barn when the roof suddenly collapsed. Nobody was hurt, but I [10] never forget the noise.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "would"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "would"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "always"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "used",
+      "accustomed"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "were"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "were"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "would"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "was"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "were"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "will",
+      "shall"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pres-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "1.4",
+   "type": "open-cloze",
+   "explanation": "Present simple and continuous, used to and get used to.",
+   "title": "A new city",
+   "text": "Every morning, the city [1] to life slowly. Shopkeepers are [2] up their shutters, and the smell of coffee [3] the air. I am still not used [4] the noise, but I am [5] used to it. At home in Brazil, I [6] to wake up to the sound of birds; here it is trams. My flatmate, who is [7] patient than I am, says I complain too much. Perhaps she is right: I am [8] complaining about something. But this week I [9] trying to be more positive. After all, I [10] here because I wanted a change.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "comes"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "putting",
+      "pulling",
+      "opening",
+      "rolling"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "fills"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "getting",
+      "becoming",
+      "growing"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "used"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "more"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "always",
+      "constantly",
+      "forever",
+      "continually"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "am"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "am",
+      "came"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pres-001-49",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "1.2",
+   "type": "mc-cloze",
+   "explanation": "Present and past tenses in a letter.",
+   "title": "A letter from Lisbon",
+   "text": "Dear Mum, I [1] this letter from a café in Lisbon. The weather [2] lovely and the people [3] very friendly. Every day I [4] Portuguese lessons in the morning. Yesterday I [5] to Sintra by train. While I [6] around the palace, I met a girl from Recife! We [7] dinner together tonight. I [8] you. Love, Sofia.",
+   "gaps": [
+    {
+     "options": [
+      "write",
+      "wrote",
+      "am writing",
+      "writes"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "are",
+      "be",
+      "being",
+      "is"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "are",
+      "is",
+      "be",
+      "being"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "am have",
+      "have",
+      "had",
+      "has"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "go",
+      "have gone",
+      "went",
+      "goes"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "walk",
+      "am walking",
+      "have walked",
+      "was walking"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "are having",
+      "have",
+      "had",
+      "has"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "missing",
+      "miss",
+      "misses",
+      "am miss"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "pres-001-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "present-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "1.3",
+   "type": "mc-cloze",
+   "explanation": "Present and past habits.",
+   "title": "Changing habits",
+   "text": "Brazilians [1] more coffee than almost anyone else, but habits [2]. Young people, who [3] to drink instant coffee, [4] increasingly turning to speciality brands. Many [5] getting used to paying more for quality. In the past, coffee would usually [6] drunk with lots of sugar; today, more people [7] it black. Producers, who for decades [8] most of their best beans, are now selling them at home.",
+   "gaps": [
+    {
+     "options": [
+      "have drink",
+      "drank",
+      "drink",
+      "drinks"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "changing",
+      "changed",
+      "have change",
+      "are changing"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "used",
+      "use",
+      "were used",
+      "are used"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "were",
+      "are",
+      "have",
+      "do"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "have",
+      "do",
+      "are",
+      "had"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "been",
+      "being",
+      "was",
+      "be"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "take",
+      "takes",
+      "took",
+      "taking"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "export",
+      "exported",
+      "are exporting",
+      "would to export"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

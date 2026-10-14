@@ -1,0 +1,296 @@
+{
+ "id": "r048",
+ "title": "Thinking Under Fire",
+ "level": "C1",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ITA",
+  "IME",
+  "EN",
+  "EFOMM",
+  "AFA",
+  "EsPCEx"
+ ],
+ "text": "Military training manuals have traditionally presented decision-making as a rational sequence: gather information, identify the options, compare them against the objective, and select the best. This analytical model has obvious merits, and it remains the basis of planning at higher levels of command. Yet researchers who have studied how experienced professionals actually make decisions under pressure — firefighters, pilots, intensive care nurses and military commanders — have found that they rarely follow it.\n\nOne influential line of research, often associated with the term \"naturalistic decision-making\", found that experienced commanders facing a time-critical situation seldom compared several options at all. Instead, they recognised the situation as similar to ones they had encountered before, identified a plausible course of action almost immediately, and then mentally simulated it to check for problems. If the simulation revealed a flaw, they modified the plan or moved on to the next option that came to mind. The process was fast, largely intuitive, and remarkably effective — provided that the decision-maker had sufficient relevant experience.\n\nThis finding has important implications for training. If expert decisions rely on a rich store of recognised patterns, then the priority is to help trainees build that store as efficiently as possible. Realistic exercises, simulations and the careful study of past cases, including failures, can expose junior leaders to a far wider range of situations than they would encounter in normal service. Equally important is the practice of reviewing decisions afterwards, so that experience is turned into understanding rather than merely accumulated.\n\nStress complicates the picture. Moderate levels of stress can sharpen attention, but intense or prolonged stress narrows it, a phenomenon sometimes described as tunnel vision. Under severe pressure, people tend to focus on the most immediate threat, to disregard information that contradicts their initial interpretation and to fall back on habitual responses, whether or not they suit the situation. Fatigue and sleep deprivation, common in military operations, amplify these effects.\n\nSeveral remedies have been proposed. Procedures and checklists can reduce the burden on working memory in critical moments. Training under realistic stress may make people less vulnerable to it. Some armed forces have also adopted techniques designed to counter the tendency to cling to a first interpretation, such as appointing someone to argue deliberately against the prevailing plan.\n\nNone of this means that analysis should be abandoned. Rather, it suggests that the two modes of thinking are complementary. Intuition allows rapid action when time is short; analysis provides a check when time allows. The skilled leader is not the one who always reasons slowly or always acts on instinct, but the one who knows which the situation demands.",
+ "glossary": [
+  [
+   "working memory",
+   "the part of memory that holds information briefly while it is being used"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r048-q01",
+   "type": "reading",
+   "passageId": "r048",
+   "prompt": "What does paragraph 1 say about the traditional analytical model?",
+   "options": [
+    "It is never used in the military.",
+    "It is the way all experts make decisions.",
+    "It has merits, but experts under pressure rarely follow it.",
+    "It was invented by firefighters."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Researchers found professionals rarely follow it under pressure."
+  },
+  {
+   "id": "r048-q02",
+   "type": "reading",
+   "passageId": "r048",
+   "prompt": "According to research on naturalistic decision-making, how do experienced commanders decide in time-critical situations?",
+   "options": [
+    "They compare all available options systematically.",
+    "They always ask their superiors.",
+    "They recognise the situation and quickly test a plausible option mentally.",
+    "They choose an option at random."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Recognition, immediate option, mental simulation."
+  },
+  {
+   "id": "r048-q03",
+   "type": "reading",
+   "passageId": "r048",
+   "prompt": "What condition is necessary for this intuitive process to be effective?",
+   "options": [
+    "The situation must be completely new.",
+    "There must be plenty of time.",
+    "The decision must be made by a group.",
+    "The decision-maker must have enough relevant experience."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“provided that the decision-maker had sufficient relevant experience”."
+  },
+  {
+   "id": "r048-q04",
+   "type": "reading",
+   "passageId": "r048",
+   "prompt": "Why does the author recommend studying past failures?",
+   "options": [
+    "They show that intuition is always wrong.",
+    "They expand the range of situations that trainees learn to recognise.",
+    "They are more interesting than successes.",
+    "They help identify who was responsible."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Exposing junior leaders to a wider range of situations."
+  },
+  {
+   "id": "r048-q05",
+   "type": "reading",
+   "passageId": "r048",
+   "prompt": "What is the purpose of reviewing decisions afterwards?",
+   "options": [
+    "To turn experience into understanding",
+    "To punish incorrect decisions",
+    "To record events for history",
+    "To reduce the length of training"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“so that experience is turned into understanding rather than merely accumulated”."
+  },
+  {
+   "id": "r048-q06",
+   "type": "reading",
+   "passageId": "r048",
+   "prompt": "Which effect of intense stress is NOT mentioned in paragraph 4?",
+   "options": [
+    "focusing on the most immediate threat",
+    "disregarding contradictory information",
+    "falling back on habitual responses",
+    "a tendency to take more time over decisions"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Taking more time is not mentioned."
+  },
+  {
+   "id": "r048-q07",
+   "type": "reading",
+   "passageId": "r048",
+   "prompt": "The phrase “tunnel vision” in paragraph 4 refers to",
+   "options": [
+    "a problem with eyesight",
+    "a narrowing of attention",
+    "a type of night vision equipment",
+    "the ability to see far ahead"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Intense stress narrows attention."
+  },
+  {
+   "id": "r048-q08",
+   "type": "reading",
+   "passageId": "r048",
+   "prompt": "Why do some armed forces appoint someone to argue against the prevailing plan?",
+   "options": [
+    "To counter the tendency to cling to a first interpretation",
+    "To test the loyalty of officers",
+    "To slow down all decisions",
+    "To give junior officers more power"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 5."
+  },
+  {
+   "id": "r048-q09",
+   "type": "reading",
+   "passageId": "r048",
+   "prompt": "What is the author's conclusion about intuition and analysis?",
+   "options": [
+    "They are complementary, and leaders must know when to use each.",
+    "Analysis should be replaced by intuition.",
+    "Intuition is too dangerous for the military.",
+    "Both are equally unreliable."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“the two modes of thinking are complementary”."
+  }
+ ]
+}

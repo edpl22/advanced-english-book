@@ -1,0 +1,1908 @@
+{
+ "topic": "narrative-tenses",
+ "batch": 1,
+ "title": "Narrative tenses",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "narr-001-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "mcq",
+   "explanation": "Earlier past action: past perfect.",
+   "prompt": "When I arrived at the station, the train ___.",
+   "options": [
+    "had left",
+    "has left",
+    "leaves",
+    "was leave"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "narr-001-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "mcq",
+   "explanation": "Action in progress: past continuous.",
+   "prompt": "She ___ TV when the lights went out.",
+   "options": [
+    "watched",
+    "was watching",
+    "is watching",
+    "has watched"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "narr-001-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "mcq",
+   "explanation": "Completed past action: past simple.",
+   "prompt": "Yesterday I ___ my grandmother and we had lunch together.",
+   "options": [
+    "was visiting",
+    "have visited",
+    "visited",
+    "had visit"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "narr-001-04",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.3",
+   "type": "mcq",
+   "explanation": "Sequencing: then.",
+   "prompt": "First we bought the tickets. ___, we went inside.",
+   "options": [
+    "When",
+    "While",
+    "Until",
+    "Then"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "narr-001-05",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "mcq",
+   "explanation": "Short action interrupting a longer one.",
+   "prompt": "Paulo ___ his leg while he was playing football.",
+   "options": [
+    "broke",
+    "was breaking",
+    "has broken",
+    "breaks"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "narr-001-06",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "3.2",
+   "type": "mcq",
+   "explanation": "Visible result of an earlier activity.",
+   "prompt": "Her eyes were red because she ___.",
+   "options": [
+    "has cried",
+    "had been crying",
+    "is crying",
+    "was cry"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "narr-001-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "mcq",
+   "explanation": "Earlier past: past perfect.",
+   "prompt": "I couldn’t pay because I ___ my wallet at home.",
+   "options": [
+    "have left",
+    "was leaving",
+    "had left",
+    "leave"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "narr-001-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "3.3",
+   "type": "mcq",
+   "explanation": "while + clause.",
+   "prompt": "___ I was waiting for the bus, I read the news on my phone.",
+   "options": [
+    "During",
+    "After",
+    "Then",
+    "While"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "narr-001-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "3.3",
+   "type": "mcq",
+   "explanation": "not… until.",
+   "prompt": "The concert didn’t begin ___ the band had finished the sound check.",
+   "options": [
+    "until",
+    "while",
+    "during",
+    "by"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "narr-001-10",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "3.4",
+   "type": "mcq",
+   "explanation": "Unfulfilled plan: was going to.",
+   "prompt": "I ___ to finish the report on Friday, but my computer crashed.",
+   "options": [
+    "am going",
+    "was going",
+    "will go",
+    "have gone"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "narr-001-11",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "mcq",
+   "explanation": "Past perfect after realise.",
+   "prompt": "He suddenly realised that he ___ the wrong train.",
+   "options": [
+    "has taken",
+    "takes",
+    "had taken",
+    "was take"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "narr-001-12",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "3.2",
+   "type": "mcq",
+   "explanation": "Duration up to a past moment.",
+   "prompt": "How long ___ in the queue when the doors finally opened?",
+   "options": [
+    "have they waited",
+    "are they waiting",
+    "they had been waiting",
+    "had they been waiting"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "narr-001-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.2",
+   "type": "mcq",
+   "explanation": "by + past perfect continuous.",
+   "prompt": "By midnight, the guests ___ for five hours.",
+   "options": [
+    "had been dancing",
+    "danced",
+    "have been dancing",
+    "were dance"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "narr-001-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.4",
+   "type": "mcq",
+   "explanation": "was about to = very soon (in the past).",
+   "prompt": "Just as I ___ to give up, she called.",
+   "options": [
+    "am about",
+    "was about",
+    "had about",
+    "will about"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "narr-001-15",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.3",
+   "type": "mcq",
+   "explanation": "by the time + past perfect.",
+   "prompt": "___ the time the rescue team arrived, the climbers had been in the snow for two days.",
+   "options": [
+    "Until",
+    "Since",
+    "By",
+    "For"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "narr-001-16",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.4",
+   "type": "mcq",
+   "explanation": "was due to = was scheduled to.",
+   "prompt": "The ceremony ___ to take place in June, but it was postponed.",
+   "options": [
+    "is due",
+    "had due",
+    "was due for",
+    "was due"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "narr-001-17",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "3.4",
+   "type": "mcq",
+   "explanation": "Future in the past: would.",
+   "prompt": "Little did she know that she ___ never see her homeland again.",
+   "options": [
+    "would",
+    "will",
+    "had",
+    "was"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "narr-001-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "mcq",
+   "explanation": "No sooner had + subject + past participle.",
+   "prompt": "No sooner ___ the car than it broke down again.",
+   "options": [
+    "we had repaired",
+    "had we repaired",
+    "did we repair",
+    "we repaired"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "narr-001-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "gap",
+   "explanation": "Sequence of past actions.",
+   "prompt": "When I ___ home, I took a shower.",
+   "acceptedAnswers": [
+    "got"
+   ],
+   "cue": "get"
+  },
+  {
+   "id": "narr-001-20",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "gap",
+   "explanation": "Background: past continuous.",
+   "prompt": "It ___ when we left the house.",
+   "acceptedAnswers": [
+    "was raining"
+   ],
+   "cue": "rain"
+  },
+  {
+   "id": "narr-001-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "gap",
+   "explanation": "Earlier past: past perfect.",
+   "prompt": "She ___ a lot of weight because she had been ill.",
+   "acceptedAnswers": [
+    "had lost"
+   ],
+   "cue": "lose"
+  },
+  {
+   "id": "narr-001-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "3.2",
+   "type": "gap",
+   "explanation": "Duration before a past moment.",
+   "prompt": "They ___ for hours when they finally found a hotel.",
+   "acceptedAnswers": [
+    "had been driving"
+   ],
+   "cue": "drive"
+  },
+  {
+   "id": "narr-001-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "gap",
+   "explanation": "Earlier past.",
+   "prompt": "The house was quiet. Everyone ___ to bed.",
+   "acceptedAnswers": [
+    "had gone"
+   ],
+   "cue": "go"
+  },
+  {
+   "id": "narr-001-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "gap",
+   "explanation": "Past perfect for the cause.",
+   "prompt": "He was furious because someone ___ his car.",
+   "acceptedAnswers": [
+    "had scratched"
+   ],
+   "cue": "scratch"
+  },
+  {
+   "id": "narr-001-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "gap",
+   "explanation": "Negative past perfect.",
+   "prompt": "When the guests arrived, Ana ___ the cake.",
+   "acceptedAnswers": [
+    "hadn’t finished",
+    "had not finished"
+   ],
+   "cue": "not / finish"
+  },
+  {
+   "id": "narr-001-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.2",
+   "type": "gap",
+   "explanation": "Duration before a past event.",
+   "prompt": "I ___ in Recife for ten years before I moved to Lisbon.",
+   "acceptedAnswers": [
+    "had lived",
+    "had been living"
+   ],
+   "cue": "live"
+  },
+  {
+   "id": "narr-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "3.4",
+   "type": "gap",
+   "explanation": "Unfulfilled plan.",
+   "prompt": "We ___ to stay at a hotel, but my aunt insisted we stay with her.",
+   "acceptedAnswers": [
+    "had meant",
+    "meant"
+   ],
+   "cue": "mean"
+  },
+  {
+   "id": "narr-001-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "3.3",
+   "type": "gap",
+   "explanation": "Hardly had… when.",
+   "prompt": "Hardly ___ the match begun when it started to pour.",
+   "acceptedAnswers": [
+    "had"
+   ],
+   "cue": "have"
+  },
+  {
+   "id": "narr-001-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "3.3",
+   "type": "kwt",
+   "explanation": "after + past perfect / past simple.",
+   "first": "I arrived and then the film started.",
+   "keyword": "AFTER",
+   "before": "The film started",
+   "after": "arrived.",
+   "acceptedAnswers": [
+    "after I had",
+    "after I"
+   ]
+  },
+  {
+   "id": "narr-001-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "kwt",
+   "explanation": "It was the first time + past perfect.",
+   "first": "I had never eaten sushi before that day.",
+   "keyword": "FIRST",
+   "before": "It was the",
+   "after": "sushi.",
+   "acceptedAnswers": [
+    "first time I had eaten",
+    "first time I’d eaten",
+    "first time I had tried",
+    "first time I had had"
+   ]
+  },
+  {
+   "id": "narr-001-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.2",
+   "type": "kwt",
+   "explanation": "Duration before a past event.",
+   "first": "She started working at the company in 2010 and left in 2020.",
+   "keyword": "BEEN",
+   "before": "She",
+   "after": "at the company for ten years when she left.",
+   "acceptedAnswers": [
+    "had been working"
+   ]
+  },
+  {
+   "id": "narr-001-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "3.4",
+   "type": "kwt",
+   "explanation": "Unfulfilled plan.",
+   "first": "We intended to visit the museum, but it was closed.",
+   "keyword": "MEANT",
+   "before": "We",
+   "after": "the museum, but it was closed.",
+   "acceptedAnswers": [
+    "had meant to visit",
+    "meant to visit"
+   ]
+  },
+  {
+   "id": "narr-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "3.3",
+   "type": "kwt",
+   "explanation": "No sooner had… than.",
+   "first": "The moment she sat down, the phone rang.",
+   "keyword": "SOONER",
+   "before": "No",
+   "after": "down than the phone rang.",
+   "acceptedAnswers": [
+    "sooner had she sat"
+   ]
+  },
+  {
+   "id": "narr-001-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "error-correction",
+   "explanation": "while + past continuous.",
+   "parts": [
+    "While I ",
+    {
+     "u": "walked"
+    },
+    " home, I ",
+    {
+     "u": "saw"
+    },
+    " an accident."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "was walking"
+   ]
+  },
+  {
+   "id": "narr-001-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "error-correction",
+   "explanation": "Past perfect in a past narrative.",
+   "parts": [
+    "When we got to the station, the train ",
+    {
+     "u": "has"
+    },
+    " already ",
+    {
+     "u": "left"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "had"
+   ]
+  },
+  {
+   "id": "narr-001-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "error-correction",
+   "explanation": "Simple past event: past simple.",
+   "parts": [
+    "I ",
+    {
+     "u": "had seen"
+    },
+    " him yesterday at the ",
+    {
+     "u": "supermarket"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "saw"
+   ]
+  },
+  {
+   "id": "narr-001-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.2",
+   "type": "error-correction",
+   "explanation": "Cause before the past moment: past perfect (continuous).",
+   "parts": [
+    "She was tired because she ",
+    {
+     "u": "was working"
+    },
+    " all day ",
+    {
+     "u": "without"
+    },
+    " a break."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "had been working",
+    "had worked"
+   ]
+  },
+  {
+   "id": "narr-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "3.2",
+   "type": "error-correction",
+   "explanation": "Past perfect for the earlier cause.",
+   "parts": [
+    "The match ",
+    {
+     "u": "was"
+    },
+    " cancelled because it ",
+    {
+     "u": "has rained"
+    },
+    " all week."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "had rained",
+    "had been raining"
+   ]
+  },
+  {
+   "id": "narr-001-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "word-order",
+   "explanation": "Past continuous + past simple.",
+   "fragments": [
+    "We",
+    "were",
+    "having",
+    "dinner",
+    "when",
+    "the",
+    "lights",
+    "went out."
+   ],
+   "acceptedAnswers": [
+    "We were having dinner when the lights went out.",
+    "When the lights went out, we were having dinner."
+   ]
+  },
+  {
+   "id": "narr-001-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "word-order",
+   "explanation": "Past perfect + never… before.",
+   "fragments": [
+    "She",
+    "had",
+    "never",
+    "travelled",
+    "by",
+    "plane",
+    "before."
+   ],
+   "acceptedAnswers": [
+    "She had never travelled by plane before."
+   ]
+  },
+  {
+   "id": "narr-001-41",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.2",
+   "type": "word-order",
+   "explanation": "Past perfect continuous.",
+   "fragments": [
+    "I",
+    "had",
+    "been",
+    "studying",
+    "for",
+    "hours",
+    "when you called."
+   ],
+   "acceptedAnswers": [
+    "I had been studying for hours when you called."
+   ]
+  },
+  {
+   "id": "narr-001-42",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "matching",
+   "explanation": "Narrative tenses change the order of events.",
+   "prompt": "Match each sentence with its meaning.",
+   "left": [
+    "When the guests arrived, the chef left.",
+    "When the guests arrived, the chef had left.",
+    "When the guests arrived, the chef was leaving.",
+    "When the guests arrived, the chef was about to leave.",
+    "When the guests arrived, the chef had been cooking for hours."
+   ],
+   "right": [
+    "He was going to leave very soon.",
+    "He never left.",
+    "He left before they arrived.",
+    "He had cooked for a long time.",
+    "He left after they arrived.",
+    "He was in the middle of leaving."
+   ],
+   "answer": [
+    4,
+    2,
+    5,
+    0,
+    3
+   ]
+  },
+  {
+   "id": "narr-001-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "3.2",
+   "type": "matching",
+   "explanation": "Narrative tenses.",
+   "prompt": "Name each tense.",
+   "left": [
+    "had been working",
+    "had worked",
+    "was working",
+    "worked",
+    "was going to work"
+   ],
+   "right": [
+    "past simple",
+    "present perfect",
+    "past perfect continuous",
+    "future in the past",
+    "past continuous",
+    "past perfect simple"
+   ],
+   "answer": [
+    2,
+    5,
+    4,
+    0,
+    3
+   ]
+  },
+  {
+   "id": "narr-001-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.3",
+   "type": "matching",
+   "explanation": "Time linkers in narratives.",
+   "prompt": "Match each beginning with its ending.",
+   "left": [
+    "As soon as she heard the news,",
+    "By the time help arrived,",
+    "While the band was playing,",
+    "Until she read the letter,",
+    "No sooner had he sat down"
+   ],
+   "right": [
+    "than the phone rang.",
+    "she had no idea what had happened.",
+    "when the phone rang.",
+    "she called her parents.",
+    "someone stole my bag.",
+    "the fire had been put out."
+   ],
+   "answer": [
+    3,
+    5,
+    4,
+    1,
+    0
+   ]
+  },
+  {
+   "id": "narr-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "3.4",
+   "type": "matching",
+   "explanation": "Plans and habits in the past.",
+   "prompt": "Match each sentence with its meaning.",
+   "left": [
+    "I was to have flown on Monday.",
+    "I was to fly on Monday.",
+    "I was about to fly when the strike began.",
+    "I had been flying for years.",
+    "I would fly on Mondays."
+   ],
+   "right": [
+    "It will happen.",
+    "It was a past habit.",
+    "It was planned but didn’t happen.",
+    "It was going to happen very soon.",
+    "It was planned (we don’t know if it happened).",
+    "It was a long activity before another past moment."
+   ],
+   "answer": [
+    2,
+    4,
+    3,
+    5,
+    1
+   ]
+  },
+  {
+   "id": "narr-001-46",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "open-cloze",
+   "explanation": "Narrative tenses in a simple story.",
+   "title": "A lucky day",
+   "text": "Last Saturday, I [1] up early because I [2] going to the beach with my friends. While I [3] waiting for the bus, I saw something on the ground. It was a wallet! Someone [4] dropped it. I [5] it and looked inside. There [6] some money and an ID card. I took it to the police station. A few hours later, the owner [7] me to say thank you. She told me she [8] been looking for it all morning. She was so happy that she [9] me a reward, but I said no. It [10] a good day.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "got",
+      "woke"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "was"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "was"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "took",
+      "opened",
+      "grabbed"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "was"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "called",
+      "phoned",
+      "rang",
+      "contacted",
+      "texted",
+      "messaged"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "offered"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "was"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "narr-001-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.2",
+   "type": "open-cloze",
+   "explanation": "Past perfect, past continuous and past simple.",
+   "title": "The interview",
+   "text": "I [1] been dreading the interview for weeks. On the day, I left home early, but the traffic was terrible and by the time I [2] the office, the other candidates had [3] arrived. I [4] been told to bring three copies of my CV, but I had only printed one. As I [5] waiting, I noticed that my hands were shaking. When my name was finally called, I [6] about to panic. The interviewer, however, [7] out to be very friendly. She told me she [8] read my CV the night before and liked it. By the end of the interview, I [9] forgotten my nerves completely. A week later, I [10] offered the job.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "reached",
+      "entered"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "all",
+      "already"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "was",
+      "sat",
+      "stood"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "was"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "turned"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "was"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "narr-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "open-cloze",
+   "explanation": "Narrative tenses in a formal account.",
+   "title": "An unexpected discovery",
+   "text": "The farmer [1] been ploughing the same field for forty years when his blade struck something hard. At first he assumed it [2] a rock. Only when he [3] scraped away the soil did he realise that he [4] uncovered a stone coffin. Archaeologists, who [5] been searching the area for a Roman villa for decades, were astonished. The coffin, [6] they later dated to the third century, had been buried [7] before the villa was built. It [8] to take another two years before the site was fully excavated. Had the farmer not been so curious, the coffin [9] still be lying there today. He was later [10] that he could keep a replica.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "was"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "which"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "long",
+      "centuries",
+      "years",
+      "decades",
+      "well",
+      "shortly",
+      "just"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "was"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "would",
+      "might",
+      "could",
+      "may"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "told",
+      "promised",
+      "assured"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "narr-001-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "3.1",
+   "type": "mc-cloze",
+   "explanation": "Narrative tenses in a story.",
+   "title": "A strange night",
+   "text": "It [1] a dark and stormy night. I [2] reading in bed when I [3] a noise downstairs. I [4] that my parents [5] out to a party, so I was alone. I [6] downstairs slowly. The front door was open! Someone [7] it during the night. Then I saw our dog, wagging his tail. He [8] the door open with his nose!",
+   "gaps": [
+    {
+     "options": [
+      "has been",
+      "is",
+      "was",
+      "were"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "had",
+      "am",
+      "did",
+      "was"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "heard",
+      "was hearing",
+      "had heard",
+      "hear"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "was knowing",
+      "knew",
+      "had know",
+      "know"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "have gone",
+      "go",
+      "had gone",
+      "were go"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "had gone",
+      "go",
+      "have gone",
+      "went"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "had opened",
+      "has opened",
+      "opens",
+      "is opening"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "has pushed",
+      "had pushed",
+      "pushes",
+      "was push"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "narr-001-50",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "narrative-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "3.2",
+   "type": "mc-cloze",
+   "explanation": "Narrative tenses in a biography.",
+   "title": "The story of a song",
+   "text": "The song, which [1] in just twenty minutes, became one of the best-selling singles of all time. The songwriter [2] for a melody for weeks when, one evening, it suddenly [3] to her while she [4] the washing-up. She [5] never [6] a hit before, and her record company [7] to drop her. By the end of the year, the song [8] more than ten million copies.",
+   "gaps": [
+    {
+     "options": [
+      "has been written",
+      "was writing",
+      "had been written",
+      "had written"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "has searched",
+      "searches",
+      "was search",
+      "had been searching"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "came",
+      "had come",
+      "was coming",
+      "comes"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "had done",
+      "was doing",
+      "does",
+      "has done"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "has",
+      "was",
+      "had",
+      "did"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "has",
+      "have",
+      "having",
+      "had"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "had been about",
+      "has been about",
+      "was been about",
+      "is about"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "has sold",
+      "had sold",
+      "was selling",
+      "sells"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

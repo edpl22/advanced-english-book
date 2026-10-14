@@ -1,0 +1,1902 @@
+{
+ "topic": "collocations",
+ "batch": 1,
+ "title": "Collocations and idioms",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "coll-001-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "mcq",
+   "explanation": "tell someone the time.",
+   "prompt": "Can you ___ me the time, please?",
+   "options": [
+    "tell",
+    "say",
+    "speak",
+    "talk"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "coll-001-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "mcq",
+   "explanation": "have (or take) a shower.",
+   "prompt": "I ___ a shower every morning.",
+   "options": [
+    "make",
+    "have",
+    "do",
+    "give"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "coll-001-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "mcq",
+   "explanation": "make a noise.",
+   "prompt": "Don’t ___ a noise — the baby is sleeping.",
+   "options": [
+    "do",
+    "have",
+    "make",
+    "say"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "coll-001-04",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "mcq",
+   "explanation": "do exercise.",
+   "prompt": "I’m going to ___ some exercise this afternoon.",
+   "options": [
+    "make",
+    "have",
+    "play",
+    "do"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "coll-001-05",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "mcq",
+   "explanation": "catch a bus.",
+   "prompt": "She ___ the bus every morning at 7.30.",
+   "options": [
+    "catches",
+    "loses",
+    "reaches",
+    "wins"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "coll-001-06",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "27.2",
+   "type": "mcq",
+   "explanation": "heavy traffic.",
+   "prompt": "There was ___ traffic on the way to the airport.",
+   "options": [
+    "strong",
+    "heavy",
+    "big",
+    "hard"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "coll-001-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "27.2",
+   "type": "mcq",
+   "explanation": "a strong accent.",
+   "prompt": "She has a ___ accent — I can hardly understand her.",
+   "options": [
+    "big",
+    "hard",
+    "strong",
+    "powerful"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "coll-001-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "mcq",
+   "explanation": "make a profit.",
+   "prompt": "The company ___ a profit last year.",
+   "options": [
+    "did",
+    "won",
+    "earned of",
+    "made"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "coll-001-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "mcq",
+   "explanation": "make a suggestion.",
+   "prompt": "Can I ___ a suggestion?",
+   "options": [
+    "make",
+    "do",
+    "say",
+    "tell"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "coll-001-10",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "27.3",
+   "type": "mcq",
+   "explanation": "over the moon = extremely happy.",
+   "prompt": "When I told her the news, she was over the ___.",
+   "options": [
+    "sun",
+    "moon",
+    "stars",
+    "sky"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "coll-001-11",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "27.4",
+   "type": "mcq",
+   "explanation": "learn by heart.",
+   "prompt": "I learnt the poem by ___.",
+   "options": [
+    "head",
+    "mind",
+    "heart",
+    "memory"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "coll-001-12",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "27.2",
+   "type": "mcq",
+   "explanation": "fully booked.",
+   "prompt": "The hotel was fully ___ — there were no rooms left.",
+   "options": [
+    "full",
+    "completed",
+    "closed",
+    "booked"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "coll-001-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "mcq",
+   "explanation": "take responsibility.",
+   "prompt": "The minister refused to ___ responsibility for the mistake.",
+   "options": [
+    "take",
+    "make",
+    "do",
+    "give"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "coll-001-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.2",
+   "type": "mcq",
+   "explanation": "widely criticised.",
+   "prompt": "The decision was ___ criticised.",
+   "options": [
+    "highly",
+    "widely",
+    "deeply",
+    "largely"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "coll-001-15",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "27.3",
+   "type": "mcq",
+   "explanation": "bury the hatchet = make peace.",
+   "prompt": "After the argument, they decided to bury the ___.",
+   "options": [
+    "axe",
+    "knife",
+    "hatchet",
+    "sword"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "coll-001-16",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.3",
+   "type": "mcq",
+   "explanation": "the tip of the iceberg.",
+   "prompt": "These problems are just the tip of the ___.",
+   "options": [
+    "mountain",
+    "island",
+    "glacier",
+    "iceberg"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "coll-001-17",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "mcq",
+   "explanation": "spark controversy.",
+   "prompt": "The film ___ a lot of controversy when it was released.",
+   "options": [
+    "sparked",
+    "lit",
+    "burnt",
+    "fired"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "coll-001-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "27.4",
+   "type": "mcq",
+   "explanation": "give and take = compromise.",
+   "prompt": "The two parties reached an agreement after a lot of give and ___.",
+   "options": [
+    "get",
+    "take",
+    "have",
+    "receive"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "coll-001-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "gap",
+   "explanation": "do the washing-up.",
+   "prompt": "Could you ___ the washing-up, please?",
+   "acceptedAnswers": [
+    "do"
+   ]
+  },
+  {
+   "id": "coll-001-20",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "gap",
+   "explanation": "have / throw a party.",
+   "prompt": "Let’s ___ a party for her birthday!",
+   "acceptedAnswers": [
+    "have",
+    "throw",
+    "organise",
+    "organize",
+    "hold",
+    "plan"
+   ]
+  },
+  {
+   "id": "coll-001-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "gap",
+   "explanation": "tell the truth.",
+   "prompt": "He always ___ the truth.",
+   "acceptedAnswers": [
+    "tells",
+    "speaks"
+   ]
+  },
+  {
+   "id": "coll-001-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "gap",
+   "explanation": "make a mistake.",
+   "prompt": "I’m sorry, I ___ a mistake.",
+   "acceptedAnswers": [
+    "made"
+   ]
+  },
+  {
+   "id": "coll-001-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "gap",
+   "explanation": "make / give a speech.",
+   "prompt": "She’s going to ___ a speech at the wedding.",
+   "acceptedAnswers": [
+    "make",
+    "give",
+    "deliver"
+   ]
+  },
+  {
+   "id": "coll-001-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "gap",
+   "explanation": "lose your temper.",
+   "prompt": "He was so tired that he ___ his temper with the children.",
+   "acceptedAnswers": [
+    "lost"
+   ]
+  },
+  {
+   "id": "coll-001-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "gap",
+   "explanation": "strike a balance.",
+   "prompt": "We need to ___ a balance between work and family.",
+   "acceptedAnswers": [
+    "strike",
+    "find",
+    "achieve",
+    "keep",
+    "maintain"
+   ]
+  },
+  {
+   "id": "coll-001-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.4",
+   "type": "gap",
+   "explanation": "in its early stages.",
+   "prompt": "The project is still in its early ___.",
+   "acceptedAnswers": [
+    "stages",
+    "days"
+   ]
+  },
+  {
+   "id": "coll-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "gap",
+   "explanation": "make no effort.",
+   "prompt": "She ___ no effort to hide her disappointment.",
+   "acceptedAnswers": [
+    "made"
+   ]
+  },
+  {
+   "id": "coll-001-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "gap",
+   "explanation": "attract / generate interest.",
+   "prompt": "The proposal ___ a lot of interest from investors.",
+   "acceptedAnswers": [
+    "attracted",
+    "generated",
+    "aroused",
+    "received",
+    "drew",
+    "sparked",
+    "created"
+   ]
+  },
+  {
+   "id": "coll-001-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "kwt",
+   "explanation": "do your best.",
+   "first": "I will try very hard to arrive on time.",
+   "keyword": "BEST",
+   "before": "I will",
+   "after": "to arrive on time.",
+   "acceptedAnswers": [
+    "do my best",
+    "do my very best",
+    "try my best"
+   ]
+  },
+  {
+   "id": "coll-001-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "kwt",
+   "explanation": "take into account.",
+   "first": "It’s important to consider the cost.",
+   "keyword": "ACCOUNT",
+   "before": "It’s important to",
+   "after": "the cost.",
+   "acceptedAnswers": [
+    "take into account"
+   ]
+  },
+  {
+   "id": "coll-001-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "kwt",
+   "explanation": "make a difference.",
+   "first": "Your advice really helped me.",
+   "keyword": "DIFFERENCE",
+   "before": "Your advice",
+   "after": ".",
+   "acceptedAnswers": [
+    "made a real difference",
+    "made a big difference",
+    "made a huge difference",
+    "made all the difference",
+    "made a difference"
+   ]
+  },
+  {
+   "id": "coll-001-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "kwt",
+   "explanation": "come as a surprise to.",
+   "first": "The news surprised everyone.",
+   "keyword": "SURPRISE",
+   "before": "The news",
+   "after": "everyone.",
+   "acceptedAnswers": [
+    "came as a surprise to",
+    "was a surprise to"
+   ]
+  },
+  {
+   "id": "coll-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "27.3",
+   "type": "kwt",
+   "explanation": "speak your mind.",
+   "first": "She doesn’t usually say what she thinks.",
+   "keyword": "MIND",
+   "before": "She rarely",
+   "after": ".",
+   "acceptedAnswers": [
+    "speaks her mind"
+   ]
+  },
+  {
+   "id": "coll-001-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "error-correction",
+   "explanation": "make a mistake.",
+   "parts": [
+    "I ",
+    {
+     "u": "did"
+    },
+    " a lot of mistakes in the ",
+    {
+     "u": "test"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "made"
+   ]
+  },
+  {
+   "id": "coll-001-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "error-correction",
+   "explanation": "tell a story.",
+   "parts": [
+    "Can you ",
+    {
+     "u": "say"
+    },
+    " me a ",
+    {
+     "u": "story"
+    },
+    "?"
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "tell"
+   ]
+  },
+  {
+   "id": "coll-001-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "27.2",
+   "type": "error-correction",
+   "explanation": "heavy traffic.",
+   "parts": [
+    "We had ",
+    {
+     "u": "strong"
+    },
+    " traffic on the ",
+    {
+     "u": "way"
+    },
+    " home."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "heavy"
+   ]
+  },
+  {
+   "id": "coll-001-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "error-correction",
+   "explanation": "gain experience.",
+   "parts": [
+    "She ",
+    {
+     "u": "won"
+    },
+    " a lot of experience ",
+    {
+     "u": "working"
+    },
+    " abroad."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "gained",
+    "got"
+   ]
+  },
+  {
+   "id": "coll-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "error-correction",
+   "explanation": "make a proposal.",
+   "parts": [
+    "The committee ",
+    {
+     "u": "did"
+    },
+    " a proposal to cut ",
+    {
+     "u": "costs"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "made",
+    "put forward",
+    "submitted",
+    "presented"
+   ]
+  },
+  {
+   "id": "coll-001-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "word-order",
+   "explanation": "have a good time.",
+   "fragments": [
+    "We",
+    "had",
+    "a",
+    "great",
+    "time",
+    "in",
+    "Salvador."
+   ],
+   "acceptedAnswers": [
+    "We had a great time in Salvador."
+   ]
+  },
+  {
+   "id": "coll-001-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "word-order",
+   "explanation": "make a promise.",
+   "fragments": [
+    "She",
+    "made",
+    "a",
+    "promise",
+    "to",
+    "call",
+    "every day."
+   ],
+   "acceptedAnswers": [
+    "She made a promise to call every day."
+   ]
+  },
+  {
+   "id": "coll-001-41",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "word-order",
+   "explanation": "take action.",
+   "fragments": [
+    "It’s",
+    "time",
+    "to",
+    "take",
+    "action",
+    "on",
+    "climate change."
+   ],
+   "acceptedAnswers": [
+    "It’s time to take action on climate change."
+   ]
+  },
+  {
+   "id": "coll-001-42",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "matching",
+   "explanation": "Verb + noun collocations.",
+   "prompt": "Match each verb with the best noun.",
+   "left": [
+    "tell",
+    "catch",
+    "miss",
+    "lose",
+    "spend"
+   ],
+   "right": [
+    "your temper",
+    "homework",
+    "a cold",
+    "time with friends",
+    "a joke",
+    "an opportunity"
+   ],
+   "answer": [
+    4,
+    2,
+    5,
+    0,
+    3
+   ]
+  },
+  {
+   "id": "coll-001-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "27.2",
+   "type": "matching",
+   "explanation": "Adjective + noun collocations.",
+   "prompt": "Match each adjective with the noun it collocates with.",
+   "left": [
+    "heavy",
+    "strong",
+    "high",
+    "deep",
+    "broad"
+   ],
+   "right": [
+    "sleep",
+    "apple",
+    "smile",
+    "traffic",
+    "price",
+    "coffee"
+   ],
+   "answer": [
+    3,
+    5,
+    4,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "coll-001-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.3",
+   "type": "matching",
+   "explanation": "Common idioms.",
+   "prompt": "Match each idiom with its meaning.",
+   "left": [
+    "over the moon",
+    "bury the hatchet",
+    "the tip of the iceberg",
+    "spill the beans",
+    "in hot water"
+   ],
+   "right": [
+    "in trouble",
+    "very cold",
+    "reveal a secret",
+    "make peace",
+    "extremely happy",
+    "a small part of a bigger problem"
+   ],
+   "answer": [
+    4,
+    3,
+    5,
+    2,
+    0
+   ]
+  },
+  {
+   "id": "coll-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "27.4",
+   "type": "matching",
+   "explanation": "Fixed pairs.",
+   "prompt": "Complete each binomial.",
+   "left": [
+    "give and",
+    "pros and",
+    "trial and",
+    "odds and",
+    "safe and"
+   ],
+   "right": [
+    "sound",
+    "after",
+    "ends",
+    "take",
+    "error",
+    "cons"
+   ],
+   "answer": [
+    3,
+    5,
+    4,
+    2,
+    0
+   ]
+  },
+  {
+   "id": "coll-001-46",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "open-cloze",
+   "explanation": "make, do, have, take and catch.",
+   "title": "A weekend to remember",
+   "text": "On Saturday I [1] my homework in the morning, and then I [2] lunch with my family. In the afternoon, I [3] the bus to the beach with my friends. We [4] a lot of fun. We [5] photos and played volleyball. In the evening, my friend Ana [6] a party at her house. I didn’t want to [7] the party, so I went home to change. I [8] a quick shower and got dressed. At the party, we [9] a great time. I got home late, but I didn’t [10] any noise because my parents were asleep.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "did",
+      "finished"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had",
+      "ate"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "took",
+      "caught",
+      "got"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "took"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had",
+      "threw",
+      "gave",
+      "held"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "miss"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had",
+      "took"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "make"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "coll-001-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "open-cloze",
+   "explanation": "Collocations for interviews.",
+   "title": "Making a good impression",
+   "text": "First impressions [1] a big difference in job interviews. Make sure you [2] research on the company before you go. Arrive on time, [3] eye contact and [4] a firm handshake. Pay close [5] to the questions and take your [6] before answering. If you [7] a mistake, don’t panic. At the end, [8] the opportunity to ask your own questions. Above all, try to [9] a good impression and be yourself. Most interviewers will [10] allowances for nerves.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "make"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "do"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "make",
+      "keep",
+      "maintain"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "give",
+      "offer"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "attention"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "time"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "make"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "take",
+      "seize",
+      "use",
+      "grab"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "make",
+      "create",
+      "give",
+      "leave"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "make"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "coll-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "27.3",
+   "type": "open-cloze",
+   "explanation": "Idioms and fixed expressions.",
+   "title": "Office jargon",
+   "text": "Every office has its own language. Colleagues “touch [1]” instead of contacting each other and “think outside the [2]” instead of being creative. A difficult task is a “tall [3]”, and a minor detail is “neither here nor [4]”. When a project fails, people say it has “gone [5] the drain”. Those who disagree are told to “get on [6]” with the team. Critics argue that such clichés allow people to [7] around the bush. Others say they are harmless and [8] people a sense of belonging. Either way, learners should be aware of them, even if they choose to give them a wide [9]. As the saying goes, when in Rome, do as the Romans [10].",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "base"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "box"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "order"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "there"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "down"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "board"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "beat"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "give"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "berth"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "do"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "coll-001-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "mc-cloze",
+   "explanation": "Verb + noun collocations.",
+   "title": "A trip to the dentist",
+   "text": "I had to [1] an appointment with the dentist because I had a terrible toothache. The dentist told me to [2] my mouth wide. She said I had [3] good care of my teeth, but one needed a filling. I tried to [4] calm. It didn’t hurt much, and the whole thing [5] only twenty minutes. Afterwards, she gave me some [6] about brushing. I [7] her advice seriously. Now I [8] a point of brushing after every meal.",
+   "gaps": [
+    {
+     "options": [
+      "do",
+      "have",
+      "make",
+      "take"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "make",
+      "keep",
+      "hold",
+      "open"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "taken",
+      "made",
+      "done",
+      "had"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "make",
+      "stay",
+      "do",
+      "get"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "made",
+      "did",
+      "took",
+      "spent"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "advices",
+      "advise",
+      "advisor",
+      "advice"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "took",
+      "made",
+      "did",
+      "had"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "do",
+      "make",
+      "take",
+      "have"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "coll-001-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "collocations"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "27.1",
+   "type": "mc-cloze",
+   "explanation": "Collocations in political journalism.",
+   "title": "Election season",
+   "text": "The new government has [1] a series of reforms that have [2] heated debate. Critics say the ministers have [3] a blind eye to corruption, while supporters insist they are [4] steady progress. The opposition has [5] the government of breaking its promises. With elections just [6] the corner, both sides are trying to [7] political capital out of every issue. Voters, meanwhile, are growing tired of the [8] game.",
+   "gaps": [
+    {
+     "options": [
+      "made",
+      "done",
+      "introduced",
+      "given"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "lit",
+      "burnt",
+      "fired",
+      "sparked"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "turned",
+      "made",
+      "closed",
+      "shut"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "doing",
+      "making",
+      "taking",
+      "having"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "blamed",
+      "criticised",
+      "accused",
+      "charged"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "under",
+      "over",
+      "behind",
+      "around"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "make",
+      "take",
+      "do",
+      "get"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "shame",
+      "blame",
+      "name",
+      "fame"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

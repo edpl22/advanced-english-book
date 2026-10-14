@@ -1,0 +1,1913 @@
+{
+ "topic": "modals-deduction",
+ "batch": 1,
+ "title": "Deduction, semi-modals and past modals",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "ded-001-01",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "6.1",
+   "type": "mcq",
+   "explanation": "Logical conclusion: must.",
+   "prompt": "Ana has been working since 6 a.m. She ___ be exhausted.",
+   "options": [
+    "must",
+    "can’t",
+    "mustn’t",
+    "needn’t"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "ded-001-02",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "6.1",
+   "type": "mcq",
+   "explanation": "Negative deduction: can’t.",
+   "prompt": "That ___ be Paulo at the door — he’s in Japan.",
+   "options": [
+    "mustn’t",
+    "can’t",
+    "must",
+    "needn’t"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "ded-001-03",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "mcq",
+   "explanation": "Past deduction: must have + past participle.",
+   "prompt": "The streets are wet. It ___ during the night.",
+   "options": [
+    "must rain",
+    "can’t have rained",
+    "must have rained",
+    "should rain"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "ded-001-04",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "6.3",
+   "type": "mcq",
+   "explanation": "No obligation: needn’t.",
+   "prompt": "You ___ bring food — there’ll be plenty at the party.",
+   "options": [
+    "mustn’t",
+    "can’t",
+    "shouldn’t have",
+    "needn’t"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "ded-001-05",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.4",
+   "type": "mcq",
+   "explanation": "Regret: should have + past participle.",
+   "prompt": "I failed the test. I ___ harder.",
+   "options": [
+    "should have studied",
+    "must have studied",
+    "should study",
+    "would study"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "ded-001-06",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "mcq",
+   "explanation": "Negative past deduction: can’t have.",
+   "prompt": "She ___ the message — she would have replied by now.",
+   "options": [
+    "mustn’t have received",
+    "can’t have received",
+    "must have received",
+    "needn’t have received"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "ded-001-07",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "mcq",
+   "explanation": "Past possibility: might have.",
+   "prompt": "I’m not sure where my phone is. I ___ it on the bus.",
+   "options": [
+    "must leave",
+    "can’t have left",
+    "might have left",
+    "should have left"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "ded-001-08",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.3",
+   "type": "mcq",
+   "explanation": "had better + base form = strong advice.",
+   "prompt": "You ___ hurry, or you’ll miss the train.",
+   "options": [
+    "would better",
+    "had rather",
+    "should better",
+    "had better"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "ded-001-09",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.3",
+   "type": "mcq",
+   "explanation": "be supposed to = expected by the rules.",
+   "prompt": "We ___ to wear a tie at work, but most people don’t.",
+   "options": [
+    "are supposed",
+    "are supposing",
+    "suppose",
+    "supposed"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "ded-001-10",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.3",
+   "type": "mcq",
+   "explanation": "dare not / dared not = not have the courage.",
+   "prompt": "He ___ not ask his boss for a pay rise, so he said nothing.",
+   "options": [
+    "ought",
+    "dared",
+    "had better",
+    "must"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "ded-001-11",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.4",
+   "type": "mcq",
+   "explanation": "Criticism: could have + past participle.",
+   "prompt": "You ___ have told me — I would have helped.",
+   "options": [
+    "must",
+    "can",
+    "could",
+    "need"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "ded-001-12",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "6.4",
+   "type": "mcq",
+   "explanation": "needn’t have = it was done, but it was unnecessary.",
+   "prompt": "We ___ have taken a taxi — the station was only five minutes away.",
+   "options": [
+    "mustn’t",
+    "can’t",
+    "couldn’t",
+    "needn’t"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "ded-001-13",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "mcq",
+   "explanation": "Negative deduction about a past activity.",
+   "prompt": "He ___ have been driving fast — the police say he was well under the limit.",
+   "options": [
+    "can’t",
+    "must",
+    "mustn’t",
+    "needn’t"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "ded-001-14",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "6.1",
+   "type": "mcq",
+   "explanation": "Conclusion from evidence.",
+   "prompt": "The lights are off and nobody’s answering. They ___ be away for the weekend.",
+   "options": [
+    "can’t",
+    "must",
+    "needn’t",
+    "mustn’t"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "ded-001-15",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "mcq",
+   "explanation": "Impossible: couldn’t / can’t have.",
+   "prompt": "You ___ have seen Lucas yesterday; he’s been in hospital all week.",
+   "options": [
+    "mustn’t",
+    "needn’t",
+    "couldn’t",
+    "shouldn’t"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "ded-001-16",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.3",
+   "type": "mcq",
+   "explanation": "ought to have = expectation.",
+   "prompt": "She ___ to have arrived by now — the train was due at six.",
+   "options": [
+    "should",
+    "must",
+    "had better",
+    "ought"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "ded-001-17",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "6.4",
+   "type": "mcq",
+   "explanation": "Regret: ought to have.",
+   "prompt": "Looking back, I ___ have accepted the offer — it was a mistake to turn it down.",
+   "options": [
+    "ought to",
+    "must",
+    "might not",
+    "needn’t"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "ded-001-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "mcq",
+   "explanation": "Conclusion: must have.",
+   "prompt": "The burglars ___ have known the code — the alarm didn’t go off.",
+   "options": [
+    "can’t",
+    "must",
+    "needn’t",
+    "shouldn’t"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "ded-001-19",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "gap",
+   "explanation": "Negative past deduction.",
+   "prompt": "Paulo ___ home yet — his car isn’t outside.",
+   "acceptedAnswers": [
+    "can’t have got",
+    "can’t have gotten",
+    "cannot have got",
+    "couldn’t have got"
+   ],
+   "cue": "can’t / get"
+  },
+  {
+   "id": "ded-001-20",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "6.4",
+   "type": "gap",
+   "explanation": "Criticism of a past action.",
+   "prompt": "You ___ so much — now you feel ill.",
+   "acceptedAnswers": [
+    "shouldn’t have eaten",
+    "should not have eaten"
+   ],
+   "cue": "should not / eat"
+  },
+  {
+   "id": "ded-001-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "6.1",
+   "type": "gap",
+   "explanation": "Present possibility.",
+   "prompt": "Someone’s knocking. It ___ the postman.",
+   "acceptedAnswers": [
+    "might be"
+   ],
+   "cue": "might / be"
+  },
+  {
+   "id": "ded-001-22",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "gap",
+   "explanation": "Past deduction.",
+   "prompt": "I can’t find my wallet. I ___ it at the restaurant.",
+   "acceptedAnswers": [
+    "must have left"
+   ],
+   "cue": "must / leave"
+  },
+  {
+   "id": "ded-001-23",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.4",
+   "type": "gap",
+   "explanation": "Unused ability in the past.",
+   "prompt": "Why didn’t you ask me? I ___ you.",
+   "acceptedAnswers": [
+    "could have helped"
+   ],
+   "cue": "could / help"
+  },
+  {
+   "id": "ded-001-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.3",
+   "type": "gap",
+   "explanation": "No obligation.",
+   "prompt": "You ___ the dishes — I’ve got a dishwasher.",
+   "acceptedAnswers": [
+    "needn’t wash",
+    "need not wash",
+    "needn’t have washed",
+    "need not have washed"
+   ],
+   "cue": "need not / wash"
+  },
+  {
+   "id": "ded-001-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "gap",
+   "explanation": "Past deduction.",
+   "prompt": "She looks very happy. She ___ good news.",
+   "acceptedAnswers": [
+    "must have received",
+    "must have had"
+   ],
+   "cue": "must / receive"
+  },
+  {
+   "id": "ded-001-26",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "gap",
+   "explanation": "Impossible in the past.",
+   "prompt": "He ___ at the time of the crime — he was in Recife.",
+   "acceptedAnswers": [
+    "can’t have been there",
+    "cannot have been there",
+    "couldn’t have been there",
+    "could not have been there"
+   ],
+   "cue": "can’t / be / there"
+  },
+  {
+   "id": "ded-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "6.4",
+   "type": "gap",
+   "explanation": "Unnecessary past action.",
+   "prompt": "The meeting was a waste of time. We ___.",
+   "acceptedAnswers": [
+    "needn’t have gone",
+    "need not have gone"
+   ],
+   "cue": "need not / go"
+  },
+  {
+   "id": "ded-001-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "gap",
+   "explanation": "Deduction about a past activity.",
+   "prompt": "They ___ all night — the lights were still on at 4 a.m.",
+   "acceptedAnswers": [
+    "must have been working",
+    "must have worked"
+   ],
+   "cue": "must / work"
+  },
+  {
+   "id": "ded-001-29",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "kwt",
+   "explanation": "I’m sure… → must have.",
+   "first": "I’m sure she forgot about the meeting.",
+   "keyword": "MUST",
+   "before": "She",
+   "after": "about the meeting.",
+   "acceptedAnswers": [
+    "must have forgotten"
+   ]
+  },
+  {
+   "id": "ded-001-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.4",
+   "type": "kwt",
+   "explanation": "Criticism: shouldn’t have.",
+   "first": "It was wrong of you to shout at him.",
+   "keyword": "SHOULDN’T",
+   "before": "You",
+   "after": "at him.",
+   "acceptedAnswers": [
+    "shouldn’t have shouted"
+   ]
+  },
+  {
+   "id": "ded-001-31",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "6.4",
+   "type": "kwt",
+   "explanation": "needn’t have / didn’t need to.",
+   "first": "It wasn’t necessary for us to buy so much food.",
+   "keyword": "NEED",
+   "before": "We",
+   "after": "so much food.",
+   "acceptedAnswers": [
+    "needn’t have bought",
+    "need not have bought",
+    "didn’t need to buy",
+    "did not need to buy"
+   ]
+  },
+  {
+   "id": "ded-001-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "kwt",
+   "explanation": "I’m sure… not → can’t have.",
+   "first": "I’m sure he didn’t steal the money.",
+   "keyword": "HAVE",
+   "before": "He",
+   "after": "the money.",
+   "acceptedAnswers": [
+    "can’t have stolen",
+    "cannot have stolen",
+    "couldn’t have stolen",
+    "could not have stolen"
+   ]
+  },
+  {
+   "id": "ded-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "kwt",
+   "explanation": "Possibility in the past: may have.",
+   "first": "It’s possible that they took the wrong road.",
+   "keyword": "MAY",
+   "before": "They",
+   "after": "the wrong road.",
+   "acceptedAnswers": [
+    "may have taken"
+   ]
+  },
+  {
+   "id": "ded-001-34",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "6.1",
+   "type": "error-correction",
+   "explanation": "Negative deduction: can’t, not mustn’t.",
+   "parts": [
+    "That ",
+    {
+     "u": "mustn’t"
+    },
+    " be Ana — she’s ",
+    {
+     "u": "in"
+    },
+    " Lisbon this week."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "can’t",
+    "cannot",
+    "couldn’t"
+   ]
+  },
+  {
+   "id": "ded-001-35",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.4",
+   "type": "error-correction",
+   "explanation": "should have + past participle.",
+   "parts": [
+    "You ",
+    {
+     "u": "should"
+    },
+    " have ",
+    {
+     "u": "tell"
+    },
+    " me earlier."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "told"
+   ]
+  },
+  {
+   "id": "ded-001-36",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "error-correction",
+   "explanation": "The evidence shows he is still here.",
+   "parts": [
+    "He ",
+    {
+     "u": "must have"
+    },
+    " left already — his coat is ",
+    {
+     "u": "still"
+    },
+    " here."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "can’t have",
+    "cannot have",
+    "couldn’t have"
+   ]
+  },
+  {
+   "id": "ded-001-37",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "6.3",
+   "type": "error-correction",
+   "explanation": "Negative: had better not.",
+   "parts": [
+    "You ",
+    {
+     "u": "hadn’t better"
+    },
+    " be late again, or ",
+    {
+     "u": "you’ll"
+    },
+    " lose your job."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "had better not",
+    "’d better not"
+   ]
+  },
+  {
+   "id": "ded-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "6.4",
+   "type": "error-correction",
+   "explanation": "Unnecessary past action: needn’t have.",
+   "parts": [
+    "I ",
+    {
+     "u": "mustn’t have"
+    },
+    " paid — the tickets were free, but I ",
+    {
+     "u": "didn’t know"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "needn’t have",
+    "need not have"
+   ]
+  },
+  {
+   "id": "ded-001-39",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "word-order",
+   "explanation": "must have + past participle.",
+   "fragments": [
+    "She",
+    "must",
+    "have",
+    "missed",
+    "the",
+    "train."
+   ],
+   "acceptedAnswers": [
+    "She must have missed the train."
+   ]
+  },
+  {
+   "id": "ded-001-40",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.3",
+   "type": "word-order",
+   "explanation": "be not supposed to = not allowed by the rules.",
+   "fragments": [
+    "You",
+    "are",
+    "not",
+    "supposed",
+    "to",
+    "park",
+    "here."
+   ],
+   "acceptedAnswers": [
+    "You are not supposed to park here."
+   ]
+  },
+  {
+   "id": "ded-001-41",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "word-order",
+   "explanation": "can’t have been + -ing.",
+   "fragments": [
+    "They",
+    "can’t",
+    "have",
+    "been",
+    "telling",
+    "the truth."
+   ],
+   "acceptedAnswers": [
+    "They can’t have been telling the truth."
+   ]
+  },
+  {
+   "id": "ded-001-42",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "6.1",
+   "type": "matching",
+   "explanation": "Degrees of certainty and obligation.",
+   "prompt": "Match each sentence with its meaning.",
+   "left": [
+    "He must be at home.",
+    "He can’t be at home.",
+    "He might be at home.",
+    "He should be at home by now.",
+    "He has to be at home."
+   ],
+   "right": [
+    "I’m sure he isn’t.",
+    "It’s possible.",
+    "I’m sure he is.",
+    "I expect so, if all went to plan.",
+    "It’s an obligation.",
+    "He was at home."
+   ],
+   "answer": [
+    2,
+    0,
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "ded-001-43",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.4",
+   "type": "matching",
+   "explanation": "Past modals.",
+   "prompt": "Match each sentence with its meaning.",
+   "left": [
+    "You needn’t have come.",
+    "You shouldn’t have come.",
+    "You couldn’t have come.",
+    "You might have come.",
+    "You must have come."
+   ],
+   "right": [
+    "It was impossible for you to come.",
+    "You came, but it wasn’t necessary.",
+    "It was wrong of you to come.",
+    "I’m sure you came.",
+    "Perhaps you came.",
+    "You are coming now."
+   ],
+   "answer": [
+    1,
+    2,
+    0,
+    4,
+    3
+   ]
+  },
+  {
+   "id": "ded-001-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.3",
+   "type": "matching",
+   "explanation": "Semi-modals and their patterns.",
+   "prompt": "Complete the sentences.",
+   "left": [
+    "You’d better",
+    "We’re supposed",
+    "I ought",
+    "How dare",
+    "You needn’t"
+   ],
+   "right": [
+    "to be at work by eight, but nobody ever is.",
+    "you say that!",
+    "worry about me.",
+    "take an umbrella.",
+    "to call my mother.",
+    "to worrying."
+   ],
+   "answer": [
+    3,
+    0,
+    4,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "ded-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "matching",
+   "explanation": "ought needs to: ought to have.",
+   "prompt": "Which modal completes each sentence?",
+   "left": [
+    "It ___ have been Ana — I saw her face clearly.",
+    "It ___ have been Ana — she’s abroad.",
+    "It ___ have been Ana — I’m not sure.",
+    "You ___ have told me — I was worried!",
+    "You ___ have bought milk — we had plenty."
+   ],
+   "right": [
+    "needn’t",
+    "might",
+    "must",
+    "ought",
+    "can’t",
+    "should"
+   ],
+   "answer": [
+    2,
+    4,
+    1,
+    5,
+    0
+   ]
+  },
+  {
+   "id": "ded-001-46",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "6.1",
+   "type": "open-cloze",
+   "explanation": "Deduction, possibility and regret in an everyday situation.",
+   "title": "Where is Pedro?",
+   "text": "Pedro was supposed to meet us at eight, but it’s now nine and there’s no sign of him. He [1] have forgotten — I reminded him this morning. He [2] be stuck in traffic; the roads are always busy on Fridays. Or his phone [3] have run out of battery, which would explain why he isn’t answering. Ana thinks he [4] have gone to the wrong restaurant, but I doubt it — he’s been here many times. We had [5] start without him. If he doesn’t turn up soon, we [6] have to go to his flat. Oh, wait — that [7] be him now! Yes, it’s Pedro. He apologises: he [8] have called us, he says, but his phone died. So we [9] have worried after all. Next time, though, he [10] to send a message from someone else’s phone.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "can’t",
+      "cannot",
+      "couldn’t"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "might",
+      "may",
+      "could",
+      "must"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "might",
+      "may",
+      "could",
+      "must"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "might",
+      "may",
+      "could"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "better"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "will",
+      "may",
+      "might"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "must",
+      "might",
+      "may",
+      "could"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "should",
+      "would",
+      "could"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "needn’t",
+      "shouldn’t"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "ought"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ded-001-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "open-cloze",
+   "explanation": "Past deduction and criticism in a news story.",
+   "title": "The missing painting",
+   "text": "When the museum opened on Monday, the painting was gone. The thieves [1] have entered through the roof, because a window there had been forced. They [2] have used the main door, which has three locks and was still locked. Whoever did it [3] have known exactly where the cameras were, since none of them recorded anything. Police think the thieves [4] have had help from someone inside, although the director insists that this cannot [5] true. “Our staff [6] never have done such a thing,” she said. Some experts believe the painting [7] already have been sold abroad. Others say it is so famous that it [8] be almost impossible to sell. Either way, the museum [9] have invested more in security. As one critic put it, “The alarm system [10] have been replaced years ago.”",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "must"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "can’t",
+      "cannot",
+      "couldn’t"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "must"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "may",
+      "might",
+      "could",
+      "must"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "be"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "would",
+      "could"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "may",
+      "might",
+      "could"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "would",
+      "will",
+      "must"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "should"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "should"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ded-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "6.4",
+   "type": "open-cloze",
+   "explanation": "Regret, past possibility and might as well.",
+   "title": "Regrets",
+   "text": "Looking back on my twenties, there are many things I [1] have done differently. I [2] to have travelled more while I had the chance. I [3] have spent so much on clothes I never wore. My parents warned me that I [4] regret leaving university, and they [5] have been right. I [6] have finished my degree in another two years. Still, I [7] not have met my wife if I had stayed, so perhaps things worked out for the best. You [8] not dwell on the past, my grandfather used to say; you [9] as well learn from it. He [10] have been a wise man.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "would",
+      "could",
+      "might",
+      "should"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "ought"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "shouldn’t",
+      "needn’t",
+      "wouldn’t"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "would",
+      "might",
+      "will"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "may",
+      "might",
+      "must",
+      "could"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "could",
+      "would",
+      "might"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "might",
+      "would",
+      "may",
+      "could"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "should",
+      "must",
+      "need"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "may",
+      "might"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "must"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ded-001-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "6.3",
+   "type": "mc-cloze",
+   "explanation": "Obligation, prohibition, absence of obligation and advice.",
+   "title": "Flying abroad: the rules",
+   "text": "Your passport [1] be valid for at least six months. You [2] carry liquids over 100 ml in your hand luggage. You [3] print your boarding pass — you can show it on your phone. If you are flying abroad, you [4] arrive three hours before your flight. Gate staff [5] refuse to let you board if you are late. Your suitcase [6] weigh more than 23 kg. If it does, you [7] pay a fee. You [8] wear a mask on board, but some passengers prefer to.",
+   "gaps": [
+    {
+     "options": [
+      "mustn’t",
+      "needn’t",
+      "must",
+      "can’t"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "must",
+      "needn’t",
+      "have to",
+      "mustn’t"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "don’t have to",
+      "mustn’t",
+      "must",
+      "can’t"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "shouldn’t",
+      "should",
+      "mustn’t",
+      "can’t"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "need",
+      "ought",
+      "may",
+      "had better"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "needn’t",
+      "doesn’t have to",
+      "can",
+      "shouldn’t"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "will have to",
+      "mustn’t",
+      "needn’t",
+      "can’t"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "mustn’t",
+      "don’t need to",
+      "have to",
+      "had better"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "ded-001-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals-deduction"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "6.2",
+   "type": "mc-cloze",
+   "explanation": "Deduction and criticism in a news report.",
+   "title": "A mystery at sea",
+   "text": "Investigators still do not know what happened to the plane. It [1] have run out of fuel, as it had enough for another four hours. Some believe the pilot [2] have changed course deliberately. Radar data suggest that the plane [3] have flown south for several hours after contact was lost. If so, it [4] have crashed into the ocean. The search [5] have started earlier, critics say; valuable time was lost. Others argue that nothing [6] have been done differently. The families, meanwhile, [7] be given more information. “We [8] be told the truth,” one relative said.",
+   "gaps": [
+    {
+     "options": [
+      "must",
+      "might",
+      "can’t",
+      "should"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "can’t",
+      "needn’t",
+      "shouldn’t",
+      "may"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "must",
+      "can’t",
+      "needn’t",
+      "shouldn’t"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "can’t",
+      "would",
+      "needn’t",
+      "mustn’t"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "can’t",
+      "must",
+      "should",
+      "might"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "must",
+      "needn’t",
+      "ought",
+      "could"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "ought to",
+      "ought",
+      "had better to",
+      "must to"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "mustn’t",
+      "must",
+      "needn’t",
+      "can’t"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

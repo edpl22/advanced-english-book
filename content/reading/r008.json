@@ -1,0 +1,270 @@
+{
+ "id": "r008",
+ "title": "The Return of the Night Train",
+ "level": "B2",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "FUVEST",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "Twenty years ago, the night train in Europe seemed to be heading for extinction. Low-cost airlines were offering tickets for less than the price of a taxi to the station, high-speed trains were cutting daytime journey times, and one by one the old sleeper services were withdrawn. Their carriages were often shabby, their timetables inconvenient and their prices surprisingly high. Few people expected them to come back.\n\nYet in the last decade, night trains have made a remarkable return. New routes now link cities such as Vienna, Berlin, Paris, Amsterdam and Brussels, and several companies have invested in modern sleeping cars with private compartments, showers and electronic keys. On some popular routes, tickets sell out weeks in advance, especially in summer.\n\nThe main reason for this revival is concern about the climate. A passenger travelling a long distance by train produces only a small fraction of the emissions of the same journey by plane, and many travellers, particularly younger ones, have become uncomfortable with the environmental cost of frequent flying. Some governments have supported the trend by subsidising new services or discouraging short domestic flights.\n\nBut environmental concern is not the whole story. Supporters of night trains point out that they save time in an unusual way: instead of losing half a day at airports, passengers go to sleep in one city and wake up in the centre of another. There is no need to pay for a hotel, and no need to arrive at the station hours before departure. For business travellers, this can mean a full working day at their destination.\n\nThe revival still faces serious obstacles. Night trains are expensive to run, because each carriage carries fewer passengers than a daytime train and the staff must work through the night. Different countries use different electrical systems and safety rules, so trains crossing several borders need special equipment and complicated agreements. Delays are common, and a late night train can mean a missed connection or an important meeting.\n\nWhether night trains will become a normal way to travel or remain a pleasant niche depends largely on political decisions about investment and ticket prices. For now, however, many passengers seem happy to rediscover an old idea: that a journey can be part of the experience, not just the time between two places.",
+ "questions": [
+  {
+   "id": "r008-q01",
+   "type": "reading",
+   "passageId": "r008",
+   "prompt": "What is the text mainly about?",
+   "options": [
+    "Why low-cost airlines have replaced trains",
+    "How to book a cheap night train ticket",
+    "Why night trains have become popular again and what problems they face",
+    "The history of the first European railways"
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The text explains the revival and the obstacles."
+  },
+  {
+   "id": "r008-q02",
+   "type": "reading",
+   "passageId": "r008",
+   "prompt": "According to paragraph 1, which of the following helped to cause the decline of night trains?",
+   "options": [
+    "Too many passengers",
+    "A lack of railway lines",
+    "Cheap air travel",
+    "New safety rules"
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Low-cost airlines offered very cheap tickets."
+  },
+  {
+   "id": "r008-q03",
+   "type": "reading",
+   "passageId": "r008",
+   "prompt": "The word “shabby” in paragraph 1 is closest in meaning to",
+   "options": [
+    "crowded and noisy",
+    "modern and expensive",
+    "small and dark",
+    "old and in poor condition"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Shabby carriages = worn and in poor condition."
+  },
+  {
+   "id": "r008-q04",
+   "type": "reading",
+   "passageId": "r008",
+   "prompt": "What is the main reason for the revival of night trains?",
+   "options": [
+    "Lower ticket prices",
+    "Concern about climate change",
+    "Faster journeys",
+    "The closure of airports"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“The main reason for this revival is concern about the climate.”"
+  },
+  {
+   "id": "r008-q05",
+   "type": "reading",
+   "passageId": "r008",
+   "prompt": "How, according to paragraph 4, do night trains save time?",
+   "options": [
+    "Passengers travel while they sleep.",
+    "They are faster than planes.",
+    "They do not stop at borders.",
+    "They leave from airports."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Passengers go to sleep in one city and wake up in another."
+  },
+  {
+   "id": "r008-q06",
+   "type": "reading",
+   "passageId": "r008",
+   "prompt": "Why are night trains expensive to operate?",
+   "options": [
+    "They use more fuel than planes.",
+    "Carriages carry fewer passengers and staff work all night.",
+    "Tickets are taxed more heavily.",
+    "They need more stations."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“each carriage carries fewer passengers … the staff must work through the night”."
+  },
+  {
+   "id": "r008-q07",
+   "type": "reading",
+   "passageId": "r008",
+   "prompt": "The phrase “a pleasant niche” in the last paragraph suggests something that",
+   "options": [
+    "is enjoyed by a small, specialised group of people",
+    "is going to disappear soon",
+    "is used by most travellers",
+    "is only available in summer"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "A niche is a small, specialised market."
+  },
+  {
+   "id": "r008-q08",
+   "type": "reading",
+   "passageId": "r008",
+   "prompt": "Which of these statements would the author most probably agree with?",
+   "options": [
+    "Night trains will certainly replace planes.",
+    "Night trains have no real advantages.",
+    "Governments should ban all domestic flights.",
+    "The future of night trains depends on political choices."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“depends largely on political decisions about investment and ticket prices”."
+  },
+  {
+   "id": "r008-q09",
+   "type": "reading",
+   "passageId": "r008",
+   "prompt": "The word “they” in paragraph 4 (“they save time”) refers to",
+   "options": [
+    "night trains",
+    "supporters",
+    "airports",
+    "business travellers"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Night trains save time in an unusual way."
+  }
+ ]
+}

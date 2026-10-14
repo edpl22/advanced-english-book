@@ -1,0 +1,260 @@
+{
+ "id": "r016",
+ "title": "How Do Birds Find Their Way?",
+ "level": "B1",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "Every autumn, billions of birds leave their summer homes and fly to warmer places, and every spring they return. Some small birds weighing less than twenty grams fly thousands of kilometres, often at night and often across seas and deserts. Even more surprisingly, many of them come back to the same area, and sometimes to the same tree, year after year. How do they do it? Scientists have been studying this question for more than a century, and they now believe that birds use several different \"tools\" to find their way.\n\nThe first tool is the sun. Experiments have shown that birds can use the position of the sun to know which direction they are flying in. Because the sun moves across the sky during the day, birds must also have an internal clock to correct for this movement. In one famous experiment, scientists changed the birds' sense of time by keeping them under artificial lights. When the birds were released, they flew in the wrong direction, just as the scientists expected.\n\nBirds that fly at night cannot use the sun, so they use the stars. In the 1960s, a researcher put young birds inside a planetarium, a building where pictures of the night sky are shown on the ceiling. When he moved the picture of the sky, the birds changed their direction too. The experiment showed that birds learn the pattern of the stars around the North Star, which does not seem to move during the night.\n\nA third tool is the Earth's magnetic field. Many birds seem to have a kind of natural compass that allows them to feel the direction of this field. Scientists are still not sure exactly how this works. Some think that it depends on special cells in the bird's beak; others believe that it is connected to the bird's eyes.\n\nFinally, when birds are close to home, they probably use landmarks, such as rivers, coastlines and mountains, in the same way that people do. Some scientists also believe that smell plays a role, especially for seabirds.\n\nNo single tool explains everything. Birds probably combine information from several sources and use the most useful one in each situation: the sun on a clear day, the stars on a clear night and the magnetic field when the sky is cloudy. Even after so many years of research, migration is still one of nature's most impressive mysteries.",
+ "questions": [
+  {
+   "id": "r016-q01",
+   "type": "reading",
+   "passageId": "r016",
+   "prompt": "What is the main idea of the text?",
+   "options": [
+    "Birds use several different methods to find their way.",
+    "Birds can only migrate when the sky is clear.",
+    "Most birds return to the same tree every year.",
+    "Scientists have completely explained bird migration."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Birds use several “tools”."
+  },
+  {
+   "id": "r016-q02",
+   "type": "reading",
+   "passageId": "r016",
+   "prompt": "What is surprising about many migrating birds, according to paragraph 1?",
+   "options": [
+    "They fly only during the day.",
+    "They weigh more than twenty kilograms.",
+    "They return to the same area year after year.",
+    "They never cross seas or deserts."
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“many of them come back to the same area”."
+  },
+  {
+   "id": "r016-q03",
+   "type": "reading",
+   "passageId": "r016",
+   "prompt": "Why do birds need an internal clock to use the sun?",
+   "options": [
+    "Because they fly only at night",
+    "Because the sun is too bright",
+    "Because they sleep during the day",
+    "Because the sun's position changes during the day"
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The sun moves, so they must correct for its movement."
+  },
+  {
+   "id": "r016-q04",
+   "type": "reading",
+   "passageId": "r016",
+   "prompt": "What happened when the birds' sense of time was changed?",
+   "options": [
+    "They refused to fly.",
+    "They flew in the wrong direction.",
+    "They flew faster than usual.",
+    "They used the stars instead."
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“they flew in the wrong direction, just as the scientists expected”."
+  },
+  {
+   "id": "r016-q05",
+   "type": "reading",
+   "passageId": "r016",
+   "prompt": "What is a planetarium?",
+   "options": [
+    "A place where birds are kept in winter",
+    "A special kind of telescope",
+    "A laboratory for studying the sun",
+    "A building that shows images of the night sky"
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“a building where pictures of the night sky are shown on the ceiling”."
+  },
+  {
+   "id": "r016-q06",
+   "type": "reading",
+   "passageId": "r016",
+   "prompt": "The word “he” in paragraph 3 refers to",
+   "options": [
+    "the bird",
+    "the North Star",
+    "the researcher",
+    "the planetarium"
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The researcher moved the picture of the sky."
+  },
+  {
+   "id": "r016-q07",
+   "type": "reading",
+   "passageId": "r016",
+   "prompt": "What is true about the birds' magnetic sense?",
+   "options": [
+    "It is located only in the bird's eyes.",
+    "Scientists do not yet fully understand how it works.",
+    "It works only near the coast.",
+    "It was discovered in the 1960s planetarium experiment."
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“Scientists are still not sure exactly how this works.”"
+  },
+  {
+   "id": "r016-q08",
+   "type": "reading",
+   "passageId": "r016",
+   "prompt": "Which of the following is NOT mentioned as a landmark?",
+   "options": [
+    "forests",
+    "rivers",
+    "coastlines",
+    "mountains"
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The text mentions rivers, coastlines and mountains."
+  },
+  {
+   "id": "r016-q09",
+   "type": "reading",
+   "passageId": "r016",
+   "prompt": "According to the last paragraph, which tool might birds use when it is cloudy?",
+   "options": [
+    "the magnetic field",
+    "the sun",
+    "the stars",
+    "the North Star"
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“the magnetic field when the sky is cloudy”."
+  }
+ ]
+}

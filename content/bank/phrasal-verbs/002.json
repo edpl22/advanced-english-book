@@ -1,0 +1,1896 @@
+{
+ "topic": "phrasal-verbs",
+ "batch": 2,
+ "title": "Phrasal verbs — work and study",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "pv-002-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "fill in (or fill out) a form = complete it.",
+   "prompt": "Could you ___ this form and give it to the receptionist?",
+   "options": [
+    "fill in",
+    "fill up",
+    "fill on",
+    "fill at"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-002-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "hand in = give work to a teacher.",
+   "prompt": "Please ___ your essays at the end of the lesson.",
+   "options": [
+    "hand out",
+    "hand in",
+    "hand up",
+    "hand off"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-002-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "hand out = distribute.",
+   "prompt": "The teacher ___ the worksheets to the whole class.",
+   "options": [
+    "handed in",
+    "handed up",
+    "handed out",
+    "handed off"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-002-04",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.2",
+   "type": "mcq",
+   "explanation": "Separable verb: the pronoun goes between verb and particle.",
+   "prompt": "If you don’t know a word, ___ in the dictionary.",
+   "options": [
+    "look up it",
+    "look it for",
+    "look after it",
+    "look it up"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-002-05",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "keep up with = move or progress at the same speed.",
+   "prompt": "I can’t ___ the conversation — you’re all talking too fast.",
+   "options": [
+    "keep up with",
+    "keep off",
+    "keep up to",
+    "keep away with"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-002-06",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "set up = establish, organise.",
+   "prompt": "Our manager is going to ___ a new training programme next month.",
+   "options": [
+    "set off",
+    "set up",
+    "set back",
+    "set in"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-002-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "lay off = dismiss workers because there is no work.",
+   "prompt": "Several employees were ___ when the company lost its biggest client.",
+   "options": [
+    "laid out",
+    "laid down",
+    "laid off",
+    "laid up"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-002-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.3",
+   "type": "mcq",
+   "explanation": "carry on = continue.",
+   "prompt": "Don’t stop now — ___! You’re nearly at the end.",
+   "options": [
+    "carry out",
+    "carry off",
+    "carry over",
+    "carry on"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-002-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.5",
+   "type": "mcq",
+   "explanation": "carry out = conduct (an experiment, a survey).",
+   "prompt": "The researchers ___ a series of experiments on sleep.",
+   "options": [
+    "carried out",
+    "carried off",
+    "carried away",
+    "carried in"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-002-10",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "thrash out = discuss until you reach an agreement.",
+   "prompt": "After hours of debate, the committee finally ___ the details of the new budget.",
+   "options": [
+    "thrashed down",
+    "thrashed out",
+    "thrashed off",
+    "thrashed in"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-002-11",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "do away with = abolish, get rid of.",
+   "prompt": "The new manager wants to ___ all the unnecessary meetings.",
+   "options": [
+    "do up with",
+    "do out of",
+    "do away with",
+    "do over with"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-002-12",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "brush up (on) = improve a skill you used to have.",
+   "prompt": "I need to ___ my Spanish before the trip to Santiago.",
+   "options": [
+    "brush off",
+    "brush down",
+    "brush aside",
+    "brush up"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-002-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "be passed over = not be chosen, although you deserved it.",
+   "prompt": "She was ___ for promotion because she had been with the company for only a year.",
+   "options": [
+    "passed over",
+    "passed out",
+    "passed off",
+    "passed by"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-002-14",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "knuckle down = start working hard.",
+   "prompt": "The deadline is tomorrow, so we’ll have to ___ — no long lunches today.",
+   "options": [
+    "knuckle off",
+    "knuckle down",
+    "knuckle up",
+    "knuckle out"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-002-15",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "cover for = do someone’s work while they are away.",
+   "prompt": "Could you ___ Paulo while he’s on holiday? Someone has to answer his emails.",
+   "options": [
+    "cover up",
+    "cover over",
+    "cover for",
+    "cover in"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-002-16",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.3",
+   "type": "mcq",
+   "explanation": "go on = continue, last.",
+   "prompt": "The meeting ___ much longer than anyone expected.",
+   "options": [
+    "went off",
+    "went out",
+    "went by",
+    "went on"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-002-17",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.5",
+   "type": "mcq",
+   "explanation": "find out = discover.",
+   "prompt": "Which verb is the formal equivalent of “find out”?",
+   "options": [
+    "discover",
+    "disclose",
+    "discard",
+    "discount"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-002-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "brush aside = refuse to consider seriously.",
+   "prompt": "The professor ___ the student’s objection and carried on with the lecture.",
+   "options": [
+    "brushed up",
+    "brushed aside",
+    "brushed down",
+    "brushed in"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-002-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "stay up = not go to bed.",
+   "prompt": "I ___ late last night because I had an exam this morning.",
+   "cue": "stay up",
+   "acceptedAnswers": [
+    "stayed up"
+   ]
+  },
+  {
+   "id": "pv-002-20",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "go over = review, check.",
+   "prompt": "You should ___ your notes again before the test.",
+   "cue": "go over",
+   "acceptedAnswers": [
+    "go over"
+   ]
+  },
+  {
+   "id": "pv-002-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "put up = display (a notice).",
+   "prompt": "The exam results will be ___ on the noticeboard on Friday.",
+   "cue": "put up",
+   "acceptedAnswers": [
+    "put up"
+   ]
+  },
+  {
+   "id": "pv-002-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "phrasal-choice",
+   "explanation": "come up with = think of, produce.",
+   "prompt": "Our team ___ an excellent proposal in just two days last week.",
+   "cue": "come up with",
+   "acceptedAnswers": [
+    "came up with"
+   ]
+  },
+  {
+   "id": "pv-002-23",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "phrasal-choice",
+   "explanation": "drop out of = leave before finishing.",
+   "prompt": "Students who ___ a course in the first month get most of their money back.",
+   "cue": "drop out of",
+   "acceptedAnswers": [
+    "drop out of"
+   ]
+  },
+  {
+   "id": "pv-002-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "put off = postpone.",
+   "prompt": "I’ve been ___ this essay for weeks; I really must start it.",
+   "cue": "put off",
+   "acceptedAnswers": [
+    "putting off"
+   ]
+  },
+  {
+   "id": "pv-002-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "set out = explain in an organised way.",
+   "prompt": "In her email, the director ___ the main points of the plan.",
+   "cue": "set out",
+   "acceptedAnswers": [
+    "set out"
+   ]
+  },
+  {
+   "id": "pv-002-26",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "phase out = remove gradually.",
+   "prompt": "The company is ___ its old computers and replacing them with laptops.",
+   "cue": "phase out",
+   "acceptedAnswers": [
+    "phasing out"
+   ]
+  },
+  {
+   "id": "pv-002-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "single out = choose one person from a group.",
+   "prompt": "The report ___ two employees for special praise.",
+   "cue": "single out",
+   "acceptedAnswers": [
+    "singled out"
+   ]
+  },
+  {
+   "id": "pv-002-28",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "figure out = understand after thinking.",
+   "prompt": "I can’t ___ what the lecturer was trying to say.",
+   "cue": "figure out",
+   "acceptedAnswers": [
+    "figure out"
+   ]
+  },
+  {
+   "id": "pv-002-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.2",
+   "type": "kwt",
+   "explanation": "delay = put off (separable).",
+   "first": "I must start my homework now; I can’t delay it any longer.",
+   "keyword": "PUT",
+   "before": "I can’t",
+   "after": "any longer.",
+   "acceptedAnswers": [
+    "put my homework off",
+    "put off my homework",
+    "put it off"
+   ]
+  },
+  {
+   "id": "pv-002-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.3",
+   "type": "kwt",
+   "explanation": "continue = carry on.",
+   "first": "She continued working even though she was exhausted.",
+   "keyword": "CARRIED",
+   "before": "She",
+   "after": "even though she was exhausted.",
+   "acceptedAnswers": [
+    "carried on working",
+    "carried on with her work",
+    "carried on with work"
+   ]
+  },
+  {
+   "id": "pv-002-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "kwt",
+   "explanation": "dismiss workers = lay off.",
+   "first": "The company will probably dismiss 200 workers.",
+   "keyword": "LAY",
+   "before": "The company",
+   "after": "200 workers.",
+   "acceptedAnswers": [
+    "will probably lay off",
+    "is likely to lay off",
+    "will lay off",
+    "is going to lay off",
+    "is expected to lay off"
+   ]
+  },
+  {
+   "id": "pv-002-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "kwt",
+   "explanation": "eliminate = do away with.",
+   "first": "The new rules will eliminate unnecessary paperwork.",
+   "keyword": "AWAY",
+   "before": "The new rules will",
+   "after": "unnecessary paperwork.",
+   "acceptedAnswers": [
+    "do away with"
+   ]
+  },
+  {
+   "id": "pv-002-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "kwt",
+   "explanation": "improve a skill = brush up (on).",
+   "first": "I really need to improve my French before the interview.",
+   "keyword": "BRUSH",
+   "before": "I really need to",
+   "after": "my French before the interview.",
+   "acceptedAnswers": [
+    "brush up on",
+    "brush up"
+   ]
+  },
+  {
+   "id": "pv-002-34",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.2",
+   "type": "error-correction",
+   "explanation": "Separable verb + pronoun: hand it in.",
+   "parts": [
+    "Could you ",
+    {
+     "u": "hand in it"
+    },
+    " before Friday? The ",
+    {
+     "u": "deadline"
+    },
+    " is strict."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "hand it in"
+   ]
+  },
+  {
+   "id": "pv-002-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "error-correction",
+   "explanation": "drop out of + noun.",
+   "parts": [
+    "She ",
+    {
+     "u": "dropped out"
+    },
+    " university after her first year and ",
+    {
+     "u": "started"
+    },
+    " her own business."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "dropped out of",
+    "left"
+   ]
+  },
+  {
+   "id": "pv-002-36",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "error-correction",
+   "explanation": "come up with + noun.",
+   "parts": [
+    "We need to ",
+    {
+     "u": "come up"
+    },
+    " a better idea before the client ",
+    {
+     "u": "arrives"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "come up with",
+    "think of"
+   ]
+  },
+  {
+   "id": "pv-002-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.2",
+   "type": "error-correction",
+   "explanation": "Pronoun between verb and particle.",
+   "parts": [
+    "The manager ",
+    {
+     "u": "turned down it"
+    },
+    " because the plan was ",
+    {
+     "u": "too expensive"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "turned it down",
+    "rejected it"
+   ]
+  },
+  {
+   "id": "pv-002-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "error-correction",
+   "explanation": "break down = stop working (machines).",
+   "parts": [
+    "The experiment had to be ",
+    {
+     "u": "called off"
+    },
+    " when the equipment ",
+    {
+     "u": "broke up"
+    },
+    "."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "broke down",
+    "failed"
+   ]
+  },
+  {
+   "id": "pv-002-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.2",
+   "type": "word-order",
+   "explanation": "Separable verb: both orders are correct with a noun.",
+   "fragments": [
+    "Please",
+    "turn",
+    "off",
+    "your",
+    "phones",
+    "during the exam."
+   ],
+   "acceptedAnswers": [
+    "Please turn off your phones during the exam.",
+    "Please turn your phones off during the exam."
+   ]
+  },
+  {
+   "id": "pv-002-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "word-order",
+   "explanation": "catch up on = do what you did not have time to do.",
+   "fragments": [
+    "I",
+    "need to",
+    "catch up",
+    "on",
+    "my reading",
+    "this weekend."
+   ],
+   "acceptedAnswers": [
+    "I need to catch up on my reading this weekend."
+   ]
+  },
+  {
+   "id": "pv-002-41",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "word-order",
+   "explanation": "put back = postpone (passive).",
+   "fragments": [
+    "The",
+    "conference",
+    "has been",
+    "put",
+    "back",
+    "to",
+    "next spring."
+   ],
+   "acceptedAnswers": [
+    "The conference has been put back to next spring."
+   ]
+  },
+  {
+   "id": "pv-002-42",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "matching",
+   "explanation": "Study verbs.",
+   "prompt": "Match each phrasal verb with its meaning.",
+   "left": [
+    "hand in",
+    "look up",
+    "fill in",
+    "find out",
+    "give up"
+   ],
+   "right": [
+    "complete (a form)",
+    "submit (work)",
+    "stop trying",
+    "discover",
+    "search for information",
+    "return home"
+   ],
+   "answer": [
+    1,
+    4,
+    0,
+    3,
+    2
+   ]
+  },
+  {
+   "id": "pv-002-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.5",
+   "type": "matching",
+   "explanation": "Formal equivalents (22.5).",
+   "prompt": "Match each phrasal verb with its formal equivalent.",
+   "left": [
+    "set up",
+    "carry out",
+    "put off",
+    "turn down",
+    "look into"
+   ],
+   "right": [
+    "postpone",
+    "investigate",
+    "establish",
+    "refuse",
+    "conduct",
+    "arrive"
+   ],
+   "answer": [
+    2,
+    4,
+    0,
+    3,
+    1
+   ]
+  },
+  {
+   "id": "pv-002-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "matching",
+   "explanation": "draw up a contract, iron out difficulties, lay off workers, wind up a meeting, phase in rules.",
+   "prompt": "Complete the collocations.",
+   "left": [
+    "draw up",
+    "iron out",
+    "lay off",
+    "wind up",
+    "phase in"
+   ],
+   "right": [
+    "the meeting",
+    "a contract",
+    "the new rules gradually",
+    "200 workers",
+    "a holiday",
+    "the last few difficulties"
+   ],
+   "answer": [
+    1,
+    5,
+    3,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "pv-002-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.3",
+   "type": "matching",
+   "explanation": "Particles: on = continuation, back = reduction, out = extension.",
+   "prompt": "What does each phrasal verb mean?",
+   "left": [
+    "drag on",
+    "sign off",
+    "scale back",
+    "map out",
+    "branch out"
+   ],
+   "right": [
+    "plan in detail",
+    "arrive suddenly",
+    "continue for too long",
+    "start doing something new",
+    "reduce in size",
+    "finish (a letter, a broadcast)"
+   ],
+   "answer": [
+    2,
+    5,
+    4,
+    0,
+    3
+   ]
+  },
+  {
+   "id": "pv-002-46",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "open-cloze",
+   "explanation": "Particles with work verbs.",
+   "title": "First day at work",
+   "text": "On my first day at the new job, I set [1] early so that I wouldn’t be late. My manager showed me [2] the office and introduced me to the team. Then she handed [3] a pile of documents and asked me to fill [4] some forms. I didn’t understand some of the abbreviations, so I looked them [5] online. At lunch, a colleague asked me to join him, and we got [6] really well. In the afternoon, I had to sit [7] on a meeting where the team went [8] the plans for the next month. By six o’clock I was worn [9], but I was looking forward [10] the next day.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "off",
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "round",
+      "around"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "over",
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "in",
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "on",
+      "along"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "in"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "over",
+      "through"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pv-002-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "open-cloze",
+   "explanation": "get off to a bad start, back out of, look for, break down, call off, give up, draw up, sort out, keep up, sign up.",
+   "title": "The project that nearly failed",
+   "text": "The project got [1] to a bad start. The supplier backed [2] of the contract at the last minute, and we had to look [3] a new one. Then the software kept breaking [4]. At one point the director wanted to call the whole thing [5]. Fortunately, our team leader refused to give [6]. She drew [7] a new timetable, sorted [8] the technical problems one by one and kept everyone’s spirits [9]. In the end, the project was finished on time, and the client was so pleased that they signed [10] for another year.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "off"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "for"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "down"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up",
+      "in"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up",
+      "on"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pv-002-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "open-cloze",
+   "explanation": "take on, burn out, map out, rule out, put off, jot down, write up, turn out, gloss over, open up.",
+   "title": "Advice for new researchers",
+   "text": "Starting a PhD can be overwhelming. Many students take [1] too much in the first year and quickly burn [2]. It is better to map [3] your research in stages and to rule [4] topics that are too broad. Don’t put [5] writing until the end: jot [6] ideas as they occur to you, and write them [7] properly every week. When results don’t turn [8] as expected, resist the temptation to gloss [9] them. Unexpected findings are often the ones that open [10] new lines of research.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "on"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "down"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "over"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pv-002-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mc-cloze",
+   "explanation": "send off, find out, pick out, be called for, go over, set off, follow up, be turned down.",
+   "title": "Applying for a job",
+   "text": "Before you send [1] your CV, find [2] as much as you can about the company. Read the advert carefully and pick [3] the key skills they want. If you are called [4] an interview, go [5] your answers with a friend. On the day, set [6] early in case of traffic. After the interview, follow [7] with a short thank-you email. And if you are turned [8], don’t be discouraged.",
+   "gaps": [
+    {
+     "options": [
+      "up",
+      "by",
+      "off",
+      "down"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "up",
+      "over",
+      "off",
+      "out"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "out",
+      "off",
+      "over",
+      "in"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "in",
+      "for",
+      "at",
+      "on"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "off",
+      "by",
+      "over",
+      "out"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "up",
+      "in",
+      "back",
+      "off"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "up",
+      "on",
+      "off",
+      "in"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "off",
+      "down",
+      "over",
+      "back"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "pv-002-50",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mc-cloze",
+   "explanation": "rally round, set up, pour in, close down, spread out, draw up, call off, turn around.",
+   "title": "Saving the bookshop",
+   "text": "When the local bookshop announced it might close, the community [1] to save it. Volunteers [2] a crowdfunding campaign, and within a week donations [3]. The owner, who had been thinking of [4] the business, changed her mind. The bank agreed to [5] the payments on her loan, and a local architect [6] a plan to reorganise the shop. Not everything went smoothly — the first event was [7] because of a storm — but the business has now [8] completely.",
+   "gaps": [
+    {
+     "options": [
+      "ran down",
+      "put up with",
+      "rallied round",
+      "fell out"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "set off",
+      "took off",
+      "gave away",
+      "set up"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "poured in",
+      "poured out",
+      "dropped off",
+      "ran out"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "closing in",
+      "closing down",
+      "cutting in",
+      "running into"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "put out",
+      "break out",
+      "spread out",
+      "stand out"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "drew in",
+      "drew back",
+      "drew on",
+      "drew up"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "called off",
+      "called up",
+      "called in",
+      "called for"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "turned up",
+      "turned around",
+      "turned down",
+      "turned over"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

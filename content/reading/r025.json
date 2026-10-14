@@ -1,0 +1,298 @@
+{
+ "id": "r025",
+ "title": "The Laptop Migration",
+ "level": "B2",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "FUVEST",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "When Camila, a graphic designer, was told that she could work from home permanently, she did something that would have been unthinkable a few years earlier: she left the capital and moved to a small coastal town where she had spent her childhood holidays. Her salary stayed the same, but her rent fell by half, and instead of spending ninety minutes a day in traffic, she now begins her day with a walk on the beach.\n\nCamila is part of a phenomenon that has been observed in many countries since remote work became widespread: the movement of professionals from large cities to smaller towns and rural areas. For towns that had been losing population for decades, the arrival of these newcomers can seem like a gift. They bring income, fill empty houses, and spend money in local shops, cafés and gyms. Some towns have actively tried to attract them, offering cheap office space, fast internet connections and even financial incentives.\n\nThe reality, however, is more complicated. In several popular destinations, the newcomers' higher salaries have pushed up house prices and rents, making it harder for local young people to stay. A teacher or nurse earning a local salary may find it impossible to compete with a software engineer paid by a company in the capital. Some residents complain that their town is being transformed into a place where they can no longer afford to live.\n\nThere are also practical limits. Internet connections outside cities are often unreliable, and a video meeting that keeps freezing quickly becomes a source of frustration. Public services, such as schools and hospitals, may not be prepared for a sudden increase in population. And some remote workers discover that they miss the opportunities of city life more than they expected: the variety of restaurants and cultural events, but also the informal contacts with colleagues that can lead to new projects.\n\nResearchers who study the trend point out that its long-term effects are still uncertain. Many companies have asked employees to return to the office at least part of the week, which makes living far away more difficult. It is possible that the movement will slow down, or that it will concentrate in towns within two or three hours of a major city, where workers can travel to the office when necessary.\n\nFor Camila, at least, there is no going back. \"I know I'm lucky,\" she says. \"But I also try to be a good neighbour. I buy from local producers, I've joined the residents' association, and I try to remember that this was their town before it was mine.\"",
+ "questions": [
+  {
+   "id": "r025-q01",
+   "type": "reading",
+   "passageId": "r025",
+   "prompt": "What did Camila do when she was allowed to work from home permanently?",
+   "options": [
+    "She moved from the capital to a small coastal town.",
+    "She changed her job to earn more money.",
+    "She bought a house in the capital.",
+    "She started her own design company."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 1."
+  },
+  {
+   "id": "r025-q02",
+   "type": "reading",
+   "passageId": "r025",
+   "prompt": "What does the phrase “would have been unthinkable a few years earlier” suggest?",
+   "options": [
+    "Camila had never thought about moving.",
+    "Such a move was not possible before remote work became common.",
+    "Small towns did not exist a few years ago.",
+    "Camila's company did not allow holidays."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Remote work made the move possible."
+  },
+  {
+   "id": "r025-q03",
+   "type": "reading",
+   "passageId": "r025",
+   "prompt": "How have some towns tried to attract remote workers?",
+   "options": [
+    "By building new airports",
+    "By lowering taxes for local shops",
+    "By creating universities",
+    "By offering cheap offices, fast internet and financial incentives"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 2."
+  },
+  {
+   "id": "r025-q04",
+   "type": "reading",
+   "passageId": "r025",
+   "prompt": "According to paragraph 3, why is it harder for local young people to stay in some towns?",
+   "options": [
+    "There are no jobs for teachers and nurses.",
+    "The newcomers refuse to hire them.",
+    "Housing has become more expensive.",
+    "The towns have lost their beaches."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Newcomers' higher salaries pushed up prices and rents."
+  },
+  {
+   "id": "r025-q05",
+   "type": "reading",
+   "passageId": "r025",
+   "prompt": "Which practical problem is mentioned in paragraph 4?",
+   "options": [
+    "a lack of public transport",
+    "unreliable internet connections",
+    "high taxes",
+    "dangerous roads"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“Internet connections outside cities are often unreliable”."
+  },
+  {
+   "id": "r025-q06",
+   "type": "reading",
+   "passageId": "r025",
+   "prompt": "Some remote workers miss city life because of",
+   "options": [
+    "the lower cost of living",
+    "the cultural variety and informal contacts with colleagues",
+    "the quiet streets",
+    "the long journeys to work"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r025-q07",
+   "type": "reading",
+   "passageId": "r025",
+   "prompt": "Why might the movement slow down, according to researchers?",
+   "options": [
+    "Small towns are becoming too crowded.",
+    "House prices in cities have fallen.",
+    "Remote work has been banned.",
+    "Many companies want employees in the office part of the week."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Companies have asked employees to return to the office."
+  },
+  {
+   "id": "r025-q08",
+   "type": "reading",
+   "passageId": "r025",
+   "prompt": "The phrase “there is no going back” in the last paragraph means that Camila",
+   "options": [
+    "cannot afford to move again",
+    "has lost her job in the capital",
+    "does not intend to return to the capital",
+    "regrets her decision"
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "She will stay in the town."
+  },
+  {
+   "id": "r025-q09",
+   "type": "reading",
+   "passageId": "r025",
+   "prompt": "What does Camila's final comment show?",
+   "options": [
+    "She thinks local people should leave the town.",
+    "She plans to buy more houses in the town.",
+    "She is aware of the impact of newcomers on the local community.",
+    "She is not interested in local life."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "She tries to be a good neighbour and respect the town's residents."
+  },
+  {
+   "id": "r025-q10",
+   "type": "reading",
+   "passageId": "r025",
+   "prompt": "What is the author's overall attitude to the trend?",
+   "options": [
+    "Balanced: it describes both benefits and problems.",
+    "Completely enthusiastic",
+    "Strongly opposed",
+    "Uninterested"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The text presents advantages, problems and uncertainty."
+  }
+ ]
+}

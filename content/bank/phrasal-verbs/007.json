@@ -1,0 +1,1875 @@
+{
+ "topic": "phrasal-verbs",
+ "batch": 7,
+ "title": "Phrasal verbs — news, science and military contexts",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "pv-007-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "set out = start a journey.",
+   "prompt": "The soldiers ___ at dawn and marched for ten hours.",
+   "options": [
+    "set out",
+    "set up",
+    "set in",
+    "set down"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-007-02",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "give in = stop resisting.",
+   "prompt": "The protesters refused to ___ until the government listened to them.",
+   "options": [
+    "give out",
+    "give in",
+    "give off",
+    "give away"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-007-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "break out = start suddenly.",
+   "prompt": "A fire ___ in the engine room.",
+   "options": [
+    "broke up",
+    "broke in",
+    "broke out",
+    "broke down"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-007-04",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "hold out = continue to resist.",
+   "prompt": "The rebels ___ for three weeks before they surrendered.",
+   "options": [
+    "held up",
+    "held in",
+    "held over",
+    "held out"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-007-05",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "fall back = retreat.",
+   "prompt": "The general ordered his troops to ___.",
+   "options": [
+    "fall back",
+    "fall over",
+    "fall through",
+    "fall apart"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-007-06",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "come across = find by chance.",
+   "prompt": "Scientists have ___ a new species of frog in the Amazon.",
+   "options": [
+    "come over",
+    "come across",
+    "come up",
+    "come round"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-007-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "go off = explode.",
+   "prompt": "The bomb ___ shortly after midnight.",
+   "options": [
+    "went out",
+    "went on",
+    "went off",
+    "went by"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-007-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "go down = sink.",
+   "prompt": "The ship ___ near the coast of Santa Catarina.",
+   "options": [
+    "went off",
+    "went over",
+    "went out",
+    "went down"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-007-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "rule out = exclude a possibility.",
+   "prompt": "Investigators have ___ sabotage as the cause of the accident.",
+   "options": [
+    "ruled out",
+    "ruled off",
+    "ruled over",
+    "ruled up"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-007-10",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "put down = suppress by force.",
+   "prompt": "The army was called in to ___ the rebellion.",
+   "options": [
+    "put off",
+    "put down",
+    "put up",
+    "put through"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-007-11",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "be bogged down = be unable to make progress.",
+   "prompt": "The advancing troops were ___ by heavy rain and mud.",
+   "options": [
+    "bogged up",
+    "bogged in",
+    "bogged down",
+    "bogged off"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-007-12",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "fight off = resist successfully.",
+   "prompt": "The pilot managed to ___ the attack and return to base.",
+   "options": [
+    "fight out",
+    "fight up",
+    "fight over",
+    "fight off"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-007-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "scale back = reduce.",
+   "prompt": "The two countries have agreed to ___ their nuclear programmes.",
+   "options": [
+    "scale back",
+    "scale off",
+    "scale in",
+    "scale out"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-007-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "flare up = start again suddenly.",
+   "prompt": "Experts warn that the disease could ___ again next winter.",
+   "options": [
+    "flare off",
+    "flare up",
+    "flare in",
+    "flare out"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-007-15",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "bear out = confirm.",
+   "prompt": "The results of the experiment ___ the original theory.",
+   "options": [
+    "bear up",
+    "bear down",
+    "bear out",
+    "bear with"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-007-16",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "drag on = continue for too long.",
+   "prompt": "Peace talks ___ for months without any real progress.",
+   "options": [
+    "dragged up",
+    "dragged in",
+    "dragged off",
+    "dragged on"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-007-17",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "gloss over = avoid discussing in detail.",
+   "prompt": "The commander tried to ___ the seriousness of the losses.",
+   "options": [
+    "gloss over",
+    "gloss up",
+    "gloss off",
+    "gloss in"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-007-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "close in (on) = surround and approach.",
+   "prompt": "Government forces are ___ on rebel positions in the north.",
+   "options": [
+    "closing up",
+    "closing in",
+    "closing off",
+    "closing down"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-007-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "read through = read completely.",
+   "prompt": "Please ___ the instructions carefully before you start the experiment.",
+   "cue": "read through",
+   "acceptedAnswers": [
+    "read through"
+   ]
+  },
+  {
+   "id": "pv-007-20",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "fall apart = collapse.",
+   "prompt": "The ceasefire ___ after only two days.",
+   "cue": "fall apart",
+   "acceptedAnswers": [
+    "fell apart"
+   ]
+  },
+  {
+   "id": "pv-007-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "check over = examine carefully.",
+   "prompt": "Engineers ___ the damage before the ship sailed again.",
+   "cue": "check over",
+   "acceptedAnswers": [
+    "checked over"
+   ]
+  },
+  {
+   "id": "pv-007-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "send in = send (troops, police) to deal with a situation.",
+   "prompt": "Extra troops were ___ to protect the civilians.",
+   "cue": "send in",
+   "acceptedAnswers": [
+    "sent in"
+   ]
+  },
+  {
+   "id": "pv-007-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "work out = discover by thinking.",
+   "prompt": "The researchers finally ___ how the virus enters the cells.",
+   "cue": "work out",
+   "acceptedAnswers": [
+    "worked out"
+   ]
+  },
+  {
+   "id": "pv-007-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "back down = stop insisting; yield.",
+   "prompt": "The rebels finally ___ and handed over their weapons.",
+   "cue": "back down",
+   "acceptedAnswers": [
+    "backed down"
+   ]
+  },
+  {
+   "id": "pv-007-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "bring down = reduce.",
+   "prompt": "The new vaccine is expected to ___ the number of infections.",
+   "cue": "bring down",
+   "acceptedAnswers": [
+    "bring down"
+   ]
+  },
+  {
+   "id": "pv-007-26",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "paper over = hide a problem temporarily.",
+   "prompt": "The agreement merely ___ the deep divisions between the two parties.",
+   "cue": "paper over",
+   "acceptedAnswers": [
+    "papered over"
+   ]
+  },
+  {
+   "id": "pv-007-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "hem in = surround so that no one can leave.",
+   "prompt": "The army ___ the city for six months before it surrendered.",
+   "cue": "hem in",
+   "acceptedAnswers": [
+    "hemmed in"
+   ]
+  },
+  {
+   "id": "pv-007-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "shore up = support, strengthen.",
+   "prompt": "The central bank intervened to ___ the currency.",
+   "cue": "shore up",
+   "acceptedAnswers": [
+    "shore up"
+   ]
+  },
+  {
+   "id": "pv-007-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "kwt",
+   "explanation": "start suddenly = break out.",
+   "first": "A fire started in the kitchen.",
+   "keyword": "OUT",
+   "before": "A fire",
+   "after": "in the kitchen.",
+   "acceptedAnswers": [
+    "broke out"
+   ]
+  },
+  {
+   "id": "pv-007-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "kwt",
+   "explanation": "resist = hold out.",
+   "first": "The soldiers resisted for three weeks.",
+   "keyword": "HELD",
+   "before": "The soldiers",
+   "after": "for three weeks.",
+   "acceptedAnswers": [
+    "held out"
+   ]
+  },
+  {
+   "id": "pv-007-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "kwt",
+   "explanation": "exclude = rule out.",
+   "first": "Investigators have eliminated the possibility of sabotage.",
+   "keyword": "RULED",
+   "before": "Investigators have",
+   "after": "the possibility of sabotage.",
+   "acceptedAnswers": [
+    "ruled out"
+   ]
+  },
+  {
+   "id": "pv-007-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "kwt",
+   "explanation": "confirm = bear out.",
+   "first": "The evidence confirms what the witness said.",
+   "keyword": "BEARS",
+   "before": "The evidence",
+   "after": "what the witness said.",
+   "acceptedAnswers": [
+    "bears out"
+   ]
+  },
+  {
+   "id": "pv-007-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "kwt",
+   "explanation": "continue too long = drag on.",
+   "first": "The talks continued for months without any progress.",
+   "keyword": "DRAGGED",
+   "before": "The talks",
+   "after": "for months without any progress.",
+   "acceptedAnswers": [
+    "dragged on"
+   ]
+  },
+  {
+   "id": "pv-007-34",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "error-correction",
+   "explanation": "go off = explode; go out = stop burning.",
+   "parts": [
+    "The bomb ",
+    {
+     "u": "went out"
+    },
+    " just after the area had been ",
+    {
+     "u": "cleared"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "went off",
+    "exploded"
+   ]
+  },
+  {
+   "id": "pv-007-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "error-correction",
+   "explanation": "go down = sink.",
+   "parts": [
+    "The ship ",
+    {
+     "u": "went off"
+    },
+    " in a storm and the crew ",
+    {
+     "u": "were rescued"
+    },
+    " by helicopter."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "went down",
+    "sank"
+   ]
+  },
+  {
+   "id": "pv-007-36",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "error-correction",
+   "explanation": "put down = suppress; put off = postpone.",
+   "parts": [
+    "The riot was ",
+    {
+     "u": "put off"
+    },
+    " by the army after ",
+    {
+     "u": "two days"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "put down",
+    "suppressed",
+    "crushed"
+   ]
+  },
+  {
+   "id": "pv-007-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "error-correction",
+   "explanation": "close in on + place.",
+   "parts": [
+    "The enemy ",
+    {
+     "u": "closed in"
+    },
+    " the city from three ",
+    {
+     "u": "directions"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "closed in on"
+   ]
+  },
+  {
+   "id": "pv-007-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "error-correction",
+   "explanation": "bear out = confirm; bear up = remain brave.",
+   "parts": [
+    "The new data ",
+    {
+     "u": "bears up"
+    },
+    " the theory that sea levels are ",
+    {
+     "u": "rising"
+    },
+    " faster than predicted."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "bears out",
+    "supports",
+    "confirms"
+   ]
+  },
+  {
+   "id": "pv-007-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "word-order",
+   "explanation": "set out = start a journey.",
+   "fragments": [
+    "The",
+    "soldiers",
+    "set",
+    "out",
+    "before",
+    "sunrise."
+   ],
+   "acceptedAnswers": [
+    "The soldiers set out before sunrise."
+   ]
+  },
+  {
+   "id": "pv-007-40",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "word-order",
+   "explanation": "hold out = continue to resist.",
+   "fragments": [
+    "The",
+    "rebels",
+    "held",
+    "out",
+    "for",
+    "three weeks."
+   ],
+   "acceptedAnswers": [
+    "The rebels held out for three weeks."
+   ]
+  },
+  {
+   "id": "pv-007-41",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "word-order",
+   "explanation": "gloss over = avoid discussing.",
+   "fragments": [
+    "Officials",
+    "tried",
+    "to",
+    "gloss",
+    "over",
+    "the losses."
+   ],
+   "acceptedAnswers": [
+    "Officials tried to gloss over the losses."
+   ]
+  },
+  {
+   "id": "pv-007-42",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "matching",
+   "explanation": "News verbs.",
+   "prompt": "News: match each phrasal verb with its meaning.",
+   "left": [
+    "break out",
+    "go off",
+    "go down",
+    "take over",
+    "put out"
+   ],
+   "right": [
+    "sink",
+    "explode",
+    "extinguish",
+    "start suddenly",
+    "take control",
+    "arrive"
+   ],
+   "answer": [
+    3,
+    1,
+    0,
+    4,
+    2
+   ]
+  },
+  {
+   "id": "pv-007-43",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "matching",
+   "explanation": "Military verbs.",
+   "prompt": "Conflict: match each phrasal verb with its meaning.",
+   "left": [
+    "fall back",
+    "hold out",
+    "back down",
+    "close in",
+    "fight off"
+   ],
+   "right": [
+    "resist an attack successfully",
+    "retreat",
+    "surround and approach",
+    "continue to resist",
+    "stop insisting; yield",
+    "advance quickly"
+   ],
+   "answer": [
+    1,
+    3,
+    4,
+    2,
+    0
+   ]
+  },
+  {
+   "id": "pv-007-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "matching",
+   "explanation": "Science verbs.",
+   "prompt": "Science: match each phrasal verb with its meaning.",
+   "left": [
+    "carry out",
+    "set up",
+    "rule out",
+    "bear out",
+    "point to"
+   ],
+   "right": [
+    "suggest as a cause",
+    "confirm",
+    "exclude",
+    "conduct",
+    "prepare (equipment)",
+    "invent"
+   ],
+   "answer": [
+    3,
+    4,
+    2,
+    1,
+    0
+   ]
+  },
+  {
+   "id": "pv-007-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "matching",
+   "explanation": "Advanced verbs for news reports.",
+   "prompt": "Match each phrasal verb with its meaning.",
+   "left": [
+    "bog down",
+    "paper over",
+    "shore up",
+    "drag on",
+    "stamp out"
+   ],
+   "right": [
+    "continue for too long",
+    "hide (a problem) temporarily",
+    "support, strengthen",
+    "eliminate (crime, a disease)",
+    "slow down progress",
+    "give up"
+   ],
+   "answer": [
+    4,
+    1,
+    2,
+    0,
+    3
+   ]
+  },
+  {
+   "id": "pv-007-46",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "open-cloze",
+   "explanation": "get into trouble, break down, set off, take on water, go down, winch up, pass out, come round, point out, give up.",
+   "title": "Rescue at sea",
+   "text": "Late on Tuesday night, a fishing boat got [1] trouble off the coast of Santa Catarina. Its engine had broken [2], and strong winds were pushing it towards the rocks. The coastguard set [3] immediately. When the rescue team arrived, the boat was taking [4] water, and it looked as if it might go [5] at any moment. The rescuers managed to winch the crew [6] into a helicopter. One fisherman had passed [7] from the cold, but he came [8] on the way to hospital. The coastguard later pointed [9] that the crew had done the right thing by staying with the boat. “Never give [10],” said the captain.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "into"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "down"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off",
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "on",
+      "in"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "down",
+      "under"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "round",
+      "around",
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pv-007-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "open-cloze",
+   "explanation": "figure out, rule out, carry out, come across, point to, set up, bear out, open up, give up, keep going.",
+   "title": "A breakthrough in the lab",
+   "text": "For years, the team had been trying to figure [1] why the cells were dying. They had ruled [2] contamination and carried [3] dozens of tests, but nothing seemed to work. Then a junior researcher came [4] an old paper that pointed [5] a possible cause: a tiny change in temperature. The team set [6] a new experiment to test the idea, and the results bore it [7]. The discovery has opened [8] new possibilities for treating the disease. “We nearly gave [9],” the director admits. “I’m glad we kept [10].”",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "across",
+      "upon"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to",
+      "at"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "going",
+      "trying",
+      "at",
+      "on"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pv-007-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "open-cloze",
+   "explanation": "hem in, run low, break out, back down, hold out, close in, beat back, keep up, bog down, pull back.",
+   "title": "The siege",
+   "text": "By the third month, the city had been completely hemmed [1]. Supplies were running [2], and disease had broken [3] in the poorer districts. The defenders, however, refused to back [4]. They held [5] against repeated attacks, and each time the enemy closed [6] on the walls, it was beaten [7]. Rumours of a relief army kept spirits [8]. When the relief force finally arrived, the besiegers, bogged [9] by winter rains, were forced to pull [10].",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "in"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "low",
+      "out",
+      "short"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "down"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out",
+      "firm"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "in"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "back",
+      "off"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "down"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "back",
+      "out"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pv-007-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mc-cloze",
+   "explanation": "flare up, shoot up, call off, clear out, move in, die down, rule out, settle down.",
+   "title": "A volcano wakes up",
+   "text": "The volcano, which had been quiet for a century, [1] last week. Clouds of ash [2] into the sky, and flights across the region were [3]. Thousands of residents were told to [4] immediately. Rescue teams [5] to help people who were trapped. Scientists say the activity may [6] in the coming days, but they cannot [7] another eruption. Local people are now waiting for life to [8].",
+   "gaps": [
+    {
+     "options": [
+      "flared out",
+      "flared off",
+      "flared up",
+      "flared in"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "shot down",
+      "shot off",
+      "shot in",
+      "shot up"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "called off",
+      "called up",
+      "called in",
+      "called on"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "clear up",
+      "clear out",
+      "clear down",
+      "clear in"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "moved off",
+      "moved up",
+      "moved in",
+      "moved over"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "die off",
+      "die in",
+      "die up",
+      "die down"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "rule out",
+      "rule off",
+      "rule over",
+      "rule in"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "settle up",
+      "settle down",
+      "settle on",
+      "settle over"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "pv-007-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mc-cloze",
+   "explanation": "pull out, hush up, play up, see through, keep out of, cut out, shut out, bring out.",
+   "title": "Covering a war",
+   "text": "Reporters in conflict zones face difficult choices. They must decide whether to [1] when the fighting gets too close. Military press officers often try to [2] bad news, while rebel groups may [3] casualties for propaganda purposes. A good correspondent learns to [4] the spin and find the facts. Sometimes reporters are [5] of an area when the situation is too sensitive. Some editors [6] graphic images; others argue that readers should not be [7] from reality. Ultimately, the reporter’s job is to [8] the truth, whatever the cost.",
+   "gaps": [
+    {
+     "options": [
+      "pull in",
+      "pull up",
+      "pull out",
+      "pull on"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "hush in",
+      "hush off",
+      "hush over",
+      "hush up"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "play up",
+      "play off",
+      "play in",
+      "play out"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "see off",
+      "see through",
+      "see out",
+      "see to"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "kept up",
+      "kept on",
+      "kept out",
+      "kept in"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "cut in",
+      "cut up",
+      "cut off",
+      "cut out"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "shut out",
+      "shut up",
+      "shut in",
+      "shut down"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "bring in",
+      "bring out",
+      "bring off",
+      "bring round"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

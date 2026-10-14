@@ -1,0 +1,1911 @@
+{
+ "topic": "perfect-tenses",
+ "batch": 1,
+ "title": "Perfect tenses — mixed levels",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "perf-001-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.1",
+   "type": "mcq",
+   "explanation": "Experience: have been (gone = went and has not returned).",
+   "prompt": "I ___ to Salvador three times.",
+   "options": [
+    "have been",
+    "was",
+    "have gone",
+    "am being"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "perf-001-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.1",
+   "type": "mcq",
+   "explanation": "have + past participle.",
+   "prompt": "Have you ever ___ sushi?",
+   "options": [
+    "ate",
+    "eaten",
+    "eat",
+    "eating"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "perf-001-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.2",
+   "type": "mcq",
+   "explanation": "since + point in time.",
+   "prompt": "I’ve lived in this flat ___ 2015.",
+   "options": [
+    "for",
+    "from",
+    "since",
+    "ago"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "perf-001-04",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.2",
+   "type": "mcq",
+   "explanation": "yet at the end of negatives and questions.",
+   "prompt": "She hasn’t finished her homework ___.",
+   "options": [
+    "already",
+    "still",
+    "since",
+    "yet"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "perf-001-05",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "2.1",
+   "type": "mcq",
+   "explanation": "Past action with a present result.",
+   "prompt": "I ___ my keys. Can you help me look for them?",
+   "options": [
+    "have lost",
+    "am losing",
+    "had lost",
+    "was losing"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "perf-001-06",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "2.3",
+   "type": "mcq",
+   "explanation": "Recent activity that explains a present situation.",
+   "prompt": "You look exhausted. What ___?",
+   "options": [
+    "had you done",
+    "have you been doing",
+    "do you do",
+    "are you done"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "perf-001-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "2.4",
+   "type": "mcq",
+   "explanation": "Finished time (he is dead): past simple.",
+   "prompt": "Shakespeare ___ about 39 plays.",
+   "options": [
+    "has written",
+    "has been writing",
+    "wrote",
+    "had been writing"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "perf-001-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "2.2",
+   "type": "mcq",
+   "explanation": "It’s the first time + present perfect.",
+   "prompt": "It’s the first time I ___ a horse.",
+   "options": [
+    "ride",
+    "rode",
+    "am riding",
+    "have ridden"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "perf-001-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "2.3",
+   "type": "mcq",
+   "explanation": "How long + present perfect continuous.",
+   "prompt": "How long ___ for the bus? — About twenty minutes, and it still hasn’t come.",
+   "options": [
+    "have you been waiting",
+    "are you waiting",
+    "do you wait",
+    "you have been waiting"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "perf-001-10",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "2.4",
+   "type": "mcq",
+   "explanation": "since → present perfect.",
+   "prompt": "I ___ him since we left school.",
+   "options": [
+    "didn’t see",
+    "haven’t seen",
+    "don’t see",
+    "wasn’t seeing"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "perf-001-11",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "2.1",
+   "type": "mcq",
+   "explanation": "Superlative + present perfect.",
+   "prompt": "This is the best meal I ___.",
+   "options": [
+    "was ever eating",
+    "ever eat",
+    "have ever eaten",
+    "am ever eating"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "perf-001-12",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.3",
+   "type": "mcq",
+   "explanation": "Unfinished activity: continuous.",
+   "prompt": "I ___ this book for weeks and I’m only on page 50.",
+   "options": [
+    "have read",
+    "read",
+    "had read",
+    "have been reading"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "perf-001-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.3",
+   "type": "mcq",
+   "explanation": "A number of completed things: simple.",
+   "prompt": "She ___ three novels since 2020.",
+   "options": [
+    "has written",
+    "has been writing",
+    "wrote",
+    "is writing"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "perf-001-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.2",
+   "type": "mcq",
+   "explanation": "for ages → present perfect.",
+   "prompt": "I ___ him for ages — is he all right?",
+   "options": [
+    "didn’t hear from",
+    "haven’t heard from",
+    "don’t hear from",
+    "hadn’t heard"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "perf-001-15",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.3",
+   "type": "mcq",
+   "explanation": "Evidence of recent activity: continuous.",
+   "prompt": "Someone ___ my laptop — all the settings are different.",
+   "options": [
+    "had used",
+    "used",
+    "has been using",
+    "is using"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "perf-001-16",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.4",
+   "type": "mcq",
+   "explanation": "This is the third time + present perfect.",
+   "prompt": "This is the third time you ___ late this week.",
+   "options": [
+    "are",
+    "were",
+    "had been",
+    "have been"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "perf-001-17",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.4",
+   "type": "mcq",
+   "explanation": "up to now → present perfect.",
+   "prompt": "Up to now, the company ___ any profit.",
+   "options": [
+    "hasn’t made",
+    "didn’t make",
+    "doesn’t make",
+    "wasn’t making"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "perf-001-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "2.2",
+   "type": "mcq",
+   "explanation": "Time + has passed + since.",
+   "prompt": "Barely a week has gone by ___ she started the job, and she’s already been promoted.",
+   "options": [
+    "for",
+    "since",
+    "that",
+    "when"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "perf-001-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.1",
+   "type": "gap",
+   "explanation": "Experience: have never been.",
+   "prompt": "I ___ to Europe, but I’d love to go.",
+   "acceptedAnswers": [
+    "have never been"
+   ],
+   "cue": "never / be"
+  },
+  {
+   "id": "perf-001-20",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "2.2",
+   "type": "gap",
+   "explanation": "State verb: present perfect simple.",
+   "prompt": "We ___ each other since primary school.",
+   "acceptedAnswers": [
+    "have known"
+   ],
+   "cue": "know"
+  },
+  {
+   "id": "perf-001-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "2.3",
+   "type": "gap",
+   "explanation": "Activity with a present result: continuous.",
+   "prompt": "I’m tired because I ___ all day.",
+   "acceptedAnswers": [
+    "have been working"
+   ],
+   "cue": "work"
+  },
+  {
+   "id": "perf-001-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "2.4",
+   "type": "gap",
+   "explanation": "When → past simple.",
+   "prompt": "When ___ in Recife?",
+   "acceptedAnswers": [
+    "did you arrive"
+   ],
+   "cue": "you / arrive"
+  },
+  {
+   "id": "perf-001-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "2.1",
+   "type": "gap",
+   "explanation": "Present result.",
+   "prompt": "Look! Someone ___ the window.",
+   "acceptedAnswers": [
+    "has broken"
+   ],
+   "cue": "break"
+  },
+  {
+   "id": "perf-001-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.3",
+   "type": "gap",
+   "explanation": "How long + present perfect (continuous).",
+   "prompt": "How long ___ English?",
+   "acceptedAnswers": [
+    "have you been learning",
+    "have you learnt",
+    "have you learned"
+   ],
+   "cue": "you / learn"
+  },
+  {
+   "id": "perf-001-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.2",
+   "type": "gap",
+   "explanation": "already between have and the participle.",
+   "prompt": "She ___ the email, so you don’t need to remind her.",
+   "acceptedAnswers": [
+    "has already sent"
+   ],
+   "cue": "already / send"
+  },
+  {
+   "id": "perf-001-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.3",
+   "type": "gap",
+   "explanation": "lately → present perfect.",
+   "prompt": "He ___ well lately — he looks tired.",
+   "acceptedAnswers": [
+    "hasn’t been sleeping",
+    "has not been sleeping",
+    "hasn’t slept",
+    "has not slept"
+   ],
+   "cue": "not / sleep"
+  },
+  {
+   "id": "perf-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "2.4",
+   "type": "gap",
+   "explanation": "It’s the first time + present perfect.",
+   "prompt": "This is the first time the team ___ the final.",
+   "acceptedAnswers": [
+    "has reached"
+   ],
+   "cue": "reach"
+  },
+  {
+   "id": "perf-001-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "2.3",
+   "type": "gap",
+   "explanation": "Evidence of recent activity.",
+   "prompt": "Your eyes are red. ___?",
+   "acceptedAnswers": [
+    "Have you been crying"
+   ],
+   "cue": "you / cry"
+  },
+  {
+   "id": "perf-001-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "2.2",
+   "type": "kwt",
+   "explanation": "started… ago → present perfect + for.",
+   "first": "I started working here three years ago.",
+   "keyword": "FOR",
+   "before": "I",
+   "after": "three years.",
+   "acceptedAnswers": [
+    "have worked here for",
+    "have been working here for"
+   ]
+  },
+  {
+   "id": "perf-001-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.2",
+   "type": "kwt",
+   "explanation": "The last time… → haven’t… since.",
+   "first": "The last time I saw him was in 2019.",
+   "keyword": "SEEN",
+   "before": "I",
+   "after": "2019.",
+   "acceptedAnswers": [
+    "haven’t seen him since",
+    "have not seen him since"
+   ]
+  },
+  {
+   "id": "perf-001-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.4",
+   "type": "kwt",
+   "explanation": "It’s… since → haven’t… for.",
+   "first": "It’s two years since we went on holiday.",
+   "keyword": "BEEN",
+   "before": "We",
+   "after": "on holiday for two years.",
+   "acceptedAnswers": [
+    "haven’t been",
+    "have not been"
+   ]
+  },
+  {
+   "id": "perf-001-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "2.1",
+   "type": "kwt",
+   "explanation": "never… such → the best… ever.",
+   "first": "I have never eaten such good food.",
+   "keyword": "EVER",
+   "before": "This is the best food",
+   "after": ".",
+   "acceptedAnswers": [
+    "I have ever eaten",
+    "I’ve ever eaten"
+   ]
+  },
+  {
+   "id": "perf-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "2.2",
+   "type": "kwt",
+   "explanation": "first time → never… before.",
+   "first": "This is the first time she has driven a truck.",
+   "keyword": "NEVER",
+   "before": "She",
+   "after": "a truck before.",
+   "acceptedAnswers": [
+    "has never driven"
+   ]
+  },
+  {
+   "id": "perf-001-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.4",
+   "type": "error-correction",
+   "explanation": "Finished time (last week): past simple.",
+   "parts": [
+    "I ",
+    {
+     "u": "have seen"
+    },
+    " that film ",
+    {
+     "u": "last"
+    },
+    " week."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "saw"
+   ]
+  },
+  {
+   "id": "perf-001-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "2.2",
+   "type": "error-correction",
+   "explanation": "since → present perfect.",
+   "parts": [
+    "She ",
+    {
+     "u": "lives"
+    },
+    " in Natal ",
+    {
+     "u": "since"
+    },
+    " 2018."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "has lived",
+    "has been living"
+   ]
+  },
+  {
+   "id": "perf-001-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "2.1",
+   "type": "error-correction",
+   "explanation": "have + past participle (done).",
+   "parts": [
+    "I ",
+    {
+     "u": "have"
+    },
+    " already ",
+    {
+     "u": "did"
+    },
+    " my homework."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "done"
+   ]
+  },
+  {
+   "id": "perf-001-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.3",
+   "type": "error-correction",
+   "explanation": "How long + present perfect continuous.",
+   "parts": [
+    "How long ",
+    {
+     "u": "are you"
+    },
+    " waiting ",
+    {
+     "u": "for"
+    },
+    " me?"
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "have you been"
+   ]
+  },
+  {
+   "id": "perf-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "2.3",
+   "type": "error-correction",
+   "explanation": "A number of completed things: simple.",
+   "parts": [
+    "He ",
+    {
+     "u": "has been writing"
+    },
+    " four books ",
+    {
+     "u": "so far"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "has written"
+   ]
+  },
+  {
+   "id": "perf-001-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.1",
+   "type": "word-order",
+   "explanation": "Have + subject + ever + past participle.",
+   "fragments": [
+    "Have",
+    "you",
+    "ever",
+    "been",
+    "to",
+    "Manaus?"
+   ],
+   "acceptedAnswers": [
+    "Have you ever been to Manaus?"
+   ]
+  },
+  {
+   "id": "perf-001-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "2.2",
+   "type": "word-order",
+   "explanation": "yet at the end.",
+   "fragments": [
+    "I",
+    "haven’t",
+    "finished",
+    "my",
+    "report",
+    "yet."
+   ],
+   "acceptedAnswers": [
+    "I haven’t finished my report yet."
+   ]
+  },
+  {
+   "id": "perf-001-41",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.3",
+   "type": "word-order",
+   "explanation": "Question form of the present perfect continuous.",
+   "fragments": [
+    "How",
+    "long",
+    "have",
+    "you",
+    "been",
+    "living",
+    "here?"
+   ],
+   "acceptedAnswers": [
+    "How long have you been living here?"
+   ]
+  },
+  {
+   "id": "perf-001-42",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.1",
+   "type": "matching",
+   "explanation": "Present perfect questions and past simple questions.",
+   "prompt": "Match each question with its answer.",
+   "left": [
+    "Have you finished?",
+    "How long have you lived here?",
+    "When did you move here?",
+    "Have you ever been to Peru?",
+    "What have you been doing?"
+   ],
+   "right": [
+    "Since 2020.",
+    "In 2020.",
+    "Yes, I’ve just finished.",
+    "No, never.",
+    "Painting the kitchen.",
+    "Next year."
+   ],
+   "answer": [
+    2,
+    0,
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "perf-001-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "2.4",
+   "type": "matching",
+   "explanation": "Finished and unfinished time.",
+   "prompt": "Match each sentence with its meaning.",
+   "left": [
+    "I’ve lived in Rio for ten years.",
+    "I lived in Rio for ten years.",
+    "I’ve been painting the room.",
+    "I’ve painted the room.",
+    "I’d lived in Rio for ten years when I met her."
+   ],
+   "right": [
+    "The job is finished.",
+    "I still live there.",
+    "I don’t live there now.",
+    "The activity explains why I’m covered in paint; it may not be finished.",
+    "Before another past event.",
+    "I will live there."
+   ],
+   "answer": [
+    1,
+    2,
+    3,
+    0,
+    4
+   ]
+  },
+  {
+   "id": "perf-001-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.4",
+   "type": "matching",
+   "explanation": "Each tense goes with its own time expressions.",
+   "prompt": "Match each beginning with the best time expression.",
+   "left": [
+    "I saw him",
+    "I’ve seen him",
+    "I haven’t seen him",
+    "I’d seen him",
+    "I’ll have seen him"
+   ],
+   "right": [
+    "by next Friday.",
+    "three times this week.",
+    "yesterday.",
+    "since Monday.",
+    "before the accident.",
+    "at the moment."
+   ],
+   "answer": [
+    2,
+    1,
+    3,
+    4,
+    0
+   ]
+  },
+  {
+   "id": "perf-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "2.3",
+   "type": "matching",
+   "explanation": "Simple: completed result, quantity. Continuous: unfinished activity, visible effects.",
+   "prompt": "Simple or continuous? Match each beginning with its ending.",
+   "left": [
+    "She’s written",
+    "She’s been writing",
+    "I’ve read",
+    "I’ve been reading",
+    "I’ve been running"
+   ],
+   "right": [
+    "three emails today.",
+    "your report — I finished it last night.",
+    "— that’s why I’m out of breath.",
+    "all morning, and she still hasn’t finished.",
+    "tomorrow.",
+    "a book about whales, and I’m only on chapter two."
+   ],
+   "answer": [
+    0,
+    3,
+    1,
+    5,
+    2
+   ]
+  },
+  {
+   "id": "perf-001-46",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "2.2",
+   "type": "open-cloze",
+   "explanation": "ago, have, already, yet, since, ever.",
+   "title": "A new life in Lisbon",
+   "text": "I moved to Lisbon two years [1], and I [2] lived here ever since. I have [3] been to Porto, but I haven’t visited the Algarve [4]. My parents have come to see me twice, and they [5] coming again next month. I [6] been working at the same company [7] I arrived, and I’ve made some good friends. My Portuguese has improved, although people still notice my Brazilian accent [8] I open my mouth. Have I [9] regretted the move? Not [10] — it’s the best decision I’ve made.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "ago"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "have"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "already",
+      "also",
+      "often",
+      "recently"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "yet"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "are"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "have"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "since"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "whenever",
+      "when",
+      "once",
+      "as"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "ever"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "once",
+      "really"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "perf-001-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.3",
+   "type": "open-cloze",
+   "explanation": "Present perfect simple and continuous in a personal account.",
+   "title": "Race day",
+   "text": "I [1] been training for this marathon for six months. In that time I have run more than 1,000 kilometres, and I have [2] five kilos. It hasn’t [3] been easy: I have had two injuries, and there have been mornings when I [4] wanted to get out of bed. My coach has [5] me that I’m ready, but I’m not so sure. I have never run [6] than 30 kilometres in one go. The race starts in an hour. I have [7] had breakfast, I’ve checked my shoes twice, and I’ve been [8] the route in my head all morning. Whatever happens, I’ll be proud of [9] far I’ve come. This is the moment I’ve been waiting [10].",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "have"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "lost"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "always",
+      "exactly"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "haven’t"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "told",
+      "assured"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "more",
+      "further",
+      "farther"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "already",
+      "just"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "running",
+      "rehearsing",
+      "picturing",
+      "visualising",
+      "visualizing",
+      "replaying"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "how"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "for"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "perf-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "2.2",
+   "type": "open-cloze",
+   "explanation": "for / since, present perfect and a little inversion in a formal letter.",
+   "title": "A late apology",
+   "text": "Dear Marcos, I have been meaning to write to you [1] weeks, but I have kept putting it off. It is now almost a year [2] we last spoke, and I have thought about our argument more often than I care to admit. I realise now that I [3] unfair to you. You had done nothing to deserve what I said, and I [4] regretted it ever since. I have no idea whether you [5] forgiven me. Barely a day has [6] by without my wanting to pick up the phone. No sooner [7] I begun this letter than I wanted to tear it up — but you deserve an apology, however late. I [8] understand if you would rather not reply. If you do, though, nothing would make me [9]. With all [10] best wishes, Rafael",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "for"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "since"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "was"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "have"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "have"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "gone",
+      "passed"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "will",
+      "would",
+      "shall"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "happier",
+      "gladder"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "my"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "perf-001-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "2.4",
+   "type": "mc-cloze",
+   "explanation": "Past simple for finished time; present perfect for unfinished time and results.",
+   "title": "Learning to cook",
+   "text": "I [1] to cook when I was twenty, but I [2] much progress until recently. Over the last few months, I [3] an online cooking course, and I [4] already made some delicious dishes. My family [5] my food yet, but my flatmates [6] it every night this week. I [7] burnt anything for a month, which is a record! I [8] to start a food blog next year.",
+   "gaps": [
+    {
+     "options": [
+      "have started",
+      "had started",
+      "started",
+      "start"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "haven’t made",
+      "don’t make",
+      "wasn’t make",
+      "didn’t make"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "have been doing",
+      "did",
+      "was doing",
+      "do"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "had",
+      "have",
+      "was",
+      "did"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "didn’t try",
+      "doesn’t try",
+      "hasn’t tried",
+      "wasn’t trying"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "eats",
+      "eat",
+      "had eaten",
+      "have eaten"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "haven’t",
+      "didn’t",
+      "don’t",
+      "wasn’t"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "have been planned",
+      "am planning",
+      "plans",
+      "am plan"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "perf-001-50",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "perfect-tenses"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "2.3",
+   "type": "mc-cloze",
+   "explanation": "Present perfect simple and continuous in a profile.",
+   "title": "A career change",
+   "text": "Rita [1] as a chef for three years now. Before that, she [2] as a lawyer for fifteen years. “People often ask me if I [3] the change,” she says. “The truth is, I [4] happier.” Since she opened her restaurant, it [5] two awards. “We [6] to expand for months, but we [7] the right building yet. Leaving the law is the best decision I [8].”",
+   "gaps": [
+    {
+     "options": [
+      "works",
+      "worked",
+      "has worked",
+      "is working"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "has worked",
+      "works",
+      "is working",
+      "worked"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "regret",
+      "have been regretting",
+      "am regretting",
+      "had regretted"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "was never",
+      "have never been",
+      "had never been",
+      "never am"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "won",
+      "wins",
+      "has won",
+      "was winning"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "tried",
+      "try",
+      "had tried",
+      "have been trying"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "haven’t found",
+      "didn’t find",
+      "don’t find",
+      "hadn’t found"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "ever make",
+      "have ever made",
+      "had ever made",
+      "was ever making"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,260 @@
+{
+ "id": "r012",
+ "title": "Why Do We Yawn?",
+ "level": "B1",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "Everybody yawns. Babies yawn before they are born, and adults yawn on average several times a day. Many animals yawn too, including dogs, cats, fish and birds. But although yawning is so common, scientists still do not agree about why we do it.\n\nFor a long time, the most popular explanation was that we yawn because our bodies need more oxygen. When we are tired or bored, the idea went, we breathe more slowly, so oxygen levels in the blood fall and a big yawn brings in extra air. This explanation sounds logical, but experiments have not supported it. In one study, people breathed air with more oxygen than normal, and they did not yawn less. In another, they breathed air with less oxygen, and they did not yawn more.\n\nA newer theory says that yawning helps to cool the brain. Like a computer, the brain works best at a certain temperature. When we yawn, we take in a large amount of air and stretch the muscles of the jaw, which increases the flow of blood to the head. Some researchers believe that this process brings cooler blood to the brain. To test the idea, they studied how often people yawned in different seasons. They found that people yawned more when the air was cooler than the body, but less when it was very hot, when a yawn could not cool anything.\n\nAnother interesting fact about yawning is that it is contagious. If you see, hear or even read about someone yawning, you are likely to yawn yourself. Perhaps you have yawned while reading this text! Studies show that people catch yawns more easily from family and friends than from strangers. For this reason, some scientists think that contagious yawning is connected to empathy, our ability to understand and share other people's feelings. However, this link is still being studied, and not all experiments have found it.\n\nYawning may also help us to change from one state to another — for example, from sleeping to waking, or from relaxing to paying attention. Athletes often yawn before a competition, and so do students before an exam, not because they are bored, but because they are preparing to concentrate.\n\nSo, why do we yawn? The honest answer is that we do not know for sure. Yawning may have several purposes at the same time, and it will probably keep scientists busy — and yawning — for many years to come.",
+ "questions": [
+  {
+   "id": "r012-q01",
+   "type": "reading",
+   "passageId": "r012",
+   "prompt": "What is the main purpose of the text?",
+   "options": [
+    "To present different explanations for why people yawn",
+    "To show that yawning is bad for our health",
+    "To explain how to stop yawning",
+    "To prove that animals yawn more than people"
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The text discusses several theories."
+  },
+  {
+   "id": "r012-q02",
+   "type": "reading",
+   "passageId": "r012",
+   "prompt": "What did the experiments with oxygen show?",
+   "options": [
+    "People yawned more when they had more oxygen.",
+    "Changing the amount of oxygen did not change how much people yawned.",
+    "Yawning brings a lot of oxygen into the blood.",
+    "People need more oxygen when they are bored."
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Neither more nor less oxygen changed yawning."
+  },
+  {
+   "id": "r012-q03",
+   "type": "reading",
+   "passageId": "r012",
+   "prompt": "According to the newer theory, what does yawning do?",
+   "options": [
+    "It helps to cool the brain.",
+    "It makes the jaw stronger.",
+    "It warms the body in winter.",
+    "It slows down breathing."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“yawning helps to cool the brain”."
+  },
+  {
+   "id": "r012-q04",
+   "type": "reading",
+   "passageId": "r012",
+   "prompt": "Why did people yawn less when it was very hot?",
+   "options": [
+    "They were less tired in summer.",
+    "A yawn could not cool the brain in hot air.",
+    "Hot air contains less oxygen.",
+    "They were busy doing other things."
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“when a yawn could not cool anything”."
+  },
+  {
+   "id": "r012-q05",
+   "type": "reading",
+   "passageId": "r012",
+   "prompt": "The word “contagious” in paragraph 4 means",
+   "options": [
+    "dangerous to your health",
+    "very loud",
+    "easily passed from one person to another",
+    "difficult to control"
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Seeing or hearing someone yawn makes you yawn."
+  },
+  {
+   "id": "r012-q06",
+   "type": "reading",
+   "passageId": "r012",
+   "prompt": "From whom do people catch yawns most easily?",
+   "options": [
+    "strangers",
+    "animals",
+    "family and friends",
+    "people on television"
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“more easily from family and friends than from strangers”."
+  },
+  {
+   "id": "r012-q07",
+   "type": "reading",
+   "passageId": "r012",
+   "prompt": "What is true about the link between yawning and empathy?",
+   "options": [
+    "Scientists are still not sure about it.",
+    "It has been proved by all experiments.",
+    "It exists only in children.",
+    "Scientists have rejected it completely."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“this link is still being studied, and not all experiments have found it”."
+  },
+  {
+   "id": "r012-q08",
+   "type": "reading",
+   "passageId": "r012",
+   "prompt": "Why do athletes often yawn before a competition?",
+   "options": [
+    "They are bored.",
+    "They did not sleep well.",
+    "They need more oxygen.",
+    "They are getting ready to concentrate."
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“not because they are bored, but because they are preparing to concentrate”."
+  },
+  {
+   "id": "r012-q09",
+   "type": "reading",
+   "passageId": "r012",
+   "prompt": "The word “it” in the last sentence refers to",
+   "options": [
+    "the answer",
+    "the brain",
+    "the purpose",
+    "yawning"
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Yawning will keep scientists busy."
+  }
+ ]
+}

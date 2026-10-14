@@ -1,0 +1,1876 @@
+{
+ "topic": "phrasal-verbs",
+ "batch": 4,
+ "title": "Phrasal verbs — travel, daily life, technology and health",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "pv-004-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "take off = leave the ground.",
+   "prompt": "What time does your flight ___?",
+   "options": [
+    "take off",
+    "take up",
+    "take on",
+    "take in"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-004-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "check out (of) = leave a hotel and pay.",
+   "prompt": "We need to ___ of the hotel before eleven.",
+   "options": [
+    "check in",
+    "check out",
+    "check up",
+    "check off"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-004-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "break down = stop working.",
+   "prompt": "The car ___ on the motorway, so we called a mechanic.",
+   "options": [
+    "broke up",
+    "broke out",
+    "broke down",
+    "broke off"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-004-04",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "turn up = increase the volume.",
+   "prompt": "Could you ___ the TV? I can’t hear it.",
+   "options": [
+    "turn down",
+    "turn over",
+    "turn in",
+    "turn up"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-004-05",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "set off = start a journey.",
+   "prompt": "We ___ at dawn to avoid the traffic.",
+   "options": [
+    "set off",
+    "set up",
+    "set back",
+    "set down"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-004-06",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "hold up = delay.",
+   "prompt": "Our plane was ___ by six hours because of the storm.",
+   "options": [
+    "held on",
+    "held up",
+    "held out",
+    "held in"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-004-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "give up = stop doing or having something.",
+   "prompt": "I’ve ___ coffee because it was keeping me awake.",
+   "options": [
+    "given in",
+    "given out",
+    "given up",
+    "given away"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-004-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "run out = be used up.",
+   "prompt": "My phone battery has ___ — can I borrow your charger?",
+   "options": [
+    "run over",
+    "run into",
+    "run up",
+    "run out"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-004-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "log out (or log off) = leave a system.",
+   "prompt": "Don’t forget to ___ before you close the laptop.",
+   "options": [
+    "log out",
+    "log in",
+    "log on",
+    "log up"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-004-10",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "come down with = start to suffer from an illness.",
+   "prompt": "I think I’m ___ a cold — my throat is sore.",
+   "options": [
+    "coming up with",
+    "coming down with",
+    "coming round to",
+    "coming out of"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-004-11",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "pass out = faint.",
+   "prompt": "He ___ in the heat and had to be taken to hospital.",
+   "options": [
+    "passed over",
+    "passed off",
+    "passed out",
+    "passed by"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-004-12",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "pull through = survive a serious illness.",
+   "prompt": "Doctors weren’t sure he would ___, but he made a full recovery.",
+   "options": [
+    "pull out",
+    "pull over",
+    "pull off",
+    "pull through"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-004-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "pull over = move a vehicle to the side of the road and stop.",
+   "prompt": "The police officer signalled to the driver to ___.",
+   "options": [
+    "pull over",
+    "pull through",
+    "pull out of",
+    "pull apart"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-004-14",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "fill up = fill the tank completely.",
+   "prompt": "We stopped at a petrol station to ___ before the long drive home.",
+   "options": [
+    "fill in",
+    "fill up",
+    "fill out",
+    "fill on"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-004-15",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "take off = become successful quickly.",
+   "prompt": "The new app is really starting to ___ — everyone is downloading it.",
+   "options": [
+    "take in",
+    "take down",
+    "take off",
+    "take apart"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-004-16",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "get round = avoid or overcome (a rule, an obstacle).",
+   "prompt": "The hackers found a way to ___ the company’s security system.",
+   "options": [
+    "get by",
+    "get down",
+    "get across",
+    "get round"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-004-17",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "throw up = produce, reveal (problems).",
+   "prompt": "The software update has ___ a number of new bugs.",
+   "options": [
+    "thrown up",
+    "thrown away",
+    "thrown off",
+    "thrown back"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-004-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "hole up = shelter or hide somewhere.",
+   "prompt": "The rain was so heavy that we had to ___ in a small café until it stopped.",
+   "options": [
+    "hole in",
+    "hole up",
+    "hole out",
+    "hole down"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-004-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "take off = remove (clothes).",
+   "prompt": "Please ___ your shoes before you come in.",
+   "cue": "take off",
+   "acceptedAnswers": [
+    "take off"
+   ]
+  },
+  {
+   "id": "pv-004-20",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "wake up = stop sleeping.",
+   "prompt": "I always ___ at 6.30, even at weekends.",
+   "cue": "wake up",
+   "acceptedAnswers": [
+    "wake up"
+   ]
+  },
+  {
+   "id": "pv-004-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "stop off = make a short visit during a journey.",
+   "prompt": "On the way to London, we ___ in Lisbon for two days.",
+   "cue": "stop off",
+   "acceptedAnswers": [
+    "stopped off"
+   ]
+  },
+  {
+   "id": "pv-004-22",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "pack up (informal) = stop working.",
+   "prompt": "The heating has ___ again — it’s freezing in here.",
+   "cue": "pack up",
+   "acceptedAnswers": [
+    "packed up"
+   ]
+  },
+  {
+   "id": "pv-004-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "back up = make a copy.",
+   "prompt": "You should ___ your files regularly in case your computer crashes.",
+   "cue": "back up",
+   "acceptedAnswers": [
+    "back up"
+   ]
+  },
+  {
+   "id": "pv-004-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "phrasal-choice",
+   "explanation": "cut down on = reduce.",
+   "prompt": "The doctor told me to ___ salt and sugar.",
+   "cue": "cut down on",
+   "acceptedAnswers": [
+    "cut down on"
+   ]
+  },
+  {
+   "id": "pv-004-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "clear up = disappear (an illness, an infection).",
+   "prompt": "The rash ___ after a couple of days.",
+   "cue": "clear up",
+   "acceptedAnswers": [
+    "cleared up"
+   ]
+  },
+  {
+   "id": "pv-004-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "go down = stop working (a computer system).",
+   "prompt": "The website ___ because too many people tried to buy tickets at once.",
+   "cue": "go down",
+   "acceptedAnswers": [
+    "went down"
+   ]
+  },
+  {
+   "id": "pv-004-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "die down = become less strong.",
+   "prompt": "The storm ___ during the night, and by morning the sea was calm.",
+   "cue": "die down",
+   "acceptedAnswers": [
+    "died down"
+   ]
+  },
+  {
+   "id": "pv-004-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "be taken in = be deceived.",
+   "prompt": "I was completely ___ by the airline’s promises — the seats were terrible.",
+   "cue": "take in",
+   "acceptedAnswers": [
+    "taken in"
+   ]
+  },
+  {
+   "id": "pv-004-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "kwt",
+   "explanation": "leave the ground = take off.",
+   "first": "The plane left the ground at exactly ten o’clock.",
+   "keyword": "TOOK",
+   "before": "The plane",
+   "after": "at exactly ten o’clock.",
+   "acceptedAnswers": [
+    "took off"
+   ]
+  },
+  {
+   "id": "pv-004-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "kwt",
+   "explanation": "run out of = have no more.",
+   "first": "There is no more milk.",
+   "keyword": "RUN",
+   "before": "We have",
+   "after": "milk.",
+   "acceptedAnswers": [
+    "run out of"
+   ]
+  },
+  {
+   "id": "pv-004-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "kwt",
+   "explanation": "delay = hold up (passive).",
+   "first": "Heavy traffic delayed us on the way to the airport.",
+   "keyword": "HELD",
+   "before": "We",
+   "after": "by heavy traffic on the way to the airport.",
+   "acceptedAnswers": [
+    "were held up",
+    "got held up"
+   ]
+  },
+  {
+   "id": "pv-004-32",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "kwt",
+   "explanation": "recover from = get over.",
+   "first": "It took her a long time to recover from the illness.",
+   "keyword": "GET",
+   "before": "It took her a long time to",
+   "after": "the illness.",
+   "acceptedAnswers": [
+    "get over"
+   ]
+  },
+  {
+   "id": "pv-004-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "kwt",
+   "explanation": "disappear gradually = wear off.",
+   "first": "The excitement about the new phone soon disappeared.",
+   "keyword": "WORE",
+   "before": "The excitement about the new phone soon",
+   "after": ".",
+   "acceptedAnswers": [
+    "wore off"
+   ]
+  },
+  {
+   "id": "pv-004-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "error-correction",
+   "explanation": "check into / check in at + place.",
+   "parts": [
+    "We ",
+    {
+     "u": "checked in"
+    },
+    " the hotel at three and ",
+    {
+     "u": "went"
+    },
+    " straight to the beach."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "checked into",
+    "checked in at"
+   ]
+  },
+  {
+   "id": "pv-004-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.2",
+   "type": "error-correction",
+   "explanation": "Pronoun between verb and particle.",
+   "parts": [
+    "I ",
+    {
+     "u": "turned on it"
+    },
+    " but the screen ",
+    {
+     "u": "stayed"
+    },
+    " black."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "turned it on",
+    "switched it on"
+   ]
+  },
+  {
+   "id": "pv-004-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "error-correction",
+   "explanation": "run out of + noun.",
+   "parts": [
+    "We ",
+    {
+     "u": "ran out"
+    },
+    " petrol in the middle of ",
+    {
+     "u": "nowhere"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "ran out of"
+   ]
+  },
+  {
+   "id": "pv-004-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "error-correction",
+   "explanation": "break down = stop working; break out = start (war, fire).",
+   "parts": [
+    "The flight was ",
+    {
+     "u": "put off"
+    },
+    " until the next day because one of the engines ",
+    {
+     "u": "broke out"
+    },
+    "."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "broke down",
+    "failed"
+   ]
+  },
+  {
+   "id": "pv-004-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "error-correction",
+   "explanation": "wear off = stop having an effect; wear out = become unusable.",
+   "parts": [
+    "The effects of the painkiller ",
+    {
+     "u": "wore out"
+    },
+    " after a few hours and the pain ",
+    {
+     "u": "came back"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "wore off"
+   ]
+  },
+  {
+   "id": "pv-004-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.2",
+   "type": "word-order",
+   "explanation": "Separable verb: both orders with a noun.",
+   "fragments": [
+    "Could",
+    "you",
+    "turn",
+    "the music",
+    "down,",
+    "please?"
+   ],
+   "acceptedAnswers": [
+    "Could you turn the music down, please?",
+    "Could you turn down the music, please?"
+   ]
+  },
+  {
+   "id": "pv-004-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.2",
+   "type": "word-order",
+   "explanation": "drop off = take someone somewhere and leave them there.",
+   "fragments": [
+    "The",
+    "taxi",
+    "dropped",
+    "us",
+    "off",
+    "outside the hotel."
+   ],
+   "acceptedAnswers": [
+    "The taxi dropped us off outside the hotel."
+   ]
+  },
+  {
+   "id": "pv-004-41",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "word-order",
+   "explanation": "wear off = disappear gradually.",
+   "fragments": [
+    "The",
+    "novelty",
+    "of",
+    "the new phone",
+    "soon",
+    "wore off."
+   ],
+   "acceptedAnswers": [
+    "The novelty of the new phone soon wore off."
+   ]
+  },
+  {
+   "id": "pv-004-42",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "matching",
+   "explanation": "Travel verbs.",
+   "prompt": "Travel: match each phrasal verb with its meaning.",
+   "left": [
+    "check in",
+    "set off",
+    "take off",
+    "get on",
+    "look around"
+   ],
+   "right": [
+    "leave the ground (a plane)",
+    "start a journey",
+    "enter (a bus or train)",
+    "register at a hotel or airport",
+    "explore a place",
+    "arrive late"
+   ],
+   "answer": [
+    3,
+    1,
+    0,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "pv-004-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "matching",
+   "explanation": "Technology verbs.",
+   "prompt": "Technology: match each phrasal verb with its meaning.",
+   "left": [
+    "log in",
+    "back up",
+    "plug in",
+    "scroll down",
+    "print out"
+   ],
+   "right": [
+    "move lower on a screen",
+    "connect to the electricity",
+    "make a copy of data",
+    "enter a system with a password",
+    "produce on paper",
+    "turn off"
+   ],
+   "answer": [
+    3,
+    2,
+    1,
+    0,
+    4
+   ]
+  },
+  {
+   "id": "pv-004-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "matching",
+   "explanation": "Health verbs.",
+   "prompt": "Health: match each phrasal verb with its meaning.",
+   "left": [
+    "come down with",
+    "pass out",
+    "pull through",
+    "throw up",
+    "fight off"
+   ],
+   "right": [
+    "vomit",
+    "survive a serious illness",
+    "lose consciousness",
+    "catch (an illness)",
+    "resist (an infection)",
+    "put on weight"
+   ],
+   "answer": [
+    3,
+    2,
+    1,
+    0,
+    4
+   ]
+  },
+  {
+   "id": "pv-004-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.3",
+   "type": "matching",
+   "explanation": "Verbs of gradual change and appearance.",
+   "prompt": "Match each phrasal verb with its meaning.",
+   "left": [
+    "wear off",
+    "peter out",
+    "crop up",
+    "fizzle out",
+    "hole up"
+   ],
+   "right": [
+    "appear unexpectedly",
+    "end in a weak, disappointing way",
+    "shelter or hide somewhere",
+    "gradually stop having an effect",
+    "become smaller until it stops",
+    "arrive on time"
+   ],
+   "answer": [
+    3,
+    4,
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "pv-004-46",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "open-cloze",
+   "explanation": "Travel verbs in a short story.",
+   "title": "A weekend trip",
+   "text": "Last Friday we decided to get [1] from the city for the weekend. We packed our bags, filled [2] the car with petrol and set [3] at six in the morning. Unfortunately, the car broke [4] after an hour, and we had to wait for a mechanic. When we finally got to the hotel, we checked [5] and went straight to the beach. On Saturday we looked [6] the old town and stopped [7] at a small café for lunch. On Sunday we got [8] early to watch the sunrise. We checked [9] at eleven and got back home in the evening, tired but happy. We’re already looking forward [10] our next trip!",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "away"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off",
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "down"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "in"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "around",
+      "round",
+      "at"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off",
+      "by"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pv-004-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "open-cloze",
+   "explanation": "switch off, log on, scroll through, nod off, cut down, turn off, fight off, wear off, catch up, now and then.",
+   "title": "Digital detox",
+   "text": "Many of us find it hard to switch [1]. We log [2] to our emails before breakfast and scroll [3] social media until we nod [4] at night. A growing number of people are cutting [5] on screen time. Some delete apps; others simply turn their phones [6] after eight o’clock. At first, the urge to check messages can be hard to fight [7], but most people say it soon wears [8]. They find they have more time to catch [9] with friends and are less stressed. Perhaps we should all unplug, at least now and [10].",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "off"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "on",
+      "in"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "through"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "down",
+      "back"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "then",
+      "again"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pv-004-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "open-cloze",
+   "explanation": "get off to a start, hold up, run low, clear up, press on, come down with, turn back, push on, hole up, call off.",
+   "title": "The expedition",
+   "text": "The expedition got [1] to an unpromising start. Heavy snow held the team [2] for a week, and their supplies began to run [3]. When the weather finally cleared [4], they pressed [5] towards the summit. Halfway up, one of the climbers came [6] with altitude sickness and had to turn [7]. The others pushed [8], but a sudden storm forced them to hole [9] in a tent for two days. They eventually made it to the top, but only by the skin of their teeth — and the leader admits that they very nearly called the whole thing [10].",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "off"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up",
+      "back"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "low",
+      "out",
+      "short"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "on"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "down"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "back"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "on"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pv-004-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mc-cloze",
+   "explanation": "check in, take off, swell up, look after, stand up, switch off, get used to, get over.",
+   "title": "Tips for long flights",
+   "text": "Long flights can be exhausting. When you [1] at the airport, ask for an aisle seat. Once the plane has [2], try to sleep if it is night at your destination. Get up and walk around regularly so your feet don’t [3]. If you start to feel ill, ask the cabin crew to [4] you. When you land, don’t [5] straight away — wait until the seat belt sign has been [6]. At the hotel, try to stay awake until the evening; otherwise it will be harder to [7] the time difference. Most people [8] jet lag within a few days.",
+   "gaps": [
+    {
+     "options": [
+      "check out",
+      "check up",
+      "check in",
+      "check over"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "taken up",
+      "taken in",
+      "taken over",
+      "taken off"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "swell up",
+      "swell in",
+      "swell off",
+      "swell over"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "look up",
+      "look after",
+      "look into",
+      "look over"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "stand by",
+      "stand for",
+      "stand up",
+      "stand out"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "switched over",
+      "switched up",
+      "switched in",
+      "switched off"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "get used to",
+      "get round to",
+      "get on to",
+      "get away with"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "get by",
+      "get over",
+      "get in",
+      "get off"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "pv-004-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mc-cloze",
+   "explanation": "set up, catch on, take off, buy out, turn down, crop up, go down, ride out.",
+   "title": "A tech start-up",
+   "text": "The company was [1] in a garage by two university friends. At first, the idea was slow to [2], but a review in a popular blog made sales [3]. Within a year, a large rival tried to [4] them, but the founders [5] the offer. Then problems began to [6]: the servers kept [7], and customers started to complain. The founders [8] the crisis by hiring an experienced engineer, and the company is now worth millions.",
+   "gaps": [
+    {
+     "options": [
+      "set off",
+      "set back",
+      "set up",
+      "set in"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "catch at",
+      "catch out",
+      "catch in",
+      "catch on"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "take off",
+      "take in",
+      "take down",
+      "take apart"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "buy up",
+      "buy out",
+      "buy in",
+      "buy back"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "turned up",
+      "turned in",
+      "turned down",
+      "turned over"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "crop out",
+      "crop in",
+      "crop off",
+      "crop up"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "going down",
+      "going off",
+      "going by",
+      "going over"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "rode off",
+      "rode out",
+      "rode up",
+      "rode in"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

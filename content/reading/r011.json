@@ -1,0 +1,287 @@
+{
+ "id": "r011",
+ "title": "In Defence of Boredom",
+ "level": "C2",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "CPE",
+  "CAE",
+  "IELTS"
+ ],
+ "text": "Boredom has few friends. We treat it as a minor affliction to be cured as swiftly as possible, and the cure has never been more readily available: a device in every pocket promises that no queue, no waiting room and no delayed train need ever be endured without distraction. It is worth asking, however, whether in banishing boredom we have also lost something we did not know we valued.\n\nPsychologists have long distinguished between different kinds of boredom, and not all of them deserve rehabilitation. The chronic, listless boredom that accompanies depression is a symptom rather than a state of mind to be cultivated, and the soul-destroying tedium of certain jobs is no one's idea of a creative opportunity. But there is a milder, more transient variety — the restlessness of an empty afternoon — that seems to serve a purpose. It is, in essence, a signal: an uncomfortable reminder that what we are doing fails to engage us, and a prompt to look for something that does.\n\nSeveral experiments have tried to capture this function. In one frequently cited study, participants who first completed a deliberately dull task, such as copying numbers from a telephone directory, subsequently produced more imaginative answers in a test of creative thinking than those who went straight to the test. The effect is modest and, like many findings in social psychology, awaits robust replication. Still, it chimes with the testimony of countless writers and scientists who describe their best ideas arriving not at the desk but in the bath, on a walk or while staring out of a window.\n\nThe explanation usually offered is that an unoccupied mind does not switch off but turns inwards. Freed from external demands, it wanders through memories, rehearses conversations and makes unexpected connections between unrelated thoughts. Such mind-wandering has its costs — it is associated with lower mood and with errors in tasks that require concentration — but it also appears to be where a good deal of planning and problem-solving quietly takes place.\n\nWhat the smartphone threatens, then, is not boredom itself but the threshold beyond which boredom becomes productive. Each time we reach for the screen at the first flicker of restlessness, we interrupt a process before it has had the chance to begin. The alternative is not to romanticise tedium or to abandon technology, but to tolerate a little more emptiness than we are accustomed to: to leave the phone in the bag on the bus, to let a child complain that there is nothing to do. Whatever emerges from that emptiness, it will at least be our own.",
+ "questions": [
+  {
+   "id": "r011-q01",
+   "type": "reading",
+   "passageId": "r011",
+   "prompt": "What is the author's main argument?",
+   "options": [
+    "Some mild forms of boredom are valuable and should not always be avoided.",
+    "Boredom is a serious psychological illness.",
+    "Smartphones have made people more creative.",
+    "All forms of boredom lead to creativity."
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The author defends mild, transient boredom as productive."
+  },
+  {
+   "id": "r011-q02",
+   "type": "reading",
+   "passageId": "r011",
+   "prompt": "Why does the author mention the boredom associated with depression?",
+   "options": [
+    "To show that boredom always has serious causes",
+    "To prove that boredom can be cured by technology",
+    "To suggest that depressed people are more creative",
+    "To exclude it from the kind of boredom being defended"
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Not all kinds “deserve rehabilitation”; chronic boredom is a symptom."
+  },
+  {
+   "id": "r011-q03",
+   "type": "reading",
+   "passageId": "r011",
+   "prompt": "The word “rehabilitation” in paragraph 2 is closest in meaning to",
+   "options": [
+    "medical treatment",
+    "physical exercise",
+    "careful analysis",
+    "restoration of a good reputation"
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "To rehabilitate boredom = to restore its good name."
+  },
+  {
+   "id": "r011-q04",
+   "type": "reading",
+   "passageId": "r011",
+   "prompt": "According to the author, the mild form of boredom functions as",
+   "options": [
+    "a sign of serious mental illness",
+    "a signal that we should find something more engaging",
+    "a way of relaxing completely",
+    "a punishment for laziness"
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“a signal … and a prompt to look for something that does”."
+  },
+  {
+   "id": "r011-q05",
+   "type": "reading",
+   "passageId": "r011",
+   "prompt": "How does the author treat the results of the telephone-directory study?",
+   "options": [
+    "As conclusive proof of the author's argument",
+    "As an example of poor scientific method",
+    "With cautious interest, noting that they need to be confirmed",
+    "As irrelevant to everyday life"
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“The effect is modest and … awaits robust replication.”"
+  },
+  {
+   "id": "r011-q06",
+   "type": "reading",
+   "passageId": "r011",
+   "prompt": "The phrase “chimes with” in paragraph 3 is closest in meaning to",
+   "options": [
+    "contradicts",
+    "is replaced by",
+    "draws attention away from",
+    "is consistent with"
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The finding agrees with the testimony of writers and scientists."
+  },
+  {
+   "id": "r011-q07",
+   "type": "reading",
+   "passageId": "r011",
+   "prompt": "According to paragraph 4, which is a disadvantage of mind-wandering?",
+   "options": [
+    "It prevents the brain from solving problems.",
+    "It can lead to mistakes in tasks that need concentration.",
+    "It makes people forget their memories.",
+    "It causes people to switch off completely."
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“associated with lower mood and with errors in tasks that require concentration”."
+  },
+  {
+   "id": "r011-q08",
+   "type": "reading",
+   "passageId": "r011",
+   "prompt": "What does the author mean by “the threshold beyond which boredom becomes productive”?",
+   "options": [
+    "the moment when boredom becomes a medical problem",
+    "the time when people decide to use their phones",
+    "the point at which boredom has lasted long enough to start generating ideas",
+    "the level of boredom that makes work impossible"
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Reaching for the screen interrupts the process before it can begin."
+  },
+  {
+   "id": "r011-q09",
+   "type": "reading",
+   "passageId": "r011",
+   "prompt": "Which of the following does the author recommend?",
+   "options": [
+    "Accepting short periods of emptiness without immediately seeking distraction",
+    "Giving up smartphones completely",
+    "Choosing deliberately boring jobs",
+    "Teaching children to avoid complaining"
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“tolerate a little more emptiness than we are accustomed to”."
+  },
+  {
+   "id": "r011-q10",
+   "type": "reading",
+   "passageId": "r011",
+   "prompt": "The final sentence suggests that ideas born from boredom",
+   "options": [
+    "are genuinely personal rather than supplied from outside",
+    "are usually more useful than other ideas",
+    "should be shared with others immediately",
+    "are difficult to remember later"
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“it will at least be our own” — as opposed to content from a screen."
+  }
+ ]
+}

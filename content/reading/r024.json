@@ -1,0 +1,280 @@
+{
+ "id": "r024",
+ "title": "An Army Marches on Its Stomach",
+ "level": "B2",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "EsPCEx",
+  "EFOMM",
+  "AFA",
+  "EN"
+ ],
+ "text": "The saying that \"an army marches on its stomach\" is usually attributed to Napoleon, although there is no firm evidence that he ever said it. Whoever its author was, the idea is undeniably true. However well trained and equipped soldiers are, they cannot fight, march or think clearly without regular, adequate food. Feeding troops in the field has therefore always been one of the central problems of military logistics.\n\nFor most of history, armies solved the problem by taking food from the places they passed through. This \"living off the land\" was cheap for the army but devastating for the local population, and it limited where and when armies could move: a region that had already been stripped of food could not support another army. The search for food that could be carried and stored for long periods led to one of the most important inventions in the history of nutrition. In the early nineteenth century, the French government offered a prize for a method of preserving food, and the winner developed a technique of sealing food in glass jars and heating it. Within a few years, the method had been adapted to metal cans.\n\nModern field rations are the result of two centuries of development. A typical individual ration today is a sealed pack containing a complete meal or a full day's food: a main dish, biscuits or bread, a dessert, a drink powder and small extras such as chewing gum or coffee. Many include a flameless heater, a small bag containing chemicals that produce heat when water is added, so that soldiers can have a hot meal without lighting a fire, which might reveal their position.\n\nDesigning these rations is surprisingly complex. They must provide enough energy for very demanding physical work — often more than 3,500 calories a day — and keep for years in extreme heat or cold. They must also be light, because every gram is carried on a soldier's back. At the same time, they must be acceptable to eat. Studies have shown that soldiers who dislike their rations eat less than they need, sometimes losing a dangerous amount of weight during long operations. For this reason, armies regularly test new menus with troops and offer a range of options, including vegetarian and religious choices.\n\nFood also has an importance that goes beyond nutrition. In difficult conditions, a hot meal can do as much for morale as a night's rest. Many veterans remember, years later, not only the battles they fought but the first proper meal they ate after them.",
+ "glossary": [
+  [
+   "ration",
+   "a fixed amount of food given to a soldier"
+  ],
+  [
+   "logistics",
+   "the organisation of supplies, transport and equipment"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r024-q01",
+   "type": "reading",
+   "passageId": "r024",
+   "prompt": "What does the author say about the saying attributed to Napoleon?",
+   "options": [
+    "It may not be his, but it is certainly true.",
+    "It was definitely said by Napoleon.",
+    "It is no longer relevant to modern armies.",
+    "It refers to the speed of marching."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "No firm evidence he said it, but “the idea is undeniably true”."
+  },
+  {
+   "id": "r024-q02",
+   "type": "reading",
+   "passageId": "r024",
+   "prompt": "Why was “living off the land” devastating for local people?",
+   "options": [
+    "Armies destroyed their farms on purpose.",
+    "It increased the price of food in cities.",
+    "Armies took their food.",
+    "Local people had to cook for the soldiers."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Armies took food from the places they passed through."
+  },
+  {
+   "id": "r024-q03",
+   "type": "reading",
+   "passageId": "r024",
+   "prompt": "According to paragraph 2, “living off the land” also limited armies because",
+   "options": [
+    "soldiers did not like local food",
+    "it was too expensive",
+    "it was forbidden by law",
+    "regions without food could not support them"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "A stripped region could not support another army."
+  },
+  {
+   "id": "r024-q04",
+   "type": "reading",
+   "passageId": "r024",
+   "prompt": "What led to the invention of food preservation in the early nineteenth century?",
+   "options": [
+    "A prize offered by the French government",
+    "A shortage of glass jars",
+    "A request from farmers",
+    "The invention of metal cans"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The government offered a prize for a method of preserving food."
+  },
+  {
+   "id": "r024-q05",
+   "type": "reading",
+   "passageId": "r024",
+   "prompt": "Why do many rations include a flameless heater?",
+   "options": [
+    "Fires are forbidden in all military camps.",
+    "Lighting a fire might reveal soldiers' position.",
+    "It is faster than cooking on a stove.",
+    "Fuel is too heavy to carry."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“without lighting a fire, which might reveal their position”."
+  },
+  {
+   "id": "r024-q06",
+   "type": "reading",
+   "passageId": "r024",
+   "prompt": "Which of the following is NOT a requirement for modern rations, according to paragraph 4?",
+   "options": [
+    "They must be cheap to produce.",
+    "They must provide enough energy.",
+    "They must keep for years.",
+    "They must be light."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Cost is not mentioned."
+  },
+  {
+   "id": "r024-q07",
+   "type": "reading",
+   "passageId": "r024",
+   "prompt": "Why do armies test new menus with troops?",
+   "options": [
+    "Soldiers want to choose their own cooks.",
+    "The law requires annual tests.",
+    "Soldiers who dislike their rations eat too little.",
+    "Old menus are too heavy."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Soldiers who dislike rations eat less than they need."
+  },
+  {
+   "id": "r024-q08",
+   "type": "reading",
+   "passageId": "r024",
+   "prompt": "The word “demanding” in paragraph 4 is closest in meaning to",
+   "options": [
+    "giving orders",
+    "requiring a lot of effort",
+    "dangerous",
+    "boring"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Demanding work = hard work."
+  },
+  {
+   "id": "r024-q09",
+   "type": "reading",
+   "passageId": "r024",
+   "prompt": "What point does the last paragraph make?",
+   "options": [
+    "Veterans prefer to forget their meals.",
+    "Hot meals are more nutritious than cold ones.",
+    "Rest is more important than food.",
+    "Food also affects soldiers' emotional state."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“a hot meal can do as much for morale as a night's rest”."
+  }
+ ]
+}

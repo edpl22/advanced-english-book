@@ -1,0 +1,324 @@
+{
+ "id": "r057",
+ "title": "The Translator’s Dilemma",
+ "level": "C2",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "CPE",
+  "CAE",
+  "IELTS"
+ ],
+ "text": "An old Italian pun equates the translator with the traitor — traduttore, traditore — and few who have attempted the task would dismiss the charge entirely. Every translation involves loss. The rhythm of a sentence, the associations of a word, the play of sound that makes a line of poetry memorable: these rarely survive the passage from one language to another intact. Yet the pun, characteristically, is itself untranslatable, its neatness depending on an accident of Italian phonology. That the accusation can only be made convincingly in one language is perhaps the best illustration of its truth.\n\nDebates about translation have long revolved around a central tension. Should the translator stay as close as possible to the original, preserving its structures and strangeness even at the cost of fluency? Or should the translation read as naturally as if it had been written in the target language, even if this requires substantial departures from the letter of the text? The question is ancient — classical and medieval translators argued over whether to render word for word or sense for sense — and it remains unresolved, because each approach sacrifices something the other preserves.\n\nA translation that strives for naturalness may conceal the very features that make the original distinctive. Critics of this approach have argued that it effectively domesticates foreign texts, smoothing away cultural differences so that readers encounter a familiar version of an unfamiliar world. Particularly when translating from less widely read languages into dominant ones, such domestication can reinforce the impression that other cultures think, and write, much as we do. The alternative, a deliberately foreignising translation that preserves unusual syntax or untranslatable terms, reminds readers that they are encountering something other — but at the risk of producing a text that is awkward, opaque, or simply less pleasurable to read.\n\nIn practice, accomplished translators seldom adopt either position consistently. They make innumerable local decisions, weighing fidelity against readability sentence by sentence. A joke may be replaced by an equivalent joke rather than explained; a metaphor may be preserved because its strangeness is part of the point; a culturally specific reference may be retained, glossed or quietly generalised. Such decisions require not merely bilingual competence but a kind of critical judgement about what matters most in a particular text.\n\nThe rise of machine translation has given these old questions new urgency. For many purposes — reading a menu, understanding the gist of an article, conducting routine correspondence — automated systems now perform remarkably well, and their usefulness is undeniable. Literary translators, however, point out that their craft consists precisely in the decisions that cannot be reduced to equivalence: recognising when an apparently correct rendering betrays the tone of a passage, or when a departure from the literal meaning is the only way to be faithful to the author's intention.\n\nPerhaps the most generous way to think of translation is not as a copy, inevitably inferior to its original, but as a reading — an interpretation made public. On this view, the existence of many translations of the same work is not evidence of failure but of richness, each one revealing aspects of the original that the others leave obscure.",
+ "glossary": [
+  [
+   "phonology",
+   "the system of sounds in a language"
+  ],
+  [
+   "gist",
+   "the general meaning of something"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r057-q01",
+   "type": "reading",
+   "passageId": "r057",
+   "prompt": "Why does the author say that the untranslatability of the Italian pun is “the best illustration of its truth”?",
+   "options": [
+    "Italian is harder to translate than other languages.",
+    "Translators are usually dishonest.",
+    "The pun itself shows that some qualities are lost in translation.",
+    "Puns should never be translated."
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Its neatness depends on Italian sounds — it cannot survive translation."
+  },
+  {
+   "id": "r057-q02",
+   "type": "reading",
+   "passageId": "r057",
+   "prompt": "What is the central tension in debates about translation?",
+   "options": [
+    "Speed versus cost",
+    "Poetry versus prose",
+    "Closeness to the original versus naturalness in the target language",
+    "Ancient versus modern languages"
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 2."
+  },
+  {
+   "id": "r057-q03",
+   "type": "reading",
+   "passageId": "r057",
+   "prompt": "Why does the author say the question “remains unresolved”?",
+   "options": [
+    "Each approach sacrifices something that the other preserves.",
+    "Translators refuse to discuss it.",
+    "No translations exist from ancient times.",
+    "Machines will soon answer it."
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 2."
+  },
+  {
+   "id": "r057-q04",
+   "type": "reading",
+   "passageId": "r057",
+   "prompt": "What is meant by “domesticating” a foreign text?",
+   "options": [
+    "Translating it for children",
+    "Making it seem familiar by smoothing away cultural differences",
+    "Publishing it in the translator's country",
+    "Translating it word for word"
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Readers encounter a familiar version of an unfamiliar world."
+  },
+  {
+   "id": "r057-q05",
+   "type": "reading",
+   "passageId": "r057",
+   "prompt": "According to critics, why is domestication especially problematic when translating into dominant languages?",
+   "options": [
+    "Dominant languages have fewer words.",
+    "Readers of dominant languages prefer foreign texts.",
+    "It makes translations more expensive.",
+    "It can suggest that other cultures think as we do."
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r057-q06",
+   "type": "reading",
+   "passageId": "r057",
+   "prompt": "What risk is associated with foreignising translation?",
+   "options": [
+    "It conceals cultural differences.",
+    "The text may become awkward or less enjoyable to read.",
+    "It is too similar to the original.",
+    "It is impossible to publish."
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r057-q07",
+   "type": "reading",
+   "passageId": "r057",
+   "prompt": "How do accomplished translators usually work, according to paragraph 4?",
+   "options": [
+    "They always choose naturalness.",
+    "They make case-by-case decisions rather than following one approach consistently.",
+    "They always choose fidelity.",
+    "They rely on machine translation."
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Local decisions, sentence by sentence."
+  },
+  {
+   "id": "r057-q08",
+   "type": "reading",
+   "passageId": "r057",
+   "prompt": "Which of the following is NOT mentioned as a possible way to deal with a cultural reference?",
+   "options": [
+    "Removing the whole paragraph that contains it",
+    "Retaining it",
+    "Glossing it",
+    "Generalising it"
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Removing paragraphs is not mentioned."
+  },
+  {
+   "id": "r057-q09",
+   "type": "reading",
+   "passageId": "r057",
+   "prompt": "What do literary translators say about machine translation?",
+   "options": [
+    "Machines are useless for any purpose.",
+    "Machines will replace them within years.",
+    "Machines translate poetry better than prose.",
+    "Their craft lies in decisions that cannot be reduced to equivalence."
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 5."
+  },
+  {
+   "id": "r057-q10",
+   "type": "reading",
+   "passageId": "r057",
+   "prompt": "What does the author mean by describing translation as “an interpretation made public”?",
+   "options": [
+    "Translations should be read aloud.",
+    "Translations must be approved by the public.",
+    "Each translation is one reader's understanding of the work.",
+    "Translations are always inferior copies."
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "A reading — an interpretation."
+  },
+  {
+   "id": "r057-q11",
+   "type": "reading",
+   "passageId": "r057",
+   "prompt": "How does the author view the existence of many translations of one work?",
+   "options": [
+    "As a waste of effort",
+    "As proof that translation is impossible",
+    "As evidence of poor quality",
+    "As a sign of richness rather than failure"
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in the last paragraph."
+  }
+ ]
+}

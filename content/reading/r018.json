@@ -1,0 +1,286 @@
+{
+ "id": "r018",
+ "title": "Four Legs in Uniform",
+ "level": "B1",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "EsPCEx",
+  "EFOMM",
+  "AFA",
+  "EN",
+  "ENEM"
+ ],
+ "text": "Dogs have worked with soldiers for thousands of years, but their jobs have changed a lot. In ancient times, some armies used large dogs in battle. Today, military working dogs have very different tasks. Most of them are trained to find things that people cannot easily find: explosives, weapons, drugs and missing people.\n\nThe secret of their success is their nose. A dog's sense of smell is many thousands of times more sensitive than a human's. Where we smell a pot of soup, a dog can smell each ingredient separately. This makes dogs extremely useful for checking vehicles, buildings and roads. A well-trained dog can search an area in a fraction of the time that a team of people would need.\n\nThe most common breeds in military work are German and Belgian shepherds and Labrador retrievers. They are intelligent, strong and enjoy working. Training begins when the dog is young and can take many months. During training, dogs learn that finding the right smell is a game with a prize: usually a ball or a toy. A dog does not search because it understands the danger. It searches because it wants to play.\n\nEach dog works with one handler, a soldier who is responsible for it. The handler feeds the dog, takes care of its health and trains with it every day. The two often stay together for years, and the relationship between them is very close. Handlers learn to \"read\" their dog — to notice small changes in its behaviour that show it has found something. Dogs, in turn, learn to understand their handler's voice and gestures. A dog and its handler are considered a team, and they are always evaluated together.\n\nMilitary dogs also need protection. In hot countries, they can suffer from the heat, so they drink a lot of water and rest often. Some dogs wear special boots to protect their feet from hot sand or broken glass, and some even wear protective vests.\n\nWhen a military dog becomes too old to work, usually at around eight to ten years of age, it retires. In many countries, retired dogs are adopted by their handlers or by families. After years of service, they finally have a quiet life — although many of them still get excited when they see a ball.",
+ "glossary": [
+  [
+   "handler",
+   "a person who trains and works with an animal"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r018-q01",
+   "type": "reading",
+   "passageId": "r018",
+   "prompt": "What do most military working dogs do today?",
+   "options": [
+    "They search for things such as explosives and missing people.",
+    "They fight in battles.",
+    "They guard prisoners.",
+    "They carry equipment for soldiers."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“Most of them are trained to find things that people cannot easily find”."
+  },
+  {
+   "id": "r018-q02",
+   "type": "reading",
+   "passageId": "r018",
+   "prompt": "What does the example of the pot of soup show?",
+   "options": [
+    "Dogs prefer soup to other food.",
+    "Dogs can find food in the kitchen.",
+    "Dogs can smell each part of a mixture separately.",
+    "Humans and dogs smell things in the same way."
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“a dog can smell each ingredient separately”."
+  },
+  {
+   "id": "r018-q03",
+   "type": "reading",
+   "passageId": "r018",
+   "prompt": "The phrase “a fraction of the time” in paragraph 2 means",
+   "options": [
+    "exactly the same time",
+    "much less time",
+    "a little more time",
+    "twice the time"
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "A fraction of the time = a small part of the time."
+  },
+  {
+   "id": "r018-q04",
+   "type": "reading",
+   "passageId": "r018",
+   "prompt": "Why do dogs search during training?",
+   "options": [
+    "Because they understand the danger",
+    "Because they are hungry",
+    "Because they want to play and get a toy",
+    "Because they are afraid of the handler"
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“It searches because it wants to play.”"
+  },
+  {
+   "id": "r018-q05",
+   "type": "reading",
+   "passageId": "r018",
+   "prompt": "Which of these is NOT a responsibility of the handler?",
+   "options": [
+    "feeding the dog",
+    "taking care of the dog's health",
+    "training with the dog every day",
+    "choosing the dog's breed"
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The text does not say handlers choose the breed."
+  },
+  {
+   "id": "r018-q06",
+   "type": "reading",
+   "passageId": "r018",
+   "prompt": "Why do handlers need to “read” their dog?",
+   "options": [
+    "To teach the dog to read",
+    "To know when the dog is hungry",
+    "To notice signs that the dog has found something",
+    "To write reports about the dog"
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“to notice small changes in its behaviour that show it has found something”."
+  },
+  {
+   "id": "r018-q07",
+   "type": "reading",
+   "passageId": "r018",
+   "prompt": "The word “they” in paragraph 4 (“and they are always evaluated together”) refers to",
+   "options": [
+    "the soldiers",
+    "the dog and its handler",
+    "the gestures",
+    "the military dogs in general"
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "A dog and its handler are a team and are evaluated together."
+  },
+  {
+   "id": "r018-q08",
+   "type": "reading",
+   "passageId": "r018",
+   "prompt": "Why do some dogs wear special boots?",
+   "options": [
+    "To run faster",
+    "To keep them warm in winter",
+    "To make them look like soldiers",
+    "To protect their feet from hot sand or broken glass"
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 5."
+  },
+  {
+   "id": "r018-q09",
+   "type": "reading",
+   "passageId": "r018",
+   "prompt": "What usually happens when a military dog retires?",
+   "options": [
+    "It is often adopted by its handler or a family.",
+    "It goes back to the training centre.",
+    "It works with a new handler.",
+    "It continues working part-time."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“retired dogs are adopted by their handlers or by families”."
+  }
+ ]
+}

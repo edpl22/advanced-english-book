@@ -1,0 +1,308 @@
+{
+ "id": "r045",
+ "title": "The Arms Race in Miniature",
+ "level": "C1",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "TOEFL",
+  "IELTS",
+  "CAE",
+  "FUVEST"
+ ],
+ "text": "When penicillin entered widespread use in the 1940s, it seemed to herald the end of bacterial disease as a major cause of death. Infections that had routinely killed — from pneumonia to infected wounds — could suddenly be cured within days. Yet in his Nobel Prize lecture in 1945, Alexander Fleming, who had discovered the drug, issued a warning: bacteria exposed to insufficient doses could become resistant to it. His prediction proved remarkably accurate. Today, antimicrobial resistance is regarded by many health authorities as one of the most serious threats to global health.\n\nResistance is, at its core, a straightforward application of natural selection. In any large population of bacteria, a few individuals may, by chance, carry genetic variations that allow them to survive an antibiotic. When the drug is applied, susceptible bacteria die while the resistant ones survive and multiply, so that the population as a whole becomes resistant. Because bacteria reproduce extremely rapidly, this process can occur within a strikingly short period. To complicate matters, bacteria can also exchange genetic material directly, even between different species, allowing resistance to spread far beyond the lineage in which it first arose.\n\nHuman practices have greatly accelerated the process. Antibiotics are frequently prescribed for conditions they cannot treat, such as viral infections like the common cold, and patients often stop taking them as soon as they feel better, potentially leaving the hardiest bacteria alive. In many countries antibiotics can be bought without a prescription. In agriculture, large quantities have been given to healthy animals, not to cure disease but to prevent it or to promote growth, exposing vast bacterial populations to the drugs.\n\nThe consequences are already measurable. Infections that were once easily treated now sometimes require older, more toxic drugs or prolonged hospital stays, and in some cases no effective treatment exists. Resistance also threatens much of modern medicine indirectly: surgery, cancer chemotherapy and organ transplants all depend on the ability to prevent or treat infections.\n\nDeveloping new antibiotics might seem the obvious solution, but the pipeline has been disappointingly thin for decades. Discovering new classes of drugs is scientifically difficult, and the economics are unfavourable: a new antibiotic is likely to be held in reserve for the most serious cases precisely in order to slow the emergence of resistance, which means that sales — and profits — will be modest.\n\nExperts therefore emphasise a combination of approaches, often grouped under the term \"stewardship\": using existing drugs more prudently, improving hygiene and vaccination to reduce the number of infections in the first place, monitoring resistance worldwide and creating new economic incentives for research. None of these measures will end the contest between medicine and microbes. But they may determine which side holds the advantage.",
+ "glossary": [
+  [
+   "susceptible",
+   "easily affected or harmed by something"
+  ],
+  [
+   "lineage",
+   "a line of descent from an ancestor"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r045-q01",
+   "type": "reading",
+   "passageId": "r045",
+   "prompt": "Why does the author mention Fleming's Nobel lecture?",
+   "options": [
+    "To describe how penicillin was discovered",
+    "To criticise Fleming's research",
+    "To argue that penicillin is no longer useful",
+    "To show that the danger of resistance was foreseen early"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Fleming warned about resistance in 1945."
+  },
+  {
+   "id": "r045-q02",
+   "type": "reading",
+   "passageId": "r045",
+   "prompt": "According to paragraph 2, how does a bacterial population become resistant?",
+   "options": [
+    "All bacteria adapt during treatment.",
+    "Resistant individuals survive the drug and multiply.",
+    "Antibiotics change the genes of every bacterium.",
+    "Bacteria learn to avoid antibiotics."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Natural selection: susceptible bacteria die, resistant ones multiply."
+  },
+  {
+   "id": "r045-q03",
+   "type": "reading",
+   "passageId": "r045",
+   "prompt": "Why can resistance spread “far beyond the lineage in which it first arose”?",
+   "options": [
+    "Bacteria travel with patients.",
+    "Antibiotics carry resistance genes.",
+    "Bacteria can exchange genetic material, even between species.",
+    "Viruses transmit resistance."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 2."
+  },
+  {
+   "id": "r045-q04",
+   "type": "reading",
+   "passageId": "r045",
+   "prompt": "Which human practice is NOT mentioned as accelerating resistance?",
+   "options": [
+    "prescribing antibiotics for viral infections",
+    "stopping treatment too early",
+    "giving antibiotics to healthy animals",
+    "using antibiotics in food packaging"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Food packaging is not mentioned."
+  },
+  {
+   "id": "r045-q05",
+   "type": "reading",
+   "passageId": "r045",
+   "prompt": "Why is prescribing antibiotics for the common cold inappropriate?",
+   "options": [
+    "The cold is not a serious illness.",
+    "Antibiotics make colds last longer.",
+    "The common cold is caused by a virus.",
+    "Doctors are not allowed to do so."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Conditions they cannot treat, such as viral infections."
+  },
+  {
+   "id": "r045-q06",
+   "type": "reading",
+   "passageId": "r045",
+   "prompt": "According to paragraph 4, how does resistance threaten modern medicine indirectly?",
+   "options": [
+    "Hospitals will have fewer doctors.",
+    "Older drugs will become more expensive.",
+    "Procedures such as surgery depend on controlling infections.",
+    "Cancer becomes more common."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Surgery, chemotherapy and transplants all depend on it."
+  },
+  {
+   "id": "r045-q07",
+   "type": "reading",
+   "passageId": "r045",
+   "prompt": "Why are the economics of new antibiotics unfavourable?",
+   "options": [
+    "Antibiotics are too cheap to produce.",
+    "New drugs would be kept in reserve, limiting sales.",
+    "Governments ban new antibiotics.",
+    "Patients refuse new drugs."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Held in reserve to slow resistance, so modest profits."
+  },
+  {
+   "id": "r045-q08",
+   "type": "reading",
+   "passageId": "r045",
+   "prompt": "The word “pipeline” in paragraph 5 refers to",
+   "options": [
+    "drugs being developed",
+    "hospital supply systems",
+    "the spread of bacteria",
+    "government funding"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The pipeline of new antibiotics in development."
+  },
+  {
+   "id": "r045-q09",
+   "type": "reading",
+   "passageId": "r045",
+   "prompt": "Which of the following is part of “stewardship” as described in the passage?",
+   "options": [
+    "stopping all use of antibiotics",
+    "using existing antibiotics more carefully",
+    "relying only on new drugs",
+    "banning vaccination"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Using existing drugs more prudently."
+  },
+  {
+   "id": "r045-q10",
+   "type": "reading",
+   "passageId": "r045",
+   "prompt": "What does the final sentence suggest?",
+   "options": [
+    "The struggle against bacteria will continue, but it can be managed.",
+    "Medicine will soon defeat bacteria completely.",
+    "Bacteria have already won.",
+    "Stewardship is unnecessary."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The contest won't end, but measures may decide who has the advantage."
+  }
+ ]
+}

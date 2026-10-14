@@ -1,0 +1,1890 @@
+{
+ "topic": "unreal-past",
+ "batch": 1,
+ "title": "Unreal past and the subjunctive",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "unr-001-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "mcq",
+   "explanation": "Present wish: past simple.",
+   "prompt": "I wish I ___ a car — I hate taking the bus.",
+   "options": [
+    "had",
+    "have",
+    "would have",
+    "am having"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "unr-001-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "mcq",
+   "explanation": "Present wish: past simple (wasn’t / weren’t).",
+   "prompt": "I wish it ___ so hot today.",
+   "options": [
+    "isn’t",
+    "wasn’t",
+    "won’t be",
+    "not is"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "unr-001-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "mcq",
+   "explanation": "If only + past (were / was).",
+   "prompt": "If only I ___ taller!",
+   "options": [
+    "am",
+    "will be",
+    "were",
+    "be"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "unr-001-04",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "mcq",
+   "explanation": "Past regret: past perfect.",
+   "prompt": "I wish I ___ that cake — now I feel sick.",
+   "options": [
+    "didn’t eat",
+    "haven’t eaten",
+    "wouldn’t eat",
+    "hadn’t eaten"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "unr-001-05",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "8.2",
+   "type": "mcq",
+   "explanation": "It’s time + past simple.",
+   "prompt": "It’s getting late. Don’t you think it’s time the children ___ to bed?",
+   "options": [
+    "went",
+    "go",
+    "will go",
+    "are going"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "unr-001-06",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "8.2",
+   "type": "mcq",
+   "explanation": "would rather + subject + past.",
+   "prompt": "I’d rather you ___ me before inviting people round.",
+   "options": [
+    "ask",
+    "asked",
+    "will ask",
+    "asking"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "unr-001-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "8.2",
+   "type": "mcq",
+   "explanation": "as if + past (unreal).",
+   "prompt": "He talks as if he ___ everything.",
+   "options": [
+    "know",
+    "had know",
+    "knew",
+    "knowing"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "unr-001-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "mcq",
+   "explanation": "wish + would = annoyance.",
+   "prompt": "I wish my brother ___ borrowing my clothes without asking.",
+   "options": [
+    "stops",
+    "will stop",
+    "is stopping",
+    "would stop"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "unr-001-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "mcq",
+   "explanation": "wish + could = ability.",
+   "prompt": "I wish I ___ swim — everyone else is in the pool.",
+   "options": [
+    "could",
+    "can",
+    "will",
+    "would"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "unr-001-10",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.3",
+   "type": "mcq",
+   "explanation": "Mandative subjunctive: base form.",
+   "prompt": "The teacher insisted that every student ___ the test again.",
+   "options": [
+    "takes",
+    "take",
+    "will take",
+    "taking"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "unr-001-11",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.3",
+   "type": "mcq",
+   "explanation": "Passive subjunctive: be + past participle.",
+   "prompt": "It is recommended that the medicine ___ in a cool place.",
+   "options": [
+    "is keep",
+    "keeps",
+    "be kept",
+    "kept"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "unr-001-12",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.2",
+   "type": "mcq",
+   "explanation": "suppose + past (unreal).",
+   "prompt": "Suppose you ___ the lottery — what would you do?",
+   "options": [
+    "had win",
+    "will win",
+    "winning",
+    "won"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "unr-001-13",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "8.2",
+   "type": "mcq",
+   "explanation": "would sooner = would rather.",
+   "prompt": "I’d sooner you ___ anything to the press.",
+   "options": [
+    "didn’t say",
+    "don’t say",
+    "won’t say",
+    "not say"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "unr-001-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "mcq",
+   "explanation": "Past regret: past perfect.",
+   "prompt": "If only I ___ my phone at home — I need it for the tickets!",
+   "options": [
+    "didn’t leave",
+    "hadn’t left",
+    "haven’t left",
+    "wouldn’t leave"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "unr-001-15",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "8.4",
+   "type": "mcq",
+   "explanation": "Fixed subjunctive expression.",
+   "prompt": "Long ___ the king!",
+   "options": [
+    "lives",
+    "living",
+    "live",
+    "lived"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "unr-001-16",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "8.4",
+   "type": "mcq",
+   "explanation": "Fixed subjunctive: Heaven forbid.",
+   "prompt": "Heaven ___ that anything should happen to her!",
+   "options": [
+    "forbids",
+    "forbade",
+    "forbidding",
+    "forbid"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "unr-001-17",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "8.3",
+   "type": "mcq",
+   "explanation": "Mandative subjunctive (passive).",
+   "prompt": "It is imperative that the patient ___ informed of the risks.",
+   "options": [
+    "be",
+    "is being",
+    "was",
+    "will"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "unr-001-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "8.2",
+   "type": "mcq",
+   "explanation": "It’s high time + past (passive).",
+   "prompt": "It’s high time something ___ about the traffic.",
+   "options": [
+    "is done",
+    "was done",
+    "will be done",
+    "be done"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "unr-001-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "gap",
+   "explanation": "Present wish.",
+   "prompt": "I wish I ___ more free time.",
+   "acceptedAnswers": [
+    "had"
+   ],
+   "cue": "have"
+  },
+  {
+   "id": "unr-001-20",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "gap",
+   "explanation": "If only + past.",
+   "prompt": "If only it ___ the weekend!",
+   "acceptedAnswers": [
+    "were",
+    "was"
+   ],
+   "cue": "be"
+  },
+  {
+   "id": "unr-001-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "gap",
+   "explanation": "Past regret.",
+   "prompt": "I wish I ___ to the concert last night — everyone says it was amazing.",
+   "acceptedAnswers": [
+    "had gone"
+   ],
+   "cue": "go"
+  },
+  {
+   "id": "unr-001-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "8.2",
+   "type": "gap",
+   "explanation": "would rather + subject + past.",
+   "prompt": "I’d rather you ___ the window — it’s cold.",
+   "acceptedAnswers": [
+    "didn’t open",
+    "did not open"
+   ],
+   "cue": "not / open"
+  },
+  {
+   "id": "unr-001-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "8.2",
+   "type": "gap",
+   "explanation": "as if + past.",
+   "prompt": "He behaves as if he ___ the owner.",
+   "acceptedAnswers": [
+    "were",
+    "was"
+   ],
+   "cue": "be"
+  },
+  {
+   "id": "unr-001-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.2",
+   "type": "gap",
+   "explanation": "It’s time + past.",
+   "prompt": "It’s time you ___ responsibility for your actions.",
+   "acceptedAnswers": [
+    "took"
+   ],
+   "cue": "take"
+  },
+  {
+   "id": "unr-001-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "gap",
+   "explanation": "Past regret about someone else.",
+   "prompt": "I wish you ___ me earlier — I could have helped.",
+   "acceptedAnswers": [
+    "had told"
+   ],
+   "cue": "tell"
+  },
+  {
+   "id": "unr-001-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.3",
+   "type": "gap",
+   "explanation": "Mandative subjunctive.",
+   "prompt": "They demanded that the company ___ the workers.",
+   "acceptedAnswers": [
+    "compensate",
+    "should compensate"
+   ],
+   "cue": "compensate"
+  },
+  {
+   "id": "unr-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "8.2",
+   "type": "gap",
+   "explanation": "would rather + past perfect for the past.",
+   "prompt": "I’d rather you ___ the car yesterday without asking me.",
+   "acceptedAnswers": [
+    "hadn’t taken",
+    "had not taken"
+   ],
+   "cue": "not / take"
+  },
+  {
+   "id": "unr-001-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "8.2",
+   "type": "gap",
+   "explanation": "suppose + past perfect.",
+   "prompt": "Suppose he ___ the truth all along — what then?",
+   "acceptedAnswers": [
+    "had known"
+   ],
+   "cue": "know"
+  },
+  {
+   "id": "unr-001-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "kwt",
+   "explanation": "wish + past perfect.",
+   "first": "I’m sorry I didn’t study harder.",
+   "keyword": "WISH",
+   "before": "I",
+   "after": "harder.",
+   "acceptedAnswers": [
+    "wish I had studied",
+    "wish I’d studied"
+   ]
+  },
+  {
+   "id": "unr-001-30",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "kwt",
+   "explanation": "If only + past.",
+   "first": "I don’t live near the beach, unfortunately.",
+   "keyword": "ONLY",
+   "before": "If",
+   "after": "near the beach!",
+   "acceptedAnswers": [
+    "only I lived"
+   ]
+  },
+  {
+   "id": "unr-001-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.2",
+   "type": "kwt",
+   "explanation": "would rather + subject + past.",
+   "first": "Please don’t tell anyone about this.",
+   "keyword": "RATHER",
+   "before": "I’d",
+   "after": "anyone about this.",
+   "acceptedAnswers": [
+    "rather you didn’t tell",
+    "rather you did not tell"
+   ]
+  },
+  {
+   "id": "unr-001-32",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.2",
+   "type": "kwt",
+   "explanation": "It’s time + past.",
+   "first": "We should leave now.",
+   "keyword": "TIME",
+   "before": "It’s",
+   "after": "left.",
+   "acceptedAnswers": [
+    "time we",
+    "high time we",
+    "about time we"
+   ]
+  },
+  {
+   "id": "unr-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "8.3",
+   "type": "kwt",
+   "explanation": "vital that + subjunctive.",
+   "first": "It is vital for all passengers to wear seat belts.",
+   "keyword": "VITAL",
+   "before": "It is",
+   "after": "seat belts.",
+   "acceptedAnswers": [
+    "vital that all passengers wear",
+    "vital that passengers wear"
+   ]
+  },
+  {
+   "id": "unr-001-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "error-correction",
+   "explanation": "wish + could.",
+   "parts": [
+    "I wish I ",
+    {
+     "u": "can"
+    },
+    " play the ",
+    {
+     "u": "piano"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "could"
+   ]
+  },
+  {
+   "id": "unr-001-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "error-correction",
+   "explanation": "Past regret: past perfect.",
+   "parts": [
+    "If only I ",
+    {
+     "u": "didn’t say"
+    },
+    " that ",
+    {
+     "u": "yesterday"
+    },
+    "!"
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "hadn’t said",
+    "had not said"
+   ]
+  },
+  {
+   "id": "unr-001-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "8.2",
+   "type": "error-correction",
+   "explanation": "It’s high time + past.",
+   "parts": [
+    "It’s high time we ",
+    {
+     "u": "start"
+    },
+    " preparing for the ",
+    {
+     "u": "exam"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "started"
+   ]
+  },
+  {
+   "id": "unr-001-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.3",
+   "type": "error-correction",
+   "explanation": "Mandative subjunctive: base form.",
+   "parts": [
+    "She insisted that he ",
+    {
+     "u": "apologises"
+    },
+    " to ",
+    {
+     "u": "everyone"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "apologise",
+    "should apologise"
+   ]
+  },
+  {
+   "id": "unr-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "8.2",
+   "type": "error-correction",
+   "explanation": "would rather + past perfect.",
+   "parts": [
+    "I’d rather you ",
+    {
+     "u": "have told"
+    },
+    " me before you ",
+    {
+     "u": "sold"
+    },
+    " the car."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "had told"
+   ]
+  },
+  {
+   "id": "unr-001-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "word-order",
+   "explanation": "Present wish.",
+   "fragments": [
+    "I",
+    "wish",
+    "I",
+    "lived",
+    "by",
+    "the sea."
+   ],
+   "acceptedAnswers": [
+    "I wish I lived by the sea."
+   ]
+  },
+  {
+   "id": "unr-001-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "8.2",
+   "type": "word-order",
+   "explanation": "It’s time + past.",
+   "fragments": [
+    "It’s",
+    "time",
+    "you",
+    "got",
+    "a",
+    "haircut."
+   ],
+   "acceptedAnswers": [
+    "It’s time you got a haircut."
+   ]
+  },
+  {
+   "id": "unr-001-41",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "8.3",
+   "type": "word-order",
+   "explanation": "Mandative subjunctive.",
+   "fragments": [
+    "The",
+    "doctor",
+    "insisted",
+    "that",
+    "she",
+    "rest",
+    "for a week."
+   ],
+   "acceptedAnswers": [
+    "The doctor insisted that she rest for a week."
+   ]
+  },
+  {
+   "id": "unr-001-42",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "matching",
+   "explanation": "Present wishes, past regrets and annoyance.",
+   "prompt": "Match each wish with its meaning.",
+   "left": [
+    "I wish I had a dog.",
+    "I wish I had had a dog as a child.",
+    "I wish you would stop shouting.",
+    "I wish I could swim.",
+    "I wish I were taller."
+   ],
+   "right": [
+    "I can’t swim.",
+    "I will buy a dog.",
+    "I’m not tall.",
+    "I didn’t have a dog when I was young.",
+    "Your shouting annoys me.",
+    "I don’t have a dog now."
+   ],
+   "answer": [
+    5,
+    3,
+    4,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "unr-001-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "8.2",
+   "type": "matching",
+   "explanation": "Unreal past after time, rather, as if, if only, suppose.",
+   "prompt": "Match the halves.",
+   "left": [
+    "It’s high time",
+    "I’d rather you",
+    "He acts as if",
+    "If only",
+    "Suppose"
+   ],
+   "right": [
+    "he owned the place.",
+    "to go home.",
+    "you lost your job — what would you do?",
+    "didn’t tell anyone.",
+    "I had listened to you!",
+    "we left — it’s late."
+   ],
+   "answer": [
+    5,
+    3,
+    0,
+    4,
+    2
+   ]
+  },
+  {
+   "id": "unr-001-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.3",
+   "type": "matching",
+   "explanation": "The mandative subjunctive.",
+   "prompt": "Match the halves.",
+   "left": [
+    "The doctor recommended that she",
+    "The law requires that every driver",
+    "I suggest that he",
+    "They demanded that the minister",
+    "It is essential that the samples"
+   ],
+   "right": [
+    "carry a licence.",
+    "be stored at a low temperature.",
+    "resign immediately.",
+    "take a holiday.",
+    "apply for the job.",
+    "to resign."
+   ],
+   "answer": [
+    3,
+    0,
+    4,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "unr-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "matching",
+   "explanation": "Unreal tenses and real time.",
+   "prompt": "What time does each sentence refer to?",
+   "left": [
+    "I wish I knew.",
+    "I wish I had known.",
+    "I wish you would come.",
+    "It’s time we went.",
+    "I’d rather you hadn’t come."
+   ],
+   "right": [
+    "never",
+    "past (regret about someone else’s action)",
+    "present",
+    "now (it is late)",
+    "future / a request or an annoying habit",
+    "past"
+   ],
+   "answer": [
+    2,
+    5,
+    4,
+    3,
+    1
+   ]
+  },
+  {
+   "id": "unr-001-46",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "open-cloze",
+   "explanation": "wish, if only and it’s time in a personal letter.",
+   "title": "Wishes",
+   "text": "Sometimes I wish I [1] a different life. I wish I [2] in a big house by the sea instead of a small flat in the city. I wish I [3] speak five languages and travel around the world. If [4] I had more money! But then I remember that I [5] lucky. I have a family who loves me. I wish I [6] see them more often, but they live far away. And sometimes I wish my little brother [7] stop playing loud music at night! It’s time I [8] to bed, so I’ll stop writing now. I wish you [9] here. I miss you. Love, Ana. P.S. I wish I [10] listened to you about that boyfriend!",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "had",
+      "lived",
+      "led"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "lived"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "could"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "only"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "am"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "could"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "would"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "went"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "were",
+      "was"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "unr-001-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "8.2",
+   "type": "open-cloze",
+   "explanation": "Unreal past and subjunctive in a formal letter.",
+   "title": "A letter of apology",
+   "text": "Dear Professor, I am writing to apologise for my behaviour in yesterday’s seminar. I wish I [1] interrupted you, and I would rather I [2] kept my opinions to myself until the end. It is high time I [3] to control my temper. Looking back, I spoke as though I [4] the only person in the room with any knowledge of the subject. If [5] I could take back what I said! I fully understand that the department requires that every student [6] respectfully, and I accept that it is right that I [7] apologise. I would prefer that the matter [8] treated privately, if possible. Suppose you [9] in my position — what would you do? I wish I [10] made a better first impression. Yours sincerely, Lucas",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "hadn’t"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "learnt",
+      "learned",
+      "tried",
+      "began",
+      "started"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "were",
+      "was"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "only"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "behave",
+      "speak",
+      "participate",
+      "act"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "should"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "be"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "were",
+      "was"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "unr-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "8.3",
+   "type": "open-cloze",
+   "explanation": "The subjunctive and the unreal past in an essay.",
+   "title": "The disappearing subjunctive",
+   "text": "English has almost lost its subjunctive, but traces of it [1] survive. In formal writing, verbs such as insist, demand and recommend are often followed [2] a base form: “The committee recommends that the plan [3] approved.” Fixed expressions such as “God [4] the King” are also subjunctive. In everyday speech, however, most people prefer “should” or a normal tense: “They insisted that he [5] leave.” The unreal past is more robust: “I wish I [6] more time,” “It’s high time we [7] a decision.” Some purists insist that “if I [8] you” is the only correct form, [9] “if I was you” is now widespread. Whether the subjunctive will survive at [10] remains to be seen.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "still"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "by"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "be"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "save"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "should",
+      "must"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "made",
+      "took",
+      "reached"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "were"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "although",
+      "though",
+      "while",
+      "but",
+      "whereas",
+      "yet",
+      "whilst"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "all"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "unr-001-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "8.1",
+   "type": "mc-cloze",
+   "explanation": "Wishes, regrets and the unreal past.",
+   "title": "Regrets of a traveller",
+   "text": "I wish I [1] more photos on my trip to Peru. I also wish I [2] some Spanish before I went — it [3] so much easier. If only I [4] more time in Cusco! It’s time I [5] another holiday; I’ve been working too hard. My wife would rather we [6] somewhere quieter this time. She says I always act as if I [7] twenty years old. I wish she [8] so sensible sometimes!",
+   "gaps": [
+    {
+     "options": [
+      "took",
+      "have taken",
+      "had taken",
+      "would take"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "will learn",
+      "have learnt",
+      "learn",
+      "had learnt"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "would have been",
+      "will be",
+      "was",
+      "had been"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "have spent",
+      "had spent",
+      "will spend",
+      "spend"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "take",
+      "will take",
+      "took",
+      "am taking"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "go",
+      "will go",
+      "going",
+      "went"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "were",
+      "am",
+      "will be",
+      "being"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "isn’t",
+      "weren’t",
+      "won’t be",
+      "not be"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "unr-001-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "unreal-past"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "8.3",
+   "type": "mc-cloze",
+   "explanation": "The subjunctive in formal writing.",
+   "title": "A committee report",
+   "text": "The committee recommends that the proposal [1] rejected in its current form. It is essential that the budget [2] reviewed by an independent auditor and that each department [3] a detailed plan. Were the plan [4] go ahead without changes, the consequences [5] serious. It is high time the board [6] its approach to risk. Members would rather the matter [7] discussed in public before the vote. [8] that as it may, a final decision must be taken by June.",
+   "gaps": [
+    {
+     "options": [
+      "was",
+      "will be",
+      "be",
+      "being"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "was",
+      "will be",
+      "being",
+      "be"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "submit",
+      "submitted",
+      "will submit",
+      "submitting"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "for",
+      "to",
+      "that",
+      "so"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "will be",
+      "are",
+      "would be",
+      "had been"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "change",
+      "will change",
+      "changing",
+      "changed"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "were",
+      "is",
+      "will be",
+      "be"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "Being",
+      "Be",
+      "Is",
+      "Was"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

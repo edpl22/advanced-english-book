@@ -1,0 +1,308 @@
+{
+ "id": "r039",
+ "title": "The Year Without a Summer",
+ "level": "B2",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "FUVEST",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "In April 1815, Mount Tambora, a volcano on the Indonesian island of Sumbawa, erupted in what is considered the most powerful volcanic eruption in recorded history. Tens of thousands of people in the region died, either directly from the eruption or from the famine and disease that followed. But the effects of Tambora were not limited to Indonesia. The following year, 1816, became known in Europe and North America as \"the year without a summer\".\n\nIn parts of New England, snow fell in June, and frosts in July and August destroyed crops. In Europe, an unusually cold and wet summer caused harvests to fail across large areas, leading to food shortages, rising prices and, in some places, riots. Historians have linked the crisis to waves of emigration and to outbreaks of disease. At the time, nobody connected these events with a volcano on the other side of the world.\n\nThe connection is now well understood. A large eruption does not cool the climate mainly through ash, which falls out of the atmosphere within days or weeks. The key is sulphur dioxide, a gas that rises into the stratosphere, the layer of the atmosphere above the one in which weather occurs. There it reacts with water to form tiny droplets, called aerosols, which can remain in the stratosphere for a year or more. Because there is no rain at that height to wash them out, the aerosols spread around the globe and reflect part of the incoming sunlight back into space, cooling the surface below.\n\nTambora is not the only example. The eruption of Mount Pinatubo in the Philippines in 1991 released enough sulphur dioxide to lower average global temperatures by around half a degree Celsius for about two years. This time, scientists were able to measure the effect directly with satellites, confirming the mechanism that explained earlier events.\n\nVolcanic eruptions therefore have a short-term cooling effect, which is quite different from the long-term warming caused by greenhouse gases. Although volcanoes also release carbon dioxide, the amount is small compared with that produced by human activities. Some scientists have even proposed imitating volcanoes by deliberately injecting aerosols into the stratosphere to counter global warming. The idea remains highly controversial, partly because its side effects are uncertain and partly because it would do nothing to address the causes of warming.\n\nThe story of 1816 also had an unexpected cultural legacy. Forced to stay indoors by the miserable weather at a villa near Lake Geneva, a group of young writers held a competition to write ghost stories. One of them, Mary Shelley, began the novel that would become Frankenstein.",
+ "glossary": [
+  [
+   "stratosphere",
+   "the layer of the atmosphere from about 10 to 50 km above the Earth"
+  ],
+  [
+   "aerosol",
+   "very small particles or droplets suspended in a gas"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r039-q01",
+   "type": "reading",
+   "passageId": "r039",
+   "prompt": "Why was 1816 called “the year without a summer”?",
+   "options": [
+    "There was a volcanic eruption in Europe.",
+    "The calendar was changed that year.",
+    "The summer was unusually cold in Europe and North America.",
+    "Summer lasted only one month."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Snow in June, frosts in July and August, cold wet summer."
+  },
+  {
+   "id": "r039-q02",
+   "type": "reading",
+   "passageId": "r039",
+   "prompt": "Which consequence of the 1816 weather is NOT mentioned?",
+   "options": [
+    "the collapse of governments",
+    "failed harvests",
+    "rising food prices",
+    "riots"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Governments collapsing is not mentioned."
+  },
+  {
+   "id": "r039-q03",
+   "type": "reading",
+   "passageId": "r039",
+   "prompt": "What is suggested by the sentence “At the time, nobody connected these events with a volcano”?",
+   "options": [
+    "The volcano was not yet known in Europe.",
+    "People did not understand the cause of the bad weather.",
+    "Scientists denied that volcanoes affect weather.",
+    "The eruption happened after the bad summer."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The link was unknown then."
+  },
+  {
+   "id": "r039-q04",
+   "type": "reading",
+   "passageId": "r039",
+   "prompt": "According to paragraph 3, why does volcanic ash have little long-term effect on the climate?",
+   "options": [
+    "It is too light to block sunlight.",
+    "It is washed away by the sea.",
+    "It rises too high into space.",
+    "It falls out of the atmosphere within days or weeks."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r039-q05",
+   "type": "reading",
+   "passageId": "r039",
+   "prompt": "Why do aerosols remain in the stratosphere for a long time?",
+   "options": [
+    "There is no rain at that height to remove them.",
+    "They are heavier than air.",
+    "They are produced continuously by volcanoes.",
+    "They react with sunlight to form new gases."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“there is no rain at that height to wash them out”."
+  },
+  {
+   "id": "r039-q06",
+   "type": "reading",
+   "passageId": "r039",
+   "prompt": "How do aerosols cool the Earth's surface?",
+   "options": [
+    "They reflect part of the sunlight back into space.",
+    "They absorb heat from the oceans.",
+    "They produce clouds that bring rain.",
+    "They remove carbon dioxide from the air."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r039-q07",
+   "type": "reading",
+   "passageId": "r039",
+   "prompt": "Why was the Pinatubo eruption scientifically important?",
+   "options": [
+    "It was larger than the Tambora eruption.",
+    "Its cooling effect could be measured directly by satellites.",
+    "It caused a year without a summer.",
+    "It released no sulphur dioxide."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Satellites confirmed the mechanism."
+  },
+  {
+   "id": "r039-q08",
+   "type": "reading",
+   "passageId": "r039",
+   "prompt": "Why is the idea of injecting aerosols into the stratosphere controversial?",
+   "options": [
+    "It would make the Earth too cold.",
+    "It is cheaper than reducing emissions.",
+    "Volcanoes already do it naturally.",
+    "Its side effects are uncertain and it does not address the causes of warming."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 5."
+  },
+  {
+   "id": "r039-q09",
+   "type": "reading",
+   "passageId": "r039",
+   "prompt": "What is the “unexpected cultural legacy” of 1816?",
+   "options": [
+    "It inspired paintings of volcanoes.",
+    "It created a new festival in Geneva.",
+    "It led to the writing of a famous novel.",
+    "It led to new scientific journals."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Mary Shelley began Frankenstein."
+  },
+  {
+   "id": "r039-q10",
+   "type": "reading",
+   "passageId": "r039",
+   "prompt": "The word “them” in the last paragraph (“One of them”) refers to",
+   "options": [
+    "the ghost stories",
+    "the volcanoes",
+    "the villas",
+    "the young writers"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "One of the writers, Mary Shelley."
+  }
+ ]
+}

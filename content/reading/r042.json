@@ -1,0 +1,308 @@
+{
+ "id": "r042",
+ "title": "Counting Before Words",
+ "level": "C1",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "TOEFL",
+  "IELTS",
+  "CAE",
+  "FUVEST"
+ ],
+ "text": "Writing is so fundamental to modern life that it is easy to assume it was invented to record language — to preserve stories, laws or prayers. The archaeological evidence suggests otherwise. In Mesopotamia, where one of the earliest writing systems emerged in the late fourth millennium BCE, the first written documents were overwhelmingly administrative: records of grain, livestock, beer and labour. Writing, it appears, began not as a means of expression but as a form of accounting.\n\nIts origins may lie in an even older practice. For thousands of years before the first texts, people across the Near East used small clay tokens of various shapes — cones, spheres, discs — to keep track of goods. One influential theory proposes that these tokens were eventually sealed inside clay envelopes to guarantee a transaction, and that the shapes of the tokens were impressed on the outside of the envelope so that the contents could be checked without breaking it. At some point, it was realised that the impressions alone were sufficient, and the tokens became redundant. The theory remains debated, but it offers a plausible account of how marks on clay might have come to stand for things.\n\nThe earliest tablets from the city of Uruk combine signs for numbers with pictographic signs for commodities. Crucially, these early signs did not represent the sounds of a particular language; a sign for \"sheep\" could be read in any language. Over the following centuries, however, scribes began to use signs for their phonetic value, writing names and grammatical elements by combining signs according to their sounds — a development sometimes compared to the use of pictures in a rebus puzzle. The script, known as cuneiform from the wedge-shaped marks made by a reed stylus, eventually became capable of recording literature, letters, legal codes and scientific observations.\n\nMesopotamia was not the only place where writing developed. Most scholars believe that it was invented independently at least three other times: in Egypt, in China and in Mesoamerica. The question of whether Egyptian writing was influenced by Mesopotamian contacts remains open, but the Chinese and Mesoamerican systems almost certainly arose without any connection to the Near East.\n\nWhat these independent inventions share is significant. Each emerged in a society with growing cities, centralised authority and complex economic or ritual systems. Writing, in other words, seems to arise not from a desire to communicate as such, but from the needs of institutions that had to keep track of more information than human memory could reliably hold. The poetry came later.",
+ "glossary": [
+  [
+   "token",
+   "a small object used to represent something else"
+  ],
+  [
+   "stylus",
+   "a pointed tool for writing on soft material"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r042-q01",
+   "type": "reading",
+   "passageId": "r042",
+   "prompt": "What assumption does the author challenge in paragraph 1?",
+   "options": [
+    "That writing began in Mesopotamia",
+    "That early documents were made of clay",
+    "That writing was invented to record language and literature",
+    "That writing is important today"
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The evidence suggests writing began as accounting."
+  },
+  {
+   "id": "r042-q02",
+   "type": "reading",
+   "passageId": "r042",
+   "prompt": "What were most of the first written documents in Mesopotamia?",
+   "options": [
+    "religious texts",
+    "poems and stories",
+    "legal codes",
+    "administrative records"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Records of grain, livestock, beer and labour."
+  },
+  {
+   "id": "r042-q03",
+   "type": "reading",
+   "passageId": "r042",
+   "prompt": "According to the theory in paragraph 2, why were the shapes of tokens impressed on clay envelopes?",
+   "options": [
+    "To decorate the envelopes",
+    "To record the name of the owner",
+    "To prevent the tokens from being stolen",
+    "So that the contents could be checked without breaking the envelope"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 2."
+  },
+  {
+   "id": "r042-q04",
+   "type": "reading",
+   "passageId": "r042",
+   "prompt": "How does the author present the token theory?",
+   "options": [
+    "As proven beyond doubt",
+    "As completely discredited",
+    "As plausible but still debated",
+    "As the only theory available"
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“The theory remains debated, but it offers a plausible account.”"
+  },
+  {
+   "id": "r042-q05",
+   "type": "reading",
+   "passageId": "r042",
+   "prompt": "The word “redundant” in paragraph 2 is closest in meaning to",
+   "options": [
+    "more valuable",
+    "broken",
+    "no longer necessary",
+    "hidden"
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The impressions alone were sufficient, so the tokens were unnecessary."
+  },
+  {
+   "id": "r042-q06",
+   "type": "reading",
+   "passageId": "r042",
+   "prompt": "What was distinctive about the earliest signs from Uruk?",
+   "options": [
+    "They did not represent the sounds of a specific language.",
+    "They were written from right to left.",
+    "They could only be read by priests.",
+    "They represented only numbers."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "A sign for “sheep” could be read in any language."
+  },
+  {
+   "id": "r042-q07",
+   "type": "reading",
+   "passageId": "r042",
+   "prompt": "Why does the author mention a rebus puzzle?",
+   "options": [
+    "To show that writing began as a game",
+    "To explain the shape of cuneiform signs",
+    "To compare Mesopotamian and Chinese writing",
+    "To illustrate how signs came to be used for their sounds"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Signs used for their phonetic value, like pictures in a rebus."
+  },
+  {
+   "id": "r042-q08",
+   "type": "reading",
+   "passageId": "r042",
+   "prompt": "Where does the name “cuneiform” come from?",
+   "options": [
+    "the wedge-shaped marks made by a stylus",
+    "the city where it was invented",
+    "the name of its inventor",
+    "the type of clay used"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r042-q09",
+   "type": "reading",
+   "passageId": "r042",
+   "prompt": "Which statement about the independent inventions of writing is supported by the passage?",
+   "options": [
+    "Egyptian writing was definitely copied from Mesopotamia.",
+    "Chinese writing almost certainly developed without Near Eastern influence.",
+    "Writing was invented only once.",
+    "Mesoamerican writing was influenced by Egypt."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r042-q10",
+   "type": "reading",
+   "passageId": "r042",
+   "prompt": "What does the final sentence, “The poetry came later”, emphasise?",
+   "options": [
+    "Poetry was more important than accounting.",
+    "Writing began with practical needs and was used for literature only afterwards.",
+    "Early societies had no poetry.",
+    "Scribes disliked poetry."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Writing arose from institutional needs; literature followed."
+  }
+ ]
+}

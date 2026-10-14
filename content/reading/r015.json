@@ -1,0 +1,290 @@
+{
+ "id": "r015",
+ "title": "Twenty-Four Hours on a Frigate",
+ "level": "B1",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "EsPCEx",
+  "EFOMM",
+  "AFA",
+  "EN",
+  "ENEM"
+ ],
+ "text": "A modern frigate is a warship of medium size, usually between 100 and 150 metres long, with a crew of around two hundred people. When it is at sea for several weeks, the ship becomes a small town that never sleeps. Someone is always awake, because the ship must be steered, watched and protected twenty-four hours a day.\n\nTo make this possible, the crew works in \"watches\". A watch is a period of duty, often four hours long, after which another team takes over. A sailor might work from eight in the evening until midnight, sleep for a few hours and then start another watch early in the morning. Because the watches change from day to day, many sailors say that the hardest thing at first is not the work, but learning to sleep whenever they can.\n\nEach member of the crew has a specific job. On the bridge, officers and sailors steer the ship and keep a lookout for other vessels. In the operations room, specialists watch radar and sonar screens. Deep inside the ship, engineers keep the engines, the electricity and the fresh water systems working. The ship produces its own drinking water from sea water, and engineers must check this system carefully every day.\n\nThe kitchen, called the galley, is one of the busiest places on board. The cooks prepare four meals a day, including one in the middle of the night for the people on watch. Good food is very important for morale, especially during long missions far from home. On some ships, the crew celebrates birthdays with a cake made specially in the galley.\n\nLife on board is also full of training. Sailors practise what to do if there is a fire, if water enters the ship or if someone falls into the sea. These exercises can happen at any hour, even in the middle of the night, because a real emergency will not wait for a convenient time.\n\nSpace is very limited. Most sailors share small cabins with several others, and they keep their personal things in a small locker. Internet access is often slow or available only at certain times. Even so, many sailors say that they enjoy the life. \"You are far from your family, and that is hard,\" says one young sailor, \"but the people on board become a second family. And watching the sunrise from the deck, in the middle of the ocean, is something I will never forget.\"",
+ "glossary": [
+  [
+   "bridge",
+   "the place on a ship from which it is steered"
+  ],
+  [
+   "morale",
+   "the feeling of confidence and enthusiasm in a group"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r015-q01",
+   "type": "reading",
+   "passageId": "r015",
+   "prompt": "Why does the author say that the ship is “a small town that never sleeps”?",
+   "options": [
+    "It has shops and restaurants like a town.",
+    "It never stops at a port.",
+    "Many people live on it and someone is always working.",
+    "The crew sleeps very little during the mission."
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Two hundred people on board and someone is always awake."
+  },
+  {
+   "id": "r015-q02",
+   "type": "reading",
+   "passageId": "r015",
+   "prompt": "What is a “watch”, according to the text?",
+   "options": [
+    "A period of duty, after which another team takes over",
+    "A device that tells sailors the time",
+    "A room where sailors sleep",
+    "A training exercise at night"
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“A watch is a period of duty, often four hours long”."
+  },
+  {
+   "id": "r015-q03",
+   "type": "reading",
+   "passageId": "r015",
+   "prompt": "What do many sailors find most difficult at first?",
+   "options": [
+    "Steering the ship",
+    "Learning to sleep at different times",
+    "Eating four meals a day",
+    "Working with radar screens"
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“the hardest thing at first is not the work, but learning to sleep whenever they can”."
+  },
+  {
+   "id": "r015-q04",
+   "type": "reading",
+   "passageId": "r015",
+   "prompt": "Who keeps the engines and the water systems working?",
+   "options": [
+    "officers on the bridge",
+    "cooks",
+    "radar specialists",
+    "engineers"
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“engineers keep the engines, the electricity and the fresh water systems working”."
+  },
+  {
+   "id": "r015-q05",
+   "type": "reading",
+   "passageId": "r015",
+   "prompt": "Where does the ship's drinking water come from?",
+   "options": [
+    "It is brought from home in large tanks.",
+    "It is collected from rain.",
+    "It is made from sea water on board.",
+    "It is delivered by other ships every day."
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“The ship produces its own drinking water from sea water.”"
+  },
+  {
+   "id": "r015-q06",
+   "type": "reading",
+   "passageId": "r015",
+   "prompt": "Why do the cooks prepare a meal in the middle of the night?",
+   "options": [
+    "Because there is no time during the day",
+    "For birthday celebrations",
+    "Because the officers eat late",
+    "For the crew members who are on watch"
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“one in the middle of the night for the people on watch”."
+  },
+  {
+   "id": "r015-q07",
+   "type": "reading",
+   "passageId": "r015",
+   "prompt": "The word “morale” in paragraph 4 is closest in meaning to",
+   "options": [
+    "the quality of the food",
+    "the rules of the ship",
+    "the health of the crew",
+    "the spirit and confidence of a group"
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "See the glossary: morale = confidence and enthusiasm of a group."
+  },
+  {
+   "id": "r015-q08",
+   "type": "reading",
+   "passageId": "r015",
+   "prompt": "Why can emergency exercises happen at any hour?",
+   "options": [
+    "The officers want to punish the crew.",
+    "Real emergencies can happen at any time.",
+    "There is no time for training during the day.",
+    "The ship is quieter at night."
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“a real emergency will not wait for a convenient time”."
+  },
+  {
+   "id": "r015-q09",
+   "type": "reading",
+   "passageId": "r015",
+   "prompt": "What does the young sailor say in the last paragraph?",
+   "options": [
+    "The crew becomes like a second family.",
+    "Life on board is too hard to enjoy.",
+    "Internet access is the most important thing.",
+    "Sailors should not have families."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“the people on board become a second family”."
+  }
+ ]
+}

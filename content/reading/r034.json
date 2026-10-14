@@ -1,0 +1,270 @@
+{
+ "id": "r034",
+ "title": "When Gaming Became a Sport",
+ "level": "B2",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "FUVEST",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "Twenty years ago, the idea that people would fill stadiums to watch others play video games would have struck most observers as absurd. Today, the biggest competitive gaming events — known as esports — attract audiences of tens of thousands in arenas and millions more online. Top players train for many hours a day, belong to professional teams with coaches and analysts, and can earn substantial salaries and prize money.\n\nThe growth of esports has been driven largely by the internet. Online streaming platforms allow anyone to watch competitions live and for free, and to interact with other fans while doing so. This has created a global audience that traditional sports took decades to build. Many fans also play the games themselves, which makes them unusually knowledgeable spectators who appreciate the skill involved in a well-executed strategy.\n\nThe question of whether esports should be called \"sports\" at all continues to generate debate. Critics argue that a sport must involve physical exertion, and that sitting in front of a screen does not qualify. Supporters reply that competitive gaming requires extraordinary reaction speed, hand–eye coordination, strategic thinking and teamwork — qualities also demanded by many recognised sports, such as shooting or chess, which some sports organisations already include. Several countries now officially recognise esports, and esports have appeared as medal events at some multi-sport competitions.\n\nBehind the glamour, however, professional gaming has its problems. Careers are often very short: many players retire in their mid-twenties, as reaction times begin to decline and younger competitors emerge. The long hours of practice can lead to repetitive strain injuries in the hands and wrists, as well as back problems, poor sleep and stress. Some teams now employ physiotherapists, nutritionists and psychologists, a sign that the industry is beginning to take players' health more seriously.\n\nAnother concern is that the business depends heavily on the companies that own the games. Unlike football, which belongs to no one, every esport is the property of a publisher, which can change the rules of the game, restrict competitions or even stop supporting a title. This gives publishers a degree of control that has no equivalent in traditional sports.\n\nWhatever its long-term future, esports has already changed how a generation thinks about games. For many parents, the hours their children spend playing are a source of anxiety. For a small number of young players, they are the beginning of a career. The challenge for families, schools and the industry is to make sure that the dream of the few does not become a problem for the many.",
+ "questions": [
+  {
+   "id": "r034-q01",
+   "type": "reading",
+   "passageId": "r034",
+   "prompt": "What does the first paragraph suggest about esports?",
+   "options": [
+    "It has grown from an absurd idea into a major professional activity.",
+    "It has always been popular in stadiums.",
+    "Its players earn less than other athletes.",
+    "It is mainly watched on television."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "From absurd idea to huge audiences and salaries."
+  },
+  {
+   "id": "r034-q02",
+   "type": "reading",
+   "passageId": "r034",
+   "prompt": "According to paragraph 2, what has mainly driven the growth of esports?",
+   "options": [
+    "television companies",
+    "the internet",
+    "schools",
+    "traditional sports clubs"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“driven largely by the internet”."
+  },
+  {
+   "id": "r034-q03",
+   "type": "reading",
+   "passageId": "r034",
+   "prompt": "Why are esports fans described as “unusually knowledgeable”?",
+   "options": [
+    "Many of them play the games themselves.",
+    "They study the history of games.",
+    "They pay for expensive tickets.",
+    "They work in the gaming industry."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 2."
+  },
+  {
+   "id": "r034-q04",
+   "type": "reading",
+   "passageId": "r034",
+   "prompt": "What is the critics' main argument against calling esports a sport?",
+   "options": [
+    "It is too expensive to watch.",
+    "It is played mainly by young people.",
+    "It has no rules.",
+    "It does not involve physical exertion."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“a sport must involve physical exertion”."
+  },
+  {
+   "id": "r034-q05",
+   "type": "reading",
+   "passageId": "r034",
+   "prompt": "Why do supporters mention shooting and chess?",
+   "options": [
+    "They are the most popular esports.",
+    "They are played on computers.",
+    "They require more physical effort than gaming.",
+    "They are recognised sports that require similar mental qualities."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Recognised sports demanding similar qualities."
+  },
+  {
+   "id": "r034-q06",
+   "type": "reading",
+   "passageId": "r034",
+   "prompt": "Why are esports careers often short?",
+   "options": [
+    "Players lose interest after a few years.",
+    "Teams cannot afford to pay older players.",
+    "Reaction times begin to decline in the mid-twenties.",
+    "Games are banned after ten years."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r034-q07",
+   "type": "reading",
+   "passageId": "r034",
+   "prompt": "What does the employment of physiotherapists and psychologists suggest?",
+   "options": [
+    "Players are often seriously ill.",
+    "Teams are trying to reduce costs.",
+    "The industry is starting to care more about players' health.",
+    "Esports are becoming less competitive."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“a sign that the industry is beginning to take players' health more seriously”."
+  },
+  {
+   "id": "r034-q08",
+   "type": "reading",
+   "passageId": "r034",
+   "prompt": "What makes esports different from football, according to paragraph 5?",
+   "options": [
+    "Esports have no international competitions.",
+    "Each esport is owned by a company that controls it.",
+    "Football players earn more money.",
+    "Esports do not have fans."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Every esport is the property of a publisher."
+  },
+  {
+   "id": "r034-q09",
+   "type": "reading",
+   "passageId": "r034",
+   "prompt": "The word “they” in the last paragraph (“they are the beginning of a career”) refers to",
+   "options": [
+    "parents",
+    "schools",
+    "the hours spent playing",
+    "the games' publishers"
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "For a few players, the hours spent playing are the beginning of a career."
+  }
+ ]
+}

@@ -1,0 +1,314 @@
+{
+ "id": "r054",
+ "title": "What Gets Measured",
+ "level": "C2",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "CPE",
+  "CAE",
+  "IELTS"
+ ],
+ "text": "There is a familiar maxim in management circles: what gets measured gets managed. It is usually offered as encouragement, a reminder that vague aspirations become achievable only when they are translated into quantifiable targets. Less often quoted is the corollary that critics of the maxim are quick to supply — that what gets measured may be the only thing that gets managed, and that the act of measurement can quietly displace the very goal it was meant to serve.\n\nThe phenomenon has a name. Goodhart's law, formulated by an economist in the context of monetary policy and since generalised far beyond it, holds that when a measure becomes a target, it ceases to be a good measure. The logic is straightforward once stated. An indicator is useful precisely because it correlates with something we care about but cannot observe directly. As soon as people are rewarded or punished according to the indicator, however, they acquire an incentive to improve it by whatever means are cheapest — and the cheapest means are frequently those that sever its connection with the underlying reality.\n\nExamples are not hard to find. Hospitals assessed on waiting times have been known to delay the formal registration of patients so that the clock starts later. Schools judged by examination results may concentrate their efforts on pupils near the pass mark, to the neglect of those comfortably above or hopelessly below it, or narrow the curriculum to what is tested. Police forces evaluated by crime statistics have, on occasion, reclassified offences to make the figures look better. In none of these cases need anyone be acting in bad faith; each individual decision may seem reasonable under the pressure of the target. The distortion emerges from the system, not from the villainy of its participants.\n\nNone of this amounts to an argument against measurement as such. Without data, institutions would be left to rely on anecdote, intuition and the self-assessment of those with an interest in looking good — hardly a recipe for accountability. Indeed, the historical case for metrics is often a case against arbitrary power: quantification has allowed outsiders to scrutinise the performance of institutions that once answered to no one. The difficulty lies not in counting but in what is done with the count.\n\nThose who have thought most carefully about the problem tend to propose a set of modest disciplines rather than a single remedy. Indicators should be used to prompt questions rather than to settle them; several measures, capturing different aspects of performance, are less easily gamed than one; and the professional judgement of those closest to the work should be treated as evidence, not as an obstacle. Above all, perhaps, organisations need to cultivate a certain humility about what numbers can reveal. Much of what matters most — the quality of care, the depth of understanding, the trust between a community and its institutions — resists quantification, not because it is vague, but because it is complex. To confuse what is countable with what counts is an error that no spreadsheet will correct.",
+ "questions": [
+  {
+   "id": "r054-q01",
+   "type": "reading",
+   "passageId": "r054",
+   "prompt": "What is the “corollary” that critics add to the management maxim?",
+   "options": [
+    "Measurement may cause people to manage only what is measured, losing sight of the real goal.",
+    "Measurement is unnecessary for good management.",
+    "Only managers should be measured.",
+    "Targets are always achievable."
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "What gets measured may be the only thing that gets managed."
+  },
+  {
+   "id": "r054-q02",
+   "type": "reading",
+   "passageId": "r054",
+   "prompt": "According to Goodhart's law, what happens when a measure becomes a target?",
+   "options": [
+    "It becomes more accurate.",
+    "It is abandoned by managers.",
+    "It stops being a reliable measure.",
+    "It motivates people to work honestly."
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“it ceases to be a good measure”."
+  },
+  {
+   "id": "r054-q03",
+   "type": "reading",
+   "passageId": "r054",
+   "prompt": "Why, according to paragraph 2, does a target lose its value?",
+   "options": [
+    "Indicators are always chosen badly.",
+    "People stop caring about rewards.",
+    "The underlying reality changes too quickly.",
+    "People improve the indicator by the cheapest means, which may break its link with reality."
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The cheapest means sever the connection."
+  },
+  {
+   "id": "r054-q04",
+   "type": "reading",
+   "passageId": "r054",
+   "prompt": "The word “sever” in paragraph 2 is closest in meaning to",
+   "options": [
+    "strengthen",
+    "reveal",
+    "measure",
+    "cut"
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Sever a connection = cut it."
+  },
+  {
+   "id": "r054-q05",
+   "type": "reading",
+   "passageId": "r054",
+   "prompt": "What do the examples in paragraph 3 have in common?",
+   "options": [
+    "Each involved deliberate criminal fraud.",
+    "Each led to the abolition of targets.",
+    "Institutions improved figures without improving the underlying performance.",
+    "Each concerned financial institutions."
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Gaming the indicator."
+  },
+  {
+   "id": "r054-q06",
+   "type": "reading",
+   "passageId": "r054",
+   "prompt": "What does the author emphasise about the people involved in such distortions?",
+   "options": [
+    "They are usually corrupt.",
+    "They need not be acting dishonestly; the system creates the distortion.",
+    "They are unaware of the targets.",
+    "They should be punished severely."
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“The distortion emerges from the system, not from the villainy of its participants.”"
+  },
+  {
+   "id": "r054-q07",
+   "type": "reading",
+   "passageId": "r054",
+   "prompt": "Why does the author say measurement can be “a case against arbitrary power”?",
+   "options": [
+    "Numbers give managers more authority.",
+    "Measurement makes institutions independent.",
+    "Data allows outsiders to scrutinise institutions that were previously unaccountable.",
+    "Data replaces the need for governments."
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r054-q08",
+   "type": "reading",
+   "passageId": "r054",
+   "prompt": "According to the author, where does the real difficulty lie?",
+   "options": [
+    "In how the measurements are used",
+    "In the act of counting itself",
+    "In the cost of collecting data",
+    "In the lack of mathematical skills"
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“not in counting but in what is done with the count”."
+  },
+  {
+   "id": "r054-q09",
+   "type": "reading",
+   "passageId": "r054",
+   "prompt": "Which of the following is NOT among the disciplines proposed in paragraph 5?",
+   "options": [
+    "Using indicators to prompt questions",
+    "Linking salaries directly to a single key indicator",
+    "Using several measures rather than one",
+    "Treating professional judgement as evidence"
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "A single indicator is precisely what is discouraged."
+  },
+  {
+   "id": "r054-q10",
+   "type": "reading",
+   "passageId": "r054",
+   "prompt": "Why, according to the author, do some important things resist quantification?",
+   "options": [
+    "They are complex, not because they are vague.",
+    "They are too unimportant to measure.",
+    "They change too slowly.",
+    "Nobody has tried to measure them."
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 5."
+  },
+  {
+   "id": "r054-q11",
+   "type": "reading",
+   "passageId": "r054",
+   "prompt": "Which phrase best expresses the author's central warning?",
+   "options": [
+    "what gets measured gets managed",
+    "a recipe for accountability",
+    "the self-assessment of those with an interest",
+    "confusing what is countable with what counts"
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The final sentence states the central warning."
+  }
+ ]
+}

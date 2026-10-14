@@ -1,0 +1,298 @@
+{
+ "id": "r049",
+ "title": "Does Language Shape Thought?",
+ "level": "C1",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "TOEFL",
+  "IELTS",
+  "CAE",
+  "FUVEST"
+ ],
+ "text": "Few ideas in the study of language have provoked as much fascination, or as much controversy, as the suggestion that the language we speak influences the way we think. In its strongest form, often associated with the linguist Benjamin Lee Whorf, the hypothesis held that language determines thought: speakers of different languages inhabit different conceptual worlds, and some ideas expressible in one language may be literally unthinkable in another. This strong version is now almost universally rejected. People can clearly think about things for which their language has no word, and translation, though imperfect, is possible between any two languages. Yet a weaker version — that language can influence certain aspects of perception and memory — has enjoyed a remarkable revival.\n\nSome of the most persuasive evidence comes from research on colour. Languages divide the colour spectrum in different ways; Russian, for example, has separate basic terms for lighter and darker blues. In experiments, Russian speakers distinguished between shades that crossed this linguistic boundary slightly faster than shades within the same category, while English speakers showed no such advantage. Intriguingly, the effect disappeared when participants were simultaneously given a verbal task that occupied their linguistic resources, suggesting that language was actively involved in the perceptual judgement.\n\nResearch on spatial orientation has produced even more striking results. Some languages, such as Guugu Yimithirr in Australia, rely mainly on absolute directions — north, south, east and west — rather than relative terms such as left and right. Speakers of such languages must keep constant track of their orientation, and studies suggest that they do so with remarkable accuracy, even in unfamiliar surroundings. When asked to reproduce an arrangement of objects after being turned around, they tend to preserve its compass orientation, whereas speakers of languages like English preserve its relation to their own bodies.\n\nOther studies have examined grammatical gender, the way languages describe events and how they express time. Not all findings have proved robust; some well-publicised results have failed to replicate, and critics warn that effects observed in laboratory tasks may be small or short-lived. It is also notoriously difficult to separate the influence of language from that of culture, since the two are intertwined.\n\nThe current consensus, insofar as there is one, might be summarised as follows. Language does not imprison thought, but it can direct attention, making certain distinctions habitual and others easy to overlook. In this view, learning a new language does not grant access to an inaccessible world, but it may offer practice in noticing aspects of experience that one's first language leaves in the background.",
+ "questions": [
+  {
+   "id": "r049-q01",
+   "type": "reading",
+   "passageId": "r049",
+   "prompt": "What does the strong version of the hypothesis claim?",
+   "options": [
+    "Language determines what people are able to think.",
+    "Language has no effect on thought.",
+    "All languages divide colours in the same way.",
+    "Thought determines the structure of language."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Language determines thought; some ideas may be unthinkable."
+  },
+  {
+   "id": "r049-q02",
+   "type": "reading",
+   "passageId": "r049",
+   "prompt": "Why has the strong version been rejected?",
+   "options": [
+    "Whorf withdrew his theory.",
+    "People can think about things they have no words for, and translation is possible.",
+    "It was never tested.",
+    "It applies only to colour terms."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 1."
+  },
+  {
+   "id": "r049-q03",
+   "type": "reading",
+   "passageId": "r049",
+   "prompt": "What did the colour experiments with Russian speakers show?",
+   "options": [
+    "They could not see the difference between blues.",
+    "They were slower than English speakers at all tasks.",
+    "They distinguished shades across a linguistic boundary slightly faster.",
+    "They had more words for every colour."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Faster across the boundary between the two blue terms."
+  },
+  {
+   "id": "r049-q04",
+   "type": "reading",
+   "passageId": "r049",
+   "prompt": "Why is the disappearance of the effect during a verbal task significant?",
+   "options": [
+    "It proves the experiment was flawed.",
+    "It suggests that language was actively involved in the judgement.",
+    "It shows that Russian speakers were tired.",
+    "It means colour perception is the same everywhere."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The verbal task occupied linguistic resources."
+  },
+  {
+   "id": "r049-q05",
+   "type": "reading",
+   "passageId": "r049",
+   "prompt": "How do speakers of Guugu Yimithirr typically describe location?",
+   "options": [
+    "Using left and right",
+    "Using distances in metres",
+    "Using compass directions",
+    "Using names of landmarks only"
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Absolute directions — north, south, east and west."
+  },
+  {
+   "id": "r049-q06",
+   "type": "reading",
+   "passageId": "r049",
+   "prompt": "What did speakers of such languages tend to do when reproducing an arrangement after being turned around?",
+   "options": [
+    "Preserve its relation to their bodies",
+    "Change the order of the objects",
+    "Preserve its compass orientation",
+    "Refuse to complete the task"
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r049-q07",
+   "type": "reading",
+   "passageId": "r049",
+   "prompt": "Which difficulty in this research is mentioned in paragraph 4?",
+   "options": [
+    "Finding speakers of rare languages",
+    "Translating instructions accurately",
+    "Measuring brain activity",
+    "Separating the influence of language from that of culture"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Language and culture are intertwined."
+  },
+  {
+   "id": "r049-q08",
+   "type": "reading",
+   "passageId": "r049",
+   "prompt": "The word “robust” in paragraph 4 is closest in meaning to",
+   "options": [
+    "very large",
+    "popular",
+    "surprising",
+    "reliable when tested again"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Robust findings replicate."
+  },
+  {
+   "id": "r049-q09",
+   "type": "reading",
+   "passageId": "r049",
+   "prompt": "According to the current consensus, what does language do?",
+   "options": [
+    "It imprisons thought.",
+    "It directs attention to certain distinctions.",
+    "It has no influence on cognition.",
+    "It determines intelligence."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“Language does not imprison thought, but it can direct attention.”"
+  },
+  {
+   "id": "r049-q10",
+   "type": "reading",
+   "passageId": "r049",
+   "prompt": "What benefit of learning a new language does the author suggest in the last paragraph?",
+   "options": [
+    "It may help people notice aspects of experience they usually overlook.",
+    "It allows access to completely new ideas.",
+    "It improves colour vision.",
+    "It replaces one's first language."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Practice in noticing what one's first language leaves in the background."
+  }
+ ]
+}

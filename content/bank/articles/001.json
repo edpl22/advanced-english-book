@@ -1,0 +1,1864 @@
+{
+ "topic": "articles",
+ "batch": 1,
+ "title": "Articles and determiners",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "art-001-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "mcq",
+   "explanation": "an before a vowel sound.",
+   "prompt": "I saw ___ elephant at the zoo.",
+   "options": [
+    "an",
+    "a",
+    "—",
+    "some"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "art-001-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "mcq",
+   "explanation": "the: both speakers know which door.",
+   "prompt": "Can you close ___ door, please? It’s cold.",
+   "options": [
+    "a",
+    "the",
+    "an",
+    "—"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "art-001-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "mcq",
+   "explanation": "a / an with jobs.",
+   "prompt": "Her mother works as ___ nurse.",
+   "options": [
+    "an",
+    "the",
+    "a",
+    "—"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "art-001-04",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.4",
+   "type": "mcq",
+   "explanation": "go to bed: no article.",
+   "prompt": "I usually go to ___ bed at eleven.",
+   "options": [
+    "the",
+    "a",
+    "an",
+    "—"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "art-001-05",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.2",
+   "type": "mcq",
+   "explanation": "Most country names: no article.",
+   "prompt": "___ Brazil is the largest country in South America.",
+   "options": [
+    "—",
+    "The",
+    "A",
+    "An"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "art-001-06",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.4",
+   "type": "mcq",
+   "explanation": "Sports: no article.",
+   "prompt": "She plays ___ tennis every Saturday.",
+   "options": [
+    "the",
+    "—",
+    "a",
+    "an"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "art-001-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "14.2",
+   "type": "mcq",
+   "explanation": "Rivers take the.",
+   "prompt": "We sailed down ___ Rio Negro.",
+   "options": [
+    "a",
+    "—",
+    "the",
+    "an"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "art-001-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "14.2",
+   "type": "mcq",
+   "explanation": "Mountain ranges take the.",
+   "prompt": "Mount Everest is in ___ Himalayas.",
+   "options": [
+    "a",
+    "—",
+    "an",
+    "the"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "art-001-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "14.4",
+   "type": "mcq",
+   "explanation": "a = per.",
+   "prompt": "He earns 5,000 reais ___ month.",
+   "options": [
+    "a",
+    "the",
+    "—",
+    "an"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "art-001-10",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "mcq",
+   "explanation": "the + famous name = the equivalent of.",
+   "prompt": "Critics call him ___ Picasso of his generation.",
+   "options": [
+    "—",
+    "the",
+    "an",
+    "some"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "art-001-11",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "14.3",
+   "type": "mcq",
+   "explanation": "another + singular noun.",
+   "prompt": "Would you like ___ cup of tea?",
+   "options": [
+    "other",
+    "others",
+    "another",
+    "the others"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "art-001-12",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "14.3",
+   "type": "mcq",
+   "explanation": "every + singular noun.",
+   "prompt": "___ student in the class passed the exam.",
+   "options": [
+    "All",
+    "Each of",
+    "Both",
+    "Every"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "art-001-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.4",
+   "type": "mcq",
+   "explanation": "Generic the for a species.",
+   "prompt": "___ tiger is in danger of extinction.",
+   "options": [
+    "The",
+    "A",
+    "—",
+    "An"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "art-001-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.2",
+   "type": "mcq",
+   "explanation": "the University of + place.",
+   "prompt": "She studied at ___ University of São Paulo.",
+   "options": [
+    "a",
+    "the",
+    "—",
+    "an"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "art-001-15",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "mcq",
+   "explanation": "Unique things: the.",
+   "prompt": "___ moon was so bright that we could read outside.",
+   "options": [
+    "A",
+    "—",
+    "The",
+    "An"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "art-001-16",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "14.4",
+   "type": "mcq",
+   "explanation": "Unique roles after elect / appoint: no article.",
+   "prompt": "She was elected ___ president of the club.",
+   "options": [
+    "a",
+    "an",
+    "one",
+    "—"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "art-001-17",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "14.4",
+   "type": "mcq",
+   "explanation": "by + transport: no article.",
+   "prompt": "We travelled to Recife by ___ car.",
+   "options": [
+    "—",
+    "a",
+    "the",
+    "an"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "art-001-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "mcq",
+   "explanation": "the + country name when it is specified.",
+   "prompt": "___ Brazil of my childhood was very different from today’s.",
+   "options": [
+    "—",
+    "The",
+    "A",
+    "An"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "art-001-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "gap",
+   "explanation": "an before a vowel sound.",
+   "prompt": "She has ___ umbrella in her bag.",
+   "acceptedAnswers": [
+    "an"
+   ]
+  },
+  {
+   "id": "art-001-20",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "gap",
+   "explanation": "the name of…",
+   "prompt": "What’s ___ name of your school?",
+   "acceptedAnswers": [
+    "the"
+   ]
+  },
+  {
+   "id": "art-001-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "gap",
+   "explanation": "Second mention: the.",
+   "prompt": "I bought a laptop and a printer, but ___ printer doesn’t work.",
+   "acceptedAnswers": [
+    "the"
+   ]
+  },
+  {
+   "id": "art-001-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "gap",
+   "explanation": "an + silent h.",
+   "prompt": "It takes about ___ hour to get there by bus.",
+   "acceptedAnswers": [
+    "an"
+   ]
+  },
+  {
+   "id": "art-001-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "14.4",
+   "type": "gap",
+   "explanation": "Superlatives take the.",
+   "prompt": "He’s one of ___ funniest people I know.",
+   "acceptedAnswers": [
+    "the"
+   ]
+  },
+  {
+   "id": "art-001-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.2",
+   "type": "gap",
+   "explanation": "the + family name in the plural.",
+   "prompt": "Do you know ___ Smiths? They live next door.",
+   "acceptedAnswers": [
+    "the"
+   ]
+  },
+  {
+   "id": "art-001-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.4",
+   "type": "gap",
+   "explanation": "the + comparative, the + comparative.",
+   "prompt": "___ more you practise, the better you get.",
+   "acceptedAnswers": [
+    "The"
+   ]
+  },
+  {
+   "id": "art-001-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "gap",
+   "explanation": "the only…",
+   "prompt": "She was ___ only person who knew the answer.",
+   "acceptedAnswers": [
+    "the"
+   ]
+  },
+  {
+   "id": "art-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "gap",
+   "explanation": "a / an + name = a person called…",
+   "prompt": "There’s ___ Ana Silva on the phone for you — do you know her?",
+   "acceptedAnswers": [
+    "an",
+    "one"
+   ]
+  },
+  {
+   "id": "art-001-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "gap",
+   "explanation": "a + abstract noun with a defining phrase.",
+   "prompt": "The concert was ___ success beyond our wildest dreams.",
+   "acceptedAnswers": [
+    "a"
+   ]
+  },
+  {
+   "id": "art-001-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "articles"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "kwt",
+   "explanation": "a / an + adjective + noun.",
+   "first": "She plays the violin extremely well.",
+   "keyword": "PLAYER",
+   "before": "She is",
+   "after": ".",
+   "acceptedAnswers": [
+    "a very good violin player",
+    "an excellent violin player",
+    "a great violin player",
+    "a brilliant violin player"
+   ]
+  },
+  {
+   "id": "art-001-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "articles"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "kwt",
+   "explanation": "such a + adjective + noun.",
+   "first": "The exam was so difficult that half the class failed.",
+   "keyword": "SUCH",
+   "before": "It was",
+   "after": "that half the class failed.",
+   "acceptedAnswers": [
+    "such a difficult exam",
+    "such a hard exam"
+   ]
+  },
+  {
+   "id": "art-001-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "articles"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.4",
+   "type": "kwt",
+   "explanation": "the + superlative.",
+   "first": "No other city in Brazil is as large as São Paulo.",
+   "keyword": "LARGEST",
+   "before": "São Paulo is",
+   "after": "in Brazil.",
+   "acceptedAnswers": [
+    "the largest city"
+   ]
+  },
+  {
+   "id": "art-001-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "articles"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "14.4",
+   "type": "kwt",
+   "explanation": "the + adjective = a group of people.",
+   "first": "Poor people suffer most in a recession.",
+   "keyword": "POOR",
+   "before": "",
+   "after": "suffer most in a recession.",
+   "acceptedAnswers": [
+    "The poor"
+   ]
+  },
+  {
+   "id": "art-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "articles"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "14.4",
+   "type": "kwt",
+   "explanation": "the + superlative + ever.",
+   "first": "I’ve never met such a generous person.",
+   "keyword": "MOST",
+   "before": "She is",
+   "after": "person I’ve ever met.",
+   "acceptedAnswers": [
+    "the most generous"
+   ]
+  },
+  {
+   "id": "art-001-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "error-correction",
+   "explanation": "an + silent h.",
+   "parts": [
+    "I waited for ",
+    {
+     "u": "a"
+    },
+    " hour, but the ",
+    {
+     "u": "bus"
+    },
+    " never came."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "an"
+   ]
+  },
+  {
+   "id": "art-001-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "14.4",
+   "type": "error-correction",
+   "explanation": "Generalisations: no article.",
+   "parts": [
+    "I love ",
+    {
+     "u": "the music"
+    },
+    ", especially ",
+    {
+     "u": "jazz"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "music"
+   ]
+  },
+  {
+   "id": "art-001-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "14.2",
+   "type": "error-correction",
+   "explanation": "Cities: no article.",
+   "parts": [
+    "We went to ",
+    {
+     "u": "the Lisbon"
+    },
+    " for a ",
+    {
+     "u": "week"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "Lisbon"
+   ]
+  },
+  {
+   "id": "art-001-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.4",
+   "type": "error-correction",
+   "explanation": "one of the + plural noun.",
+   "parts": [
+    "He is ",
+    {
+     "u": "one of the best player"
+    },
+    " in ",
+    {
+     "u": "the world"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "one of the best players"
+   ]
+  },
+  {
+   "id": "art-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "14.4",
+   "type": "error-correction",
+   "explanation": "Abstract nouns in general: no article.",
+   "parts": [
+    {
+     "u": "The life"
+    },
+    " in the countryside is ",
+    {
+     "u": "much"
+    },
+    " quieter."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "Life"
+   ]
+  },
+  {
+   "id": "art-001-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "word-order",
+   "explanation": "an before a vowel sound.",
+   "fragments": [
+    "She",
+    "is",
+    "an",
+    "English",
+    "teacher."
+   ],
+   "acceptedAnswers": [
+    "She is an English teacher."
+   ]
+  },
+  {
+   "id": "art-001-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "14.2",
+   "type": "word-order",
+   "explanation": "Mountain ranges take the.",
+   "fragments": [
+    "We",
+    "spent",
+    "a week",
+    "in",
+    "the Alps."
+   ],
+   "acceptedAnswers": [
+    "We spent a week in the Alps."
+   ]
+  },
+  {
+   "id": "art-001-41",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "word-order",
+   "explanation": "such an + adjective + noun.",
+   "fragments": [
+    "It",
+    "was",
+    "such",
+    "an",
+    "interesting",
+    "lecture."
+   ],
+   "acceptedAnswers": [
+    "It was such an interesting lecture."
+   ]
+  },
+  {
+   "id": "art-001-42",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.2",
+   "type": "matching",
+   "explanation": "Geographical names and articles.",
+   "prompt": "What is each place?",
+   "left": [
+    "Brazil",
+    "the Amazon",
+    "the Andes",
+    "Lake Titicaca",
+    "the Sahara"
+   ],
+   "right": [
+    "a lake",
+    "a desert",
+    "a country",
+    "an island",
+    "a river",
+    "a mountain range"
+   ],
+   "answer": [
+    2,
+    4,
+    5,
+    0,
+    1
+   ]
+  },
+  {
+   "id": "art-001-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "14.4",
+   "type": "matching",
+   "explanation": "Fixed phrases with no article.",
+   "prompt": "Which nouns follow each preposition without an article?",
+   "left": [
+    "by",
+    "at",
+    "on",
+    "in",
+    "out of"
+   ],
+   "right": [
+    "foot / purpose / average",
+    "cake / pencil / sky",
+    "bed / time / general",
+    "car / chance / heart",
+    "work / breath / date",
+    "night / home / work"
+   ],
+   "answer": [
+    3,
+    5,
+    0,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "art-001-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.3",
+   "type": "matching",
+   "explanation": "Determiners.",
+   "prompt": "Match each determiner with its meaning.",
+   "left": [
+    "either",
+    "neither",
+    "both",
+    "each",
+    "every"
+   ],
+   "right": [
+    "none at all",
+    "the two together",
+    "not one and not the other of two",
+    "all, seen as a group (three or more)",
+    "one or the other of two",
+    "individually, one by one (two or more)"
+   ],
+   "answer": [
+    4,
+    2,
+    1,
+    5,
+    3
+   ]
+  },
+  {
+   "id": "art-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "articles"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "14.4",
+   "type": "matching",
+   "explanation": "Ways of talking about things in general.",
+   "prompt": "Generic reference: match each beginning with its ending.",
+   "left": [
+    "The computer",
+    "A computer",
+    "Computers",
+    "The rich",
+    "The Brazilian team"
+   ],
+   "right": [
+    "should pay more taxes (a group).",
+    "flies south in winter.",
+    "are getting cheaper every year (in general).",
+    "has changed the way we live (the invention).",
+    "won the World Cup five times.",
+    "is a machine that processes data (definition)."
+   ],
+   "answer": [
+    3,
+    5,
+    2,
+    0,
+    4
+   ]
+  },
+  {
+   "id": "art-001-46",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "articles"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "open-cloze",
+   "explanation": "a, an and the in a travel story.",
+   "title": "My first trip abroad",
+   "text": "Last year I went on [1] trip to Chile. It was [2] first time I had been abroad. I flew from São Paulo to Santiago, which is [3] capital of Chile. [4] flight took about four hours. I stayed in [5] small hotel near the city centre. On the second day, I took [6] bus to Valparaíso, [7] old port city on [8] Pacific coast. I had [9] amazing time and I’d like to go back one day. Next time I want to visit [10] Atacama Desert.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "a"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "the",
+      "my"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "the"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "The",
+      "My"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "a"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "a",
+      "the"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "an"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "the"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "an"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "the"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "art-001-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "articles"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "14.4",
+   "type": "open-cloze",
+   "explanation": "Articles with generic and specific nouns.",
+   "title": "Coffee",
+   "text": "Coffee is one of [1] most traded commodities in the world, and Brazil is [2] largest producer. [3] coffee plant originally came from Ethiopia. According to [4] popular legend, [5] goat herder noticed that his animals became energetic after eating [6] berries of a certain bush. Today, [7] average Brazilian drinks several cups [8] day. [9] coffee grown in the mountains of Minas Gerais is considered by many to be among [10] best in the world.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "the"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "the",
+      "its"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "The"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "a"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "a"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "the"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "the",
+      "an"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "a",
+      "per",
+      "each",
+      "every"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "The"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "the"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "art-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "articles"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "open-cloze",
+   "explanation": "Articles in an essay.",
+   "title": "On languages",
+   "text": "There is [1] old joke: what do you call someone who speaks three languages? Trilingual. Two? Bilingual. One? [2] American. Like most jokes about nationalities, it is unfair, but it contains [3] grain of truth. [4] English-speaking world has long assumed that others will learn its language. [5] result is that [6] average British or American student leaves school with little more than [7] basic knowledge of [8] foreign language. [9] Netherlands, by contrast, is famous for its multilingual population. Perhaps [10] lesson is that necessity, not talent, makes polyglots.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "an"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "An"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "a"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "The"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "The",
+      "One"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "the",
+      "an"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "a"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "a",
+      "one",
+      "any"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "The"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "the",
+      "one"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "art-001-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "articles"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "14.1",
+   "type": "mc-cloze",
+   "explanation": "Articles in a short narrative.",
+   "title": "A visit to the doctor",
+   "text": "Last week I had [1] terrible headache, so I went to see [2] doctor. She said I needed [3] more sleep and told me to drink more water. She also asked me how many hours I spent in front of [4] computer every day. I told her about eight hours [5] day. She said that was [6] problem and gave me [7] advice: take [8] short break every hour.",
+   "gaps": [
+    {
+     "options": [
+      "an",
+      "the",
+      "a",
+      "—"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "an",
+      "—",
+      "one",
+      "the"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "—",
+      "a",
+      "an",
+      "the"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "an",
+      "a",
+      "—",
+      "one"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "an",
+      "the",
+      "a",
+      "—"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "an",
+      "—",
+      "some",
+      "a"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "some",
+      "an",
+      "a",
+      "many"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "an",
+      "a",
+      "the",
+      "—"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "art-001-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "articles"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "14.2",
+   "type": "mc-cloze",
+   "explanation": "Articles in a history text.",
+   "title": "A historic voyage",
+   "text": "In 1500, [1] fleet commanded by Pedro Álvares Cabral set sail from Lisbon. Officially, [2] expedition was bound for [3] India, but it sailed far to [4] west and reached [5] coast of what is now Bahia. Pero Vaz de Caminha, [6] scribe on one of the ships, described [7] first contact with [8] indigenous people in a famous letter to the king.",
+   "gaps": [
+    {
+     "options": [
+      "the",
+      "—",
+      "a",
+      "an"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "a",
+      "—",
+      "an",
+      "the"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "—",
+      "the",
+      "a",
+      "an"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "a",
+      "the",
+      "—",
+      "an"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "a",
+      "—",
+      "the",
+      "an"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "an",
+      "—",
+      "one of",
+      "a"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "the",
+      "a",
+      "—",
+      "an"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "a",
+      "the",
+      "an",
+      "one"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

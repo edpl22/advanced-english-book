@@ -1,0 +1,336 @@
+{
+ "id": "r056",
+ "title": "The Trouble with Species",
+ "level": "C2",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "CPE",
+  "CAE",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "The species is the fundamental unit of biological classification, the category in which conservation laws are written, biodiversity is counted and evolutionary change is described. It is therefore somewhat disconcerting to discover that biologists have never agreed on what a species is. Dozens of definitions have been proposed, and while most working biologists manage perfectly well in practice, the theoretical disagreement — sometimes referred to as the species problem — has persisted for well over a century.\n\nThe most widely taught definition, the biological species concept, defines a species as a group of natural populations that actually or potentially interbreed and are reproductively isolated from other such groups. Its appeal is that it identifies something real and consequential: populations that cannot exchange genes will evolve independently, whatever they look like. Yet the concept is beset with difficulties. It cannot be applied to organisms that reproduce asexually, which include a vast proportion of the world's microorganisms. It is of little use for fossils, whose breeding behaviour cannot be observed. And it struggles with the many cases in which distinct populations hybridise to a limited extent, exchanging some genes while remaining recognisably different — a phenomenon now known to be far more common, in both plants and animals, than was once supposed.\n\nAlternative definitions emphasise other criteria. Morphological concepts group organisms by shared physical characteristics, which is practical for museum collections but can mislead when superficially similar organisms are in fact distinct, or when a single species varies greatly in appearance. Phylogenetic concepts, which have gained ground with the spread of genetic sequencing, define species as the smallest groups that share a common ancestry and can be distinguished from others. These approaches tend to recognise more species than older definitions; applying them consistently can dramatically increase the number of species recognised in some groups, with implications that extend well beyond taxonomy.\n\nThe consequences are not merely academic. Because legal protection is frequently conferred on species, the decision to split one species into several, or to merge several into one, can determine whether a population qualifies for protection. A split may reveal that a widespread and apparently secure species in fact consists of several rarer ones, some of them endangered; a merger may remove protection from a population previously considered distinct. Critics have suggested that the definitions adopted are not always independent of these consequences.\n\nSome philosophers of biology have concluded that the search for a single correct definition is misguided. Evolution is a continuous process, and populations diverge gradually; any line drawn through that continuum will be, to some extent, a matter of convention. On this view, different species concepts are tools suited to different purposes rather than rival answers to a single question. Others resist this pluralism, arguing that without a shared standard, counts of species across different groups become incommensurable. What both sides acknowledge is that nature, unlike a filing cabinet, was not designed with labels in mind.",
+ "glossary": [
+  [
+   "taxonomy",
+   "the science of naming and classifying organisms"
+  ],
+  [
+   "incommensurable",
+   "impossible to compare by a common standard"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r056-q01",
+   "type": "reading",
+   "passageId": "r056",
+   "prompt": "Why does the author find the species problem “disconcerting”?",
+   "options": [
+    "Biologists cannot identify any species in practice.",
+    "A concept central to biology lacks an agreed definition.",
+    "Species are disappearing quickly.",
+    "The definition has changed every year."
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The fundamental unit has no agreed definition."
+  },
+  {
+   "id": "r056-q02",
+   "type": "reading",
+   "passageId": "r056",
+   "prompt": "What is the main appeal of the biological species concept?",
+   "options": [
+    "It is based on physical appearance.",
+    "It identifies populations that evolve independently because they cannot exchange genes.",
+    "It can be applied to fossils.",
+    "It works well for microorganisms."
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 2."
+  },
+  {
+   "id": "r056-q03",
+   "type": "reading",
+   "passageId": "r056",
+   "prompt": "Which difficulty with the biological species concept is NOT mentioned?",
+   "options": [
+    "It requires expensive genetic sequencing.",
+    "It cannot be applied to asexual organisms.",
+    "It is of little use for fossils.",
+    "It struggles with limited hybridisation."
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Sequencing relates to phylogenetic concepts, not this one."
+  },
+  {
+   "id": "r056-q04",
+   "type": "reading",
+   "passageId": "r056",
+   "prompt": "What does the author say about hybridisation between distinct populations?",
+   "options": [
+    "It occurs only in plants.",
+    "It always produces sterile offspring.",
+    "It is more common than was once believed.",
+    "It proves that species do not exist."
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“far more common … than was once supposed”."
+  },
+  {
+   "id": "r056-q05",
+   "type": "reading",
+   "passageId": "r056",
+   "prompt": "Why can morphological concepts mislead?",
+   "options": [
+    "Museum collections are often incomplete.",
+    "Physical characteristics never change.",
+    "Similar-looking organisms may be distinct, and one species may vary greatly in appearance.",
+    "They recognise too many species."
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r056-q06",
+   "type": "reading",
+   "passageId": "r056",
+   "prompt": "What tends to happen when phylogenetic concepts are applied?",
+   "options": [
+    "Fewer species are recognised.",
+    "Fossils become easier to classify.",
+    "Hybridisation disappears.",
+    "More species are recognised."
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“These approaches tend to recognise more species.”"
+  },
+  {
+   "id": "r056-q07",
+   "type": "reading",
+   "passageId": "r056",
+   "prompt": "Why are decisions to split or merge species “not merely academic”?",
+   "options": [
+    "They change the names in textbooks.",
+    "They affect funding for universities.",
+    "They can determine whether populations receive legal protection.",
+    "They are made by politicians."
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Protection is conferred on species."
+  },
+  {
+   "id": "r056-q08",
+   "type": "reading",
+   "passageId": "r056",
+   "prompt": "What do critics suggest at the end of paragraph 4?",
+   "options": [
+    "Legal protection should be abolished.",
+    "The choice of definition may sometimes be influenced by its consequences.",
+    "Splits are always scientifically justified.",
+    "Mergers are more common than splits."
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Definitions “not always independent of these consequences”."
+  },
+  {
+   "id": "r056-q09",
+   "type": "reading",
+   "passageId": "r056",
+   "prompt": "According to the pluralist view, why is a single definition misguided?",
+   "options": [
+    "Evolution is gradual, so any boundary is partly conventional.",
+    "Species do not evolve.",
+    "Biologists cannot agree on anything.",
+    "Genetic data are unreliable."
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Populations diverge gradually."
+  },
+  {
+   "id": "r056-q10",
+   "type": "reading",
+   "passageId": "r056",
+   "prompt": "What is the objection to pluralism?",
+   "options": [
+    "It makes conservation impossible.",
+    "It ignores genetic evidence.",
+    "It was rejected by Darwin.",
+    "Without a common standard, species counts across groups cannot be compared."
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Counts become incommensurable."
+  },
+  {
+   "id": "r056-q11",
+   "type": "reading",
+   "passageId": "r056",
+   "prompt": "What does the final sentence imply?",
+   "options": [
+    "Natural variation does not fit neatly into human categories.",
+    "Classification systems should be abandoned.",
+    "Nature is organised like a filing system.",
+    "Biologists should use more labels."
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Nature was not designed with labels in mind."
+  }
+ ]
+}

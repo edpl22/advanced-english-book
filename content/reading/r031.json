@@ -1,0 +1,270 @@
+{
+ "id": "r031",
+ "title": "The Hidden Science of Waiting in Line",
+ "level": "B2",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "FUVEST",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "Most of us spend a surprising amount of our lives waiting: at supermarket checkouts, in banks, at airports and on the phone. Waiting is rarely pleasant, but research suggests that how unpleasant it feels depends less on how long we wait than on how the wait is organised. Businesses that understand this have learned to make waiting seem shorter without actually reducing it.\n\nOne of the best-known examples comes from an airport in the United States. Passengers complained constantly about the time they had to wait for their luggage. The airport hired more staff and reduced the waiting time to around eight minutes, which was within the industry standard, but the complaints continued. Investigators then discovered that passengers spent only about a minute walking from the plane to the baggage area and the remaining time standing still. The solution was not to deliver the bags faster, but to move the arrival gates further away, so that passengers walked for most of the time. The complaints almost disappeared.\n\nThe story illustrates a principle that psychologists have confirmed in many studies: occupied time feels shorter than unoccupied time. This is why many lifts have mirrors next to them, why restaurants give customers the menu while they wait for a table, and why some theme parks entertain people in their queues with videos and actors.\n\nUncertainty also makes waiting harder. A wait of unknown length feels longer than one whose length we know, even if the actual time is the same. Electronic boards that show when the next bus or train will arrive do not make transport faster, but they reduce stress and complaints. For the same reason, call centres often tell callers their position in the queue.\n\nFairness matters too, sometimes more than speed. People become angry when someone who arrived later is served first. Many banks and post offices have therefore replaced several separate lines with a single line that feeds all the counters. Each customer may not wait less on average, but nobody has the frustrating experience of choosing the \"wrong\" line and watching others move ahead.\n\nFinally, the end of a wait has a strong influence on how we remember it. Some companies deliberately overestimate waiting times, so that customers who are served earlier than promised leave pleased. It may seem like a small trick, but as any customer knows, a pleasant surprise at the end of a queue can make up for a great deal.",
+ "questions": [
+  {
+   "id": "r031-q01",
+   "type": "reading",
+   "passageId": "r031",
+   "prompt": "According to paragraph 1, what affects how unpleasant waiting feels?",
+   "options": [
+    "how the wait is organised",
+    "only the length of the wait",
+    "the number of people in the queue",
+    "the price of the service"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“depends less on how long we wait than on how the wait is organised”."
+  },
+  {
+   "id": "r031-q02",
+   "type": "reading",
+   "passageId": "r031",
+   "prompt": "Why did passengers continue to complain after the airport reduced waiting time?",
+   "options": [
+    "The bags were often lost.",
+    "The waiting time was still too long by industry standards.",
+    "They spent most of the time standing still.",
+    "There were not enough staff."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "They walked for a minute and stood still for the rest."
+  },
+  {
+   "id": "r031-q03",
+   "type": "reading",
+   "passageId": "r031",
+   "prompt": "What was the airport's final solution?",
+   "options": [
+    "Delivering the bags faster",
+    "Hiring more staff",
+    "Showing videos in the baggage area",
+    "Making passengers walk further to the baggage area"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "They moved the arrival gates further away."
+  },
+  {
+   "id": "r031-q04",
+   "type": "reading",
+   "passageId": "r031",
+   "prompt": "Why do many lifts have mirrors next to them?",
+   "options": [
+    "To make the lift look bigger",
+    "To give people something to do while they wait",
+    "To improve security",
+    "To help people check their clothes for work"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Occupied time feels shorter."
+  },
+  {
+   "id": "r031-q05",
+   "type": "reading",
+   "passageId": "r031",
+   "prompt": "According to paragraph 4, electronic boards at bus stops",
+   "options": [
+    "reduce stress by removing uncertainty",
+    "make buses arrive faster",
+    "replace timetables completely",
+    "increase the number of passengers"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "They do not make transport faster but reduce stress."
+  },
+  {
+   "id": "r031-q06",
+   "type": "reading",
+   "passageId": "r031",
+   "prompt": "Why have some banks introduced a single line for all counters?",
+   "options": [
+    "So that customers wait much less on average",
+    "To reduce the number of employees",
+    "To make the bank look modern",
+    "So that the waiting feels fairer"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Nobody watches others move ahead after choosing the “wrong” line."
+  },
+  {
+   "id": "r031-q07",
+   "type": "reading",
+   "passageId": "r031",
+   "prompt": "The phrase “make up for” in the last paragraph is closest in meaning to",
+   "options": [
+    "invent",
+    "forget",
+    "increase",
+    "compensate for"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "A pleasant surprise compensates for the wait."
+  },
+  {
+   "id": "r031-q08",
+   "type": "reading",
+   "passageId": "r031",
+   "prompt": "Why do some companies overestimate waiting times?",
+   "options": [
+    "They want customers to leave the queue.",
+    "They cannot calculate times accurately.",
+    "Customers are pleased when they are served earlier than expected.",
+    "The law requires them to do so."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in the last paragraph."
+  },
+  {
+   "id": "r031-q09",
+   "type": "reading",
+   "passageId": "r031",
+   "prompt": "Which of the following principles is NOT discussed in the text?",
+   "options": [
+    "Occupied time feels shorter.",
+    "Waiting in groups feels shorter than waiting alone.",
+    "Uncertain waits feel longer.",
+    "Unfair waits cause anger."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Groups versus waiting alone are not discussed."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+import type { Frame } from '../../../src/lib/generators/frames';
+
+/** Unit 17 — adjectives and comparison. */
+export const ADJECTIVE_FRAMES: Frame[] = [
+  // Comparatives and superlatives (with cue)
+  { ref: '17.4', level: 'B1', text: 'My new flat is ___ than my old one.', cue: 'big', answer: ['bigger'], wrong: ['more big', 'biggest', 'more bigger'], note: 'One syllable: -er (double the final consonant).' },
+  { ref: '17.4', level: 'B1', text: 'The second exam was ___ than the first.', cue: 'bad', answer: ['worse'], wrong: ['badder', 'more bad', 'worst'], note: 'bad → worse → the worst.' },
+  { ref: '17.4', level: 'B1', text: 'Today is the ___ day of the year so far.', cue: 'hot', answer: ['hottest'], wrong: ['hotest', 'most hot', 'hotter'], note: 'Superlative: the hottest.' },
+  { ref: '17.4', level: 'B1', text: 'Travelling by bus is ___ than flying.', cue: 'cheap', answer: ['cheaper'], wrong: ['more cheap', 'cheapest', 'cheaply'], note: 'cheap → cheaper.' },
+  { ref: '17.4', level: 'B1', text: 'It was the ___ film I have ever seen.', cue: 'boring', answer: ['most boring'], wrong: ['boringest', 'more boring', 'most bored'], note: 'Long adjective: the most + adjective.' },
+  { ref: '17.4', level: 'B2', text: 'For ___ information, please contact our office.', cue: 'far', answer: ['further'], wrong: ['farer', 'more far', 'farthest'], note: 'further = additional.' },
+  { ref: '17.4', level: 'B1', text: 'Life in {city} is much ___ than it used to be.', cue: 'expensive', answer: ['more expensive'], wrong: ['expensiver', 'most expensive', 'very expensive'], note: 'Long adjective: more + adjective.' },
+  { ref: '17.4', level: 'B1', text: 'Could you speak a bit ___? I can’t hear you.', cue: 'loud', answer: ['louder', 'more loudly'], wrong: ['loudest', 'more loud', 'loudly'], note: 'Comparative after a bit.' },
+  { ref: '17.4', level: 'B2', text: 'The ___ you leave, the less traffic you’ll find.', cue: 'early', answer: ['earlier'], wrong: ['early', 'more early', 'earliest'], note: 'the + comparative…, the + comparative.' },
+  { ref: '17.4', level: 'B1', text: 'Which is the ___ river in South America?', cue: 'long', answer: ['longest'], wrong: ['longer', 'most long', 'more long'], note: 'Superlative: the longest.' },
+  { ref: '17.4', level: 'B1', text: '{f} is ___ student in the class.', cue: 'good', answer: ['the best'], wrong: ['the better', 'the goodest', 'the most good'], note: 'good → better → the best.' },
+  { ref: '17.4', level: 'B1', text: 'The test was ___ than I expected.', cue: 'easy', answer: ['easier'], wrong: ['more easy', 'easyer', 'easiest'], note: 'easy → easier (y → ier).' },
+  { ref: '17.4', level: 'B2', text: 'Everything in the shops is getting ___.', cue: 'expensive', answer: ['more and more expensive'], wrong: ['expensiver and expensiver', 'more expensive and more', 'most and most expensive'], note: 'more and more + long adjective.' },
+  { ref: '17.4', level: 'B2', text: 'The new road is much ___ than the old one.', cue: 'wide', answer: ['wider'], wrong: ['more wide', 'widest', 'wider than'], note: 'wide → wider.' },
+  { ref: '17.4', level: 'B2', text: 'This is the ___ decision I’ve ever had to make.', cue: 'difficult', answer: ['most difficult'], wrong: ['difficultest', 'more difficult', 'most difficultest'], note: 'the most + long adjective.' },
+  { ref: '17.4', level: 'B1', text: 'The weather today is ___ than yesterday.', cue: 'bad', answer: ['worse'], wrong: ['badder', 'worst', 'more bad'], note: 'bad → worse.' },
+  // Modifiers and comparative structures
+  { ref: '17.4', level: 'B2', text: 'The ___ you practise, the better you get.', answer: ['more'], wrong: ['most', 'much', 'many'], gap: true, note: 'the more…, the better…' },
+  { ref: '17.4', level: 'B2', text: 'Petrol is ___ more expensive than it was last year.', answer: ['much', 'far', 'a lot', 'considerably', 'significantly', 'slightly', 'a bit', 'a little', 'even', 'way', 'rather', 'somewhat'], wrong: ['very', 'too', 'so'], gap: true, note: 'much / far / a lot + comparative (never very).' },
+  { ref: '17.4', level: 'B2', text: 'This is ___ the best pizza in town.', answer: ['by far', 'easily', 'definitely', 'probably', 'certainly', 'undoubtedly'], wrong: ['very', 'much more', 'too'], note: 'by far + superlative.' },
+  { ref: '17.4', level: 'B1', text: 'My sister is the same height ___ me.', answer: ['as'], wrong: ['than', 'like', 'that'], gap: true, note: 'the same… as.' },
+  { ref: '17.4', level: 'B2', text: 'His new film is not nearly ___ good as his last one.', answer: ['as', 'so'], wrong: ['than', 'more', 'too'], gap: true, note: 'not nearly as… as.' },
+  { ref: '17.4', level: 'B2', text: 'The new stadium is twice ___ big as the old one.', answer: ['as'], wrong: ['so', 'more', 'than'], gap: true, note: 'twice as… as.' },
+  { ref: '17.4', level: 'B2', text: 'Brazilian football is very different ___ European football.', answer: ['from', 'to'], wrong: ['of', 'with', 'at'], note: 'different from (BrE also to).' },
+  // -ed / -ing
+  { ref: '17.3', level: 'B1', text: 'The lecture was so ___ that I fell asleep.', cue: 'bore', answer: ['boring'], wrong: ['bored', 'bore', 'boredom'], note: 'The thing that causes the feeling: -ing.' },
+  { ref: '17.3', level: 'B1', text: 'I was really ___ when I forgot her name.', cue: 'embarrass', answer: ['embarrassed'], wrong: ['embarrassing', 'embarrass', 'embarrassment'], note: 'How a person feels: -ed.' },
+  { ref: '17.3', level: 'B1', text: 'The news about the economy is very ___.', cue: 'worry', answer: ['worrying'], wrong: ['worried', 'worry', 'worries'], note: 'The cause: worrying.' },
+  { ref: '17.3', level: 'B1', text: 'We were ___ after the long walk.', cue: 'exhaust', answer: ['exhausted'], wrong: ['exhausting', 'exhaust', 'exhaustion'], note: 'How we felt: exhausted.' },
+  { ref: '17.3', level: 'B1', text: 'The instructions were really ___; nobody understood them.', cue: 'confuse', answer: ['confusing'], wrong: ['confused', 'confuse', 'confusion'], note: 'The cause: confusing.' },
+  { ref: '17.3', level: 'B1', text: 'Are you ___ in modern art?', cue: 'interest', answer: ['interested'], wrong: ['interesting', 'interest', 'interests'], note: 'interested in (feeling).' },
+  { ref: '17.3', level: 'B1', text: 'The result was ___ for the whole team.', cue: 'disappoint', answer: ['disappointing'], wrong: ['disappointed', 'disappoint', 'disappointment'], note: 'The cause: disappointing.' },
+  { ref: '17.3', level: 'B1', text: '{f} was ___ by the view from the top.', cue: 'amaze', answer: ['amazed'], wrong: ['amazing', 'amaze', 'amazement'], note: 'How she felt: amazed.' },
+  { ref: '17.3', level: 'B2', text: 'It was a ___ experience — I’ll never forget it.', cue: 'terrify', answer: ['terrifying'], wrong: ['terrified', 'terrify', 'terror'], note: 'The cause: terrifying.' },
+  { ref: '17.3', level: 'B1', text: 'I’m really ___ with my new phone.', cue: 'satisfy', answer: ['satisfied'], wrong: ['satisfying', 'satisfy', 'satisfaction'], note: 'satisfied with (feeling).' },
+  { ref: '17.3', level: 'B2', text: '{m} felt ___ because nobody had told him about the change.', cue: 'annoy', answer: ['annoyed'], wrong: ['annoying', 'annoy', 'annoyance'], note: 'How he felt: annoyed.' },
+  // Gradable / extreme
+  { ref: '17.2', level: 'B2', text: 'The water was ___ freezing!', answer: ['absolutely', 'totally', 'completely', 'utterly', 'really'], wrong: ['very', 'a bit', 'fairly'], note: 'Extreme adjectives: absolutely / really (not very).' },
+  { ref: '17.2', level: 'B2', text: 'The museum was ___ interesting, but nothing special.', answer: ['fairly', 'quite', 'rather', 'pretty', 'reasonably'], wrong: ['absolutely', 'utterly', 'completely'], note: 'Gradable adjectives: fairly / quite.' },
+  { ref: '17.2', level: 'B2', text: 'The hotel was ___ enormous — it had 900 rooms.', answer: ['absolutely', 'really', 'truly', 'totally'], wrong: ['very', 'slightly', 'a bit'], note: 'Extreme adjective: absolutely.' },
+  { ref: '17.2', level: 'B2', text: 'I was ___ tired after the trip, so I went to bed early.', answer: ['very', 'really', 'extremely', 'incredibly', 'so', 'quite', 'rather', 'pretty', 'a bit'], wrong: ['absolutely', 'utterly', 'completely'], note: 'Gradable adjective: very / extremely.' },
+  // Order and position
+  { ref: '17.1', level: 'B2', text: 'She bought a ___ table for the dining room.', answer: ['beautiful old wooden'], wrong: ['wooden old beautiful', 'old beautiful wooden', 'wooden beautiful old'], note: 'Opinion – age – material.' },
+  { ref: '17.1', level: 'B2', text: 'He was wearing a ___ jacket.', answer: ['smart black leather'], wrong: ['leather black smart', 'black smart leather', 'smart leather black'], note: 'Opinion – colour – material.' },
+  { ref: '17.1', level: 'B2', text: 'They live in a ___ house near the beach.', answer: ['lovely big white'], wrong: ['white big lovely', 'big lovely white', 'lovely white big'], note: 'Opinion – size – colour.' },
+  { ref: '17.1', level: 'B2', text: 'I got a ___ bag for my birthday.', answer: ['small Italian leather'], wrong: ['leather small Italian', 'Italian small leather', 'small leather Italian'], note: 'Size – origin – material.' },
+  { ref: '17.1', level: 'C1', text: 'We stayed in a ___ hotel in Paraty.', answer: ['charming little old'], wrong: ['old little charming', 'little charming old', 'charming old little'], note: 'Opinion – size – age.' },
+  { ref: '17.1', level: 'B2', text: 'Don’t wake the ___ baby.', answer: ['sleeping'], wrong: ['asleep', 'sleep', 'slept'], note: 'asleep is not used before a noun.' },
+  { ref: '17.1', level: 'B2', text: 'Everyone ___ in the project received a bonus.', cue: 'involve', answer: ['involved'], wrong: ['involving', 'involve', 'involvement'], note: 'Participle after the noun: the people involved.' },
+];

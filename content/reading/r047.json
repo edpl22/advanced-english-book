@@ -1,0 +1,298 @@
+{
+ "id": "r047",
+ "title": "Working for an App",
+ "level": "C1",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "FUVEST",
+  "CAE",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "In cities around the world, a growing number of people earn their living without a boss in the traditional sense. They deliver meals, drive passengers, clean homes or complete small online tasks, receiving work through digital platforms that match them with customers. This model, commonly known as the gig economy, has been praised as a source of flexibility and opportunity and criticised as a source of insecurity. Both descriptions contain an element of truth.\n\nFor many workers, the attractions are real. Platform work offers low barriers to entry: there is often no interview, no formal qualification and little delay between signing up and earning money. Workers can, in principle, choose when and how much to work, combining platform jobs with studies, caring responsibilities or other employment. For people who have difficulty finding conventional jobs — recent migrants, for example — the platforms can provide an important first source of income.\n\nThe flexibility, however, may be more limited than it appears. Earnings depend on demand, which tends to be concentrated at particular times, such as meal times or late evenings, so workers who need a reasonable income may in practice have little choice about their hours. Many platforms use algorithms to allocate tasks and to evaluate performance, and workers frequently report that the criteria are opaque: a fall in ratings or a period of inactivity may lead to fewer offers of work, or to the deactivation of an account, without a clear explanation or opportunity to appeal.\n\nAt the heart of the debate is a legal question. Platforms generally classify their workers as independent contractors rather than employees. This classification means that workers are typically not entitled to a minimum wage, paid holidays, sick pay or protection against unfair dismissal, and that they must often bear costs such as fuel, vehicle maintenance and insurance themselves. Platforms argue that the arrangement reflects the genuine independence of the workers and that imposing employment obligations would destroy the flexibility that workers value. Critics respond that, in practice, platforms exercise considerable control over how work is done and should therefore accept the responsibilities of an employer.\n\nCourts and legislators in several countries have begun to intervene, with varying results. Some rulings have classified certain platform workers as employees or created intermediate categories with partial rights; elsewhere, the independent-contractor model has been upheld. The outcome is likely to differ from country to country and from sector to sector.\n\nWhat seems clear is that the gig economy is not a temporary curiosity. The question is not whether this form of work will exist, but on what terms. Finding a balance between flexibility and security will be one of the defining challenges of employment policy in the coming decades.",
+ "questions": [
+  {
+   "id": "r047-q01",
+   "type": "reading",
+   "passageId": "r047",
+   "prompt": "How does the author present the gig economy in paragraph 1?",
+   "options": [
+    "As entirely beneficial",
+    "As a passing fashion",
+    "As illegal in most countries",
+    "As having both positive and negative aspects"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“Both descriptions contain an element of truth.”"
+  },
+  {
+   "id": "r047-q02",
+   "type": "reading",
+   "passageId": "r047",
+   "prompt": "What is meant by “low barriers to entry”?",
+   "options": [
+    "Workers earn very little.",
+    "It is easy to start working on the platforms.",
+    "Platforms do not accept new workers.",
+    "Customers pay low prices."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "No interview, no qualifications, little delay."
+  },
+  {
+   "id": "r047-q03",
+   "type": "reading",
+   "passageId": "r047",
+   "prompt": "Why are platforms described as important for some recent migrants?",
+   "options": [
+    "They teach the local language.",
+    "They offer permanent contracts.",
+    "They can provide a first source of income.",
+    "They help with immigration documents."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 2."
+  },
+  {
+   "id": "r047-q04",
+   "type": "reading",
+   "passageId": "r047",
+   "prompt": "Why may the flexibility of platform work be limited?",
+   "options": [
+    "Platforms set fixed working hours.",
+    "Workers who need enough income must work when demand is high.",
+    "Workers must work at least forty hours a week.",
+    "Customers choose the workers' hours."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Demand is concentrated at particular times."
+  },
+  {
+   "id": "r047-q05",
+   "type": "reading",
+   "passageId": "r047",
+   "prompt": "The word “opaque” in paragraph 3 is closest in meaning to",
+   "options": [
+    "unclear",
+    "unfair",
+    "strict",
+    "changing"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Criteria that are not transparent."
+  },
+  {
+   "id": "r047-q06",
+   "type": "reading",
+   "passageId": "r047",
+   "prompt": "What consequence of being classified as an independent contractor is mentioned?",
+   "options": [
+    "Workers usually have no right to paid holidays or sick pay.",
+    "Workers cannot choose their customers.",
+    "Workers must pay platforms a monthly fee.",
+    "Workers cannot work for more than one platform."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r047-q07",
+   "type": "reading",
+   "passageId": "r047",
+   "prompt": "What is the platforms' main argument?",
+   "options": [
+    "Workers prefer to be employees.",
+    "The law already treats workers as employees.",
+    "Employment obligations would destroy the flexibility workers value.",
+    "Platforms do not control how work is done."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r047-q08",
+   "type": "reading",
+   "passageId": "r047",
+   "prompt": "What do critics argue?",
+   "options": [
+    "Workers should pay higher taxes.",
+    "Platforms should be banned completely.",
+    "Workers have too many rights.",
+    "Platforms control the work and should accept employer responsibilities."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r047-q09",
+   "type": "reading",
+   "passageId": "r047",
+   "prompt": "What does paragraph 5 suggest about legal responses?",
+   "options": [
+    "All countries have classified gig workers as employees.",
+    "No court has intervened.",
+    "The independent-contractor model has been abolished everywhere.",
+    "They vary between countries and sectors."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“with varying results”."
+  },
+  {
+   "id": "r047-q10",
+   "type": "reading",
+   "passageId": "r047",
+   "prompt": "Which statement best summarises the final paragraph?",
+   "options": [
+    "The key issue is the conditions under which gig work will exist.",
+    "The gig economy will soon disappear.",
+    "Flexibility is more important than security.",
+    "Governments should stop regulating employment."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“not whether this form of work will exist, but on what terms”."
+  }
+ ]
+}

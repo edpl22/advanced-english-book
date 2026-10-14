@@ -1,0 +1,308 @@
+{
+ "id": "r023",
+ "title": "Sleeping on It",
+ "level": "B2",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "FUVEST",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "Students preparing for exams often face a difficult choice: should they stay up late to study a little more, or go to bed and get a full night's sleep? A growing body of research suggests that, in most cases, sleep is the better investment. Far from being a period of inactivity, sleep appears to play an active role in turning new experiences into lasting memories.\n\nTo understand why, it helps to know that memories are not stored all at once. When we learn something new, the information is initially held in a fragile form, largely dependent on a region of the brain called the hippocampus. Over time, through a process known as consolidation, it becomes more stable and is integrated with what we already know. Many researchers believe that much of this consolidation happens while we sleep.\n\nEvidence for this comes from a variety of experiments. In a typical study, participants learn a list of word pairs or a sequence of finger movements, and are tested twelve hours later. Those who slept during the interval generally remember more than those who stayed awake for the same length of time. Recordings of brain activity have also shown that patterns of activity observed during learning are \"replayed\" during certain stages of sleep, as if the brain were rehearsing what it had learned.\n\nDifferent stages of sleep seem to contribute in different ways. Deep, slow-wave sleep, which dominates the first half of the night, appears to be particularly important for remembering facts and events. Rapid eye movement (REM) sleep, which is more frequent towards morning, has been linked to emotional memory and, according to some studies, to creative problem-solving. Cutting the night short, therefore, may especially reduce the benefits of REM sleep.\n\nSleep before learning matters too. People who have been deprived of sleep find it harder to take in new information the next day; their hippocampus, some researchers suggest, behaves as if its capacity were reduced. An all-night study session thus damages learning twice: it interferes with the consolidation of what was studied the day before and with the ability to absorb anything new.\n\nNone of this means that sleep can replace study. Information that was never properly learned cannot be consolidated. But for students who have done the work, the evidence points to a simple conclusion: the last hours before an exam may be better spent in bed than at a desk.",
+ "glossary": [
+  [
+   "hippocampus",
+   "a part of the brain important for forming new memories"
+  ],
+  [
+   "deprived of",
+   "not having something that you need"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r023-q01",
+   "type": "reading",
+   "passageId": "r023",
+   "prompt": "What is the main argument of the passage?",
+   "options": [
+    "Students should study through the night before exams.",
+    "Memories are stored immediately and permanently.",
+    "REM sleep is the only important stage of sleep.",
+    "Sleep plays an important role in learning and memory."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Sleep is an active part of turning experiences into memories."
+  },
+  {
+   "id": "r023-q02",
+   "type": "reading",
+   "passageId": "r023",
+   "prompt": "The phrase “Far from being” in paragraph 1 suggests that sleep is",
+   "options": [
+    "a short period of inactivity",
+    "less important than inactivity",
+    "the opposite of a period of inactivity",
+    "similar to being awake"
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Far from being inactive = very active."
+  },
+  {
+   "id": "r023-q03",
+   "type": "reading",
+   "passageId": "r023",
+   "prompt": "According to paragraph 2, what is consolidation?",
+   "options": [
+    "The process by which memories become stable and connected to existing knowledge",
+    "The loss of memories during the night",
+    "The first moment when we learn something",
+    "A disease of the hippocampus"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "It becomes more stable and is integrated with what we already know."
+  },
+  {
+   "id": "r023-q04",
+   "type": "reading",
+   "passageId": "r023",
+   "prompt": "In the experiments described in paragraph 3, participants who slept",
+   "options": [
+    "generally remembered more than those who stayed awake",
+    "forgot more than those who stayed awake",
+    "remembered exactly the same",
+    "were tested immediately after learning"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r023-q05",
+   "type": "reading",
+   "passageId": "r023",
+   "prompt": "What does the author mean by saying that brain activity is “replayed”?",
+   "options": [
+    "People dream about their exams.",
+    "Students review their notes in the morning.",
+    "The brain deletes old memories.",
+    "Patterns from learning appear again during sleep."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Activity during learning is repeated during sleep stages."
+  },
+  {
+   "id": "r023-q06",
+   "type": "reading",
+   "passageId": "r023",
+   "prompt": "Which stage of sleep is linked to emotional memory?",
+   "options": [
+    "slow-wave sleep",
+    "REM sleep",
+    "the first hour of sleep",
+    "light sleep before waking"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "REM has been linked to emotional memory."
+  },
+  {
+   "id": "r023-q07",
+   "type": "reading",
+   "passageId": "r023",
+   "prompt": "Why might cutting the night short especially affect REM sleep?",
+   "options": [
+    "REM sleep happens only at the beginning of the night.",
+    "REM sleep is more frequent towards the morning.",
+    "REM sleep requires a quiet room.",
+    "REM sleep is the deepest stage."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "REM is more frequent towards morning."
+  },
+  {
+   "id": "r023-q08",
+   "type": "reading",
+   "passageId": "r023",
+   "prompt": "According to paragraph 5, an all-night study session damages learning “twice” because it",
+   "options": [
+    "affects both yesterday's learning and the ability to learn new things",
+    "makes students sleep twice as long the next night",
+    "doubles the stress of the exam",
+    "reduces both REM and slow-wave sleep equally"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "It interferes with consolidation and with absorbing new information."
+  },
+  {
+   "id": "r023-q09",
+   "type": "reading",
+   "passageId": "r023",
+   "prompt": "What limitation does the author mention in the last paragraph?",
+   "options": [
+    "The experiments were too small to be reliable.",
+    "Sleep only helps young students.",
+    "Too much sleep reduces memory.",
+    "Sleep cannot consolidate information that was never learned properly."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“Information that was never properly learned cannot be consolidated.”"
+  },
+  {
+   "id": "r023-q10",
+   "type": "reading",
+   "passageId": "r023",
+   "prompt": "Which of the following would the author most likely recommend to a well-prepared student the night before an exam?",
+   "options": [
+    "Study until the morning.",
+    "Sleep for only a few hours to stay alert.",
+    "Go to bed at a normal time.",
+    "Take a short nap and then study all night."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The last hours may be better spent in bed."
+  }
+ ]
+}

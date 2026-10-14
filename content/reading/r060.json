@@ -1,0 +1,324 @@
+{
+ "id": "r060",
+ "title": "The Uses of Nostalgia",
+ "level": "C2",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "CPE",
+  "CAE",
+  "IELTS"
+ ],
+ "text": "The word nostalgia was coined in the late seventeenth century by a Swiss medical student to describe a disease. Combining the Greek words for homecoming and pain, it designated a condition observed among Swiss mercenaries serving far from their mountains, whose longing for home was said to produce melancholy, loss of appetite and, in extreme cases, death. For the next two centuries, nostalgia was treated as a malady — physicians debated its causes and proposed remedies ranging from purges to threats — and even when it ceased to be regarded as a physical illness, it retained an association with psychological weakness: the refuge of those unable to face the present.\n\nThat reputation has proved remarkably durable. In political discourse, nostalgia is frequently invoked as an accusation, implying a sentimental attachment to an idealised past that never existed. Critics of popular culture deplore the endless recycling of old formats, styles and franchises as evidence of creative exhaustion. And there is certainly something to these charges. Collective nostalgia can sanitise history, filtering out the injustices and hardships of the past and lending a spurious authority to demands that it be restored.\n\nOver the past two decades, however, psychologists have offered a more nuanced account of nostalgia as an individual experience. Studies in which participants are asked to recall a nostalgic memory — typically an event involving close relationships or significant life moments — have found that the exercise tends to increase positive mood, self-esteem and feelings of social connectedness, and to strengthen the sense that one's life has meaning and continuity. Nostalgia, these researchers argue, is not primarily an escape from the present but a resource for coping with it. Intriguingly, people appear to become nostalgic more often when they feel lonely, uncertain or bored, and the experience seems to counteract precisely those states.\n\nNor is nostalgia, on this account, purely backward-looking. Some studies suggest that recalling meaningful past experiences can increase optimism and the motivation to pursue social goals, as if reminding people of what they have valued encourages them to seek it again. Nostalgic memories are, characteristically, bittersweet rather than simply happy: they combine the warmth of the remembered moment with an awareness that it has passed. It may be this mixture, rather than the pleasure alone, that gives them their power to orient us.\n\nHow, then, are we to reconcile the private benefits of nostalgia with its public hazards? One distinction, drawn by a cultural theorist, is between restorative nostalgia, which seeks to rebuild the lost home and tends to regard its own version of the past as literal truth, and reflective nostalgia, which dwells on the longing itself, aware of the distance between memory and history and often ironic about it. The first lends itself to political mobilisation and, at its worst, to myths of a pure origin; the second is compatible with an acknowledgement that the past was more complicated than our memories of it.\n\nThe Swiss mercenaries, it seems, were not suffering from a disease so much as experiencing one of the defining capacities of human consciousness: the ability to hold the past in mind, to measure the present against it, and to be moved. The question is not whether to feel nostalgia, which is perhaps unavoidable, but what we choose to do with it.",
+ "glossary": [
+  [
+   "mercenary",
+   "a soldier paid to fight for a foreign army"
+  ],
+  [
+   "spurious",
+   "false, although appearing genuine"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r060-q01",
+   "type": "reading",
+   "passageId": "r060",
+   "prompt": "How was nostalgia originally understood?",
+   "options": [
+    "As a pleasant memory of childhood",
+    "As a type of Swiss music",
+    "As a philosophical theory",
+    "As a disease affecting people far from home"
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Coined to describe a disease among Swiss mercenaries."
+  },
+  {
+   "id": "r060-q02",
+   "type": "reading",
+   "passageId": "r060",
+   "prompt": "What reputation did nostalgia retain after it was no longer considered a physical illness?",
+   "options": [
+    "An association with creativity",
+    "A link to physical strength",
+    "An association with psychological weakness",
+    "A reputation as a cure for melancholy"
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 1."
+  },
+  {
+   "id": "r060-q03",
+   "type": "reading",
+   "passageId": "r060",
+   "prompt": "Why does the author say “there is certainly something to these charges”?",
+   "options": [
+    "The author agrees that nostalgia is a disease.",
+    "The author accepts that collective nostalgia can distort history.",
+    "The author supports recycling old formats.",
+    "The author rejects all criticism of nostalgia."
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Collective nostalgia can sanitise history."
+  },
+  {
+   "id": "r060-q04",
+   "type": "reading",
+   "passageId": "r060",
+   "prompt": "The word “sanitise” in paragraph 2 is closest in meaning to",
+   "options": [
+    "clean physically",
+    "record accurately",
+    "make more acceptable by removing unpleasant elements",
+    "make more dramatic"
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Filtering out injustices and hardships."
+  },
+  {
+   "id": "r060-q05",
+   "type": "reading",
+   "passageId": "r060",
+   "prompt": "According to psychological studies, what does recalling a nostalgic memory tend to do?",
+   "options": [
+    "Increase mood, self-esteem and social connectedness",
+    "Increase loneliness and boredom",
+    "Reduce the sense that life has meaning",
+    "Make people want to escape the present"
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r060-q06",
+   "type": "reading",
+   "passageId": "r060",
+   "prompt": "What is “intriguing” about when people become nostalgic?",
+   "options": [
+    "They do so more often in states that nostalgia seems to counteract.",
+    "They do so only when they are happy.",
+    "They do so mainly in old age.",
+    "They do so less often when alone."
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Lonely, uncertain or bored — the states it counteracts."
+  },
+  {
+   "id": "r060-q07",
+   "type": "reading",
+   "passageId": "r060",
+   "prompt": "Why are nostalgic memories described as “bittersweet”?",
+   "options": [
+    "They are usually about unhappy events.",
+    "They are often inaccurate.",
+    "They make people sad for a long time.",
+    "They combine warmth with awareness that the moment has passed."
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r060-q08",
+   "type": "reading",
+   "passageId": "r060",
+   "prompt": "What distinguishes reflective from restorative nostalgia?",
+   "options": [
+    "Reflective nostalgia seeks to rebuild the past literally.",
+    "Reflective nostalgia is aware of the gap between memory and history.",
+    "Restorative nostalgia is ironic about the past.",
+    "Restorative nostalgia is purely private."
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 5."
+  },
+  {
+   "id": "r060-q09",
+   "type": "reading",
+   "passageId": "r060",
+   "prompt": "Which type of nostalgia, according to the passage, lends itself to political mobilisation?",
+   "options": [
+    "restorative nostalgia",
+    "reflective nostalgia",
+    "both types equally",
+    "neither type"
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 5."
+  },
+  {
+   "id": "r060-q10",
+   "type": "reading",
+   "passageId": "r060",
+   "prompt": "How does the author reinterpret the condition of the Swiss mercenaries in the last paragraph?",
+   "options": [
+    "As a sign of cowardice",
+    "As a medical mistake that caused deaths",
+    "As an expression of a fundamental human capacity rather than a disease",
+    "As a result of poor military training"
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "One of the defining capacities of human consciousness."
+  },
+  {
+   "id": "r060-q11",
+   "type": "reading",
+   "passageId": "r060",
+   "prompt": "What is the author's final position?",
+   "options": [
+    "Nostalgia should be avoided at all costs.",
+    "What matters is how we use nostalgia, not whether we feel it.",
+    "Nostalgia is always beneficial.",
+    "Nostalgia is a modern invention."
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“what we choose to do with it”."
+  }
+ ]
+}

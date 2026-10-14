@@ -1,0 +1,336 @@
+{
+ "id": "r013",
+ "title": "When Results Refuse to Repeat",
+ "level": "C2",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "CPE",
+  "CAE",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "Replication is often described as the cornerstone of empirical science. A finding that holds only in the laboratory in which it was first observed, under the hands of the researchers who first reported it, is not so much knowledge as anecdote. It came as a considerable shock, therefore, when a series of large-scale projects in the 2010s attempted to repeat well-known studies in psychology, biomedicine and economics and found that a substantial share of them could not be reproduced, or produced effects markedly smaller than those originally claimed.\n\nThe causes of this so-called replication crisis are now reasonably well understood, and most of them have less to do with fraud than with incentives. Journals have traditionally favoured novel, striking and statistically significant results; studies that find nothing tend to remain unpublished, a distortion known as publication bias. Researchers, whose careers depend on publications, face a strong temptation — often unconscious — to analyse their data in whichever of the many defensible ways yields a positive result. Collecting a few more participants when a result is almost significant, excluding awkward outliers, or reporting only the measures that \"worked\" may each seem innocuous; in combination, they can make chance fluctuations look like discoveries.\n\nSmall samples compound the problem. A study with few participants has little statistical power, meaning that it will often miss real effects. Less intuitively, when such a study does find a significant effect, the estimate is likely to be exaggerated, since only unusually large fluctuations clear the threshold of significance. The literature thus fills with dramatic findings whose size subsequent, larger studies cannot match.\n\nThe response has been a movement for reform that would have seemed implausible two decades earlier. Researchers are increasingly encouraged to pre-register their hypotheses and analysis plans before collecting data, so that the distinction between testing a prediction and exploring the data after the fact is transparent. Some journals now offer \"registered reports\", agreeing to publish a study on the basis of its design, whatever its results. Data and code are more often shared openly, allowing others to check analyses for themselves.\n\nNot everyone welcomes these developments unreservedly. Critics warn that rigid pre-registration may discourage the exploratory, unplanned investigation from which many genuine discoveries arise, and that an atmosphere of suspicion can be corrosive to scientific collaboration. Others note that failure to replicate does not automatically mean that the original finding was false; subtle differences in populations or procedures can matter. These are reasonable cautions. Yet the broader lesson is hard to dispute: science corrects itself not automatically, but only when its institutions reward the patient, unglamorous work of checking.",
+ "glossary": [
+  [
+   "statistical power",
+   "the probability that a study will detect an effect that really exists"
+  ],
+  [
+   "outlier",
+   "a value very different from the others in a set of data"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r013-q01",
+   "type": "reading",
+   "passageId": "r013",
+   "prompt": "Why does the author say that a finding that cannot be repeated is “not so much knowledge as anecdote”?",
+   "options": [
+    "Because most such findings are deliberately invented",
+    "Because stories are more convincing than data",
+    "Because laboratories rarely publish their methods",
+    "Because scientific knowledge depends on results that others can reproduce"
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Replication is the cornerstone of empirical science."
+  },
+  {
+   "id": "r013-q02",
+   "type": "reading",
+   "passageId": "r013",
+   "prompt": "According to paragraph 2, what is the main cause of the replication crisis?",
+   "options": [
+    "Widespread fraud among researchers",
+    "A lack of modern laboratory equipment",
+    "Incentives that reward positive and novel results",
+    "The difficulty of finding participants"
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“most of them have less to do with fraud than with incentives”."
+  },
+  {
+   "id": "r013-q03",
+   "type": "reading",
+   "passageId": "r013",
+   "prompt": "The term “publication bias” refers to",
+   "options": [
+    "the preference of journals for famous authors",
+    "the tendency for studies without significant results to remain unpublished",
+    "the political opinions of editors",
+    "the practice of publishing the same study twice"
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Studies that find nothing tend to remain unpublished."
+  },
+  {
+   "id": "r013-q04",
+   "type": "reading",
+   "passageId": "r013",
+   "prompt": "The word “innocuous” in paragraph 2 is closest in meaning to",
+   "options": [
+    "dishonest",
+    "complicated",
+    "unusual",
+    "harmless"
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Each practice may seem harmless; together they mislead."
+  },
+  {
+   "id": "r013-q05",
+   "type": "reading",
+   "passageId": "r013",
+   "prompt": "What is the author's point about practices such as excluding outliers?",
+   "options": [
+    "They are always a sign of deliberate fraud.",
+    "They are the only correct way to analyse data.",
+    "They make studies more difficult to publish.",
+    "Individually they seem acceptable, but together they can produce false findings."
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“in combination, they can make chance fluctuations look like discoveries”."
+  },
+  {
+   "id": "r013-q06",
+   "type": "reading",
+   "passageId": "r013",
+   "prompt": "According to paragraph 3, why are significant results from small studies likely to be exaggerated?",
+   "options": [
+    "Small studies are usually conducted carelessly.",
+    "Participants in small studies behave unnaturally.",
+    "Only unusually large fluctuations reach statistical significance in such studies.",
+    "Small studies always use the wrong statistical tests."
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“only unusually large fluctuations clear the threshold of significance”."
+  },
+  {
+   "id": "r013-q07",
+   "type": "reading",
+   "passageId": "r013",
+   "prompt": "What is the purpose of pre-registration?",
+   "options": [
+    "To make clear whether researchers tested a prediction or explored the data afterwards",
+    "To guarantee that every study produces positive results",
+    "To prevent researchers from sharing their data",
+    "To speed up the publication process"
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "It makes the distinction transparent."
+  },
+  {
+   "id": "r013-q08",
+   "type": "reading",
+   "passageId": "r013",
+   "prompt": "What is distinctive about “registered reports”?",
+   "options": [
+    "They are reviewed by the original authors only.",
+    "They report only replications of earlier studies.",
+    "Journals agree to publish a study before its results are known.",
+    "They are published without peer review."
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Publication is based on the design, whatever the results."
+  },
+  {
+   "id": "r013-q09",
+   "type": "reading",
+   "passageId": "r013",
+   "prompt": "Which of the following is NOT mentioned as a criticism of the reform movement?",
+   "options": [
+    "It makes scientific research too expensive.",
+    "Pre-registration may discourage exploratory research.",
+    "Suspicion may damage collaboration.",
+    "A failed replication does not prove a finding false."
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Cost is not mentioned."
+  },
+  {
+   "id": "r013-q10",
+   "type": "reading",
+   "passageId": "r013",
+   "prompt": "How does the author regard the critics' objections?",
+   "options": [
+    "As completely unfounded",
+    "As reasonable, but not enough to weaken the main lesson",
+    "As stronger than the arguments for reform",
+    "As evidence that the crisis was exaggerated"
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“These are reasonable cautions. Yet the broader lesson is hard to dispute.”"
+  },
+  {
+   "id": "r013-q11",
+   "type": "reading",
+   "passageId": "r013",
+   "prompt": "The final sentence implies that self-correction in science",
+   "options": [
+    "happens inevitably over time",
+    "depends on institutions valuing replication work",
+    "is no longer possible",
+    "is mainly the responsibility of journalists"
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Science corrects itself “only when its institutions reward … checking”."
+  }
+ ]
+}

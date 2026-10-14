@@ -1,0 +1,233 @@
+{
+ "id": "r001",
+ "title": "The Quiet Revolution of Cargo Bikes",
+ "level": "B2",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "In many European cities, a new kind of vehicle is quietly changing the way goods are delivered. Cargo bikes — bicycles with a large box at the front or back, often helped by a small electric motor — are replacing vans for short deliveries in crowded city centres. In Amsterdam, Copenhagen and Paris, it is now common to see parcels, groceries and even furniture moving through the streets on two or three wheels.\n\nThe reasons are partly practical. A van spends a large part of its working day stuck in traffic or looking for a place to park, and every stop costs time and money. A cargo bike, by contrast, can use cycle lanes, stop directly outside the customer's door and avoid parking fines altogether. A study carried out in London found that, for deliveries within a radius of a few kilometres, cargo bikes were on average faster than vans, mainly because riders spent less time searching for parking.\n\nThere are also environmental benefits. Cargo bikes produce no exhaust fumes, take up much less space and make far less noise than motor vehicles. City governments that want to reduce air pollution have therefore started to encourage their use, offering subsidies to businesses that buy them and creating small \"micro-hubs\", where large lorries leave goods that are then distributed by bike.\n\nThe cargo bike is not a perfect solution, however. It cannot carry very heavy or very large loads, and riders are exposed to rain, cold and the dangers of traffic. In hilly cities, even electric assistance has its limits. Critics also point out that the success of cargo bikes depends on good cycling infrastructure, which many cities still lack.\n\nEven so, supporters believe that cargo bikes will play an important role in the cities of the future. As one delivery company manager put it, \"We are not trying to replace every van. We are trying to use the right vehicle for the right job — and for most of the parcels we deliver in the city centre, the right vehicle has pedals.\"",
+ "questions": [
+  {
+   "id": "r001-q01",
+   "type": "reading",
+   "passageId": "r001",
+   "prompt": "What is the main purpose of the text?",
+   "options": [
+    "To present the advantages and limitations of cargo bikes in cities",
+    "To persuade readers to buy a cargo bike",
+    "To compare transport in Amsterdam and London",
+    "To criticise city governments"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The text describes advantages (practical, environmental) and limitations."
+  },
+  {
+   "id": "r001-q02",
+   "type": "reading",
+   "passageId": "r001",
+   "prompt": "According to the London study, why were cargo bikes faster than vans?",
+   "options": [
+    "They had more powerful motors.",
+    "Riders spent less time looking for parking.",
+    "They carried smaller loads.",
+    "They worked longer hours."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“mainly because riders spent less time searching for parking”."
+  },
+  {
+   "id": "r001-q03",
+   "type": "reading",
+   "passageId": "r001",
+   "prompt": "The word “altogether” in paragraph 2 is closest in meaning to",
+   "options": [
+    "sometimes",
+    "together",
+    "completely",
+    "rarely"
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "avoid fines altogether = avoid them completely."
+  },
+  {
+   "id": "r001-q04",
+   "type": "reading",
+   "passageId": "r001",
+   "prompt": "What is a “micro-hub”, according to the text?",
+   "options": [
+    "A small shop that sells bikes",
+    "A cycle lane in the city centre",
+    "A company that repairs vans",
+    "A place where goods from lorries are passed on to bikes"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“where large lorries leave goods that are then distributed by bike”."
+  },
+  {
+   "id": "r001-q05",
+   "type": "reading",
+   "passageId": "r001",
+   "prompt": "Which of the following is NOT mentioned as a limitation of cargo bikes?",
+   "options": [
+    "They are expensive to insure.",
+    "They cannot carry very heavy loads.",
+    "Riders are exposed to bad weather.",
+    "They depend on good cycling infrastructure."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Insurance costs are not mentioned."
+  },
+  {
+   "id": "r001-q06",
+   "type": "reading",
+   "passageId": "r001",
+   "prompt": "How do some city governments encourage cargo bikes?",
+   "options": [
+    "By banning vans from city centres",
+    "By offering subsidies to businesses",
+    "By building larger parking areas",
+    "By reducing the price of petrol"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“offering subsidies to businesses that buy them”."
+  },
+  {
+   "id": "r001-q07",
+   "type": "reading",
+   "passageId": "r001",
+   "prompt": "In the last paragraph, the manager suggests that",
+   "options": [
+    "vans will soon disappear",
+    "cargo bikes are only suitable for hilly cities",
+    "cargo bikes are the best option for most city-centre parcels",
+    "all deliveries should be made by bike"
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“for most of the parcels we deliver in the city centre, the right vehicle has pedals”."
+  },
+  {
+   "id": "r001-q08",
+   "type": "reading",
+   "passageId": "r001",
+   "prompt": "The word “them” in paragraph 3 (“businesses that buy them”) refers to",
+   "options": [
+    "city governments",
+    "businesses",
+    "motor vehicles",
+    "cargo bikes"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Businesses buy cargo bikes; city governments subsidise them."
+  }
+ ]
+}

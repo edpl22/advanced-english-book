@@ -1,0 +1,1905 @@
+{
+ "topic": "reported-speech",
+ "batch": 1,
+ "title": "Reported speech and reporting verbs",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "rep-001-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.1",
+   "type": "mcq",
+   "explanation": "Backshift: am → was.",
+   "prompt": "She said she ___ tired after the trip.",
+   "options": [
+    "was",
+    "is being",
+    "were",
+    "has"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "rep-001-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.2",
+   "type": "mcq",
+   "explanation": "Reported question: statement order, no do.",
+   "prompt": "He asked me where I ___.",
+   "options": [
+    "did live",
+    "lived",
+    "do I live",
+    "did I live"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "rep-001-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.3",
+   "type": "mcq",
+   "explanation": "tell someone to do something.",
+   "prompt": "The teacher told us ___ quiet.",
+   "options": [
+    "be",
+    "being",
+    "to be",
+    "that be"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "rep-001-04",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "10.1",
+   "type": "mcq",
+   "explanation": "tomorrow → the next day / the following day.",
+   "prompt": "“I’ll call you tomorrow,” he said. → He said he would call me ___.",
+   "options": [
+    "tomorrow day",
+    "the last day",
+    "yesterday",
+    "the next day"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "rep-001-05",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "10.2",
+   "type": "mcq",
+   "explanation": "Yes/no question: if / whether.",
+   "prompt": "She asked me ___ I had finished the report.",
+   "options": [
+    "whether",
+    "that",
+    "what",
+    "do"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "rep-001-06",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "10.3",
+   "type": "mcq",
+   "explanation": "advise someone to do something.",
+   "prompt": "My doctor advised me ___ less sugar.",
+   "options": [
+    "eating",
+    "to eat",
+    "eat",
+    "that eat"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "rep-001-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "mcq",
+   "explanation": "apologise for + -ing.",
+   "prompt": "He apologised ___ late.",
+   "options": [
+    "to be",
+    "for be",
+    "for being",
+    "being"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "rep-001-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "mcq",
+   "explanation": "accuse someone of + -ing.",
+   "prompt": "They accused him ___ the money.",
+   "options": [
+    "to steal",
+    "for stealing",
+    "stealing",
+    "of stealing"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "rep-001-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "10.1",
+   "type": "mcq",
+   "explanation": "Backshift: have finished → had finished.",
+   "prompt": "“We have finished,” they said. → They said they ___.",
+   "options": [
+    "had finished",
+    "have finished",
+    "had finish",
+    "were finishing"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "rep-001-10",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "mcq",
+   "explanation": "suggest + -ing (or suggest that…).",
+   "prompt": "She suggested ___ a taxi.",
+   "options": [
+    "to take",
+    "taking",
+    "us to take",
+    "take"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "rep-001-11",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "mcq",
+   "explanation": "deny + -ing.",
+   "prompt": "He denied ___ the window.",
+   "options": [
+    "to break",
+    "that break",
+    "breaking",
+    "to have break"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "rep-001-12",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "mcq",
+   "explanation": "refuse + to-infinitive.",
+   "prompt": "They refused ___ the contract.",
+   "options": [
+    "signing",
+    "sign",
+    "for signing",
+    "to sign"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "rep-001-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.2",
+   "type": "mcq",
+   "explanation": "Indirect question: statement order.",
+   "prompt": "I wonder if you could tell me ___.",
+   "options": [
+    "where the bus stop is",
+    "where is the bus stop",
+    "where the bus stop does",
+    "where does the bus stop be"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "rep-001-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.3",
+   "type": "mcq",
+   "explanation": "Negative request: not to + base form.",
+   "prompt": "She begged him ___ her.",
+   "options": [
+    "to not leaving",
+    "not to leave",
+    "don’t leave",
+    "not leave"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "rep-001-15",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "mcq",
+   "explanation": "acknowledge that + clause.",
+   "prompt": "The minister ___ that mistakes had been made.",
+   "options": [
+    "denied to",
+    "refused",
+    "acknowledged",
+    "apologised"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "rep-001-16",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "mcq",
+   "explanation": "insist on + -ing.",
+   "prompt": "He insisted ___ for the meal.",
+   "options": [
+    "to pay",
+    "paying",
+    "for paying",
+    "on paying"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "rep-001-17",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "mcq",
+   "explanation": "insist that + subjunctive.",
+   "prompt": "She ___ that we come to dinner on Saturday — she wouldn’t take no for an answer.",
+   "options": [
+    "insisted",
+    "refused",
+    "denied",
+    "threatened"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "rep-001-18",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.3",
+   "type": "mcq",
+   "explanation": "warn someone not to do / against doing.",
+   "prompt": "The lawyer warned her ___ anything to the press.",
+   "options": [
+    "to not saying",
+    "not to say",
+    "against to say",
+    "not saying"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "rep-001-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.1",
+   "type": "gap",
+   "explanation": "am → was.",
+   "prompt": "“I’m hungry,” said Lucas. → Lucas said he ___ hungry.",
+   "acceptedAnswers": [
+    "was"
+   ]
+  },
+  {
+   "id": "rep-001-20",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "10.1",
+   "type": "gap",
+   "explanation": "can → could.",
+   "prompt": "“I can’t swim,” she said. → She said she ___ swim.",
+   "acceptedAnswers": [
+    "couldn’t",
+    "could not"
+   ]
+  },
+  {
+   "id": "rep-001-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "10.2",
+   "type": "gap",
+   "explanation": "Present continuous → past continuous.",
+   "prompt": "“Where are you going?” he asked me. → He asked me where I ___.",
+   "acceptedAnswers": [
+    "was going"
+   ]
+  },
+  {
+   "id": "rep-001-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "10.2",
+   "type": "gap",
+   "explanation": "Yes/no question: if / whether.",
+   "prompt": "“Do you like jazz?” she asked. → She asked me ___ I liked jazz.",
+   "acceptedAnswers": [
+    "if",
+    "whether"
+   ]
+  },
+  {
+   "id": "rep-001-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "10.3",
+   "type": "gap",
+   "explanation": "Negative order: not to.",
+   "prompt": "“Don’t touch the paintings,” the guide said. → The guide told us ___ the paintings.",
+   "acceptedAnswers": [
+    "not to touch"
+   ]
+  },
+  {
+   "id": "rep-001-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.1",
+   "type": "gap",
+   "explanation": "will → would.",
+   "prompt": "“We will help you,” they said. → They promised that they ___ us.",
+   "acceptedAnswers": [
+    "would help"
+   ]
+  },
+  {
+   "id": "rep-001-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "gap",
+   "explanation": "deny + -ing.",
+   "prompt": "“I didn’t take the money,” he said. → He denied ___ the money.",
+   "acceptedAnswers": [
+    "taking",
+    "having taken"
+   ],
+   "cue": "take"
+  },
+  {
+   "id": "rep-001-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "gap",
+   "explanation": "suggest + -ing / that-clause.",
+   "prompt": "“Let’s go to the cinema,” said Ana. → Ana suggested ___ to the cinema.",
+   "acceptedAnswers": [
+    "going",
+    "that we go",
+    "that we should go",
+    "we go",
+    "we should go"
+   ],
+   "cue": "go"
+  },
+  {
+   "id": "rep-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "10.1",
+   "type": "gap",
+   "explanation": "Past simple → past perfect (optional).",
+   "prompt": "“I saw her yesterday,” he said. → He said he ___ her the day before.",
+   "acceptedAnswers": [
+    "had seen",
+    "saw"
+   ],
+   "cue": "see"
+  },
+  {
+   "id": "rep-001-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "gap",
+   "explanation": "accuse someone of + -ing.",
+   "prompt": "“You broke my phone!” she said to him. → She accused him ___ her phone.",
+   "acceptedAnswers": [
+    "of breaking",
+    "of having broken"
+   ],
+   "cue": "break"
+  },
+  {
+   "id": "rep-001-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "10.3",
+   "type": "kwt",
+   "explanation": "ask someone to do something.",
+   "first": "“Please close the door,” she said to me.",
+   "keyword": "ASKED",
+   "before": "She",
+   "after": "the door.",
+   "acceptedAnswers": [
+    "asked me to close",
+    "asked me to shut"
+   ]
+  },
+  {
+   "id": "rep-001-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "kwt",
+   "explanation": "apologise for + -ing.",
+   "first": "“I’m sorry I’m late,” he said.",
+   "keyword": "APOLOGISED",
+   "before": "He",
+   "after": "late.",
+   "acceptedAnswers": [
+    "apologised for being",
+    "apologised for arriving",
+    "apologised for coming"
+   ]
+  },
+  {
+   "id": "rep-001-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.3",
+   "type": "kwt",
+   "explanation": "advise someone to do something.",
+   "first": "“You should see a doctor,” she told me.",
+   "keyword": "ADVISED",
+   "before": "She",
+   "after": "a doctor.",
+   "acceptedAnswers": [
+    "advised me to see",
+    "advised me to consult",
+    "advised me to go to"
+   ]
+  },
+  {
+   "id": "rep-001-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "kwt",
+   "explanation": "admit (to) + -ing / that-clause.",
+   "first": "“It was me who broke the vase,” said Tom.",
+   "keyword": "ADMITTED",
+   "before": "Tom",
+   "after": "the vase.",
+   "acceptedAnswers": [
+    "admitted breaking",
+    "admitted having broken",
+    "admitted that he had broken",
+    "admitted to breaking",
+    "admitted to having broken"
+   ]
+  },
+  {
+   "id": "rep-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "kwt",
+   "explanation": "deny + -ing / that-clause.",
+   "first": "“I didn’t read your diary,” she told me.",
+   "keyword": "DENIED",
+   "before": "She",
+   "after": "my diary.",
+   "acceptedAnswers": [
+    "denied reading",
+    "denied having read",
+    "denied that she had read"
+   ]
+  },
+  {
+   "id": "rep-001-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.1",
+   "type": "error-correction",
+   "explanation": "tell + person; say (to + person).",
+   "parts": [
+    "Our manager ",
+    {
+     "u": "said us"
+    },
+    " that the meeting had been ",
+    {
+     "u": "cancelled"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "told us",
+    "said",
+    "said to us"
+   ]
+  },
+  {
+   "id": "rep-001-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "10.2",
+   "type": "error-correction",
+   "explanation": "Reported question: statement order.",
+   "parts": [
+    "He asked me where ",
+    {
+     "u": "did I live"
+    },
+    " and what ",
+    {
+     "u": "I did"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "I lived"
+   ]
+  },
+  {
+   "id": "rep-001-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "10.3",
+   "type": "error-correction",
+   "explanation": "Reported order: not to + base form.",
+   "parts": [
+    "The teacher told us ",
+    {
+     "u": "don’t"
+    },
+    " use our ",
+    {
+     "u": "phones"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "not to"
+   ]
+  },
+  {
+   "id": "rep-001-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "error-correction",
+   "explanation": "suggest + that-clause / -ing (never suggest someone to).",
+   "parts": [
+    "She ",
+    {
+     "u": "suggested me to take"
+    },
+    " a ",
+    {
+     "u": "break"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "suggested that I take",
+    "suggested that I should take",
+    "suggested I take",
+    "suggested taking",
+    "advised me to take",
+    "told me to take"
+   ]
+  },
+  {
+   "id": "rep-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "error-correction",
+   "explanation": "deny + -ing.",
+   "parts": [
+    "He ",
+    {
+     "u": "denied to steal"
+    },
+    " the car, but the police ",
+    {
+     "u": "didn’t believe"
+    },
+    " him."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "denied stealing",
+    "denied having stolen"
+   ]
+  },
+  {
+   "id": "rep-001-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.1",
+   "type": "word-order",
+   "explanation": "tell + person + that-clause.",
+   "fragments": [
+    "She",
+    "told",
+    "me",
+    "that",
+    "she",
+    "was",
+    "busy."
+   ],
+   "acceptedAnswers": [
+    "She told me that she was busy."
+   ]
+  },
+  {
+   "id": "rep-001-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "10.2",
+   "type": "word-order",
+   "explanation": "Reported yes/no question.",
+   "fragments": [
+    "He",
+    "asked",
+    "me",
+    "if",
+    "I",
+    "could",
+    "help him."
+   ],
+   "acceptedAnswers": [
+    "He asked me if I could help him."
+   ]
+  },
+  {
+   "id": "rep-001-41",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "word-order",
+   "explanation": "accuse someone of + -ing.",
+   "fragments": [
+    "They",
+    "accused",
+    "the manager",
+    "of",
+    "lying",
+    "to them."
+   ],
+   "acceptedAnswers": [
+    "They accused the manager of lying to them."
+   ]
+  },
+  {
+   "id": "rep-001-42",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.1",
+   "type": "matching",
+   "explanation": "Backshift.",
+   "prompt": "Match each direct sentence with its reported form.",
+   "left": [
+    "“I am tired.”",
+    "“I was tired.”",
+    "“I will be tired.”",
+    "“I can’t come.”",
+    "“I have finished.”"
+   ],
+   "right": [
+    "She said she had been tired.",
+    "She said she would be tired.",
+    "She said she was tired.",
+    "She said she couldn’t come.",
+    "She said she had finished.",
+    "She said she must come."
+   ],
+   "answer": [
+    2,
+    0,
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "rep-001-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "10.1",
+   "type": "matching",
+   "explanation": "Time and place expressions.",
+   "prompt": "How do these words change in reported speech?",
+   "left": [
+    "today",
+    "tomorrow",
+    "yesterday",
+    "here",
+    "next week"
+   ],
+   "right": [
+    "the following week",
+    "the day before",
+    "that day",
+    "there",
+    "the next day",
+    "ago"
+   ],
+   "answer": [
+    2,
+    4,
+    1,
+    3,
+    0
+   ]
+  },
+  {
+   "id": "rep-001-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "matching",
+   "explanation": "Patterns after reporting verbs.",
+   "prompt": "Complete the sentences.",
+   "left": [
+    "He denied",
+    "She refused",
+    "They accused him",
+    "I suggested",
+    "He warned me"
+   ],
+   "right": [
+    "to sign the contract.",
+    "of cheating.",
+    "not to touch the wires.",
+    "that we leave early.",
+    "having stolen the car.",
+    "to stealing."
+   ],
+   "answer": [
+    4,
+    0,
+    1,
+    3,
+    2
+   ]
+  },
+  {
+   "id": "rep-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "matching",
+   "explanation": "Reporting verbs summarise the function of what was said.",
+   "prompt": "Which reporting verb summarises each sentence?",
+   "left": [
+    "“I’ll definitely be there.”",
+    "“It was my fault.”",
+    "“Why don’t we eat out?”",
+    "“If you do that again, I’ll call the police.”",
+    "“Don’t forget to buy milk.”"
+   ],
+   "right": [
+    "suggest",
+    "threaten",
+    "promise",
+    "admit",
+    "remind",
+    "deny"
+   ],
+   "answer": [
+    2,
+    3,
+    0,
+    1,
+    4
+   ]
+  },
+  {
+   "id": "rep-001-46",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "10.1",
+   "type": "open-cloze",
+   "explanation": "Reported statements and questions in a narrative.",
+   "title": "After the interview",
+   "text": "After the interview, I told my sister what had happened. The manager asked me why I [1] to work for the company, and I said that I [2] always admired their products. Then she asked me [3] I had any experience with customers. I told her that I [4] worked in a shop for two years. She wanted to know [5] I could start, and I said I [6] start the following week. At the end, she told me not [7] worry and promised that she [8] call me within a few days. She also asked me to send her a copy of my certificates, [9] I did that evening. She phoned me the [10] day to offer me the job!",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "wanted"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "if",
+      "whether"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "when"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "could",
+      "would"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "would"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "which"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "next",
+      "following"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rep-001-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "open-cloze",
+   "explanation": "Reporting verbs and their patterns in a court report.",
+   "title": "In court",
+   "text": "The witness told the court that she [1] seen the accused near the bank on the night of the robbery. When the lawyer asked her how she [2] be so sure, she explained that she [3] known him for years. She denied [4] ever had any argument with him. The lawyer then accused her [5] inventing the story, but she insisted [6] telling the truth. The judge reminded both sides [7] keep to the facts and warned the lawyer [8] to ask leading questions. At the end of the day, the witness asked whether she [9] be needed again, and was told that she [10] go home.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "could"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "having"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "of"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "on"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "not"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "would",
+      "might"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "could",
+      "might",
+      "may"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rep-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "open-cloze",
+   "explanation": "Reporting verbs in a news analysis.",
+   "title": "Careful words",
+   "text": "When the scandal broke, the company’s spokesperson insisted [1] there had been no wrongdoing. She refused [2] comment on the leaked emails, but acknowledged that the firm [3] have acted more quickly. Journalists pressed her on whether the chief executive [4] known about the problem, and she replied that she was not in a position to say. Asked [5] the company would compensate the victims, she would only say that it was “looking into” the matter. The following day, the chief executive himself apologised [6] the “distress caused”, although he stopped short [7] admitting any responsibility. Critics accused him [8] hiding behind carefully chosen words, and urged the regulator [9] launch an inquiry. The regulator has since announced that it [10] do so.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "that"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "should",
+      "could",
+      "might"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "whether",
+      "if"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "for"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "of"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "of"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "will",
+      "would"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rep-001-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "10.3",
+   "type": "mc-cloze",
+   "explanation": "Reported statements, questions and advice.",
+   "title": "A message from the coach",
+   "text": "The coach told us that we [1] trained very hard and that she [2] proud of us. She [3] us not to worry about the result. She asked us [4] we were feeling, and Pedro said he [5] a bit nervous. She advised him [6] deep breaths. Then she reminded everyone [7] their water bottles. Before we went out, she said we [8] the best team she had ever coached.",
+   "gaps": [
+    {
+     "options": [
+      "have",
+      "has",
+      "had",
+      "having"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "is being",
+      "were",
+      "be",
+      "was"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "told",
+      "said",
+      "spoke",
+      "talked"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "what",
+      "how",
+      "that",
+      "which"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "was feel",
+      "feeling",
+      "felt",
+      "has felt"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "taking",
+      "take",
+      "that take",
+      "to take"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "to bring",
+      "bringing",
+      "bring",
+      "for bringing"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "are being",
+      "were",
+      "was",
+      "be"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "rep-001-50",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reported-speech"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "10.4",
+   "type": "mc-cloze",
+   "explanation": "Choosing a reporting verb by its pattern.",
+   "title": "Wage negotiations",
+   "text": "The union leader [1] that the workers would not accept the offer. She [2] the management of ignoring their concerns and [3] to call a strike if wages were not increased. The managing director [4] that the company could not afford a large rise, but [5] to consider other benefits. Eventually both sides [6] to meet again the following week. A spokesperson [7] that progress had been made, but [8] to give any details.",
+   "gaps": [
+    {
+     "options": [
+      "told",
+      "spoke",
+      "declared",
+      "asked"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "blamed",
+      "criticised",
+      "complained",
+      "accused"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "threatened",
+      "warned",
+      "suggested",
+      "insisted"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "denied to",
+      "argued",
+      "refused",
+      "offered"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "suggested",
+      "insisted",
+      "offered",
+      "denied"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "suggested",
+      "insisted",
+      "admitted",
+      "agreed"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "confirmed",
+      "refused",
+      "offered",
+      "threatened"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "denied",
+      "declined",
+      "avoided",
+      "admitted"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

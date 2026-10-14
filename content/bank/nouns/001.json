@@ -1,0 +1,1936 @@
+{
+ "topic": "nouns",
+ "batch": 1,
+ "title": "Countable and uncountable nouns; plurals",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "noun-001-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.1",
+   "type": "mcq",
+   "explanation": "information is uncountable.",
+   "prompt": "I need some ___ about train times.",
+   "options": [
+    "information",
+    "informations",
+    "an information",
+    "informs"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "noun-001-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "mcq",
+   "explanation": "mouse → mice.",
+   "prompt": "There are two ___ in the kitchen!",
+   "options": [
+    "mouses",
+    "mice",
+    "mices",
+    "mouse"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "noun-001-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.1",
+   "type": "mcq",
+   "explanation": "fun is uncountable.",
+   "prompt": "We had a lot of ___ on our camping trip.",
+   "options": [
+    "funs",
+    "a fun",
+    "fun",
+    "funny"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "noun-001-04",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "mcq",
+   "explanation": "child → children.",
+   "prompt": "The ___ are playing in the park.",
+   "options": [
+    "childs",
+    "childrens",
+    "child",
+    "children"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "noun-001-05",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.2",
+   "type": "mcq",
+   "explanation": "a glass of water.",
+   "prompt": "Can I have a ___ of water, please?",
+   "options": [
+    "glass",
+    "glasses",
+    "piece",
+    "slice"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "noun-001-06",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "12.1",
+   "type": "mcq",
+   "explanation": "accommodation is uncountable in British English.",
+   "prompt": "The ___ in this hotel is excellent.",
+   "options": [
+    "accommodations",
+    "accommodation",
+    "an accommodation",
+    "accommodating"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "noun-001-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "12.2",
+   "type": "mcq",
+   "explanation": "time = occasion (countable).",
+   "prompt": "I’ve been to Lisbon three ___.",
+   "options": [
+    "time",
+    "timing",
+    "times",
+    "timer"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "noun-001-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "12.2",
+   "type": "mcq",
+   "explanation": "room = space (uncountable).",
+   "prompt": "There isn’t enough ___ in the car for all of us.",
+   "options": [
+    "rooms",
+    "a room",
+    "roomy",
+    "room"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "noun-001-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "12.4",
+   "type": "mcq",
+   "explanation": "a carton of milk.",
+   "prompt": "Could you buy a ___ of milk?",
+   "options": [
+    "carton",
+    "slice",
+    "piece",
+    "bar"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "noun-001-10",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.4",
+   "type": "mcq",
+   "explanation": "a clap of thunder.",
+   "prompt": "There was a loud ___ of thunder.",
+   "options": [
+    "piece",
+    "clap",
+    "slice",
+    "grain"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "noun-001-11",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "mcq",
+   "explanation": "data (plural of datum).",
+   "prompt": "All the ___ were analysed by computer.",
+   "options": [
+    "datas",
+    "datum",
+    "data",
+    "dates"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "noun-001-12",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "12.1",
+   "type": "mcq",
+   "explanation": "help is uncountable.",
+   "prompt": "Thanks for your ___ — it really made a difference.",
+   "options": [
+    "helps",
+    "a help",
+    "helping",
+    "help"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "noun-001-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "mcq",
+   "explanation": "hypothesis → hypotheses.",
+   "prompt": "Several ___ have been proposed to explain the phenomenon.",
+   "options": [
+    "hypotheses",
+    "hypothesises",
+    "hypothesis",
+    "hypothesi"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "noun-001-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "mcq",
+   "explanation": "analysis → analyses.",
+   "prompt": "The ___ of the study are presented in Table 2.",
+   "options": [
+    "analysises",
+    "analyses",
+    "analysis",
+    "analysi"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "noun-001-15",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.2",
+   "type": "mcq",
+   "explanation": "experience = knowledge and skill (uncountable).",
+   "prompt": "She has a lot of ___ as a teacher.",
+   "options": [
+    "experiences",
+    "an experience",
+    "experience",
+    "experiment"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "noun-001-16",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "mcq",
+   "explanation": "cattle is always plural.",
+   "prompt": "The ___ are grazing in the field.",
+   "options": [
+    "cattles",
+    "cow",
+    "sheeps",
+    "cattle"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "noun-001-17",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "12.1",
+   "type": "mcq",
+   "explanation": "Abstract uncountable noun.",
+   "prompt": "___ is a common problem among students.",
+   "options": [
+    "Procrastination",
+    "Procrastinations",
+    "A procrastination",
+    "Procrastinate"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "noun-001-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "12.1",
+   "type": "mcq",
+   "explanation": "attention is uncountable.",
+   "prompt": "Her ___ to detail is remarkable.",
+   "options": [
+    "attentions",
+    "attention",
+    "an attention",
+    "attentive"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "noun-001-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.4",
+   "type": "gap",
+   "explanation": "loaf → loaves.",
+   "prompt": "I need two ___ of bread.",
+   "acceptedAnswers": [
+    "loaves"
+   ],
+   "cue": "loaf"
+  },
+  {
+   "id": "noun-001-20",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "gap",
+   "explanation": "knife → knives.",
+   "prompt": "There were three ___ on the shelf.",
+   "acceptedAnswers": [
+    "knives"
+   ],
+   "cue": "knife"
+  },
+  {
+   "id": "noun-001-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "gap",
+   "explanation": "man → men.",
+   "prompt": "Two ___ were arrested.",
+   "acceptedAnswers": [
+    "men"
+   ],
+   "cue": "man"
+  },
+  {
+   "id": "noun-001-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "gap",
+   "explanation": "person → people.",
+   "prompt": "How many ___ live in this building?",
+   "acceptedAnswers": [
+    "people"
+   ],
+   "cue": "person"
+  },
+  {
+   "id": "noun-001-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "gap",
+   "explanation": "sheep: same form in the plural.",
+   "prompt": "I counted five ___ in the field.",
+   "acceptedAnswers": [
+    "sheep"
+   ],
+   "cue": "sheep"
+  },
+  {
+   "id": "noun-001-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "gap",
+   "explanation": "cactus → cacti / cactuses.",
+   "prompt": "There were several ___ in the desert.",
+   "acceptedAnswers": [
+    "cacti",
+    "cactuses"
+   ],
+   "cue": "cactus"
+  },
+  {
+   "id": "noun-001-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "gap",
+   "explanation": "stimulus → stimuli.",
+   "prompt": "The cells reacted to a range of ___.",
+   "acceptedAnswers": [
+    "stimuli"
+   ],
+   "cue": "stimulus"
+  },
+  {
+   "id": "noun-001-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "gap",
+   "explanation": "appendix → appendices.",
+   "prompt": "Several ___ were removed from the final version of the book.",
+   "acceptedAnswers": [
+    "appendices",
+    "appendixes"
+   ],
+   "cue": "appendix"
+  },
+  {
+   "id": "noun-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "gap",
+   "explanation": "nucleus → nuclei.",
+   "prompt": "The ___ of the cells were stained blue.",
+   "acceptedAnswers": [
+    "nuclei"
+   ],
+   "cue": "nucleus"
+  },
+  {
+   "id": "noun-001-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "gap",
+   "explanation": "formula → formulae / formulas.",
+   "prompt": "The students had to memorise dozens of ___.",
+   "acceptedAnswers": [
+    "formulae",
+    "formulas"
+   ],
+   "cue": "formula"
+  },
+  {
+   "id": "noun-001-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "12.1",
+   "type": "kwt",
+   "explanation": "luggage is uncountable.",
+   "first": "I have a lot of bags with me.",
+   "keyword": "LUGGAGE",
+   "before": "I have",
+   "after": "with me.",
+   "acceptedAnswers": [
+    "a lot of luggage",
+    "lots of luggage",
+    "a great deal of luggage",
+    "plenty of luggage"
+   ]
+  },
+  {
+   "id": "noun-001-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.1",
+   "type": "kwt",
+   "explanation": "advice is uncountable.",
+   "first": "He suggested several useful things for my trip.",
+   "keyword": "ADVICE",
+   "before": "He gave me",
+   "after": "for my trip.",
+   "acceptedAnswers": [
+    "some useful advice",
+    "useful advice",
+    "a lot of useful advice",
+    "some good advice"
+   ]
+  },
+  {
+   "id": "noun-001-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.2",
+   "type": "kwt",
+   "explanation": "Countable hours.",
+   "first": "It is a seven-hour flight from Lisbon to Recife.",
+   "keyword": "HOURS",
+   "before": "The flight from Lisbon to Recife",
+   "after": ".",
+   "acceptedAnswers": [
+    "takes seven hours",
+    "lasts seven hours",
+    "is seven hours long"
+   ]
+  },
+  {
+   "id": "noun-001-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "12.1",
+   "type": "kwt",
+   "explanation": "Abstract uncountable noun.",
+   "first": "The fans were very enthusiastic.",
+   "keyword": "ENTHUSIASM",
+   "before": "The fans showed",
+   "after": ".",
+   "acceptedAnswers": [
+    "great enthusiasm",
+    "a lot of enthusiasm",
+    "tremendous enthusiasm",
+    "huge enthusiasm",
+    "considerable enthusiasm"
+   ]
+  },
+  {
+   "id": "noun-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "12.1",
+   "type": "kwt",
+   "explanation": "a body of evidence.",
+   "first": "Many studies prove that exercise improves mood.",
+   "keyword": "BODY",
+   "before": "There is a large",
+   "after": "that exercise improves mood.",
+   "acceptedAnswers": [
+    "body of evidence"
+   ]
+  },
+  {
+   "id": "noun-001-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.1",
+   "type": "error-correction",
+   "explanation": "bread is uncountable.",
+   "parts": [
+    "I need to buy ",
+    {
+     "u": "a bread"
+    },
+    " for ",
+    {
+     "u": "breakfast"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "some bread",
+    "bread",
+    "a loaf of bread"
+   ]
+  },
+  {
+   "id": "noun-001-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "12.1",
+   "type": "error-correction",
+   "explanation": "luck is uncountable.",
+   "parts": [
+    "We had ",
+    {
+     "u": "a very bad luck"
+    },
+    " on our ",
+    {
+     "u": "holiday"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "very bad luck",
+    "terrible luck",
+    "bad luck"
+   ]
+  },
+  {
+   "id": "noun-001-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "error-correction",
+   "explanation": "child → children.",
+   "parts": [
+    "I have three ",
+    {
+     "u": "childs"
+    },
+    " and two ",
+    {
+     "u": "grandchildren"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "children"
+   ]
+  },
+  {
+   "id": "noun-001-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.1",
+   "type": "error-correction",
+   "explanation": "equipment is uncountable.",
+   "parts": [
+    "All the ",
+    {
+     "u": "equipments"
+    },
+    " in the lab ",
+    {
+     "u": "was"
+    },
+    " new."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "equipment"
+   ]
+  },
+  {
+   "id": "noun-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "error-correction",
+   "explanation": "phenomenon → phenomena.",
+   "parts": [
+    "The ",
+    {
+     "u": "phenomenons"
+    },
+    " described in the ",
+    {
+     "u": "report"
+    },
+    " are rare."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "phenomena"
+   ]
+  },
+  {
+   "id": "noun-001-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.4",
+   "type": "word-order",
+   "explanation": "a cup of + uncountable noun.",
+   "fragments": [
+    "I",
+    "would",
+    "like",
+    "a",
+    "cup",
+    "of",
+    "tea."
+   ],
+   "acceptedAnswers": [
+    "I would like a cup of tea."
+   ]
+  },
+  {
+   "id": "noun-001-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "12.4",
+   "type": "word-order",
+   "explanation": "Partitive: bars of chocolate.",
+   "fragments": [
+    "She",
+    "bought",
+    "two",
+    "bars",
+    "of",
+    "chocolate."
+   ],
+   "acceptedAnswers": [
+    "She bought two bars of chocolate."
+   ]
+  },
+  {
+   "id": "noun-001-41",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.1",
+   "type": "word-order",
+   "explanation": "damage is uncountable.",
+   "fragments": [
+    "There",
+    "was",
+    "a",
+    "lot",
+    "of",
+    "damage",
+    "after the storm."
+   ],
+   "acceptedAnswers": [
+    "There was a lot of damage after the storm.",
+    "After the storm there was a lot of damage."
+   ]
+  },
+  {
+   "id": "noun-001-42",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "matching",
+   "explanation": "Irregular plurals.",
+   "prompt": "Match each noun with its plural.",
+   "left": [
+    "child",
+    "foot",
+    "mouse",
+    "woman",
+    "person"
+   ],
+   "right": [
+    "feet",
+    "people",
+    "women",
+    "children",
+    "mice",
+    "childs"
+   ],
+   "answer": [
+    3,
+    0,
+    4,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "noun-001-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "matching",
+   "explanation": "Latin and Greek plurals.",
+   "prompt": "Match each Latin or Greek noun with its plural.",
+   "left": [
+    "criterion",
+    "analysis",
+    "phenomenon",
+    "datum",
+    "thesis"
+   ],
+   "right": [
+    "data",
+    "theses",
+    "criteria",
+    "analyses",
+    "phenomena",
+    "theseses"
+   ],
+   "answer": [
+    2,
+    3,
+    4,
+    0,
+    1
+   ]
+  },
+  {
+   "id": "noun-001-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.4",
+   "type": "matching",
+   "explanation": "Collective nouns for animals.",
+   "prompt": "Match each collective expression with its noun.",
+   "left": [
+    "a flock of",
+    "a herd of",
+    "a swarm of",
+    "a pack of",
+    "a school of"
+   ],
+   "right": [
+    "bees",
+    "books",
+    "fish",
+    "sheep",
+    "wolves",
+    "cattle"
+   ],
+   "answer": [
+    3,
+    5,
+    0,
+    4,
+    2
+   ]
+  },
+  {
+   "id": "noun-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "12.2",
+   "type": "matching",
+   "explanation": "Nouns that change meaning in the plural.",
+   "prompt": "Match each pair with its two meanings (singular / plural).",
+   "left": [
+    "custom / customs",
+    "arm / arms",
+    "good / goods",
+    "manner / manners",
+    "premise / premises"
+   ],
+   "right": [
+    "part of the body / weapons",
+    "beginning / ends",
+    "idea that an argument is based on / building and land",
+    "tradition / border control",
+    "way / polite behaviour",
+    "benefit / products"
+   ],
+   "answer": [
+    3,
+    0,
+    5,
+    4,
+    2
+   ]
+  },
+  {
+   "id": "noun-001-46",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.4",
+   "type": "open-cloze",
+   "explanation": "Countable, uncountable and partitives.",
+   "title": "At the market",
+   "text": "Every Saturday I go to the market with my grandmother. We buy fruit, vegetables and [1] loaf of bread. My grandmother always buys a kilo [2] tomatoes and a [3] of cheese. She doesn’t eat [4] meat, but she likes fish. The fishmonger knows her, and he always gives her [5] advice about cooking. I usually carry the bags because she says they are [6] heavy for her. There is [7] lot of noise at the market, but I love the atmosphere. We spend about two [8] there. Afterwards, we have a [9] of coffee and a piece [10] cake.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "a"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "of"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "piece",
+      "slice",
+      "block",
+      "bit",
+      "wedge",
+      "lump"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "much",
+      "any"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "some",
+      "good",
+      "useful",
+      "great",
+      "excellent"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "too"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "a"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "hours"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "cup"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "of"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "noun-001-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "open-cloze",
+   "explanation": "Nouns in academic English.",
+   "title": "A research report",
+   "text": "The [1] were collected over two years from more than 500 participants. Several [2] were tested, but only one was supported by the evidence. The analysis revealed a number of interesting [3]. For example, participants who did a lot [4] exercise reported better sleep. However, the researchers stress that more [5] is needed before firm conclusions can be drawn. They also point out that the [6] used to select participants may have influenced the results. Further [7] will be published next year in one of the leading scientific [8]. The team received a great deal of [9] from local hospitals, without [10] the study would not have been possible.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "data",
+      "results",
+      "samples",
+      "responses",
+      "measurements"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "hypotheses",
+      "theories",
+      "ideas",
+      "models"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "findings",
+      "patterns",
+      "results",
+      "trends",
+      "differences",
+      "correlations"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "of"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "research",
+      "evidence",
+      "work",
+      "data",
+      "study"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "criteria",
+      "method",
+      "methods",
+      "procedure",
+      "process"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "results",
+      "findings",
+      "research",
+      "analyses",
+      "details",
+      "work",
+      "data"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "journals"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "help",
+      "support",
+      "assistance",
+      "cooperation",
+      "co-operation"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "which",
+      "whom"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "noun-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "open-cloze",
+   "explanation": "Plurals and uncountable nouns.",
+   "title": "A word about plurals",
+   "text": "English plurals are mostly regular, but there are [1] exceptions. Words borrowed from Latin and Greek often keep their original plural: one criterion, two [2]; one phenomenon, many [3]. In everyday English, however, these forms are gradually being replaced. “Data”, for instance, is now usually treated as an uncountable noun, [4] that “the data is” is far more common than “the data are”. Some nouns have no singular [5] all: “scissors”, “trousers” and “jeans” are always plural, so we speak of a [6] of scissors. Others, such as “news” and “mathematics”, look plural but take a singular [7]. “Sheep” and “fish” have the same form in the singular and the [8]. Learners who master these irregularities will find that they make far [9] mistakes — and native speakers, too, could pay a little more attention to them [10] time to time.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "many",
+      "some",
+      "several",
+      "numerous",
+      "important",
+      "notable",
+      "countless",
+      "interesting",
+      "famous"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "criteria"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "phenomena"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "so"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "at"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "pair"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "verb"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "plural"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "fewer"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "from"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "noun-001-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "12.1",
+   "type": "mc-cloze",
+   "explanation": "Uncountable nouns in context.",
+   "title": "Moving abroad",
+   "text": "When we moved to Portugal, we took very little [1] with us — just a few suitcases. We sold most of our [2] before we left. Finding [3] was not easy, but eventually we rented a small flat. My husband found [4] quickly, but I had to look for months. Friends gave us a lot of useful [5]. The first winter was hard: there was a lot of [6] and the flat was cold. Now we have made good [7] with our Portuguese, and we have had some wonderful [8].",
+   "gaps": [
+    {
+     "options": [
+      "luggages",
+      "baggages",
+      "luggage",
+      "suitcase"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "furnitures",
+      "furnishes",
+      "furnish",
+      "furniture"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "accommodation",
+      "an accommodation",
+      "accommodations of",
+      "accommodate"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "a work",
+      "work",
+      "works",
+      "worker"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "advices",
+      "advise",
+      "advice",
+      "advising"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "rains",
+      "raining",
+      "rainy",
+      "rain"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "progress",
+      "progresses",
+      "a progress",
+      "progressing"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "experience of",
+      "experiences",
+      "experiencing",
+      "experienced"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "noun-001-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "nouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "12.3",
+   "type": "mc-cloze",
+   "explanation": "Nouns in academic writing.",
+   "title": "An academic abstract",
+   "text": "This paper examines the [1] of urbanisation on bird populations. Previous [2] have produced conflicting results. Using [3] collected over a decade, we test three [4]. Our [5] suggest that the main [6] is the loss of green space rather than noise. These results have important [7] for urban planning. Further [8] is needed to confirm them.",
+   "gaps": [
+    {
+     "options": [
+      "effect of",
+      "affects",
+      "effects",
+      "effecting"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "study",
+      "studys",
+      "studied",
+      "studies"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "data",
+      "datas",
+      "datum",
+      "dates"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "hypothesis",
+      "hypotheses",
+      "hypothesises",
+      "hypothesi"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "finding",
+      "founds",
+      "findings",
+      "findeds"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "factors",
+      "factoring",
+      "factored",
+      "factor"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "implications",
+      "implication of",
+      "implicates",
+      "implicated"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "researches",
+      "research",
+      "a research",
+      "researcher"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

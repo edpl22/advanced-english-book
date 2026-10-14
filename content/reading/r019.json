@@ -1,0 +1,260 @@
+{
+ "id": "r019",
+ "title": "Why Is the Sea Salty?",
+ "level": "B1",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "If you have ever swum in the sea, you know that sea water tastes very salty. On average, every litre of sea water contains about thirty-five grams of salt — more than two tablespoons. If all the salt in the oceans could be taken out and spread over the land, it would form a layer more than a hundred metres thick. But rivers and lakes are not salty. So where does all the salt in the sea come from?\n\nMost of it comes from rocks on land. When rain falls, it takes in a little carbon dioxide from the air, which makes it very slightly acidic. This weak acid slowly breaks down rocks and releases tiny amounts of minerals, including the substances that make salt. Rivers then carry these minerals to the sea. River water does contain salt, but in such small amounts that we cannot taste it.\n\nSo why does the salt stay in the sea? The answer is evaporation. The sun heats the surface of the ocean, and water changes into vapour and rises into the air. However, the salt cannot evaporate, so it stays behind. The water vapour forms clouds, falls again as rain, and the whole process starts again. Over millions of years, this cycle has slowly made the sea saltier and saltier.\n\nThere is a second source of salt, which is less obvious: the bottom of the ocean. In some places, hot water comes out of cracks in the sea floor, bringing minerals from deep inside the Earth. Underwater volcanoes also add minerals to the water.\n\nNot all seas are equally salty. The Red Sea, for example, is saltier than average because it is very hot and evaporation is strong, while few rivers flow into it. The Baltic Sea, in northern Europe, is much less salty, because it is cold and many rivers bring fresh water into it. The Dead Sea, which is actually a lake, is almost ten times saltier than the ocean. Its water is so dense that people float on it easily without swimming.\n\nInterestingly, scientists believe that the saltiness of the oceans has stayed fairly stable for a very long time. New salt arrives all the time, but some salt is also removed, for example when it becomes part of new rocks on the sea floor. In this way, the ocean keeps a natural balance.",
+ "questions": [
+  {
+   "id": "r019-q01",
+   "type": "reading",
+   "passageId": "r019",
+   "prompt": "What is the main purpose of the text?",
+   "options": [
+    "To compare swimming in rivers and in the sea",
+    "To describe how salt is produced in factories",
+    "To explain where the salt in the sea comes from",
+    "To warn people about drinking sea water"
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The text answers the question in the title."
+  },
+  {
+   "id": "r019-q02",
+   "type": "reading",
+   "passageId": "r019",
+   "prompt": "According to paragraph 1, how much salt is there in a litre of sea water?",
+   "options": [
+    "about two grams",
+    "about 100 grams",
+    "about 350 grams",
+    "about 35 grams"
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“about thirty-five grams of salt”."
+  },
+  {
+   "id": "r019-q03",
+   "type": "reading",
+   "passageId": "r019",
+   "prompt": "What makes rain able to break down rocks?",
+   "options": [
+    "It is very slightly acidic.",
+    "It falls very fast.",
+    "It contains a lot of salt.",
+    "It is very cold."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Carbon dioxide makes rain slightly acidic."
+  },
+  {
+   "id": "r019-q04",
+   "type": "reading",
+   "passageId": "r019",
+   "prompt": "Why can't we taste the salt in river water?",
+   "options": [
+    "The amount of salt is very small.",
+    "River water has no salt at all.",
+    "River water is too cold.",
+    "The salt evaporates quickly."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“in such small amounts that we cannot taste it”."
+  },
+  {
+   "id": "r019-q05",
+   "type": "reading",
+   "passageId": "r019",
+   "prompt": "What happens to the salt when sea water evaporates?",
+   "options": [
+    "It rises into the clouds.",
+    "It stays in the sea.",
+    "It falls as salty rain.",
+    "It turns into rock immediately."
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“the salt cannot evaporate, so it stays behind”."
+  },
+  {
+   "id": "r019-q06",
+   "type": "reading",
+   "passageId": "r019",
+   "prompt": "Which is the “second source” of salt mentioned in paragraph 4?",
+   "options": [
+    "the rain",
+    "the rivers",
+    "the ocean floor",
+    "the air"
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Hot water from cracks in the sea floor and underwater volcanoes."
+  },
+  {
+   "id": "r019-q07",
+   "type": "reading",
+   "passageId": "r019",
+   "prompt": "Why is the Baltic Sea less salty than average?",
+   "options": [
+    "It is very deep.",
+    "It is a lake, not a sea.",
+    "There is strong evaporation.",
+    "It is cold and receives a lot of river water."
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“it is cold and many rivers bring fresh water into it”."
+  },
+  {
+   "id": "r019-q08",
+   "type": "reading",
+   "passageId": "r019",
+   "prompt": "Why do people float easily in the Dead Sea?",
+   "options": [
+    "Its water is very warm.",
+    "Its very salty water is very dense.",
+    "It has strong waves.",
+    "It is not very deep."
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“Its water is so dense that people float on it easily”."
+  },
+  {
+   "id": "r019-q09",
+   "type": "reading",
+   "passageId": "r019",
+   "prompt": "According to the last paragraph, why has the saltiness of the ocean stayed stable?",
+   "options": [
+    "No new salt arrives in the ocean.",
+    "Rivers stopped carrying minerals.",
+    "Evaporation has stopped.",
+    "Salt is added and removed at the same time."
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "New salt arrives, but some is removed — a natural balance."
+  }
+ ]
+}

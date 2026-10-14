@@ -1,0 +1,1891 @@
+{
+ "topic": "phrasal-verbs",
+ "batch": 3,
+ "title": "Phrasal verbs — relationships, feelings and communication",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "pv-003-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "get on (with) = have a good relationship.",
+   "prompt": "My brother and I ___ very well — we hardly ever argue.",
+   "options": [
+    "get on",
+    "get off",
+    "get by",
+    "get over"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-003-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "pick up = collect someone.",
+   "prompt": "Can you ___ the kids from school today? I’m working late.",
+   "options": [
+    "pick out",
+    "pick up",
+    "pick on",
+    "pick off"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-003-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "take after = resemble an older relative.",
+   "prompt": "She ___ her grandmother — they have the same eyes.",
+   "options": [
+    "takes on",
+    "takes in",
+    "takes after",
+    "takes up"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-003-04",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "split up = end a relationship.",
+   "prompt": "They ___ last year after five years together.",
+   "options": [
+    "split off",
+    "split out",
+    "split down",
+    "split up"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-003-05",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "put up with = tolerate.",
+   "prompt": "I can’t ___ his rudeness any longer.",
+   "options": [
+    "put up with",
+    "put down to",
+    "put in for",
+    "put off with"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-003-06",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "fall out (with / over) = argue and stop being friends.",
+   "prompt": "Ana and Carla ___ over money and haven’t spoken since.",
+   "options": [
+    "fell over",
+    "fell out",
+    "fell through",
+    "fell back"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-003-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "bump into = meet by chance.",
+   "prompt": "I ___ an old school friend at the supermarket yesterday.",
+   "options": [
+    "bumped up",
+    "bumped off",
+    "bumped into",
+    "bumped over"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-003-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "pick on = treat someone unfairly, bully.",
+   "prompt": "Stop ___ your little brother! He’s only six.",
+   "options": [
+    "picking up",
+    "picking out",
+    "picking off",
+    "picking on"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-003-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "count on = rely on.",
+   "prompt": "You can always ___ me if you need help.",
+   "options": [
+    "count on",
+    "count in",
+    "count out",
+    "count up"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-003-10",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "make up = become friends again.",
+   "prompt": "After their argument, it took weeks for them to ___.",
+   "options": [
+    "make out",
+    "make up",
+    "make off",
+    "make over"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-003-11",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "break down = lose control of your feelings and cry.",
+   "prompt": "She ___ when she heard the news and had to sit down.",
+   "options": [
+    "broke up",
+    "broke off",
+    "broke down",
+    "broke out"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-003-12",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.2",
+   "type": "mcq",
+   "explanation": "get someone down = make someone sad; pronoun in the middle.",
+   "prompt": "His constant complaining really ___.",
+   "options": [
+    "gets down me",
+    "gets me off",
+    "gets me over",
+    "gets me down"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-003-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "cover up = hide.",
+   "prompt": "She tried to ___ her disappointment, but everyone could see she was upset.",
+   "options": [
+    "cover up",
+    "cover over",
+    "cover in",
+    "cover for"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-003-14",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "hit it off = like each other immediately.",
+   "prompt": "The two leaders ___ immediately and became close friends.",
+   "options": [
+    "hit it up",
+    "hit it off",
+    "hit off it",
+    "hit on it"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-003-15",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.2",
+   "type": "mcq",
+   "explanation": "wind someone up = annoy someone deliberately.",
+   "prompt": "Don’t let his comments ___ — he’s just trying to provoke you.",
+   "options": [
+    "wind up you",
+    "wind you down",
+    "wind you up",
+    "wind you off"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-003-16",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "look up to = admire.",
+   "prompt": "I really ___ my grandfather; he was a war hero.",
+   "options": [
+    "look down on",
+    "look on to",
+    "look up at",
+    "look up to"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-003-17",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.5",
+   "type": "mcq",
+   "explanation": "tell off = reprimand.",
+   "prompt": "Which formal verb means the same as “tell off”?",
+   "options": [
+    "reprimand",
+    "recommend",
+    "reimburse",
+    "reassure"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-003-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "patch up = repair a relationship.",
+   "prompt": "After years of arguments, the couple decided to ___ their differences and start again.",
+   "options": [
+    "patch in",
+    "patch up",
+    "patch out",
+    "patch down"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-003-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "meet up = meet socially.",
+   "prompt": "We ___ for coffee after class every Friday.",
+   "cue": "meet up",
+   "acceptedAnswers": [
+    "meet up"
+   ]
+  },
+  {
+   "id": "pv-003-20",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "fall out = argue.",
+   "prompt": "I ___ with my best friend last week, and we still aren’t speaking.",
+   "cue": "fall out",
+   "acceptedAnswers": [
+    "fell out"
+   ]
+  },
+  {
+   "id": "pv-003-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "break up = separate.",
+   "prompt": "Her parents ___ when she was six, so she lived with her mother.",
+   "cue": "break up",
+   "acceptedAnswers": [
+    "broke up"
+   ]
+  },
+  {
+   "id": "pv-003-22",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "phrasal-choice",
+   "explanation": "go back on a promise = break it.",
+   "prompt": "He ___ his promise to call me every day.",
+   "cue": "go back on",
+   "acceptedAnswers": [
+    "went back on"
+   ]
+  },
+  {
+   "id": "pv-003-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "phrasal-choice",
+   "explanation": "get along with = have a good relationship.",
+   "prompt": "I don’t ___ my new flatmate very well.",
+   "cue": "get along with",
+   "acceptedAnswers": [
+    "get along with"
+   ]
+  },
+  {
+   "id": "pv-003-24",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "tell off = reprimand (passive).",
+   "prompt": "I was ___ by my boss for arriving late.",
+   "cue": "tell off",
+   "acceptedAnswers": [
+    "told off"
+   ]
+  },
+  {
+   "id": "pv-003-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "get over = recover from.",
+   "prompt": "It took me a long time to ___ the shock of losing my job.",
+   "cue": "get over",
+   "acceptedAnswers": [
+    "get over"
+   ]
+  },
+  {
+   "id": "pv-003-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "call on = ask for help.",
+   "prompt": "She ___ her friends when she needed help with the move.",
+   "cue": "call on",
+   "acceptedAnswers": [
+    "called on"
+   ]
+  },
+  {
+   "id": "pv-003-27",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "nod off = fall asleep.",
+   "prompt": "I was so tired that I ___ in the middle of the film.",
+   "cue": "nod off",
+   "acceptedAnswers": [
+    "nodded off"
+   ]
+  },
+  {
+   "id": "pv-003-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "hush up = keep secret.",
+   "prompt": "The minister was accused of trying to ___ the scandal.",
+   "cue": "hush up",
+   "acceptedAnswers": [
+    "hush up"
+   ]
+  },
+  {
+   "id": "pv-003-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "kwt",
+   "explanation": "admire = look up to.",
+   "first": "I really admire my older sister.",
+   "keyword": "UP",
+   "before": "I really",
+   "after": "my older sister.",
+   "acceptedAnswers": [
+    "look up to"
+   ]
+  },
+  {
+   "id": "pv-003-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "kwt",
+   "explanation": "fall out over / about.",
+   "first": "They stopped being friends after an argument about politics.",
+   "keyword": "FELL",
+   "before": "They",
+   "after": "politics.",
+   "acceptedAnswers": [
+    "fell out over",
+    "fell out about"
+   ]
+  },
+  {
+   "id": "pv-003-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "kwt",
+   "explanation": "tolerate = put up with.",
+   "first": "I can’t tolerate his behaviour any more.",
+   "keyword": "PUT",
+   "before": "I can’t",
+   "after": "his behaviour any more.",
+   "acceptedAnswers": [
+    "put up with"
+   ]
+  },
+  {
+   "id": "pv-003-32",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "kwt",
+   "explanation": "resemble a parent = take after.",
+   "first": "She resembles her father in character.",
+   "keyword": "TAKES",
+   "before": "She",
+   "after": "her father in character.",
+   "acceptedAnswers": [
+    "takes after"
+   ]
+  },
+  {
+   "id": "pv-003-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "kwt",
+   "explanation": "like each other immediately = hit it off.",
+   "first": "The two men liked each other as soon as they met.",
+   "keyword": "HIT",
+   "before": "The two men",
+   "after": "as soon as they met.",
+   "acceptedAnswers": [
+    "hit it off"
+   ]
+  },
+  {
+   "id": "pv-003-34",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.2",
+   "type": "error-correction",
+   "explanation": "Pronoun between verb and particle.",
+   "parts": [
+    "Can you ",
+    {
+     "u": "pick up me"
+    },
+    " from the airport ",
+    {
+     "u": "tomorrow"
+    },
+    "?"
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "pick me up"
+   ]
+  },
+  {
+   "id": "pv-003-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "error-correction",
+   "explanation": "take after + object (no to).",
+   "parts": [
+    "She ",
+    {
+     "u": "takes after to"
+    },
+    " her mother — they’re both ",
+    {
+     "u": "very"
+    },
+    " stubborn."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "takes after"
+   ]
+  },
+  {
+   "id": "pv-003-36",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "error-correction",
+   "explanation": "catch up on + news.",
+   "parts": [
+    "I ",
+    {
+     "u": "ran into"
+    },
+    " an old friend and we ",
+    {
+     "u": "caught up"
+    },
+    " all the news over coffee."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "caught up on"
+   ]
+  },
+  {
+   "id": "pv-003-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "error-correction",
+   "explanation": "own up to + -ing.",
+   "parts": [
+    "He finally ",
+    {
+     "u": "owned up"
+    },
+    " breaking the window, ",
+    {
+     "u": "which"
+    },
+    " surprised everyone."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "owned up to",
+    "admitted"
+   ]
+  },
+  {
+   "id": "pv-003-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "error-correction",
+   "explanation": "hush up = keep secret.",
+   "parts": [
+    "The scandal was ",
+    {
+     "u": "hushed down"
+    },
+    " by the ",
+    {
+     "u": "government"
+    },
+    " for years."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "hushed up",
+    "covered up"
+   ]
+  },
+  {
+   "id": "pv-003-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.2",
+   "type": "word-order",
+   "explanation": "Pronoun between verb and particle.",
+   "fragments": [
+    "My",
+    "grandparents",
+    "brought",
+    "me",
+    "up",
+    "in Belém."
+   ],
+   "acceptedAnswers": [
+    "My grandparents brought me up in Belém."
+   ]
+  },
+  {
+   "id": "pv-003-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "word-order",
+   "explanation": "get on well with.",
+   "fragments": [
+    "I",
+    "get",
+    "on",
+    "well",
+    "with",
+    "my neighbours."
+   ],
+   "acceptedAnswers": [
+    "I get on well with my neighbours."
+   ]
+  },
+  {
+   "id": "pv-003-41",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "word-order",
+   "explanation": "let down = disappoint (passive).",
+   "fragments": [
+    "She",
+    "was",
+    "let",
+    "down",
+    "by",
+    "her closest friends."
+   ],
+   "acceptedAnswers": [
+    "She was let down by her closest friends."
+   ]
+  },
+  {
+   "id": "pv-003-42",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "matching",
+   "explanation": "Family and friends.",
+   "prompt": "Match each phrasal verb with its meaning.",
+   "left": [
+    "get on (with)",
+    "take after",
+    "pick up",
+    "grow up",
+    "look after"
+   ],
+   "right": [
+    "become an adult",
+    "collect (someone)",
+    "have a good relationship",
+    "take care of",
+    "resemble (a parent)",
+    "leave quickly"
+   ],
+   "answer": [
+    2,
+    4,
+    1,
+    0,
+    3
+   ]
+  },
+  {
+   "id": "pv-003-43",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "matching",
+   "explanation": "Relationships.",
+   "prompt": "Match each sentence with its meaning.",
+   "left": [
+    "They broke up.",
+    "They made up.",
+    "They fell out.",
+    "They hit it off.",
+    "They drifted apart."
+   ],
+   "right": [
+    "They liked each other immediately.",
+    "They ended their relationship.",
+    "They slowly became less close.",
+    "They became friends again after an argument.",
+    "They had an argument.",
+    "They got married."
+   ],
+   "answer": [
+    1,
+    3,
+    4,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "pv-003-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.5",
+   "type": "matching",
+   "explanation": "Formal equivalents.",
+   "prompt": "Which formal verb has the same meaning as each phrasal verb about people?",
+   "left": [
+    "tell off",
+    "put up with",
+    "look down on",
+    "own up to",
+    "stand by"
+   ],
+   "right": [
+    "tolerate",
+    "support (loyally)",
+    "reprimand",
+    "confess",
+    "despise",
+    "postpone"
+   ],
+   "answer": [
+    2,
+    0,
+    4,
+    3,
+    1
+   ]
+  },
+  {
+   "id": "pv-003-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.2",
+   "type": "matching",
+   "explanation": "talk into, be taken in, gang up on, fob off with, walk all over.",
+   "prompt": "Complete the sentences.",
+   "left": [
+    "She talked me",
+    "He was taken",
+    "They ganged",
+    "I won’t be fobbed",
+    "Don’t let him walk"
+   ],
+   "right": [
+    "in by the salesman’s charm.",
+    "all over you.",
+    "off with excuses.",
+    "into buying the car.",
+    "up on the new student.",
+    "down with the flu."
+   ],
+   "answer": [
+    3,
+    0,
+    4,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "pv-003-46",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "open-cloze",
+   "explanation": "Friendship verbs.",
+   "title": "My best friend",
+   "text": "I first met Júlia when we were six, and we got [1] immediately. We grew [2] in the same street and went to the same school. Of course, we sometimes fell [3] — once we didn’t speak for a whole month — but we always made [4] in the end. When my parents split [5], she was the one who looked [6] me. Now we live in different cities, but we still keep [7] touch. Whenever we meet [8], it feels as if no time has passed. She has never let me [9], and I know I can always count [10] her.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "on",
+      "along"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "after"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "in"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "down"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "on",
+      "upon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pv-003-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "open-cloze",
+   "explanation": "put off, sort out, bring up, beat around the bush, think through, brush aside, lash out, get carried away, boil down to, clear up.",
+   "title": "A difficult conversation",
+   "text": "Telling a friend something they don’t want to hear is never easy. Many of us put the conversation [1] for weeks, hoping the problem will sort itself [2]. When we finally bring the subject [3], we often beat [4] the bush instead of saying what we mean. Experts suggest a different approach: think [5] what you want to say beforehand, and don’t let the other person brush your concerns [6]. If they lash [7], stay calm and avoid getting carried [8]. Above all, listen. Many disagreements boil [9] to simple misunderstandings that can be cleared [10] in minutes.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "off"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "around",
+      "about"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "through",
+      "about",
+      "over"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "aside",
+      "off"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "away"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "down"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pv-003-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "open-cloze",
+   "explanation": "suck up to, run down, play along, come off badly, gang up on, win over, flare up, get out of hand, single out, take it lying down.",
+   "title": "Office politics",
+   "text": "In every workplace there is someone who sucks [1] to the boss, someone who runs colleagues [2] behind their backs, and someone who takes the credit for other people’s work. It is tempting to play [3] with these games, but those who do so often come [4] badly in the end. Rather than ganging [5] on a difficult colleague, try to win them [6]. If a dispute flares [7], deal with it before it gets [8] of hand. And if you are ever singled [9] for criticism, don’t take it lying [10].",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "down"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "along"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off",
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "over",
+      "round",
+      "around"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "down"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pv-003-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mc-cloze",
+   "explanation": "meet up with, reach out to, come across, call off, build up, turn out, drift out of, end up.",
+   "title": "Making friends in a new city",
+   "text": "Moving to a new city can be lonely, but there are ways to make friends. Join a club and you will soon [1] people with the same interests. Don’t wait for others to [2] you — invite them for coffee. When you [3] someone interesting, ask for their number. If plans are [4] at the last minute, don’t take it personally. Friendships take time to [5]. Some people you meet will [6] to be lifelong friends; others will simply [7] of your life. Either way, you will [8] feeling more confident.",
+   "gaps": [
+    {
+     "options": [
+      "make up with",
+      "put up with",
+      "meet up with",
+      "come up with"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "reach out for",
+      "hold out to",
+      "get out of",
+      "reach out to"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "come across",
+      "come over",
+      "come into",
+      "come about"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "called up",
+      "called off",
+      "called in",
+      "called out"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "build in",
+      "build on",
+      "build up",
+      "build over"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "turn up",
+      "turn over",
+      "turn in",
+      "turn out"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "drift out",
+      "drift off",
+      "drift away",
+      "drift up"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "end in",
+      "end up",
+      "end on",
+      "end off"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "pv-003-50",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mc-cloze",
+   "explanation": "break news, find out, go through, take in, burst into tears, brush aside, play down, draw up.",
+   "title": "Breaking bad news",
+   "text": "Doctors are trained to [1] bad news carefully. First, they [2] what the patient already knows. Then they [3] the information step by step, checking that the patient can [4] what is being said. Patients may [5] tears or become angry; the doctor should not [6] these reactions. Questions must be answered honestly, and the doctor should never [7] the seriousness of the situation. Finally, they [8] a plan for the next steps.",
+   "gaps": [
+    {
+     "options": [
+      "break off",
+      "break into",
+      "break",
+      "break up"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "find in",
+      "find over",
+      "find off",
+      "find out"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "go through",
+      "go off",
+      "go by",
+      "go down"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "take up",
+      "take in",
+      "take off",
+      "take after"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "burst out",
+      "break out",
+      "burst into",
+      "burst in"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "brush up",
+      "brush in",
+      "brush over",
+      "brush aside"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "play down",
+      "play back",
+      "play along",
+      "play off"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "draw in",
+      "draw up",
+      "draw out",
+      "draw back"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

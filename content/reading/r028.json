@@ -1,0 +1,298 @@
+{
+ "id": "r028",
+ "title": "The New Life of Old Clothes",
+ "level": "B2",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "FUVEST",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "Not so long ago, wearing second-hand clothes was something many people preferred to hide. Today, for a growing number of young consumers, it is a source of pride. Online platforms where people sell their used clothes have millions of users, charity shops attract queues of students, and \"vintage\" items from previous decades are sold at prices that would have astonished their original owners.\n\nThe reasons for this change are partly economic. Second-hand clothes are usually much cheaper than new ones, which matters at a time when many young people face high rents and uncertain incomes. But money is not the only factor. For some buyers, second-hand shopping offers something that the high street cannot: the chance to find a unique item that nobody else is wearing. For others, the main motivation is environmental.\n\nThe fashion industry has a considerable environmental footprint. Producing clothes requires large amounts of water, energy and chemicals, and the rise of so-called \"fast fashion\" — cheap clothes produced quickly to follow the latest trends — has encouraged people to buy more and wear each item fewer times. A large share of clothing ends up in landfill or is burned after a relatively short life. Buying second-hand extends the life of garments that already exist, reducing the need for new production.\n\nYet critics warn that the picture is not entirely positive. Some argue that the popularity of second-hand platforms has simply created a new form of consumption: people buy more because they know they can resell items later, and the constant shipping of parcels has its own environmental cost. In addition, as wealthier consumers discover charity shops, prices have risen in some areas, which may be a problem for low-income families who have always depended on them.\n\nThere are also questions about what happens to the clothes that nobody wants. Large quantities of used clothing are exported every year to countries in Africa, Asia and Latin America. Some of it is resold and worn, supporting local traders, but much of it is of such poor quality that it is eventually thrown away, adding to waste problems in places that did not produce it.\n\nMost experts agree that second-hand fashion is a step in the right direction, but not a complete solution. The most sustainable garment, they point out, is the one that is already in your wardrobe. Repairing, swapping and simply buying less may be less exciting than finding a vintage jacket, but they are probably more effective.",
+ "questions": [
+  {
+   "id": "r028-q01",
+   "type": "reading",
+   "passageId": "r028",
+   "prompt": "How has the attitude to second-hand clothes changed, according to paragraph 1?",
+   "options": [
+    "People used to love it, but now they avoid it.",
+    "It has always been popular with young people.",
+    "Only charity shops sell second-hand clothes now.",
+    "People used to hide it, but now many are proud of it."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "From something to hide to a source of pride."
+  },
+  {
+   "id": "r028-q02",
+   "type": "reading",
+   "passageId": "r028",
+   "prompt": "Which motivation for buying second-hand clothes is NOT mentioned in paragraph 2?",
+   "options": [
+    "saving money",
+    "finding unique items",
+    "following celebrity fashion",
+    "protecting the environment"
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Celebrities are not mentioned."
+  },
+  {
+   "id": "r028-q03",
+   "type": "reading",
+   "passageId": "r028",
+   "prompt": "What is “fast fashion”?",
+   "options": [
+    "cheap clothes made quickly to follow trends",
+    "clothes for sports and running",
+    "clothes sold online with fast delivery",
+    "expensive designer clothes"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Defined in paragraph 3."
+  },
+  {
+   "id": "r028-q04",
+   "type": "reading",
+   "passageId": "r028",
+   "prompt": "How does buying second-hand help the environment?",
+   "options": [
+    "It uses less water to wash clothes.",
+    "It stops clothes from being exported.",
+    "It reduces the need to produce new clothes.",
+    "It makes clothes last longer in landfill."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "It extends the life of existing garments."
+  },
+  {
+   "id": "r028-q05",
+   "type": "reading",
+   "passageId": "r028",
+   "prompt": "According to critics, how can second-hand platforms encourage consumption?",
+   "options": [
+    "Platforms give free clothes to users.",
+    "People buy more because they can resell items later.",
+    "Prices on platforms are always higher.",
+    "Platforms only sell new clothes."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r028-q06",
+   "type": "reading",
+   "passageId": "r028",
+   "prompt": "Why might rising prices in charity shops be a problem?",
+   "options": [
+    "Charity shops will close.",
+    "Students will stop buying clothes.",
+    "Wealthy consumers will lose money.",
+    "Low-income families depend on them."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“a problem for low-income families who have always depended on them”."
+  },
+  {
+   "id": "r028-q07",
+   "type": "reading",
+   "passageId": "r028",
+   "prompt": "What happens to much of the exported clothing?",
+   "options": [
+    "It is sold back to the original owners.",
+    "It is thrown away because of its poor quality.",
+    "It is burned before export.",
+    "It is given to museums."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Much of it is eventually thrown away."
+  },
+  {
+   "id": "r028-q08",
+   "type": "reading",
+   "passageId": "r028",
+   "prompt": "The word “them” in paragraph 4 (“depended on them”) refers to",
+   "options": [
+    "charity shops",
+    "wealthier consumers",
+    "low-income families",
+    "prices"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Families have always depended on charity shops."
+  },
+  {
+   "id": "r028-q09",
+   "type": "reading",
+   "passageId": "r028",
+   "prompt": "According to experts, what is “the most sustainable garment”?",
+   "options": [
+    "a vintage jacket",
+    "one that you already own",
+    "a garment bought online",
+    "a garment made from recycled plastic"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“the one that is already in your wardrobe”."
+  },
+  {
+   "id": "r028-q10",
+   "type": "reading",
+   "passageId": "r028",
+   "prompt": "What is the author's overall view of second-hand fashion?",
+   "options": [
+    "It helps, but it does not solve the problem alone.",
+    "It is a complete solution to fashion waste.",
+    "It is harmful and should be stopped.",
+    "It is only a passing trend."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“a step in the right direction, but not a complete solution”."
+  }
+ ]
+}

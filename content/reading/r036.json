@@ -1,0 +1,276 @@
+{
+ "id": "r036",
+ "title": "Life Beneath the Surface",
+ "level": "B2",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "EsPCEx",
+  "EFOMM",
+  "AFA",
+  "EN"
+ ],
+ "text": "Few working environments are as unusual as a submarine. For weeks or even months at a time, a crew of dozens of people lives and works inside a sealed steel tube, with no natural light, no fresh air from outside and no possibility of simply walking away. For many submariners, this is precisely what makes the service special.\n\nSpace is the first thing that newcomers notice. Every centimetre is used for equipment, weapons, food or people. Corridors are so narrow that two crew members must turn sideways to pass each other, and on some submarines junior sailors share bunks in a system known as \"hot bunking\": when one person gets up to go on watch, another person who has just finished a watch takes their place. Personal belongings must fit into a very small locker.\n\nWithout sunlight, the normal rhythm of day and night disappears. Many submarines use lighting to mark the difference: white light during the \"day\" and red or dim light at \"night\", which also helps those on watch to keep their eyes adapted to the dark. Meals at regular times help too. Crews often say that food is especially important on a submarine, since there are so few other pleasures; cooks are among the most appreciated members of the crew.\n\nAir on a submarine has to be managed artificially. Oxygen is produced on board, often by passing an electric current through water, and carbon dioxide is removed by special equipment. The air is constantly monitored, because even a small fire or chemical leak in such a confined space could be extremely dangerous. For this reason, safety training is intense, and every crew member must know how to respond to fire or flooding without hesitation.\n\nCommunication with the outside world is very limited. A submarine that is trying to remain undetected cannot transmit freely, and receiving messages may require coming close to the surface. Crew members may receive only short, occasional messages from their families, and in some cases none at all for long periods. Psychological selection and support are therefore taken very seriously.\n\nDespite — or perhaps because of — these conditions, submariners often describe a strong sense of community. In such a small space, everyone depends on everyone else, and a mistake by one person could endanger all. Many navies have a special badge for qualified submariners, which is earned only after the sailor has learned how all the main systems of the boat work. It is worn with considerable pride.",
+ "glossary": [
+  [
+   "bunk",
+   "a narrow bed, often one of two or more arranged one above the other"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r036-q01",
+   "type": "reading",
+   "passageId": "r036",
+   "prompt": "According to paragraph 1, what makes submarine service special for many submariners?",
+   "options": [
+    "The unusual and isolated conditions themselves",
+    "The high salaries",
+    "The short duration of missions",
+    "The comfortable living spaces"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“this is precisely what makes the service special”."
+  },
+  {
+   "id": "r036-q02",
+   "type": "reading",
+   "passageId": "r036",
+   "prompt": "What is “hot bunking”?",
+   "options": [
+    "Sleeping near the engines to stay warm",
+    "Sharing a bed with someone who works a different watch",
+    "Heating beds electrically",
+    "Sleeping in turns on the floor"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "One person leaves for watch and another takes the bunk."
+  },
+  {
+   "id": "r036-q03",
+   "type": "reading",
+   "passageId": "r036",
+   "prompt": "Why do submarines use red or dim light at “night”?",
+   "options": [
+    "To save electricity",
+    "To avoid being detected from the surface",
+    "Because white light damages equipment",
+    "To mark the night and help those on watch keep their eyes adapted to darkness"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r036-q04",
+   "type": "reading",
+   "passageId": "r036",
+   "prompt": "Why are cooks among the most appreciated crew members?",
+   "options": [
+    "They also work as doctors.",
+    "They control the oxygen supply.",
+    "Food is one of the few pleasures on board.",
+    "They are the most senior sailors."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“food is especially important on a submarine, since there are so few other pleasures”."
+  },
+  {
+   "id": "r036-q05",
+   "type": "reading",
+   "passageId": "r036",
+   "prompt": "How is oxygen often produced on a submarine?",
+   "options": [
+    "By passing an electric current through water",
+    "By bringing air down from the surface every day",
+    "By growing plants on board",
+    "By burning special fuel"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r036-q06",
+   "type": "reading",
+   "passageId": "r036",
+   "prompt": "Why is the air constantly monitored?",
+   "options": [
+    "Crew members smoke on board.",
+    "A fire or leak in a confined space could be very dangerous.",
+    "The law requires daily reports.",
+    "The submarine has no oxygen system."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r036-q07",
+   "type": "reading",
+   "passageId": "r036",
+   "prompt": "Why is communication with the outside world limited?",
+   "options": [
+    "Transmitting could reveal the submarine's position.",
+    "Submariners are not allowed to have families.",
+    "Messages are too expensive.",
+    "There is no radio equipment on board."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "A submarine trying to remain undetected cannot transmit freely."
+  },
+  {
+   "id": "r036-q08",
+   "type": "reading",
+   "passageId": "r036",
+   "prompt": "The phrase “Despite — or perhaps because of —” in the last paragraph suggests that",
+   "options": [
+    "the author is unsure about the size of the submarine",
+    "the conditions destroy any sense of community",
+    "the difficult conditions may actually strengthen the sense of community",
+    "submariners do not like each other"
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The author suggests hardship may create community."
+  },
+  {
+   "id": "r036-q09",
+   "type": "reading",
+   "passageId": "r036",
+   "prompt": "How is the submariner's badge earned?",
+   "options": [
+    "By completing one year of service",
+    "By passing a swimming test",
+    "By being promoted to officer",
+    "By learning how all the main systems of the boat work"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in the last paragraph."
+  }
+ ]
+}

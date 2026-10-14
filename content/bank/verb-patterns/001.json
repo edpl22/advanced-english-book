@@ -1,0 +1,1900 @@
+{
+ "topic": "verb-patterns",
+ "batch": 1,
+ "title": "Verb patterns: gerund or infinitive",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "vpat-001-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "mcq",
+   "explanation": "hope + to-infinitive.",
+   "prompt": "I hope ___ you again soon.",
+   "options": [
+    "to see",
+    "seeing",
+    "see",
+    "to seeing"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "vpat-001-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "mcq",
+   "explanation": "finish + -ing.",
+   "prompt": "She finished ___ her homework at nine.",
+   "options": [
+    "to do",
+    "doing",
+    "do",
+    "done"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "vpat-001-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "mcq",
+   "explanation": "fancy + -ing.",
+   "prompt": "Do you fancy ___ to the cinema tonight?",
+   "options": [
+    "to go",
+    "go",
+    "going",
+    "gone"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "vpat-001-04",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.4",
+   "type": "mcq",
+   "explanation": "help + object + (to) base form.",
+   "prompt": "My teacher helped me ___ my essay.",
+   "options": [
+    "improving",
+    "improved",
+    "for improve",
+    "improve"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "vpat-001-05",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "mcq",
+   "explanation": "agree + to-infinitive.",
+   "prompt": "We agreed ___ at the station at six.",
+   "options": [
+    "to meet",
+    "meeting",
+    "meet",
+    "for meeting"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "vpat-001-06",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "mcq",
+   "explanation": "suggest + -ing.",
+   "prompt": "I suggest ___ earlier tomorrow.",
+   "options": [
+    "to leave",
+    "leaving",
+    "leave",
+    "us to leave"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "vpat-001-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "11.2",
+   "type": "mcq",
+   "explanation": "remember to do = not forget.",
+   "prompt": "Please remember ___ the cat before you go.",
+   "options": [
+    "feeding",
+    "feed",
+    "to feed",
+    "fed"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "vpat-001-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "11.2",
+   "type": "mcq",
+   "explanation": "forget doing = a memory of the past.",
+   "prompt": "I’ll never forget ___ the Pope in Rio.",
+   "options": [
+    "to meet",
+    "meet",
+    "met",
+    "meeting"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "vpat-001-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "11.4",
+   "type": "mcq",
+   "explanation": "make + object + base form.",
+   "prompt": "That film always makes me ___.",
+   "options": [
+    "cry",
+    "to cry",
+    "crying",
+    "cried"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "vpat-001-10",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "mcq",
+   "explanation": "avoid + -ing.",
+   "prompt": "She avoided ___ to him at the party.",
+   "options": [
+    "to talk",
+    "talking",
+    "talk",
+    "talked"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "vpat-001-11",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "11.4",
+   "type": "mcq",
+   "explanation": "want + object + to-infinitive.",
+   "prompt": "I want you ___ me the truth.",
+   "options": [
+    "tell",
+    "telling",
+    "to tell",
+    "that you tell"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "vpat-001-12",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "mcq",
+   "explanation": "keep + -ing.",
+   "prompt": "He keeps ___ the same mistakes.",
+   "options": [
+    "to make",
+    "make",
+    "made",
+    "making"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "vpat-001-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.2",
+   "type": "mcq",
+   "explanation": "go on to do = do something next.",
+   "prompt": "After finishing her degree, she went on ___ a famous architect.",
+   "options": [
+    "to become",
+    "becoming",
+    "become",
+    "to becoming"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "vpat-001-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.3",
+   "type": "mcq",
+   "explanation": "Perfect continuous infinitive.",
+   "prompt": "He appears ___ for hours — he looks exhausted.",
+   "options": [
+    "working",
+    "to have been working",
+    "to work",
+    "to be worked"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "vpat-001-15",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.4",
+   "type": "mcq",
+   "explanation": "Verbs of perception + object + base form (or -ing).",
+   "prompt": "I watched the sun ___ over the sea.",
+   "options": [
+    "to set",
+    "sets",
+    "set",
+    "was setting"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "vpat-001-16",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "mcq",
+   "explanation": "it’s worth + -ing.",
+   "prompt": "It’s worth ___ that the results are only provisional.",
+   "options": [
+    "to note",
+    "note",
+    "noted",
+    "noting"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "vpat-001-17",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "11.3",
+   "type": "mcq",
+   "explanation": "resent + passive -ing.",
+   "prompt": "He resented ___ to work late every Friday.",
+   "options": [
+    "being asked",
+    "to be asked",
+    "asking",
+    "to ask"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "vpat-001-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "11.3",
+   "type": "mcq",
+   "explanation": "admit (to) + perfect -ing.",
+   "prompt": "The prisoner admitted ___ the bank.",
+   "options": [
+    "to rob",
+    "to having robbed",
+    "having rob",
+    "to have robbing"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "vpat-001-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "gap",
+   "explanation": "want + to-infinitive.",
+   "prompt": "I really want ___ Japan one day.",
+   "acceptedAnswers": [
+    "to visit"
+   ],
+   "cue": "visit"
+  },
+  {
+   "id": "vpat-001-20",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "gap",
+   "explanation": "Preposition + -ing.",
+   "prompt": "She’s good at ___ pictures.",
+   "acceptedAnswers": [
+    "drawing"
+   ],
+   "cue": "draw"
+  },
+  {
+   "id": "vpat-001-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "11.4",
+   "type": "gap",
+   "explanation": "would rather + base form.",
+   "prompt": "I’d rather ___ at home tonight.",
+   "acceptedAnswers": [
+    "stay"
+   ],
+   "cue": "stay"
+  },
+  {
+   "id": "vpat-001-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "11.4",
+   "type": "gap",
+   "explanation": "let + object + base form.",
+   "prompt": "The guard didn’t let us ___ photos.",
+   "acceptedAnswers": [
+    "take"
+   ],
+   "cue": "take"
+  },
+  {
+   "id": "vpat-001-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "gap",
+   "explanation": "be used to + -ing.",
+   "prompt": "After a year in São Paulo, I’m used to ___ in a big city.",
+   "acceptedAnswers": [
+    "living"
+   ],
+   "cue": "live"
+  },
+  {
+   "id": "vpat-001-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.4",
+   "type": "gap",
+   "explanation": "had better + base form.",
+   "prompt": "You’d better ___ a coat — it’s cold.",
+   "acceptedAnswers": [
+    "take"
+   ],
+   "cue": "take"
+  },
+  {
+   "id": "vpat-001-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.2",
+   "type": "gap",
+   "explanation": "mean to = intend to.",
+   "prompt": "I meant ___ you, but I forgot.",
+   "acceptedAnswers": [
+    "to call",
+    "to have called"
+   ],
+   "cue": "call"
+  },
+  {
+   "id": "vpat-001-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.3",
+   "type": "gap",
+   "explanation": "deny + -ing.",
+   "prompt": "She denies ___ the documents.",
+   "acceptedAnswers": [
+    "taking",
+    "having taken"
+   ],
+   "cue": "take"
+  },
+  {
+   "id": "vpat-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "11.3",
+   "type": "gap",
+   "explanation": "Perfect infinitive.",
+   "prompt": "He is said ___ a fortune on the stock market last year.",
+   "acceptedAnswers": [
+    "to have made"
+   ],
+   "cue": "make"
+  },
+  {
+   "id": "vpat-001-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "11.3",
+   "type": "gap",
+   "explanation": "claim + perfect infinitive.",
+   "prompt": "She claims ___ the answer all along.",
+   "acceptedAnswers": [
+    "to have known"
+   ],
+   "cue": "know"
+  },
+  {
+   "id": "vpat-001-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "kwt",
+   "explanation": "Do you mind if… / Do you mind me + -ing.",
+   "first": "Is it OK if I open the window?",
+   "keyword": "MIND",
+   "before": "Do you",
+   "after": "the window?",
+   "acceptedAnswers": [
+    "mind if I open",
+    "mind me opening",
+    "mind my opening"
+   ]
+  },
+  {
+   "id": "vpat-001-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.2",
+   "type": "kwt",
+   "explanation": "regret + -ing = be sorry about a past action.",
+   "first": "It was a mistake to sell the house — I wish I hadn’t.",
+   "keyword": "REGRET",
+   "before": "I",
+   "after": "the house.",
+   "acceptedAnswers": [
+    "regret selling",
+    "regret having sold"
+   ]
+  },
+  {
+   "id": "vpat-001-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.4",
+   "type": "kwt",
+   "explanation": "let + object + base form.",
+   "first": "My parents didn’t permit me to go out on weeknights.",
+   "keyword": "LET",
+   "before": "My parents didn’t",
+   "after": "out on weeknights.",
+   "acceptedAnswers": [
+    "let me go"
+   ]
+  },
+  {
+   "id": "vpat-001-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "11.3",
+   "type": "kwt",
+   "explanation": "appear + perfect infinitive.",
+   "first": "It seems that the thieves knew the code.",
+   "keyword": "APPEAR",
+   "before": "The thieves",
+   "after": "the code.",
+   "acceptedAnswers": [
+    "appear to have known"
+   ]
+  },
+  {
+   "id": "vpat-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "kwt",
+   "explanation": "can’t help + -ing.",
+   "first": "I couldn’t stop myself from smiling.",
+   "keyword": "HELP",
+   "before": "I couldn’t",
+   "after": ".",
+   "acceptedAnswers": [
+    "help smiling",
+    "help but smile"
+   ]
+  },
+  {
+   "id": "vpat-001-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "error-correction",
+   "explanation": "decide + to-infinitive.",
+   "parts": [
+    "I ",
+    {
+     "u": "decided"
+    },
+    " ",
+    {
+     "u": "going"
+    },
+    " to the beach."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "to go"
+   ]
+  },
+  {
+   "id": "vpat-001-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "error-correction",
+   "explanation": "mind + -ing.",
+   "parts": [
+    "Would you mind ",
+    {
+     "u": "to help"
+    },
+    " me with ",
+    {
+     "u": "these"
+    },
+    " bags?"
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "helping"
+   ]
+  },
+  {
+   "id": "vpat-001-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "error-correction",
+   "explanation": "suggest + -ing / that-clause.",
+   "parts": [
+    "I suggest ",
+    {
+     "u": "to take"
+    },
+    " the early ",
+    {
+     "u": "train"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "taking",
+    "that we take",
+    "we take"
+   ]
+  },
+  {
+   "id": "vpat-001-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "error-correction",
+   "explanation": "can’t help + -ing.",
+   "parts": [
+    "She can’t help ",
+    {
+     "u": "to worry"
+    },
+    " about her ",
+    {
+     "u": "children"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "worrying"
+   ]
+  },
+  {
+   "id": "vpat-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "11.3",
+   "type": "error-correction",
+   "explanation": "Earlier action: perfect infinitive.",
+   "parts": [
+    "He is ",
+    {
+     "u": "reported"
+    },
+    " ",
+    {
+     "u": "to win"
+    },
+    " the lottery twice."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "to have won"
+   ]
+  },
+  {
+   "id": "vpat-001-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "word-order",
+   "explanation": "enjoy + -ing.",
+   "fragments": [
+    "I",
+    "enjoy",
+    "swimming",
+    "in",
+    "the",
+    "sea."
+   ],
+   "acceptedAnswers": [
+    "I enjoy swimming in the sea."
+   ]
+  },
+  {
+   "id": "vpat-001-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "11.4",
+   "type": "word-order",
+   "explanation": "ask + object + to-infinitive.",
+   "fragments": [
+    "She",
+    "asked",
+    "me",
+    "to",
+    "lend",
+    "her",
+    "some money."
+   ],
+   "acceptedAnswers": [
+    "She asked me to lend her some money."
+   ]
+  },
+  {
+   "id": "vpat-001-41",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.2",
+   "type": "word-order",
+   "explanation": "remember + -ing = a memory.",
+   "fragments": [
+    "I",
+    "remember",
+    "visiting",
+    "this place",
+    "as",
+    "a child."
+   ],
+   "acceptedAnswers": [
+    "I remember visiting this place as a child."
+   ]
+  },
+  {
+   "id": "vpat-001-42",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "matching",
+   "explanation": "Verbs followed by -ing or to-infinitive.",
+   "prompt": "Match each verb with its meaning.",
+   "left": [
+    "fancy",
+    "can’t stand",
+    "avoid",
+    "manage",
+    "refuse"
+   ],
+   "right": [
+    "hate",
+    "succeed in",
+    "feel like",
+    "keep away from",
+    "say no to",
+    "agree"
+   ],
+   "answer": [
+    2,
+    0,
+    3,
+    1,
+    4
+   ]
+  },
+  {
+   "id": "vpat-001-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "11.4",
+   "type": "matching",
+   "explanation": "make / let / help + base form; force + to-infinitive.",
+   "prompt": "Match each beginning with its ending.",
+   "left": [
+    "My parents made me",
+    "My parents let me",
+    "My friend helped me",
+    "The comedian made everyone",
+    "The rain forced us"
+   ],
+   "right": [
+    "to stay indoors.",
+    "tidy my room every day.",
+    "stay out until midnight on Saturdays.",
+    "move into my new flat.",
+    "laugh.",
+    "to laughing."
+   ],
+   "answer": [
+    1,
+    2,
+    3,
+    4,
+    0
+   ]
+  },
+  {
+   "id": "vpat-001-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.2",
+   "type": "matching",
+   "explanation": "Verbs that change meaning.",
+   "prompt": "Match each sentence with its meaning.",
+   "left": [
+    "She went on talking.",
+    "She went on to talk about politics.",
+    "I regret telling him.",
+    "I regret to tell you…",
+    "I mean to finish it."
+   ],
+   "right": [
+    "I intend to finish it.",
+    "She changed to a new topic.",
+    "I finished it.",
+    "I’m sorry I told him.",
+    "She continued.",
+    "I’m sorry, but I must tell you…"
+   ],
+   "answer": [
+    4,
+    1,
+    3,
+    5,
+    0
+   ]
+  },
+  {
+   "id": "vpat-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "11.3",
+   "type": "matching",
+   "explanation": "Simple, continuous, perfect and passive infinitives.",
+   "prompt": "Match each infinitive with its meaning.",
+   "left": [
+    "She seems to be working.",
+    "She seems to have worked.",
+    "She seems to have been working.",
+    "She seems to work hard.",
+    "She seems to have been sacked."
+   ],
+   "right": [
+    "now, at this moment",
+    "in general",
+    "for a period up to now (she looks tired)",
+    "in the past (completed)",
+    "something was done to her in the past",
+    "in the future"
+   ],
+   "answer": [
+    0,
+    3,
+    2,
+    1,
+    4
+   ]
+  },
+  {
+   "id": "vpat-001-46",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "open-cloze",
+   "explanation": "Gerunds and infinitives in a personal story.",
+   "title": "Learning the guitar",
+   "text": "Last year I decided [1] learn the guitar. I had always wanted [2] play an instrument, but I kept [3] it off. My friend Lucas, who is very good at [4], offered to teach me. At first I found it hard [5] press the strings properly, and my fingers hurt. Lucas made me [6] scales for twenty minutes every day. I hated [7] it, but it worked. Now I enjoy [8] songs with my friends, and I’m thinking [9] joining a band. I can’t wait [10] play in front of an audience!",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "putting"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "playing",
+      "music",
+      "teaching"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "practise",
+      "practice",
+      "play",
+      "do"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "doing",
+      "practising",
+      "practicing"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "playing",
+      "singing"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "of",
+      "about"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vpat-001-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "open-cloze",
+   "explanation": "Verb patterns in a career story.",
+   "title": "From bank to bakery",
+   "text": "After ten years in banking, Renata decided she could no longer stand [1] in an office all day. She had always dreamed [2] opening her own bakery. Her friends tried [3] persuade her to stay, warning her that she risked [4] all her savings. But she refused [5] listen. She spent months [6] recipes and learning [7] to run a business. The first year was hard: she had to get up at four and couldn’t afford [8] employ anyone. Now, three years later, she doesn’t regret [9] the bank for a moment, and she encourages others [10] follow their dreams.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "sitting",
+      "working",
+      "being"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "of",
+      "about"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "losing"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "testing",
+      "developing",
+      "trying",
+      "perfecting",
+      "practising",
+      "practicing",
+      "creating"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "how"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "leaving"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vpat-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "11.3",
+   "type": "open-cloze",
+   "explanation": "Verb patterns in an essay.",
+   "title": "The invisible art",
+   "text": "Translators are often accused [1] being invisible: when a translation is good, nobody notices it. The best translators manage [2] make a text sound as if it had been written in the target language. This involves [3] decisions on almost every line. Should a joke be translated literally, or is it worth [4] it for one that works? Some translators admit [5] having changed the endings of novels; others refuse [6] alter even a comma. Readers tend [7] assume that the translation is identical to the original, but no translation can claim [8] be perfect. Perhaps the most a translator can hope [9] is for the reader to forget that the book was ever [10] in another language.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "of"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "making",
+      "taking"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "replacing",
+      "swapping",
+      "exchanging",
+      "changing",
+      "sacrificing"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "for"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "written"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vpat-001-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "11.2",
+   "type": "mc-cloze",
+   "explanation": "Gerund, infinitive or base form?",
+   "title": "Advice for exam day",
+   "text": "Try [1] to bed early the night before the exam. In the morning, avoid [2] too much coffee. Remember [3] your ID card — without it, they won’t let you [4] the room. When the exam starts, don’t waste time [5] about difficult questions; it’s better [6] on and come back later. If you finish early, it’s worth [7] your answers. And whatever happens, don’t let one bad exam [8] you.",
+   "gaps": [
+    {
+     "options": [
+      "go",
+      "gone",
+      "to go",
+      "to going"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "to drink",
+      "drink",
+      "drunk",
+      "drinking"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "to bring",
+      "bringing",
+      "bring",
+      "brought"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "to enter",
+      "enter",
+      "entering",
+      "entered"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "to worry",
+      "worry",
+      "worrying",
+      "worried"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "moving",
+      "move",
+      "moved",
+      "to move"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "checking",
+      "to check",
+      "check",
+      "checked"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "to discourage",
+      "discourage",
+      "discouraging",
+      "discouraged"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "vpat-001-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "verb-patterns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "11.1",
+   "type": "mc-cloze",
+   "explanation": "Verb patterns in a formal announcement.",
+   "title": "An announcement from the airline",
+   "text": "We regret [1] passengers that flight 304 has been delayed. Passengers are advised [2] at the gate by 18:00. We apologise for [3] you waiting and would like [4] you a meal voucher. Please refrain from [5] the cabin crew while they are preparing the aircraft. Passengers who wish [6] their flight should contact the information desk. We appreciate [7] patience and look forward to [8] you on board.",
+   "gaps": [
+    {
+     "options": [
+      "informing",
+      "inform",
+      "to inform",
+      "to informing"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "being",
+      "be",
+      "been",
+      "to be"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "keeping",
+      "to keep",
+      "keep",
+      "kept"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "offering",
+      "to offer",
+      "offer",
+      "offered"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "to disturb",
+      "disturb",
+      "disturbing",
+      "disturbed"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "changing",
+      "change",
+      "changed",
+      "to change"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "your",
+      "you",
+      "yours",
+      "you’re"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "welcome",
+      "welcoming",
+      "to welcome",
+      "welcomed"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

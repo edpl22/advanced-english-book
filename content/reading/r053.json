@@ -1,0 +1,270 @@
+{
+ "id": "r053",
+ "title": "Clocks in the Sky",
+ "level": "C1",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "TOEFL",
+  "IELTS",
+  "CAE",
+  "FUVEST"
+ ],
+ "text": "To most users, satellite navigation is a matter of geography: a dot on a map showing where they are. Yet the technology is fundamentally a system for measuring time. Each navigation satellite carries extremely precise atomic clocks and continuously broadcasts signals indicating the exact moment at which each signal was sent and the satellite's position. A receiver on the ground compares the time at which a signal arrives with the time it was transmitted, and, since radio signals travel at the speed of light, the delay reveals the distance to the satellite.\n\nA single distance is not enough to determine a position; it only places the receiver somewhere on an imaginary sphere around the satellite. With distances from several satellites, however, the receiver can calculate the point at which these spheres intersect. In practice, at least four satellites are needed, because the inexpensive clock inside a typical receiver is nowhere near as accurate as those in orbit. The fourth measurement allows the receiver to calculate and correct its own clock error at the same time as its position.\n\nThe demands on accuracy are extraordinary. Because light travels nearly 300,000 kilometres per second, a timing error of one millionth of a second would produce a position error of about 300 metres. The system therefore depends not only on atomic clocks but on remarkably subtle physics. According to Einstein's theory of special relativity, clocks moving at high speed run slightly slow relative to those on the ground; according to general relativity, clocks in a weaker gravitational field run slightly fast. For satellites in the orbits used by navigation systems, the second effect is larger, and the net result is that satellite clocks would gain several tens of microseconds per day relative to clocks on Earth. If this were not corrected, positioning errors would accumulate at a rate of kilometres per day. Satellite navigation may thus be the most widely used everyday application of relativity.\n\nSeveral independent systems now exist, operated by different countries and regions, and many modern receivers can use signals from more than one of them, improving accuracy and reliability. Yet all share certain vulnerabilities. Their signals are extremely weak by the time they reach the Earth's surface, which makes them susceptible to interference, whether accidental or deliberate. Signals can be reflected by buildings, introducing errors in dense cities, and blocked entirely indoors or underground.\n\nThe significance of these vulnerabilities extends far beyond navigation. Because the satellites broadcast such precise time, their signals are also used to synchronise telecommunications networks, power grids and financial transactions. A prolonged disruption could therefore affect systems whose users may not even realise that they depend on satellites. For this reason, engineers and governments increasingly emphasise the need for backup sources of both position and time.",
+ "questions": [
+  {
+   "id": "r053-q01",
+   "type": "reading",
+   "passageId": "r053",
+   "prompt": "What is the author's main point in paragraph 1?",
+   "options": [
+    "Satellite navigation is mainly about drawing maps.",
+    "Atomic clocks are used only in laboratories.",
+    "Satellite navigation is essentially a system for measuring time.",
+    "Radio signals travel slower than light."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“the technology is fundamentally a system for measuring time”."
+  },
+  {
+   "id": "r053-q02",
+   "type": "reading",
+   "passageId": "r053",
+   "prompt": "How does a receiver calculate its distance from a satellite?",
+   "options": [
+    "By measuring the strength of the signal",
+    "From the delay between transmission and arrival of the signal",
+    "By asking the satellite directly",
+    "By comparing photographs"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The delay reveals the distance."
+  },
+  {
+   "id": "r053-q03",
+   "type": "reading",
+   "passageId": "r053",
+   "prompt": "Why are at least four satellites needed in practice?",
+   "options": [
+    "The receiver must also correct its own inaccurate clock.",
+    "Three satellites are never visible at once.",
+    "Each satellite covers only one quarter of the Earth.",
+    "Signals from one satellite are often lost."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The fourth measurement corrects the receiver's clock error."
+  },
+  {
+   "id": "r053-q04",
+   "type": "reading",
+   "passageId": "r053",
+   "prompt": "According to paragraph 3, what would a timing error of one millionth of a second cause?",
+   "options": [
+    "a position error of 300 kilometres",
+    "no significant error",
+    "a position error of about 300 metres",
+    "a complete loss of signal"
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r053-q05",
+   "type": "reading",
+   "passageId": "r053",
+   "prompt": "Which effect is larger for navigation satellites?",
+   "options": [
+    "Clocks running slow because of speed",
+    "Both effects are exactly equal",
+    "Neither effect is measurable",
+    "Clocks running fast because of weaker gravity"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The second effect (general relativity) is larger."
+  },
+  {
+   "id": "r053-q06",
+   "type": "reading",
+   "passageId": "r053",
+   "prompt": "Why does the author call satellite navigation “the most widely used everyday application of relativity”?",
+   "options": [
+    "Without relativistic corrections, positioning would quickly become inaccurate.",
+    "Einstein designed the first satellite.",
+    "Relativity explains why satellites stay in orbit.",
+    "Receivers display relativistic data to users."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Errors would accumulate at kilometres per day."
+  },
+  {
+   "id": "r053-q07",
+   "type": "reading",
+   "passageId": "r053",
+   "prompt": "Which vulnerability of satellite signals is NOT mentioned?",
+   "options": [
+    "They are very weak at the surface.",
+    "They can be reflected by buildings.",
+    "They are blocked indoors.",
+    "They are affected by changes in the Earth's magnetic field."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The magnetic field is not mentioned."
+  },
+  {
+   "id": "r053-q08",
+   "type": "reading",
+   "passageId": "r053",
+   "prompt": "Why could a disruption affect people who never use navigation?",
+   "options": [
+    "All mobile phones would stop working permanently.",
+    "Satellite time signals synchronise networks such as power grids and finance.",
+    "Maps would disappear from the internet.",
+    "Satellites control the weather."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 5."
+  },
+  {
+   "id": "r053-q09",
+   "type": "reading",
+   "passageId": "r053",
+   "prompt": "What do engineers and governments emphasise?",
+   "options": [
+    "The need for more powerful receivers",
+    "The need for backup sources of position and time",
+    "Reducing the number of satellites",
+    "Replacing atomic clocks"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in the last paragraph."
+  }
+ ]
+}

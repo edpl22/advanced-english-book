@@ -1,0 +1,1920 @@
+{
+ "topic": "modals",
+ "batch": 1,
+ "title": "Obligation, permission and ability",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "mod-001-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "mcq",
+   "explanation": "External rule: have to.",
+   "prompt": "In Brazil, you ___ be 18 to get a driving licence.",
+   "options": [
+    "have to",
+    "has to",
+    "must to",
+    "have"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "mod-001-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.2",
+   "type": "mcq",
+   "explanation": "Request: can / could.",
+   "prompt": "___ you help me carry this box?",
+   "options": [
+    "Must",
+    "Can",
+    "Should",
+    "May to"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "mod-001-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.3",
+   "type": "mcq",
+   "explanation": "Asking for permission: may / can.",
+   "prompt": "Excuse me, ___ I sit here?",
+   "options": [
+    "must",
+    "should to",
+    "may",
+    "will"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "mod-001-04",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "mcq",
+   "explanation": "Prohibition: mustn’t.",
+   "prompt": "You ___ touch that wire — it’s dangerous!",
+   "options": [
+    "don’t have to",
+    "needn’t",
+    "don’t need",
+    "mustn’t"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "mod-001-05",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.2",
+   "type": "mcq",
+   "explanation": "General past ability: could.",
+   "prompt": "My grandmother ___ speak three languages when she was young.",
+   "options": [
+    "could",
+    "can",
+    "is able",
+    "was able"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "mod-001-06",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "mcq",
+   "explanation": "No obligation: don’t have to.",
+   "prompt": "We ___ get up early tomorrow. It’s Sunday!",
+   "options": [
+    "mustn’t",
+    "don’t have to",
+    "can’t",
+    "have not"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "mod-001-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "5.4",
+   "type": "mcq",
+   "explanation": "Single achievement in the past: managed to / was able to.",
+   "prompt": "The road was closed, but we ___ find another way.",
+   "options": [
+    "could",
+    "can",
+    "managed to",
+    "succeeded to"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "mod-001-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "5.4",
+   "type": "mcq",
+   "explanation": "Past obligation: had to.",
+   "prompt": "When I worked there, I ___ wear a uniform.",
+   "options": [
+    "must",
+    "have to",
+    "must have",
+    "had to"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "mod-001-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "5.3",
+   "type": "mcq",
+   "explanation": "be (not) allowed to + base form.",
+   "prompt": "Children ___ to use the pool without an adult.",
+   "options": [
+    "are not allowed",
+    "must not",
+    "cannot",
+    "may not"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "mod-001-10",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "5.2",
+   "type": "mcq",
+   "explanation": "Perfect tenses need be able to.",
+   "prompt": "I’ve ___ swim since I was four.",
+   "options": [
+    "could",
+    "been able to",
+    "can",
+    "be able"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "mod-001-11",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "mcq",
+   "explanation": "Advice: should (ought to).",
+   "prompt": "You ___ see a doctor about that cough.",
+   "options": [
+    "must to",
+    "ought",
+    "should",
+    "had"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "mod-001-12",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "5.4",
+   "type": "mcq",
+   "explanation": "needn’t have = unnecessary action that was done.",
+   "prompt": "We ___ have taken a taxi — it was only a five-minute walk.",
+   "options": [
+    "mustn’t",
+    "couldn’t",
+    "shouldn’t to",
+    "needn’t"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "mod-001-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.4",
+   "type": "mcq",
+   "explanation": "was not able to + base form.",
+   "prompt": "I ___ to finish the essay in time, so I asked for an extension.",
+   "options": [
+    "wasn’t able",
+    "couldn’t",
+    "can’t",
+    "didn’t can"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "mod-001-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "mcq",
+   "explanation": "Formal obligation: be required to.",
+   "prompt": "All visitors ___ to report to reception on arrival.",
+   "options": [
+    "must",
+    "are required",
+    "need",
+    "should"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "mod-001-15",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.3",
+   "type": "mcq",
+   "explanation": "be permitted (formal).",
+   "prompt": "Smoking is not ___ anywhere on the premises.",
+   "options": [
+    "allow",
+    "permit",
+    "permitted",
+    "allowing"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "mod-001-16",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "5.4",
+   "type": "mcq",
+   "explanation": "might have = reproach.",
+   "prompt": "You ___ have told me you were coming! I’d have cooked something.",
+   "options": [
+    "must",
+    "need",
+    "can",
+    "might"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "mod-001-17",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "mcq",
+   "explanation": "oblige someone to do something.",
+   "prompt": "The new law obliges companies ___ their emissions.",
+   "options": [
+    "to report",
+    "reporting",
+    "report",
+    "for reporting"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "mod-001-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "mcq",
+   "explanation": "be obliged to + base form.",
+   "prompt": "Under the new rules, drivers ___ carry their licence at all times.",
+   "options": [
+    "are obliging",
+    "are obliged to",
+    "oblige to",
+    "are obliged"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "mod-001-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.2",
+   "type": "gap",
+   "explanation": "Present inability.",
+   "prompt": "I ___ find my glasses. Have you seen them?",
+   "acceptedAnswers": [
+    "can’t",
+    "cannot"
+   ],
+   "cue": "not / can"
+  },
+  {
+   "id": "mod-001-20",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "gap",
+   "explanation": "Obligation: have to.",
+   "prompt": "You ___ wear a helmet when you ride a motorbike.",
+   "acceptedAnswers": [
+    "have to"
+   ],
+   "cue": "have"
+  },
+  {
+   "id": "mod-001-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "5.4",
+   "type": "gap",
+   "explanation": "Past inability.",
+   "prompt": "I’m sorry, I ___ come to the meeting yesterday.",
+   "acceptedAnswers": [
+    "wasn’t able to",
+    "was not able to"
+   ],
+   "cue": "not / be able"
+  },
+  {
+   "id": "mod-001-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "5.2",
+   "type": "gap",
+   "explanation": "Future ability: will be able to.",
+   "prompt": "After this course, I ___ drive.",
+   "acceptedAnswers": [
+    "will be able to"
+   ],
+   "cue": "be able"
+  },
+  {
+   "id": "mod-001-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "5.4",
+   "type": "gap",
+   "explanation": "No past obligation.",
+   "prompt": "We ___ pay for the tickets — they were free.",
+   "acceptedAnswers": [
+    "didn’t need to",
+    "did not need to",
+    "didn’t have to"
+   ],
+   "cue": "not / need"
+  },
+  {
+   "id": "mod-001-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.4",
+   "type": "gap",
+   "explanation": "Past prohibition.",
+   "prompt": "In the past, children ___ speak at the dinner table.",
+   "acceptedAnswers": [
+    "weren’t allowed to",
+    "were not allowed to"
+   ],
+   "cue": "not / allow"
+  },
+  {
+   "id": "mod-001-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.4",
+   "type": "gap",
+   "explanation": "Single achievement.",
+   "prompt": "After hours of negotiation, they ___ reach an agreement.",
+   "acceptedAnswers": [
+    "managed to"
+   ],
+   "cue": "manage"
+  },
+  {
+   "id": "mod-001-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.4",
+   "type": "gap",
+   "explanation": "Unnecessary action.",
+   "prompt": "You ___ that report — the meeting has been cancelled.",
+   "acceptedAnswers": [
+    "needn’t have written",
+    "need not have written",
+    "needn’t write",
+    "need not write"
+   ],
+   "cue": "need not / write"
+  },
+  {
+   "id": "mod-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "gap",
+   "explanation": "Formal obligation.",
+   "prompt": "Staff ___ wear identification badges at all times.",
+   "acceptedAnswers": [
+    "are required to"
+   ],
+   "cue": "require"
+  },
+  {
+   "id": "mod-001-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "gap",
+   "explanation": "Legal obligation.",
+   "prompt": "The airline ___ refund customers whose flights were cancelled.",
+   "acceptedAnswers": [
+    "is obliged to",
+    "was obliged to"
+   ],
+   "cue": "oblige"
+  },
+  {
+   "id": "mod-001-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "kwt",
+   "explanation": "No obligation.",
+   "first": "It isn’t necessary to book a table.",
+   "keyword": "HAVE",
+   "before": "You",
+   "after": "book a table.",
+   "acceptedAnswers": [
+    "don’t have to",
+    "do not have to"
+   ]
+  },
+  {
+   "id": "mod-001-30",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "5.3",
+   "type": "kwt",
+   "explanation": "be (not) allowed to.",
+   "first": "We are not permitted to use our phones in class.",
+   "keyword": "ALLOWED",
+   "before": "We",
+   "after": "our phones in class.",
+   "acceptedAnswers": [
+    "aren’t allowed to use",
+    "are not allowed to use"
+   ]
+  },
+  {
+   "id": "mod-001-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.4",
+   "type": "kwt",
+   "explanation": "succeed in -ing = manage to.",
+   "first": "I succeeded in finding a cheap flight.",
+   "keyword": "MANAGED",
+   "before": "I",
+   "after": "a cheap flight.",
+   "acceptedAnswers": [
+    "managed to find",
+    "managed to get",
+    "managed to book"
+   ]
+  },
+  {
+   "id": "mod-001-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "5.4",
+   "type": "kwt",
+   "explanation": "be unable to.",
+   "first": "It was not possible for us to contact him.",
+   "keyword": "UNABLE",
+   "before": "We",
+   "after": "him.",
+   "acceptedAnswers": [
+    "were unable to contact",
+    "were unable to reach"
+   ]
+  },
+  {
+   "id": "mod-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "kwt",
+   "explanation": "be required to.",
+   "first": "Passengers must show their tickets.",
+   "keyword": "REQUIRED",
+   "before": "Passengers",
+   "after": "their tickets.",
+   "acceptedAnswers": [
+    "are required to show",
+    "are required to present"
+   ]
+  },
+  {
+   "id": "mod-001-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "error-correction",
+   "explanation": "Prohibition: mustn’t.",
+   "parts": [
+    "You ",
+    {
+     "u": "don’t have to"
+    },
+    " run in the corridors — it’s ",
+    {
+     "u": "dangerous"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "mustn’t",
+    "must not",
+    "shouldn’t",
+    "should not"
+   ]
+  },
+  {
+   "id": "mod-001-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "5.4",
+   "type": "error-correction",
+   "explanation": "Single achievement: was able to / managed to.",
+   "parts": [
+    "I ",
+    {
+     "u": "could"
+    },
+    " pass the driving test at my third ",
+    {
+     "u": "attempt"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "was able to",
+    "managed to"
+   ]
+  },
+  {
+   "id": "mod-001-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "error-correction",
+   "explanation": "Modals do not take -s.",
+   "parts": [
+    "She ",
+    {
+     "u": "musts"
+    },
+    " leave before ",
+    {
+     "u": "six"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "must",
+    "has to"
+   ]
+  },
+  {
+   "id": "mod-001-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.4",
+   "type": "error-correction",
+   "explanation": "Past obligation: had to.",
+   "parts": [
+    "When the lift broke, we ",
+    {
+     "u": "must"
+    },
+    " climb ten ",
+    {
+     "u": "floors"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "had to"
+   ]
+  },
+  {
+   "id": "mod-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "error-correction",
+   "explanation": "be required to + base form.",
+   "parts": [
+    "Employees are ",
+    {
+     "u": "required"
+    },
+    " ",
+    {
+     "u": "wearing"
+    },
+    " a badge at all times."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "to wear"
+   ]
+  },
+  {
+   "id": "mod-001-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.2",
+   "type": "word-order",
+   "explanation": "Request with can.",
+   "fragments": [
+    "Can",
+    "you",
+    "help",
+    "me",
+    "with",
+    "my homework?"
+   ],
+   "acceptedAnswers": [
+    "Can you help me with my homework?"
+   ]
+  },
+  {
+   "id": "mod-001-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "5.4",
+   "type": "word-order",
+   "explanation": "Past prohibition.",
+   "fragments": [
+    "We",
+    "weren’t",
+    "allowed",
+    "to",
+    "use",
+    "dictionaries."
+   ],
+   "acceptedAnswers": [
+    "We weren’t allowed to use dictionaries."
+   ]
+  },
+  {
+   "id": "mod-001-41",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.2",
+   "type": "word-order",
+   "explanation": "Future ability.",
+   "fragments": [
+    "Will",
+    "you",
+    "be",
+    "able",
+    "to",
+    "finish",
+    "on time?"
+   ],
+   "acceptedAnswers": [
+    "Will you be able to finish on time?"
+   ]
+  },
+  {
+   "id": "mod-001-42",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "matching",
+   "explanation": "Signs and modal verbs.",
+   "prompt": "Match each sign with its meaning.",
+   "left": [
+    "NO PARKING",
+    "TICKETS NOT REQUIRED",
+    "SILENCE, PLEASE",
+    "STAFF ONLY",
+    "PHOTOGRAPHS PERMITTED"
+   ],
+   "right": [
+    "You mustn’t talk.",
+    "You don’t have to buy a ticket.",
+    "You mustn’t leave your car here.",
+    "You can take pictures.",
+    "Only employees can go in.",
+    "You must buy a ticket."
+   ],
+   "answer": [
+    2,
+    1,
+    0,
+    4,
+    3
+   ]
+  },
+  {
+   "id": "mod-001-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "matching",
+   "explanation": "mustn’t vs don’t have to.",
+   "prompt": "Match each sentence with its meaning.",
+   "left": [
+    "You mustn’t tell her.",
+    "You don’t have to tell her.",
+    "You should tell her.",
+    "You have to tell her.",
+    "You can tell her."
+   ],
+   "right": [
+    "It’s allowed.",
+    "It’s impossible.",
+    "It’s prohibited.",
+    "It’s a good idea.",
+    "It isn’t necessary.",
+    "It’s an obligation."
+   ],
+   "answer": [
+    2,
+    4,
+    3,
+    5,
+    0
+   ]
+  },
+  {
+   "id": "mod-001-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "matching",
+   "explanation": "Obligation, prohibition and necessity.",
+   "prompt": "Match each form with its use.",
+   "left": [
+    "must",
+    "have to",
+    "mustn’t",
+    "don’t have to",
+    "needn’t have"
+   ],
+   "right": [
+    "prohibition",
+    "unnecessary action that was done",
+    "obligation from rules or other people",
+    "ability",
+    "no obligation (present)",
+    "obligation from the speaker"
+   ],
+   "answer": [
+    5,
+    2,
+    0,
+    4,
+    1
+   ]
+  },
+  {
+   "id": "mod-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "5.3",
+   "type": "matching",
+   "explanation": "Formal equivalents of modal verbs.",
+   "prompt": "Formal to neutral: match.",
+   "left": [
+    "Passengers are required to…",
+    "Guests are permitted to…",
+    "Visitors are prohibited from…",
+    "Applicants are advised to…",
+    "Members are exempt from…"
+   ],
+   "right": [
+    "Visitors mustn’t…",
+    "Members don’t have to…",
+    "Passengers have to…",
+    "Guests can…",
+    "Applicants should…",
+    "Guests must…"
+   ],
+   "answer": [
+    2,
+    3,
+    0,
+    4,
+    1
+   ]
+  },
+  {
+   "id": "mod-001-46",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "modals"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "open-cloze",
+   "explanation": "Obligation, permission and prohibition at school.",
+   "title": "School rules",
+   "text": "At my school, we [1] to wear a uniform from Monday to Thursday, but on Fridays we [2] wear our own clothes. We [3] use our phones in class — if the teacher sees one, she takes it away. We don’t [4] to stand up when a teacher comes in, but we [5] be polite. Students [6] leave the building at lunchtime unless they have a note from their parents. We [7] to bring a calculator to maths lessons, but we [8] use it in tests. Last year, the rules were stricter: we [9] to wear a tie every day! Now we only [10] to wear one on special occasions.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "have"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "can",
+      "may"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "can’t",
+      "mustn’t",
+      "cannot"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "have",
+      "need"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "must",
+      "should"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "can’t",
+      "mustn’t",
+      "cannot"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "have",
+      "need"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "can’t",
+      "mustn’t",
+      "cannot"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "have",
+      "need"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mod-001-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "modals"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.2",
+   "type": "open-cloze",
+   "explanation": "Ability and obligation in a personal account.",
+   "title": "Learning to fly",
+   "text": "Before you [1] fly a plane on your own, you have to complete at least forty hours of training. During the first lessons, you are not [2] to touch the controls during take-off. After about ten hours, most students are [3] to land the plane safely. I remember my first solo flight: I was terrified, but I [4] to land without any problems. Pilots [5] to pass a medical examination every year, and they [6] not fly if they have been drinking alcohol. In an emergency, you [7] be able to stay calm. The training is expensive, but you [8] not pay it all at once; most schools let you pay [9] you go. I [10] recommend it to anyone who loves adventure.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "can"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "allowed",
+      "permitted"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "able"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "managed"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "have",
+      "need"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "must",
+      "may",
+      "should",
+      "can"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "must",
+      "should"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "need"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "as"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "would",
+      "can"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mod-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "5.3",
+   "type": "open-cloze",
+   "explanation": "Formal rules.",
+   "title": "Reading room regulations",
+   "text": "Researchers wishing to consult the manuscripts are [1] to register in advance. On arrival, all bags [2] be left in the lockers provided. Readers are [3] from using pens; only pencils are [4]. Photographs may be taken, [5] that no flash is used. Under no circumstances [6] documents be removed from the reading room. Readers [7] not wear gloves when handling paper, as this increases the risk of damage, but they [8] wash their hands before starting. Requests for copies [9] be made in writing. Researchers who fail to comply [10] be asked to leave.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "required",
+      "asked",
+      "obliged",
+      "expected",
+      "advised"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "must",
+      "should"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "prohibited",
+      "forbidden",
+      "banned"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "permitted",
+      "allowed"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "provided",
+      "providing"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "may",
+      "can",
+      "should",
+      "must",
+      "will"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "need",
+      "should",
+      "must"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "must",
+      "should"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "must",
+      "should"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "will",
+      "may"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mod-001-49",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "modals"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "5.1",
+   "type": "mc-cloze",
+   "explanation": "Rules with modal verbs.",
+   "title": "Pool rules",
+   "text": "Welcome! Please read the rules. You [1] take a shower before you swim. Children under eight [2] swim without an adult. You [3] bring your own towel — we provide one. Food and drinks [4] allowed near the pool. You [5] use the diving board if you are a good swimmer. You [6] run around the pool because the floor is slippery. If you [7] swim very well, please stay in the shallow end. Enjoy your swim — and if you [8] help, ask a lifeguard!",
+   "gaps": [
+    {
+     "options": [
+      "mustn’t",
+      "don’t have to",
+      "must",
+      "can’t"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "must",
+      "have to",
+      "should",
+      "can’t"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "don’t have to",
+      "mustn’t",
+      "have to",
+      "must"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "must not",
+      "are not",
+      "can’t",
+      "don’t"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "mustn’t",
+      "have to to",
+      "can",
+      "can’t"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "don’t have to",
+      "needn’t",
+      "can",
+      "mustn’t"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "can’t",
+      "mustn’t",
+      "don’t have to",
+      "needn’t"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "must",
+      "need",
+      "have",
+      "should"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "mod-001-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "modals"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "5.3",
+   "type": "mc-cloze",
+   "explanation": "Formal rules in a company policy.",
+   "title": "Working from home: company policy",
+   "text": "Employees [1] to work from home up to two days a week, [2] their manager agrees. They are [3] to be available by phone during core hours. Staff [4] not inform HR each time, but they [5] record their working days in the online system. Those who [6] to comply with the policy may lose the right to work remotely. Employees are [7] not to share confidential documents on personal devices. All equipment [8] be returned when an employee leaves the company.",
+   "gaps": [
+    {
+     "options": [
+      "permit",
+      "are permitting",
+      "are permitted",
+      "have permitted"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "unless",
+      "despite",
+      "in case",
+      "provided"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "expected",
+      "expecting",
+      "expect",
+      "expectation"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "must",
+      "need",
+      "have",
+      "ought"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "mustn’t",
+      "needn’t",
+      "must",
+      "may not"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "manage",
+      "succeed",
+      "avoid",
+      "fail"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "instructed",
+      "allowed",
+      "permitted",
+      "able"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "mustn’t",
+      "must",
+      "needn’t",
+      "can’t"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

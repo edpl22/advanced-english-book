@@ -1,0 +1,280 @@
+{
+ "id": "r038",
+ "title": "From Battlefield to Emergency Room",
+ "level": "B2",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "EsPCEx",
+  "EFOMM",
+  "AFA",
+  "EN"
+ ],
+ "text": "Many of the techniques used in civilian hospitals today were developed or improved by military doctors working under the most difficult conditions imaginable. War has always produced large numbers of severe injuries in a short time, often far from proper medical facilities. Faced with these circumstances, military medicine has repeatedly been forced to innovate.\n\nOne of the most important of these innovations is triage, a word derived from the French verb trier, \"to sort\". The idea is usually traced to the surgeons of Napoleon's armies, who began treating the wounded according to the seriousness of their injuries rather than their rank or the order in which they arrived. Modern triage divides patients into categories: those who need immediate treatment to survive, those whose treatment can wait a little, those with minor injuries and, in the most tragic cases, those who are unlikely to survive even with treatment. Emergency departments and disaster response teams around the world now use versions of this system.\n\nThe idea of moving the wounded quickly to medical care also has military roots. Organised ambulance services were developed partly to remove casualties from the battlefield, and later conflicts saw the use of helicopters to transport injured soldiers directly to field hospitals. Military doctors observed that the chances of survival depended enormously on how quickly treatment began. This led to the concept often called the \"golden hour\" — the idea that the first hour after a serious injury is critical — which has strongly influenced civilian emergency services.\n\nMore recent conflicts have produced further advances. Experience showed that many soldiers who died of their injuries did so because of uncontrolled bleeding from the arms or legs. Tourniquets — bands tightened around a limb to stop blood flow — had once been considered dangerous and used only as a last resort, but new designs and training led to their widespread use, saving many lives. Following this experience, tourniquets and bleeding-control training have been introduced in many civilian settings, from ambulances to public buildings.\n\nMilitary medicine has also contributed to the treatment of burns, the development of artificial limbs and the understanding of psychological trauma. Of course, these advances came at a terrible human cost, and no one would argue that war is a desirable route to medical progress. But the knowledge gained in the worst of circumstances has gone on to save countless lives in peacetime.",
+ "glossary": [
+  [
+   "casualty",
+   "a person injured or killed in a war or accident"
+  ],
+  [
+   "tourniquet",
+   "a band tightened around an arm or leg to stop bleeding"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r038-q01",
+   "type": "reading",
+   "passageId": "r038",
+   "prompt": "What is the main idea of the text?",
+   "options": [
+    "Military doctors are better than civilian doctors.",
+    "War is a desirable way to improve medicine.",
+    "Triage is the only important military innovation.",
+    "Many medical advances developed in war are now used in civilian medicine."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Military innovations have passed to civilian care."
+  },
+  {
+   "id": "r038-q02",
+   "type": "reading",
+   "passageId": "r038",
+   "prompt": "Why has military medicine often been forced to innovate?",
+   "options": [
+    "It deals with many severe injuries quickly, far from proper facilities.",
+    "Military doctors have more money for research.",
+    "Governments require it by law.",
+    "Soldiers refuse traditional treatments."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 1."
+  },
+  {
+   "id": "r038-q03",
+   "type": "reading",
+   "passageId": "r038",
+   "prompt": "What was new about the approach of Napoleon's surgeons?",
+   "options": [
+    "They treated officers first.",
+    "They treated the wounded according to the seriousness of their injuries.",
+    "They treated patients in order of arrival.",
+    "They used helicopters to transport the wounded."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Rather than rank or order of arrival."
+  },
+  {
+   "id": "r038-q04",
+   "type": "reading",
+   "passageId": "r038",
+   "prompt": "Which category of patients is NOT mentioned in the description of modern triage?",
+   "options": [
+    "patients who need immediate treatment",
+    "patients whose treatment can wait",
+    "patients who can pay for private treatment",
+    "patients with minor injuries"
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Payment is not a triage category."
+  },
+  {
+   "id": "r038-q05",
+   "type": "reading",
+   "passageId": "r038",
+   "prompt": "What is the “golden hour”?",
+   "options": [
+    "The time it takes to train a military doctor",
+    "The hour when hospitals are least busy",
+    "The first hour of a battle",
+    "The critical first hour after a serious injury"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Defined in paragraph 3."
+  },
+  {
+   "id": "r038-q06",
+   "type": "reading",
+   "passageId": "r038",
+   "prompt": "The concept of the “golden hour” came from the observation that",
+   "options": [
+    "helicopters were faster than ambulances",
+    "most injuries happened in the morning",
+    "survival depended greatly on how quickly treatment began",
+    "field hospitals were too far away"
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r038-q07",
+   "type": "reading",
+   "passageId": "r038",
+   "prompt": "How did attitudes to tourniquets change?",
+   "options": [
+    "They went from being a last resort to being widely used.",
+    "They were banned after recent conflicts.",
+    "They have always been widely used.",
+    "They are now used only in hospitals."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Once considered dangerous, now widespread."
+  },
+  {
+   "id": "r038-q08",
+   "type": "reading",
+   "passageId": "r038",
+   "prompt": "The phrase “as a last resort” in paragraph 4 means",
+   "options": [
+    "at the end of a battle",
+    "only when all other options have failed",
+    "in the final stage of training",
+    "for the most serious injuries only"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "A last resort = the final option."
+  },
+  {
+   "id": "r038-q09",
+   "type": "reading",
+   "passageId": "r038",
+   "prompt": "What is the author's position in the last paragraph?",
+   "options": [
+    "War should be encouraged for medical reasons.",
+    "Military medicine has made no real contribution.",
+    "The medical knowledge from war is valuable, though its cost was terrible.",
+    "Civilian medicine no longer needs military research."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“no one would argue that war is a desirable route … But the knowledge … has gone on to save countless lives”."
+  }
+ ]
+}

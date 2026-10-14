@@ -1,0 +1,260 @@
+{
+ "id": "r022",
+ "title": "Saturday at the Food Bank",
+ "level": "B1",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "Every Saturday morning, while most of her friends are still asleep, Júlia, a nineteen-year-old engineering student, takes a bus to a large warehouse on the edge of the city. She is one of about forty volunteers who work at the local food bank, an organisation that collects food that would otherwise be thrown away and gives it to people who need it.\n\nThe food comes from many places. Supermarkets donate products that are close to their sell-by date or have damaged packaging. Farmers donate fruit and vegetables that are too small or too irregular to sell in shops. Restaurants and bakeries give food that they did not sell during the day. Schools and companies also organise collections, asking people to bring tins, rice, pasta and other products that last a long time.\n\nWhen Júlia arrives, she puts on an apron and gloves and goes to the sorting area. Her job is to check every box. Products that are out of date or unsafe are removed. The rest are separated into groups — fresh food, tins, dry food, cleaning products — and stored on large shelves. \"Fresh food is always the biggest challenge,\" she explains. \"It has to go out quickly, or it goes bad and we lose it.\"\n\nThe food bank does not give food directly to families. Instead, it sends it to around sixty partner organisations, such as community kitchens, shelters for homeless people and charities that work with children and elderly people. These organisations know the people in their neighbourhoods and can make sure that the food reaches those who need it most.\n\nAccording to the coordinator of the food bank, the problem it tries to solve is not a lack of food. \"Our country produces enough food for everybody,\" she says. \"The problem is that a lot of it is wasted while some people go hungry. We are trying to build a bridge between the two.\"\n\nJúlia first came to the food bank because her university required students to do some volunteer work. She completed the required hours in three months, but she never stopped coming. \"At university, I study how to make systems more efficient,\" she says. \"Here, I see a system that really matters. And the people here are great. Saturday mornings are now the best part of my week.\"",
+ "questions": [
+  {
+   "id": "r022-q01",
+   "type": "reading",
+   "passageId": "r022",
+   "prompt": "What is a food bank, according to the text?",
+   "options": [
+    "A bank that lends money to farmers",
+    "An organisation that collects food that would be wasted and gives it to people in need",
+    "A supermarket with low prices",
+    "A restaurant for students"
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Defined in paragraph 1."
+  },
+  {
+   "id": "r022-q02",
+   "type": "reading",
+   "passageId": "r022",
+   "prompt": "Why do supermarkets donate some products?",
+   "options": [
+    "They are close to their sell-by date or have damaged packaging.",
+    "They are too expensive to sell.",
+    "They are new products.",
+    "They were stolen and returned."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 2."
+  },
+  {
+   "id": "r022-q03",
+   "type": "reading",
+   "passageId": "r022",
+   "prompt": "Why do farmers donate some fruit and vegetables?",
+   "options": [
+    "They are not ripe yet.",
+    "They were grown for animals.",
+    "They are dangerous to eat.",
+    "They are too small or irregular for the shops."
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“too small or too irregular to sell in shops”."
+  },
+  {
+   "id": "r022-q04",
+   "type": "reading",
+   "passageId": "r022",
+   "prompt": "What is Júlia's job at the food bank?",
+   "options": [
+    "Driving the food to families",
+    "Checking and sorting the products",
+    "Cooking meals for volunteers",
+    "Asking companies for donations"
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "She works in the sorting area and checks every box."
+  },
+  {
+   "id": "r022-q05",
+   "type": "reading",
+   "passageId": "r022",
+   "prompt": "Why is fresh food “the biggest challenge”?",
+   "options": [
+    "Nobody wants to eat it.",
+    "It is very heavy to carry.",
+    "It goes bad quickly if it is not distributed fast.",
+    "It is very expensive."
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“It has to go out quickly, or it goes bad.”"
+  },
+  {
+   "id": "r022-q06",
+   "type": "reading",
+   "passageId": "r022",
+   "prompt": "Why does the food bank work with partner organisations?",
+   "options": [
+    "They know who needs the food most in their neighbourhoods.",
+    "The food bank is not allowed to open on weekdays.",
+    "They pay for the food.",
+    "They grow their own food."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“can make sure that the food reaches those who need it most”."
+  },
+  {
+   "id": "r022-q07",
+   "type": "reading",
+   "passageId": "r022",
+   "prompt": "According to the coordinator, what is the real problem?",
+   "options": [
+    "The country does not produce enough food.",
+    "Food is too expensive in shops.",
+    "Food is wasted while some people go hungry.",
+    "There are not enough volunteers."
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“a lot of it is wasted while some people go hungry”."
+  },
+  {
+   "id": "r022-q08",
+   "type": "reading",
+   "passageId": "r022",
+   "prompt": "The word “bridge” in paragraph 5 is used to mean",
+   "options": [
+    "a building near the warehouse",
+    "a new road to the city",
+    "a connection between wasted food and hungry people",
+    "a type of food donation"
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Metaphor: connecting the two sides of the problem."
+  },
+  {
+   "id": "r022-q09",
+   "type": "reading",
+   "passageId": "r022",
+   "prompt": "Why does Júlia still go to the food bank?",
+   "options": [
+    "Her university still requires it.",
+    "She is paid for her work.",
+    "She needs the food herself.",
+    "She enjoys it and feels the work really matters."
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "She completed the hours but never stopped coming."
+  }
+ ]
+}

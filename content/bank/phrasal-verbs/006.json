@@ -1,0 +1,1872 @@
+{
+ "topic": "phrasal-verbs",
+ "batch": 6,
+ "title": "Phrasal verbs — register and three-part verbs",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "pv-006-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.5",
+   "type": "mcq",
+   "explanation": "go up = increase.",
+   "prompt": "Which is the formal equivalent of “go up” (prices)?",
+   "options": [
+    "increase",
+    "include",
+    "instruct",
+    "insist"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-006-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "look forward to = wait for with pleasure.",
+   "prompt": "I’m really looking ___ to the holidays.",
+   "options": [
+    "front",
+    "forward",
+    "onward",
+    "before"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-006-03",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.5",
+   "type": "mcq",
+   "explanation": "put off = postpone.",
+   "prompt": "Which is the formal equivalent of “put off”?",
+   "options": [
+    "propose",
+    "prolong",
+    "postpone",
+    "pronounce"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-006-04",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.5",
+   "type": "mcq",
+   "explanation": "look into = investigate.",
+   "prompt": "“The committee will look into the matter.” Which verb could replace “look into”?",
+   "options": [
+    "inspire",
+    "invest",
+    "involve",
+    "investigate"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-006-05",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "come up with = invent, produce.",
+   "prompt": "He’s always ___ excuses for being late.",
+   "options": [
+    "coming up with",
+    "coming down with",
+    "coming in for",
+    "coming round to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-006-06",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "catch up with = reach someone who is ahead.",
+   "prompt": "You go ahead — I’ll ___ you later.",
+   "options": [
+    "catch on to",
+    "catch up with",
+    "catch out of",
+    "catch up on"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-006-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "look down on = think you are better than.",
+   "prompt": "I ___ people who are rude to waiters — I think it’s terrible behaviour.",
+   "options": [
+    "look up to",
+    "look out for",
+    "look down on",
+    "look in on"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-006-08",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.5",
+   "type": "mcq",
+   "explanation": "do away with = abolish.",
+   "prompt": "“The government has decided to do away with the tax.” Which verb is the formal equivalent?",
+   "options": [
+    "absorb",
+    "abuse",
+    "abstain",
+    "abolish"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-006-09",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.5",
+   "type": "mcq",
+   "explanation": "turn down = decline, reject.",
+   "prompt": "Which is the formal equivalent of “turn down” (an offer)?",
+   "options": [
+    "decline",
+    "decrease",
+    "descend",
+    "decide"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-006-10",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "make up for = compensate for.",
+   "prompt": "We need to find a way to ___ the time we lost.",
+   "options": [
+    "make out of",
+    "make up for",
+    "make off with",
+    "make up to"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-006-11",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "come in for = receive (criticism).",
+   "prompt": "The report has ___ a lot of criticism.",
+   "options": [
+    "come up with",
+    "come down to",
+    "come in for",
+    "come out of"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-006-12",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "come down to = depend on, be decided by.",
+   "prompt": "In the end, it all ___ money.",
+   "options": [
+    "comes up to",
+    "comes in for",
+    "comes round to",
+    "comes down to"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-006-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.5",
+   "type": "mcq",
+   "explanation": "cut down on = reduce.",
+   "prompt": "“We need to cut down on expenses.” Which verb is the formal equivalent?",
+   "options": [
+    "reduce",
+    "refund",
+    "renew",
+    "reveal"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-006-14",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "not hold with = disapprove of.",
+   "prompt": "I don’t ___ smoking in public places.",
+   "options": [
+    "hold to",
+    "hold with",
+    "hold on",
+    "hold out"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-006-15",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "live up to = be as good as expected.",
+   "prompt": "The sequel didn’t ___ our expectations.",
+   "options": [
+    "live on with",
+    "live down to",
+    "live up to",
+    "live in for"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-006-16",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "latch on to = seize eagerly.",
+   "prompt": "Several MPs have ___ the scandal to attack the government.",
+   "options": [
+    "latched up to",
+    "latched in on",
+    "latched off with",
+    "latched on to"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-006-17",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.5",
+   "type": "mcq",
+   "explanation": "break down (talks) = collapse.",
+   "prompt": "“The talks broke down.” Which verb is the formal equivalent?",
+   "options": [
+    "collapsed",
+    "collided",
+    "collected",
+    "collaborated"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-006-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.2",
+   "type": "mcq",
+   "explanation": "I wouldn’t put it past him = I think he is capable of it.",
+   "prompt": "I wouldn’t ___ him to cheat — he’s done it before.",
+   "options": [
+    "put it beyond",
+    "put it past",
+    "put it over",
+    "put it down to"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-006-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "phrasal-choice",
+   "explanation": "look forward to + -ing.",
+   "prompt": "I’m ___ seeing you next week.",
+   "cue": "look forward to",
+   "acceptedAnswers": [
+    "looking forward to"
+   ]
+  },
+  {
+   "id": "pv-006-20",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "phrasal-choice",
+   "explanation": "go along with = accept.",
+   "prompt": "We have to ___ the new rules, whether we like them or not.",
+   "cue": "go along with",
+   "acceptedAnswers": [
+    "go along with"
+   ]
+  },
+  {
+   "id": "pv-006-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "phrasal-choice",
+   "explanation": "put up with = tolerate.",
+   "prompt": "I don’t know how you ___ so much noise every night.",
+   "cue": "put up with",
+   "acceptedAnswers": [
+    "put up with"
+   ]
+  },
+  {
+   "id": "pv-006-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "phrasal-choice",
+   "explanation": "keep up with = go at the same speed as.",
+   "prompt": "The children ran so fast that I couldn’t ___ them.",
+   "cue": "keep up with",
+   "acceptedAnswers": [
+    "keep up with"
+   ]
+  },
+  {
+   "id": "pv-006-23",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "phrasal-choice",
+   "explanation": "come down to = be the result of.",
+   "prompt": "In the end, her success ___ hard work and a little luck.",
+   "cue": "come down to",
+   "acceptedAnswers": [
+    "came down to",
+    "comes down to"
+   ]
+  },
+  {
+   "id": "pv-006-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "phrasal-choice",
+   "explanation": "take it out on = treat someone badly because you are upset.",
+   "prompt": "Don’t ___ me — it’s not my fault you’ve had a bad day!",
+   "cue": "take it out on",
+   "acceptedAnswers": [
+    "take it out on"
+   ]
+  },
+  {
+   "id": "pv-006-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "phrasal-choice",
+   "explanation": "come in for = receive (criticism).",
+   "prompt": "The team ___ a lot of criticism after the defeat.",
+   "cue": "come in for",
+   "acceptedAnswers": [
+    "came in for"
+   ]
+  },
+  {
+   "id": "pv-006-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "allow for = take into account.",
+   "prompt": "We must ___ possible delays when we plan the project.",
+   "cue": "allow for",
+   "acceptedAnswers": [
+    "allow for"
+   ]
+  },
+  {
+   "id": "pv-006-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "live down = make people forget something embarrassing.",
+   "prompt": "He’ll never ___ that embarrassing speech.",
+   "cue": "live down",
+   "acceptedAnswers": [
+    "live down"
+   ]
+  },
+  {
+   "id": "pv-006-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "fend off = defend yourself against.",
+   "prompt": "She ___ the reporters’ awkward questions with great skill.",
+   "cue": "fend off",
+   "acceptedAnswers": [
+    "fended off"
+   ]
+  },
+  {
+   "id": "pv-006-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "kwt",
+   "explanation": "look forward to + -ing.",
+   "first": "I can’t wait to see you.",
+   "keyword": "FORWARD",
+   "before": "I’m really",
+   "after": "you.",
+   "acceptedAnswers": [
+    "looking forward to seeing"
+   ]
+  },
+  {
+   "id": "pv-006-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "kwt",
+   "explanation": "come in for = receive (criticism).",
+   "first": "He was criticised heavily for his decision.",
+   "keyword": "CAME",
+   "before": "He",
+   "after": "heavy criticism for his decision.",
+   "acceptedAnswers": [
+    "came in for"
+   ]
+  },
+  {
+   "id": "pv-006-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "kwt",
+   "explanation": "compensate for = make up for.",
+   "first": "We must compensate for the time we lost.",
+   "keyword": "MAKE",
+   "before": "We must",
+   "after": "the time we lost.",
+   "acceptedAnswers": [
+    "make up for"
+   ]
+  },
+  {
+   "id": "pv-006-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "kwt",
+   "explanation": "not as good as expected = not live up to.",
+   "first": "The film was not as good as I had expected.",
+   "keyword": "LIVE",
+   "before": "The film didn’t",
+   "after": "my expectations.",
+   "acceptedAnswers": [
+    "live up to"
+   ]
+  },
+  {
+   "id": "pv-006-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "kwt",
+   "explanation": "depend on = come down to.",
+   "first": "Ultimately, the decision depends on cost.",
+   "keyword": "DOWN",
+   "before": "Ultimately, the decision",
+   "after": "cost.",
+   "acceptedAnswers": [
+    "comes down to",
+    "boils down to"
+   ]
+  },
+  {
+   "id": "pv-006-34",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "error-correction",
+   "explanation": "look forward to + -ing.",
+   "parts": [
+    "We’re all looking forward to ",
+    {
+     "u": "visit"
+    },
+    " the museum ",
+    {
+     "u": "on"
+    },
+    " Saturday."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "visiting"
+   ]
+  },
+  {
+   "id": "pv-006-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "error-correction",
+   "explanation": "put up with + object.",
+   "parts": [
+    "She’s ",
+    {
+     "u": "looking"
+    },
+    " for a new job because she can’t ",
+    {
+     "u": "put up"
+    },
+    " her boss any more."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "put up with",
+    "stand",
+    "tolerate"
+   ]
+  },
+  {
+   "id": "pv-006-36",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "error-correction",
+   "explanation": "come down to + noun / clause.",
+   "parts": [
+    "The decision ",
+    {
+     "u": "comes down"
+    },
+    " whether we can ",
+    {
+     "u": "afford"
+    },
+    " it."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "comes down to"
+   ]
+  },
+  {
+   "id": "pv-006-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "error-correction",
+   "explanation": "make up for = compensate for.",
+   "parts": [
+    "Nothing can ",
+    {
+     "u": "make up"
+    },
+    " the years he spent in ",
+    {
+     "u": "prison"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "make up for"
+   ]
+  },
+  {
+   "id": "pv-006-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "error-correction",
+   "explanation": "come in for + criticism.",
+   "parts": [
+    "The minister’s new policy has ",
+    {
+     "u": "come in"
+    },
+    " a lot of criticism from ",
+    {
+     "u": "economists"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "come in for"
+   ]
+  },
+  {
+   "id": "pv-006-39",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "word-order",
+   "explanation": "Three-part verb: put up with.",
+   "fragments": [
+    "I",
+    "can’t",
+    "put",
+    "up",
+    "with",
+    "the noise",
+    "any longer."
+   ],
+   "acceptedAnswers": [
+    "I can’t put up with the noise any longer."
+   ]
+  },
+  {
+   "id": "pv-006-40",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "word-order",
+   "explanation": "come down to.",
+   "fragments": [
+    "The",
+    "problem",
+    "comes",
+    "down",
+    "to",
+    "a lack of money."
+   ],
+   "acceptedAnswers": [
+    "The problem comes down to a lack of money."
+   ]
+  },
+  {
+   "id": "pv-006-41",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "word-order",
+   "explanation": "live up to expectations.",
+   "fragments": [
+    "His",
+    "second",
+    "novel",
+    "failed",
+    "to",
+    "live up to",
+    "expectations."
+   ],
+   "acceptedAnswers": [
+    "His second novel failed to live up to expectations."
+   ]
+  },
+  {
+   "id": "pv-006-42",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.5",
+   "type": "matching",
+   "explanation": "Formal one-word equivalents.",
+   "prompt": "Neutral to formal: choose the formal verb.",
+   "left": [
+    "find out",
+    "go up",
+    "leave out",
+    "go down",
+    "look at"
+   ],
+   "right": [
+    "omit",
+    "examine",
+    "discover",
+    "increase",
+    "decrease",
+    "abandon"
+   ],
+   "answer": [
+    2,
+    3,
+    0,
+    4,
+    1
+   ]
+  },
+  {
+   "id": "pv-006-43",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.5",
+   "type": "matching",
+   "explanation": "Three-part verbs and their formal equivalents.",
+   "prompt": "Which single verb means the same?",
+   "left": [
+    "put up with",
+    "make up for",
+    "get rid of",
+    "talk over",
+    "bring about"
+   ],
+   "right": [
+    "discuss",
+    "compensate for",
+    "tolerate",
+    "cause",
+    "eliminate",
+    "emerge"
+   ],
+   "answer": [
+    2,
+    1,
+    4,
+    0,
+    3
+   ]
+  },
+  {
+   "id": "pv-006-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "matching",
+   "explanation": "look forward to, run out of, come up with, keep up with, get away with.",
+   "prompt": "Complete each sentence.",
+   "left": [
+    "I’m looking forward",
+    "We’ve run out",
+    "She came up",
+    "I can’t keep up",
+    "Nobody gets away"
+   ],
+   "right": [
+    "with a great idea.",
+    "to the weekend.",
+    "with all these changes.",
+    "of coffee.",
+    "with cheating in this school.",
+    "for the exam."
+   ],
+   "answer": [
+    1,
+    3,
+    0,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "pv-006-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "matching",
+   "explanation": "Three-part verbs.",
+   "prompt": "What does each three-part verb mean?",
+   "left": [
+    "go back on",
+    "look in on",
+    "stand up for",
+    "cut back on",
+    "own up to"
+   ],
+   "right": [
+    "defend",
+    "break (a promise)",
+    "reduce",
+    "admit",
+    "visit briefly",
+    "arrive late"
+   ],
+   "answer": [
+    1,
+    4,
+    0,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "pv-006-46",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.5",
+   "type": "open-cloze",
+   "explanation": "Phrasal verbs that are acceptable in business emails.",
+   "title": "A business email",
+   "text": "Dear Ms Lima, Thank you for your email. I am writing to follow [1] on our conversation last week. As you know, we have run [2] of the brochures you asked for, but we expect a new delivery soon. I will send them [3] as soon as they arrive. In the meantime, I attach a copy of the price list; please note that prices have gone [4] slightly since last year. If you would like to talk the details [5], I would be happy to set [6] a meeting. Please fill [7] the attached form and return it by Friday. We look forward [8] hearing from you and hope to carry [9] working together for many years. Please do not hesitate to get [10] touch if you have any questions. Yours sincerely, Pedro Alves",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out",
+      "off",
+      "on"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "over",
+      "through"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "in",
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "on"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "in"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pv-006-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.5",
+   "type": "open-cloze",
+   "explanation": "Register and phrasal verbs.",
+   "title": "Register matters",
+   "text": "Phrasal verbs are not informal in themselves, but many have more formal equivalents. In an academic essay, “investigate” is usually better than “look [1]”, and “tolerate” is more appropriate than “put up [2]”. However, some phrasal verbs have no simple equivalent: it is hard to find a single word for “come up [3]” or for “carry [4]” an experiment. The key is to think [5] who will read your text. In an email to a friend, “I’m looking forward [6] it” sounds natural; in a business letter, it is also perfectly acceptable. Problems arise when writers mix [7] registers within the same text. To avoid this, read your writing through before you send it [8], and try to cut [9] on phrasal verbs that sound too casual. With practice, choosing the right register will soon become second [10].",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "into"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "with"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "with"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "about",
+      "of"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off",
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "down",
+      "back"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "nature"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pv-006-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "open-cloze",
+   "explanation": "win over, play down, come across, pass on, go down badly, fall back on, wind up, switch off, lay into, cash in on.",
+   "title": "A speech that misfired",
+   "text": "The minister had hoped her speech would win the critics [1]. Instead, it backfired. She began by playing [2] the scale of the crisis, which came [3] as complacent. She then tried to pass the blame [4] to her predecessor, a move that went down [5] with her own party. When journalists pressed her on the figures, she fell back [6] vague promises. By the time she wound [7], the audience had switched [8]. The next day, the papers laid [9] her mercilessly, and the opposition was quick to cash [10] on her mistakes.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "over",
+      "round",
+      "around"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "down"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "across"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "on"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "badly"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "on"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "into"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "in"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pv-006-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mc-cloze",
+   "explanation": "sign up for, find out, look through, work out, fill in on, opt for, switch over, put off.",
+   "title": "Choosing a university course",
+   "text": "Before you [1] a course, [2] as much information as you can. [3] the course content carefully and [4] whether the timetable suits you. Talk to current students — they can [5] what life is really like. If you [6] a course and later realise it isn’t right for you, don’t panic: many universities let you [7] in the first few weeks. The important thing is not to [8] the decision until the last minute.",
+   "gaps": [
+    {
+     "options": [
+      "sign off on",
+      "sign over to",
+      "sign up for",
+      "sign out of"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "find in",
+      "find off",
+      "find over",
+      "find out"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "Look through",
+      "Look after",
+      "Look up to",
+      "Look out of"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "work off",
+      "work out",
+      "work in",
+      "work up"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "fill you up on",
+      "fill you out on",
+      "fill you in on",
+      "fill in you on"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "opt out",
+      "opt in",
+      "opt off",
+      "opt for"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "switch over",
+      "switch off",
+      "switch on",
+      "switch up"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "put up",
+      "put off",
+      "put on",
+      "put in"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "pv-006-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mc-cloze",
+   "explanation": "cool off, call in, play down, seize on, break off, patch up, wear off, wipe out.",
+   "title": "A diplomatic incident",
+   "text": "Relations between the two countries [1] after an incident at the summit. The ambassador was [2] by the foreign ministry to explain comments he had made about the host country. Both governments tried to [3] the incident, but the press [4] the story. Within days, trade talks had been [5]. It took months of quiet diplomacy to [6] relations, and many observers believe the effects will take years to [7]. The episode shows how quickly a careless remark can [8] years of careful work.",
+   "gaps": [
+    {
+     "options": [
+      "cooled in",
+      "cooled up",
+      "cooled off",
+      "cooled over"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "called off",
+      "called up",
+      "called by",
+      "called in"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "play down",
+      "play back",
+      "play off",
+      "play along"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "seized up",
+      "seized on",
+      "seized off",
+      "seized in"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "broken in",
+      "broken out",
+      "broken off",
+      "broken into"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "patch in",
+      "patch out",
+      "patch down",
+      "patch up"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "wear off",
+      "wear out",
+      "wear down",
+      "wear in"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "wipe off",
+      "wipe out",
+      "wipe up",
+      "wipe down"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

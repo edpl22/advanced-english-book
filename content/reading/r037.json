@@ -1,0 +1,298 @@
+{
+ "id": "r037",
+ "title": "Four Days a Week",
+ "level": "B2",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "FUVEST",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "For most of the twentieth century, the five-day working week seemed as natural as the seven-day week itself. Yet it was not always so: the two-day weekend became common in many industrial countries only after long campaigns by workers and a growing recognition among employers that tired workers were not productive ones. Today, a new question is being asked. If the weekend could grow from one day to two, why not three?\n\nIn recent years, companies and governments in several countries have run trials of a four-day week. In most of these experiments, employees worked around thirty-two hours instead of forty, without any reduction in pay, and were expected to maintain the same level of output. The results have attracted considerable attention. In many trials, companies reported that productivity stayed the same or even improved, while employees reported less stress, better sleep and more time for family and personal interests. Several companies decided to continue with the shorter week after the trial ended.\n\nHow can people produce as much in four days as in five? Supporters offer several explanations. A fixed deadline encourages people to work more efficiently: unnecessary meetings are cancelled, distractions are reduced and tasks are prioritised more carefully. Well-rested employees make fewer mistakes and take fewer days off sick. In addition, the promise of a three-day weekend can help companies attract and keep talented staff.\n\nSceptics, however, urge caution. They point out that the companies taking part in trials usually volunteered to do so, and are therefore likely to be those best suited to the change — often office-based businesses in sectors such as technology and marketing. It is far less clear how a four-day week would work in hospitals, schools, factories or shops, where services must be provided every day and output depends directly on the number of hours worked. Reducing hours in these sectors without reducing pay might require hiring more staff, which would increase costs. Critics also note that some employees in the trials found the condensed week more intense, with less time for informal conversations with colleagues.\n\nThere is also the question of measurement. Productivity is relatively easy to measure in a factory, but much harder in jobs where results are less tangible. Some researchers argue that longer-term studies, involving a wider range of workplaces, are needed before firm conclusions can be drawn.\n\nWhatever the outcome, the debate has raised a question that goes beyond working hours: whether the value of work should be measured by the time people spend doing it or by what they actually achieve.",
+ "questions": [
+  {
+   "id": "r037-q01",
+   "type": "reading",
+   "passageId": "r037",
+   "prompt": "Why does the author mention the history of the two-day weekend?",
+   "options": [
+    "To argue that workers today are lazier",
+    "To show that working time has changed before and could change again",
+    "To explain why employers prefer the five-day week",
+    "To show that weekends are a recent invention in all countries"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "If the weekend grew from one day to two, why not three?"
+  },
+  {
+   "id": "r037-q02",
+   "type": "reading",
+   "passageId": "r037",
+   "prompt": "In most of the trials, employees",
+   "options": [
+    "worked longer days on four days",
+    "received lower salaries",
+    "worked fewer hours for the same pay",
+    "worked from home"
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Around 32 hours without any reduction in pay."
+  },
+  {
+   "id": "r037-q03",
+   "type": "reading",
+   "passageId": "r037",
+   "prompt": "Which result of the trials is mentioned in paragraph 2?",
+   "options": [
+    "Productivity fell significantly.",
+    "Most companies returned to five days.",
+    "Employees reported less stress and better sleep.",
+    "Employees asked for longer hours."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 2."
+  },
+  {
+   "id": "r037-q04",
+   "type": "reading",
+   "passageId": "r037",
+   "prompt": "Which explanation for maintained productivity is NOT given in paragraph 3?",
+   "options": [
+    "Unnecessary meetings are cancelled.",
+    "Employees are paid bonuses for extra work.",
+    "Rested employees make fewer mistakes.",
+    "Tasks are prioritised more carefully."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Bonuses are not mentioned."
+  },
+  {
+   "id": "r037-q05",
+   "type": "reading",
+   "passageId": "r037",
+   "prompt": "According to sceptics, why may the trial results be misleading?",
+   "options": [
+    "The participating companies were likely those best suited to the change.",
+    "The trials lasted too long.",
+    "Employees lied about their productivity.",
+    "Only factories took part."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Companies volunteered and are likely best suited."
+  },
+  {
+   "id": "r037-q06",
+   "type": "reading",
+   "passageId": "r037",
+   "prompt": "Why might a four-day week be harder in hospitals and schools?",
+   "options": [
+    "Employees there do not want shorter weeks.",
+    "These sectors are more profitable.",
+    "Their staff already work four days.",
+    "Services must be provided every day and depend on hours worked."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r037-q07",
+   "type": "reading",
+   "passageId": "r037",
+   "prompt": "The word “condensed” in paragraph 4 is closest in meaning to",
+   "options": [
+    "compressed into less time",
+    "relaxed",
+    "extended",
+    "cancelled"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "A condensed week = the same work in less time."
+  },
+  {
+   "id": "r037-q08",
+   "type": "reading",
+   "passageId": "r037",
+   "prompt": "Why is measurement a problem, according to paragraph 5?",
+   "options": [
+    "Companies refuse to share their data.",
+    "Factories have no way to measure output.",
+    "In many jobs, results are hard to measure.",
+    "Researchers disagree about working hours."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Results are “less tangible”."
+  },
+  {
+   "id": "r037-q09",
+   "type": "reading",
+   "passageId": "r037",
+   "prompt": "What broader question does the last paragraph raise?",
+   "options": [
+    "Whether weekends should be abolished",
+    "Whether all workers should be paid the same",
+    "Whether companies should stop measuring productivity",
+    "Whether work should be valued by time spent or by results achieved"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in the last paragraph."
+  },
+  {
+   "id": "r037-q10",
+   "type": "reading",
+   "passageId": "r037",
+   "prompt": "What is the author's attitude to the four-day week?",
+   "options": [
+    "Strongly in favour without reservations",
+    "Interested but cautious, presenting both sides",
+    "Completely opposed",
+    "Indifferent"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The text presents benefits and doubts."
+  }
+ ]
+}

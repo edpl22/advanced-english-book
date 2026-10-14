@@ -1,0 +1,260 @@
+{
+ "id": "r014",
+ "title": "A Day Without Cars",
+ "level": "B1",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "Once a year, on a Sunday in September, something unusual happens in the centre of our town. From seven in the morning until seven in the evening, cars, motorbikes and lorries are not allowed in the main streets. Only buses, taxis for disabled people and emergency vehicles can enter. The rest of the space belongs to people on foot, on bicycles, on skates and even on horses.\n\nThe first car-free day took place eight years ago. At the beginning, many people were against the idea. Shop owners were worried that they would lose customers, and some drivers complained that they would not be able to visit their families. The town council decided to try it once and then ask people what they thought.\n\nThe results surprised almost everyone. Thousands of people came into the centre, many more than on a normal Sunday. Families walked in the middle of streets that are usually full of traffic. Children drew pictures on the road with coloured chalk. Local musicians played in the squares, and restaurants put tables outside. Instead of losing money, most shops sold more than usual, because people were walking slowly and looking at the shop windows.\n\nScientists from the local university measured the air quality during the day. They found that the level of pollution in the main square was about half of the normal level. The noise level fell too. \"You could hear birds and people talking,\" said one of the researchers. \"On a normal day, you only hear engines.\"\n\nNot everyone is happy, of course. Some people who live in the centre say that it is difficult to go shopping or to visit friends outside the town. Delivery companies have to change their plans, and a few drivers still try to enter the closed streets. Every year, the police have to stop several cars and send them back.\n\nToday, most people in the town see the car-free day as a celebration. Some even want more of them — one every month, or one every Sunday in summer. The council is not sure yet. \"A special day is fun,\" says the mayor, \"but changing the way people travel every day is much more difficult. Still, this day helps us imagine a different town.\"",
+ "questions": [
+  {
+   "id": "r014-q01",
+   "type": "reading",
+   "passageId": "r014",
+   "prompt": "What is the text mainly about?",
+   "options": [
+    "A new bus service in the town",
+    "A competition for cyclists and skaters",
+    "A yearly event when cars cannot enter the town centre",
+    "The problems of driving in a small town"
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The text describes the car-free day and its effects."
+  },
+  {
+   "id": "r014-q02",
+   "type": "reading",
+   "passageId": "r014",
+   "prompt": "Which vehicles can enter the centre on the car-free day?",
+   "options": [
+    "motorbikes and lorries",
+    "delivery vans",
+    "buses and emergency vehicles",
+    "all taxis"
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“Only buses, taxis for disabled people and emergency vehicles can enter.”"
+  },
+  {
+   "id": "r014-q03",
+   "type": "reading",
+   "passageId": "r014",
+   "prompt": "Why were shop owners against the idea at first?",
+   "options": [
+    "They did not want to work on Sunday.",
+    "They wanted the street for their cars.",
+    "They were afraid of noise from the music.",
+    "They thought they would have fewer customers."
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“worried that they would lose customers”."
+  },
+  {
+   "id": "r014-q04",
+   "type": "reading",
+   "passageId": "r014",
+   "prompt": "What did the town council decide to do at the beginning?",
+   "options": [
+    "Close the centre every Sunday",
+    "Ask the shop owners to pay for the event",
+    "Build new car parks outside the town",
+    "Try the idea once and then ask people their opinion"
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“decided to try it once and then ask people what they thought”."
+  },
+  {
+   "id": "r014-q05",
+   "type": "reading",
+   "passageId": "r014",
+   "prompt": "Why did most shops sell more than usual?",
+   "options": [
+    "People walked slowly and looked at the shop windows.",
+    "Prices were lower on that day.",
+    "Shops stayed open all night.",
+    "Drivers parked near the shops."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“because people were walking slowly and looking at the shop windows”."
+  },
+  {
+   "id": "r014-q06",
+   "type": "reading",
+   "passageId": "r014",
+   "prompt": "What did the scientists discover?",
+   "options": [
+    "Pollution in the main square was about 50% lower.",
+    "The air was cleaner than in the countryside.",
+    "There were more birds in the town than before.",
+    "Noise levels did not change."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“about half of the normal level”."
+  },
+  {
+   "id": "r014-q07",
+   "type": "reading",
+   "passageId": "r014",
+   "prompt": "Which problem is NOT mentioned in paragraph 5?",
+   "options": [
+    "Some residents find it hard to visit friends.",
+    "Restaurants have to close early.",
+    "Delivery companies must change their plans.",
+    "Some drivers try to enter the closed streets."
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Restaurants are not mentioned as a problem."
+  },
+  {
+   "id": "r014-q08",
+   "type": "reading",
+   "passageId": "r014",
+   "prompt": "The word “them” in paragraph 5 (“send them back”) refers to",
+   "options": [
+    "delivery companies",
+    "police officers",
+    "cars",
+    "friends"
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The police stop several cars and send them back."
+  },
+  {
+   "id": "r014-q09",
+   "type": "reading",
+   "passageId": "r014",
+   "prompt": "What does the mayor think?",
+   "options": [
+    "There should be a car-free day every Sunday.",
+    "The day is positive, but changing everyday habits is harder.",
+    "The event should stop because it causes problems.",
+    "People already travel differently because of the day."
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“A special day is fun … but changing the way people travel every day is much more difficult.”"
+  }
+ ]
+}

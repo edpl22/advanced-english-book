@@ -1,0 +1,330 @@
+{
+ "id": "r043",
+ "title": "The Weakest Link",
+ "level": "C1",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ITA",
+  "IME",
+  "EN",
+  "EFOMM",
+  "AFA",
+  "EsPCEx"
+ ],
+ "text": "When people imagine attacks on computer networks, they tend to picture highly skilled hackers exploiting obscure technical flaws. Such attacks certainly occur. Yet security specialists, including those responsible for defending military systems, consistently report that a large proportion of successful intrusions begin not with a technical breakthrough but with a human error: a password reused across several accounts, an infected memory stick plugged into a computer, or an employee persuaded to click on a link in a convincing e-mail.\n\nThe last of these, known as phishing, illustrates why the human factor is so difficult to address. A well-crafted phishing message exploits normal, even admirable, human tendencies: the wish to be helpful, respect for authority, curiosity, and the reluctance to delay an urgent request. An e-mail that appears to come from a senior officer, refers to a genuine operation and asks for a document to be sent quickly may be very hard to distinguish from a legitimate message. More targeted variants, sometimes called spear phishing, are tailored to particular individuals using information gathered from social media, public records or previous breaches.\n\nArmed forces have particular reasons for concern. Military personnel and their families often share details of their lives online, and seemingly innocent information — a photograph showing the location of a unit, a post mentioning a deployment date, data from a fitness application revealing the routes regularly run by soldiers around a base — can be combined by an adversary into a remarkably detailed picture. Several armed forces have consequently issued guidance restricting the use of personal devices and social media in sensitive contexts.\n\nTechnical measures can reduce the risks. Requiring a second form of authentication, such as a code generated on a separate device, makes stolen passwords far less useful. Restricting which devices can be connected to sensitive networks prevents many forms of infection. Yet experts warn against the belief that technology alone can solve a fundamentally human problem. Overly restrictive systems can even be counterproductive, encouraging users to find unofficial ways around them that create new vulnerabilities.\n\nThe most effective approach, specialists argue, is to build what they call a security culture. This involves regular, realistic training — including simulated phishing exercises — but also an organisational climate in which people feel able to report mistakes promptly without fear of disproportionate punishment. An employee who immediately admits to having clicked on a suspicious link allows the damage to be contained; one who conceals the error out of fear may allow an intruder to remain undetected for months.\n\nIn this sense, the human being is not only the weakest link in the chain of cyber defence. Properly trained and supported, people can also be its most adaptable sensor.",
+ "glossary": [
+  [
+   "phishing",
+   "sending fraudulent messages to trick people into revealing information"
+  ],
+  [
+   "breach",
+   "an incident in which data is accessed without authorisation"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r043-q01",
+   "type": "reading",
+   "passageId": "r043",
+   "prompt": "What do security specialists consistently report about successful intrusions?",
+   "options": [
+    "Many begin with a human error rather than a technical breakthrough.",
+    "Most are carried out by highly skilled hackers.",
+    "They usually exploit obscure technical flaws.",
+    "They mostly target personal computers."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 1."
+  },
+  {
+   "id": "r043-q02",
+   "type": "reading",
+   "passageId": "r043",
+   "prompt": "Why does the author describe some of the tendencies exploited by phishing as “admirable”?",
+   "options": [
+    "Phishing messages are well written.",
+    "Attackers are admired by experts.",
+    "People admire senior officers.",
+    "Qualities such as helpfulness are normally positive."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The wish to be helpful and respect for authority are good qualities."
+  },
+  {
+   "id": "r043-q03",
+   "type": "reading",
+   "passageId": "r043",
+   "prompt": "What distinguishes spear phishing from ordinary phishing?",
+   "options": [
+    "It is tailored to specific individuals.",
+    "It uses telephone calls instead of e-mail.",
+    "It targets only computers, not people.",
+    "It is always sent by senior officers."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Tailored using information about particular individuals."
+  },
+  {
+   "id": "r043-q04",
+   "type": "reading",
+   "passageId": "r043",
+   "prompt": "Why does the author mention data from a fitness application?",
+   "options": [
+    "To show how innocent information can reveal sensitive details",
+    "To recommend exercise for soldiers",
+    "To criticise fitness companies",
+    "To explain how passwords are stolen"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Running routes around a base can be revealed."
+  },
+  {
+   "id": "r043-q05",
+   "type": "reading",
+   "passageId": "r043",
+   "prompt": "What is the advantage of a second form of authentication?",
+   "options": [
+    "Users no longer need passwords.",
+    "It prevents all phishing e-mails.",
+    "It allows any device to connect.",
+    "Stolen passwords become much less useful."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r043-q06",
+   "type": "reading",
+   "passageId": "r043",
+   "prompt": "According to paragraph 4, why can overly restrictive systems be counterproductive?",
+   "options": [
+    "They are too expensive to maintain.",
+    "They make networks slower.",
+    "They encourage attackers to give up.",
+    "Users may find unofficial ways around them, creating new vulnerabilities."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r043-q07",
+   "type": "reading",
+   "passageId": "r043",
+   "prompt": "Which of the following is part of a “security culture” as described in the passage?",
+   "options": [
+    "Punishing every error severely",
+    "Allowing people to report mistakes without fear of excessive punishment",
+    "Banning all use of e-mail",
+    "Relying only on technical measures"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "An organisational climate where people report mistakes promptly."
+  },
+  {
+   "id": "r043-q08",
+   "type": "reading",
+   "passageId": "r043",
+   "prompt": "Why is prompt reporting of a mistake so important?",
+   "options": [
+    "It identifies the attacker immediately.",
+    "It is required by international law.",
+    "It allows the damage to be contained quickly.",
+    "It protects the employee's career."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Admitting immediately allows damage to be contained."
+  },
+  {
+   "id": "r043-q09",
+   "type": "reading",
+   "passageId": "r043",
+   "prompt": "The word “one” in paragraph 5 (“one who conceals the error”) refers to",
+   "options": [
+    "a link",
+    "an employee",
+    "an intruder",
+    "a month"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "An employee who conceals the error."
+  },
+  {
+   "id": "r043-q10",
+   "type": "reading",
+   "passageId": "r043",
+   "prompt": "What is the meaning of the final sentence?",
+   "options": [
+    "Humans should be replaced by sensors.",
+    "Technology is more adaptable than people.",
+    "Well-trained people can help detect threats, not only cause them.",
+    "People are the weakest link and cannot change."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "People can be “its most adaptable sensor”."
+  }
+ ]
+}

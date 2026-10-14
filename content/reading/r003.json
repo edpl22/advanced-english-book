@@ -1,0 +1,334 @@
+{
+ "id": "r003",
+ "title": "Fatigue at Sea",
+ "level": "C1",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ITA",
+  "IME",
+  "EN",
+  "EFOMM",
+  "AFA",
+  "EsPCEx"
+ ],
+ "text": "On the night of the accident, the officer on watch had been awake for almost nineteen hours. The weather was calm, the radar was working and the route was familiar. Nevertheless, the ship drifted slowly off course and ran aground on a sandbank that appeared on every chart. The investigation that followed concluded that the officer had probably fallen asleep for several minutes without being aware of it.\n\nSuch cases are not rare. Studies of maritime accidents suggest that fatigue contributes to a significant proportion of collisions and groundings, although the exact figure is difficult to establish because tired crew members seldom report their own condition. Unlike alcohol, fatigue leaves no trace that can be measured after the event. Investigators must therefore reconstruct sleep patterns from logbooks, interviews and working schedules.\n\nThe problem is partly biological. Human alertness follows a daily rhythm controlled by an internal clock, and it falls to its lowest point in the early hours of the morning, between roughly 2 a.m. and 6 a.m. During this period, reaction times lengthen and attention wanders, even in experienced and highly motivated people. Ironically, monotonous conditions — a calm sea, a clear sky, a quiet bridge — make the danger greater, because there is little to keep the brain stimulated.\n\nWorking practices can aggravate the situation. On many vessels, officers follow a \"six-on, six-off\" system, which in theory gives them twelve hours of rest per day. In practice, the rest periods are often interrupted by drills, port operations and paperwork, so that sleep is broken into short and inefficient fragments. Research indicates that several short periods of sleep do not restore performance as effectively as a single long one.\n\nInternational regulations now set minimum hours of rest for seafarers, and some shipping companies have introduced fatigue management plans that include rotating schedules, rest areas protected from noise and training to recognise the early signs of drowsiness. Technology also helps: bridge alarm systems require the officer on watch to respond at regular intervals and alert the captain if they do not. Experts insist, however, that no device can replace adequate rest. As one investigator put it, \"A tired officer is a hazard that no instrument on the bridge can fully detect.\"",
+ "questions": [
+  {
+   "id": "r003-q01",
+   "type": "reading",
+   "passageId": "r003",
+   "prompt": "According to the first paragraph, the ship ran aground because",
+   "options": [
+    "the radar failed during the night",
+    "the officer on watch probably fell asleep",
+    "the sandbank was not marked on the charts",
+    "the weather suddenly became stormy"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The investigation concluded that the officer had probably fallen asleep."
+  },
+  {
+   "id": "r003-q02",
+   "type": "reading",
+   "passageId": "r003",
+   "prompt": "Why is it difficult to know exactly how many accidents are caused by fatigue?",
+   "options": [
+    "Because ships do not keep logbooks",
+    "Because fatigue cannot be measured after the event and is rarely reported",
+    "Because investigators are not trained",
+    "Because most accidents happen in port"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“tired crew members seldom report their own condition … fatigue leaves no trace that can be measured”."
+  },
+  {
+   "id": "r003-q03",
+   "type": "reading",
+   "passageId": "r003",
+   "prompt": "The word “seldom” in paragraph 2 is closest in meaning to",
+   "options": [
+    "often",
+    "never",
+    "rarely",
+    "always"
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "seldom = rarely."
+  },
+  {
+   "id": "r003-q04",
+   "type": "reading",
+   "passageId": "r003",
+   "prompt": "According to paragraph 3, monotonous conditions are dangerous because",
+   "options": [
+    "they make it harder to see other ships",
+    "they increase reaction times only in inexperienced officers",
+    "they are common in bad weather",
+    "they provide little stimulation to the brain"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“there is little to keep the brain stimulated”."
+  },
+  {
+   "id": "r003-q05",
+   "type": "reading",
+   "passageId": "r003",
+   "prompt": "The word “Ironically” in paragraph 3 suggests that",
+   "options": [
+    "the result is the opposite of what one might expect",
+    "the author is joking",
+    "the information is uncertain",
+    "the conditions are very rare"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Calm conditions would seem safe, but they increase the danger."
+  },
+  {
+   "id": "r003-q06",
+   "type": "reading",
+   "passageId": "r003",
+   "prompt": "What problem with the “six-on, six-off” system is mentioned in the text?",
+   "options": [
+    "It gives officers too much free time.",
+    "Rest periods are often interrupted, breaking sleep into fragments.",
+    "It is forbidden by international law.",
+    "It is only used on small vessels."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“rest periods are often interrupted … sleep is broken into short and inefficient fragments”."
+  },
+  {
+   "id": "r003-q07",
+   "type": "reading",
+   "passageId": "r003",
+   "prompt": "According to the text, which of the following is NOT part of fatigue management plans?",
+   "options": [
+    "rotating schedules",
+    "rest areas protected from noise",
+    "training to recognise drowsiness",
+    "random alcohol tests"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Alcohol tests are not mentioned as part of the plans."
+  },
+  {
+   "id": "r003-q08",
+   "type": "reading",
+   "passageId": "r003",
+   "prompt": "The pronoun “they” in the last paragraph (“if they do not”) refers to",
+   "options": [
+    "the officers on watch",
+    "bridge alarm systems",
+    "experts",
+    "shipping companies"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The alarm alerts the captain if the officer on watch does not respond."
+  },
+  {
+   "id": "r003-q09",
+   "type": "reading",
+   "passageId": "r003",
+   "prompt": "It can be inferred from the text that",
+   "options": [
+    "technology has eliminated the risk of fatigue",
+    "experienced officers are not affected by fatigue",
+    "adequate rest remains essential despite new technology",
+    "most accidents happen in stormy weather"
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“no device can replace adequate rest”."
+  },
+  {
+   "id": "r003-q10",
+   "type": "reading",
+   "passageId": "r003",
+   "prompt": "Which title would best summarise the text?",
+   "options": [
+    "The History of Navigation Charts",
+    "A Hidden Danger on the Bridge",
+    "How to Become a Ship's Officer",
+    "The Benefits of Night Work"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The text discusses fatigue as an invisible risk on ships."
+  }
+ ],
+ "glossary": [
+  [
+   "run aground",
+   "(of a ship) hit the bottom in shallow water and get stuck"
+  ],
+  [
+   "bridge",
+   "the place on a ship from which it is steered"
+  ],
+  [
+   "drowsiness",
+   "the state of being sleepy"
+  ]
+ ]
+}

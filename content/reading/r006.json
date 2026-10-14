@@ -1,0 +1,308 @@
+{
+ "id": "r006",
+ "title": "How Bees Choose a Home",
+ "level": "B2",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "FUVEST",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "In late spring, a large honeybee colony often divides. The old queen leaves the hive with about half of the workers, and the swarm settles temporarily on a tree branch, hanging there like a dark, buzzing beard. It now faces a problem of life and death: it must find a new home before the weather turns or its food reserves run out. The way it solves this problem has fascinated biologists, because the decision is made not by the queen, but collectively, by a few hundred experienced bees known as scouts.\n\nScouts fly off in different directions and inspect possible sites: hollow trees, holes in walls, gaps under roofs. A good home must have the right volume, a small entrance that is easy to defend, and some height above the ground. When a scout finds a promising site, it returns to the swarm and performs a \"waggle dance\" on the surface of the cluster. The direction of the dance indicates the direction of the site, and its duration indicates the distance. Crucially, the more enthusiastic the scout is about the site, the longer and more often it dances.\n\nOther scouts that watch the dance may fly off to inspect the site for themselves. If they also like it, they return and dance for it too. In this way, good sites attract more and more supporters, while poor sites gradually lose them, because scouts that are less impressed dance less and eventually stop. This is not a debate in the human sense; no bee compares all the options. Instead, the competition takes place between groups of supporters.\n\nThe final decision does not require every scout to agree. When the number of scouts present at one site reaches a certain threshold — around fifteen or twenty at the same time — those scouts return to the swarm and produce a special signal that prepares the other bees for flight. Within an hour, the whole swarm takes off and flies to its new home, guided by the scouts who know the way.\n\nResearchers have tested the system by offering swarms a choice of artificial nest boxes of different quality. In most cases, the swarm chose the best box available. Some scientists have even suggested that human committees could learn from bees: encourage independent investigation, let enthusiasm reflect quality, and avoid letting a single powerful individual dominate the discussion.",
+ "glossary": [
+  [
+   "swarm",
+   "a large group of insects moving together"
+  ],
+  [
+   "threshold",
+   "the level at which something starts to happen"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r006-q01",
+   "type": "reading",
+   "passageId": "r006",
+   "prompt": "What is the passage mainly about?",
+   "options": [
+    "Why honeybee colonies divide in spring",
+    "How queens choose the scouts of a colony",
+    "How a swarm of bees decides collectively where to live",
+    "Why bees are in danger in modern cities"
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The passage explains the collective decision-making process."
+  },
+  {
+   "id": "r006-q02",
+   "type": "reading",
+   "passageId": "r006",
+   "prompt": "Who makes the decision about the new home?",
+   "options": [
+    "The old queen alone",
+    "All the workers in the swarm",
+    "The youngest bees in the colony",
+    "Several hundred experienced scout bees"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“not by the queen, but collectively, by a few hundred … scouts”."
+  },
+  {
+   "id": "r006-q03",
+   "type": "reading",
+   "passageId": "r006",
+   "prompt": "Which of the following is NOT mentioned as a feature of a good home?",
+   "options": [
+    "It must have the right volume.",
+    "It must have a small entrance.",
+    "It must be close to flowers.",
+    "It must be some height above the ground."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Volume, small entrance and height are listed."
+  },
+  {
+   "id": "r006-q04",
+   "type": "reading",
+   "passageId": "r006",
+   "prompt": "According to paragraph 2, what does the duration of the waggle dance indicate?",
+   "options": [
+    "how large the site is",
+    "how many scouts have visited it",
+    "which direction the wind is blowing",
+    "how far away the site is"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“its duration indicates the distance”."
+  },
+  {
+   "id": "r006-q05",
+   "type": "reading",
+   "passageId": "r006",
+   "prompt": "The word “Crucially” in paragraph 2 is used to introduce",
+   "options": [
+    "a very important point",
+    "a surprising mistake",
+    "an opinion the author rejects",
+    "a less important detail"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Crucially = very importantly."
+  },
+  {
+   "id": "r006-q06",
+   "type": "reading",
+   "passageId": "r006",
+   "prompt": "Why do poor sites gradually lose supporters?",
+   "options": [
+    "The queen tells the scouts to ignore them.",
+    "Other bees attack the scouts that support them.",
+    "Scouts that are less impressed dance less and finally stop.",
+    "They are too far away for scouts to reach."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“scouts that are less impressed dance less and eventually stop”."
+  },
+  {
+   "id": "r006-q07",
+   "type": "reading",
+   "passageId": "r006",
+   "prompt": "The author says that the process is “not a debate in the human sense” because",
+   "options": [
+    "no single bee compares all the possible sites",
+    "bees cannot communicate with each other",
+    "the queen always has the final word",
+    "all the scouts must agree"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“no bee compares all the options”."
+  },
+  {
+   "id": "r006-q08",
+   "type": "reading",
+   "passageId": "r006",
+   "prompt": "The word “those” in paragraph 4 refers to",
+   "options": [
+    "the other bees in the swarm",
+    "the scouts present at the chosen site",
+    "the possible nest sites",
+    "the researchers"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Those scouts = the fifteen or twenty at the same site."
+  },
+  {
+   "id": "r006-q09",
+   "type": "reading",
+   "passageId": "r006",
+   "prompt": "What did the experiments with artificial nest boxes show?",
+   "options": [
+    "Swarms preferred boxes close to the ground.",
+    "Swarms could not choose between similar boxes.",
+    "Swarms chose a box at random.",
+    "Swarms usually chose the best box available."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“In most cases, the swarm chose the best box available”."
+  },
+  {
+   "id": "r006-q10",
+   "type": "reading",
+   "passageId": "r006",
+   "prompt": "What can be inferred from the last paragraph?",
+   "options": [
+    "Bees and humans make decisions in exactly the same way.",
+    "Some scientists think human groups could make better decisions by imitating bees.",
+    "Human committees already use the bees' method.",
+    "Powerful individuals are necessary for good decisions."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Scientists suggest committees could learn from bees."
+  }
+ ]
+}

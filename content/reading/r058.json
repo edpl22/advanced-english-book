@@ -1,0 +1,324 @@
+{
+ "id": "r058",
+ "title": "Machines and the Laws of War",
+ "level": "C2",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ITA",
+  "IME",
+  "EN"
+ ],
+ "text": "The laws of armed conflict rest on a small number of principles that have remained remarkably stable even as the means of warfare have been transformed. Combatants must distinguish between military objectives and civilians, directing attacks only against the former. Even a legitimate attack is prohibited if the expected harm to civilians would be excessive in relation to the concrete military advantage anticipated — the principle of proportionality. And all feasible precautions must be taken to avoid or minimise civilian harm. These principles presuppose a human being who perceives, weighs and decides. The prospect of weapon systems that can select and engage targets without further human intervention has therefore prompted one of the most consequential debates in contemporary international law.\n\nIt is worth clarifying what is, and is not, at issue. Automation in weapons is hardly new: certain defensive systems have for decades been capable of detecting and engaging incoming missiles faster than any human operator could react, and naval mines are, in a crude sense, autonomous. What distinguishes the current debate is the possibility, enabled by advances in machine learning and sensing, of systems that operate over wider areas and longer periods, against a broader range of targets, in environments where civilians are present.\n\nProponents of such systems advance arguments that cannot be lightly dismissed. Machines do not panic, seek revenge or tire; they may process sensor data more rapidly and consistently than human beings under fire. If they could be shown to discriminate between combatants and civilians more reliably than soldiers do, it would be difficult to argue that their use was less humane. Opponents respond that the judgements demanded by the law are not merely perceptual but evaluative. Recognising that a person has surrendered, that an individual carrying a weapon is a hunter rather than a fighter, or that the military advantage of an attack has diminished because circumstances have changed, requires an understanding of context and intention that current systems lack. Proportionality, in particular, involves weighing incommensurable values — human lives against military advantage — in a way that many regard as irreducibly a matter of human judgement.\n\nA further objection concerns accountability. International humanitarian law assumes that violations can be attributed to individuals: the commander who ordered an unlawful attack, the soldier who carried it out. If a system behaves in a way that none of its designers, programmers or operators intended or could reasonably have foreseen, it may be unclear who, if anyone, bears responsibility — a so-called accountability gap. Some scholars contend that existing doctrines of command responsibility are adequate to close it; others doubt that they are.\n\nMuch of the diplomatic discussion has consequently converged on the concept of \"meaningful human control\": the idea that, whatever the degree of automation, human beings must retain sufficient understanding of and influence over a system to ensure compliance with the law and to answer for its effects. The concept has the merit of attracting broad agreement. Its weakness is that this agreement depends partly on its vagueness; states that endorse it differ considerably on what level of control is \"meaningful\", and whether new binding rules are needed or existing law suffices.\n\nWhat is not in serious dispute is that the law applies. New weapons must be reviewed for compatibility with existing obligations, and no technology exempts its users from the principles of distinction, proportionality and precaution. The open question is whether those principles, formulated for human combatants, can be satisfied by systems in which the decisive judgement has been delegated — and whether some judgements ought never to be delegated at all.",
+ "glossary": [
+  [
+   "proportionality",
+   "the principle that civilian harm must not be excessive in relation to the military advantage expected"
+  ],
+  [
+   "feasible",
+   "possible and practical"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r058-q01",
+   "type": "reading",
+   "passageId": "r058",
+   "prompt": "What do the principles described in paragraph 1 “presuppose”?",
+   "options": [
+    "The use of automated weapons",
+    "A human being who perceives, weighs and decides",
+    "The absence of civilians",
+    "International agreement on all weapons"
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 1."
+  },
+  {
+   "id": "r058-q02",
+   "type": "reading",
+   "passageId": "r058",
+   "prompt": "Why does the author mention defensive systems and naval mines?",
+   "options": [
+    "To argue that all autonomous weapons are legal",
+    "To show that some degree of automation in weapons is not new",
+    "To criticise naval warfare",
+    "To show that machines react more slowly than humans"
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“Automation in weapons is hardly new.”"
+  },
+  {
+   "id": "r058-q03",
+   "type": "reading",
+   "passageId": "r058",
+   "prompt": "What distinguishes the current debate, according to paragraph 2?",
+   "options": [
+    "The first use of missiles in warfare",
+    "The invention of naval mines",
+    "The decision to ban all automation",
+    "Systems that could operate more widely and longer, in areas with civilians"
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 2."
+  },
+  {
+   "id": "r058-q04",
+   "type": "reading",
+   "passageId": "r058",
+   "prompt": "Which argument of proponents does the author say “cannot be lightly dismissed”?",
+   "options": [
+    "Machines are cheaper than soldiers.",
+    "Machines can be held legally responsible.",
+    "Machines do not panic or tire and might discriminate more reliably.",
+    "Machines never make mistakes."
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r058-q05",
+   "type": "reading",
+   "passageId": "r058",
+   "prompt": "Opponents argue that the judgements required by the law are “evaluative”. This means they",
+   "options": [
+    "can be measured precisely by sensors",
+    "are made only after the attack",
+    "concern only military equipment",
+    "involve interpreting context and weighing values, not just perceiving"
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Understanding context, intention and weighing incommensurable values."
+  },
+  {
+   "id": "r058-q06",
+   "type": "reading",
+   "passageId": "r058",
+   "prompt": "Which example is used to illustrate the difficulty of judgement in context?",
+   "options": [
+    "A person carrying a weapon who is a hunter rather than a fighter",
+    "A soldier who refuses an order",
+    "A missile approaching a ship",
+    "A commander planning an operation"
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r058-q07",
+   "type": "reading",
+   "passageId": "r058",
+   "prompt": "What is the “accountability gap”?",
+   "options": [
+    "Uncertainty about who is responsible when a system acts unforeseeably",
+    "The time between an attack and its investigation",
+    "The difference between military and civilian law",
+    "The lack of courts for international crimes"
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Defined in paragraph 4."
+  },
+  {
+   "id": "r058-q08",
+   "type": "reading",
+   "passageId": "r058",
+   "prompt": "How does the author assess the concept of “meaningful human control”?",
+   "options": [
+    "It has been precisely defined by all states.",
+    "It is rejected by most states.",
+    "It solves the accountability gap completely.",
+    "It attracts wide agreement partly because it is vague."
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“this agreement depends partly on its vagueness”."
+  },
+  {
+   "id": "r058-q09",
+   "type": "reading",
+   "passageId": "r058",
+   "prompt": "What is NOT in serious dispute, according to the last paragraph?",
+   "options": [
+    "New binding rules are needed.",
+    "Autonomous weapons should be banned.",
+    "Existing law applies to new weapons.",
+    "Machines can apply proportionality."
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“What is not in serious dispute is that the law applies.”"
+  },
+  {
+   "id": "r058-q10",
+   "type": "reading",
+   "passageId": "r058",
+   "prompt": "Which question does the author leave open at the end?",
+   "options": [
+    "Whether the laws of war should be abolished",
+    "Whether mines are autonomous weapons",
+    "Whether some decisions should never be delegated to machines",
+    "Whether soldiers should be replaced entirely"
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The final sentence."
+  },
+  {
+   "id": "r058-q11",
+   "type": "reading",
+   "passageId": "r058",
+   "prompt": "Which best describes the author's approach throughout the passage?",
+   "options": [
+    "Analytical and balanced, presenting arguments on both sides",
+    "Strongly in favour of autonomous weapons",
+    "Strongly opposed to all military technology",
+    "Mainly concerned with technical details"
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The passage weighs proponents' and opponents' arguments."
+  }
+ ]
+}

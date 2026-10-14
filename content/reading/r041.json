@@ -1,0 +1,330 @@
+{
+ "id": "r041",
+ "title": "The Long Tail of Sea Power",
+ "level": "C1",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ITA",
+  "IME",
+  "EN",
+  "EFOMM",
+  "AFA",
+  "EsPCEx"
+ ],
+ "text": "Naval history is usually told through battles: the clash of fleets, the decisions of admirals, the moments when the fate of a nation seemed to hang on a single engagement. Far less attention is paid to what professional officers sometimes call the \"long tail\" — the chain of fuel, food, ammunition, spare parts and maintenance without which no fleet can leave harbour, let alone fight. Yet historians who study naval power increasingly argue that logistics, rather than tactics, has often decided the outcome of maritime campaigns.\n\nThe problem is fundamentally one of distance and endurance. A warship at sea consumes fuel continuously, and its crew consumes food and fresh water. In the age of sail, ships could remain at sea for months, since wind was free, but they were constrained by the decay of provisions and the spread of disease, notably scurvy, which killed more sailors in some periods than enemy action. The transition to steam in the nineteenth century transformed the equation. Steamships were faster and independent of the wind, but they depended on coal, and coal had to be loaded at coaling stations. The global network of such stations became a strategic asset in itself, and the possession of distant islands and harbours acquired an importance quite out of proportion to their size.\n\nThe twentieth century brought further changes. The switch from coal to oil made refuelling faster and cleaner, and the development of techniques for transferring fuel and supplies between ships while both were under way — known as replenishment at sea — allowed fleets to operate far from any base for extended periods. This capability, which requires considerable seamanship, as two vessels must steam side by side at close range while connected by hoses and cables, became one of the defining characteristics of a navy capable of acting globally.\n\nModern navies face logistical challenges of a different kind. Contemporary warships are packed with sophisticated electronic systems whose spare parts may be produced by only a handful of suppliers, sometimes abroad. Maintenance requires highly specialised technicians, and a ship may spend a significant proportion of its life in dockyards rather than at sea. Strategists therefore speak of the need to consider not only how many ships a navy possesses but how many it can actually keep available at any given time.\n\nThe lesson is not a glamorous one, which may explain why it is so often neglected. Fleets are admired for their firepower, but their reach is determined by their supply lines. As an old saying among naval officers puts it, amateurs talk about strategy, while professionals talk about logistics.",
+ "glossary": [
+  [
+   "scurvy",
+   "a disease caused by a lack of vitamin C"
+  ],
+  [
+   "under way",
+   "(of a ship) moving through the water"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r041-q01",
+   "type": "reading",
+   "passageId": "r041",
+   "prompt": "What is the “long tail” referred to in the passage?",
+   "options": [
+    "The final stage of a naval battle",
+    "The supply chain that keeps a fleet operational",
+    "A traditional naval formation",
+    "The history of famous admirals"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Fuel, food, ammunition, spare parts and maintenance."
+  },
+  {
+   "id": "r041-q02",
+   "type": "reading",
+   "passageId": "r041",
+   "prompt": "What argument do historians increasingly make, according to paragraph 1?",
+   "options": [
+    "Battles are the most important part of naval history.",
+    "Admirals have been overrated.",
+    "Logistics has often been more decisive than tactics.",
+    "Navies no longer need logistics."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Logistics, rather than tactics, has often decided the outcome."
+  },
+  {
+   "id": "r041-q03",
+   "type": "reading",
+   "passageId": "r041",
+   "prompt": "What limited sailing ships' time at sea?",
+   "options": [
+    "The lack of wind",
+    "The need for coal",
+    "Decaying provisions and disease",
+    "The danger of enemy submarines"
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Constrained by the decay of provisions and the spread of disease."
+  },
+  {
+   "id": "r041-q04",
+   "type": "reading",
+   "passageId": "r041",
+   "prompt": "The phrase “transformed the equation” in paragraph 2 means that steam",
+   "options": [
+    "made ships slower",
+    "changed the basic factors that determined how long ships could operate",
+    "solved all logistical problems",
+    "made naval mathematics more complicated"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "New dependence on coal, independence from wind."
+  },
+  {
+   "id": "r041-q05",
+   "type": "reading",
+   "passageId": "r041",
+   "prompt": "Why did small distant islands acquire strategic importance?",
+   "options": [
+    "They had large populations.",
+    "They produced oil.",
+    "They were easy to defend.",
+    "They could serve as coaling stations."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The network of coaling stations became a strategic asset."
+  },
+  {
+   "id": "r041-q06",
+   "type": "reading",
+   "passageId": "r041",
+   "prompt": "What is replenishment at sea?",
+   "options": [
+    "Transferring fuel and supplies between ships while they are moving",
+    "Returning to port to refuel",
+    "Fishing to supplement food supplies",
+    "Repairing ships without dockyards"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Defined in paragraph 3."
+  },
+  {
+   "id": "r041-q07",
+   "type": "reading",
+   "passageId": "r041",
+   "prompt": "Why does replenishment at sea require “considerable seamanship”?",
+   "options": [
+    "Two ships must sail side by side at close range while connected.",
+    "It can only be done in storms.",
+    "It requires a very large crew.",
+    "It must be done at night."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r041-q08",
+   "type": "reading",
+   "passageId": "r041",
+   "prompt": "According to paragraph 4, why may modern navies struggle to keep ships available?",
+   "options": [
+    "Crews refuse to stay at sea.",
+    "Complex systems require specialised parts and maintenance.",
+    "Fuel has become too expensive.",
+    "Ships are too fast to refuel."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Spare parts from few suppliers; specialised technicians; dockyard time."
+  },
+  {
+   "id": "r041-q09",
+   "type": "reading",
+   "passageId": "r041",
+   "prompt": "Why, according to the author, is logistics often neglected?",
+   "options": [
+    "It is too technical to understand.",
+    "It is kept secret by navies.",
+    "It has only recently become important.",
+    "It is not a glamorous subject."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“The lesson is not a glamorous one.”"
+  },
+  {
+   "id": "r041-q10",
+   "type": "reading",
+   "passageId": "r041",
+   "prompt": "What does the closing saying imply?",
+   "options": [
+    "Amateurs understand naval strategy better than professionals.",
+    "Strategy is irrelevant in modern warfare.",
+    "Experienced officers recognise that supply is fundamental.",
+    "Professionals avoid talking about strategy."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Professionals focus on logistics."
+  }
+ ]
+}

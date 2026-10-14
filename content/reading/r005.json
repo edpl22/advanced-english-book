@@ -1,0 +1,280 @@
+{
+ "id": "r005",
+ "title": "The First Week",
+ "level": "B1",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "EsPCEx",
+  "EFOMM",
+  "AFA",
+  "EN",
+  "ENEM"
+ ],
+ "text": "For most young people, the first week at a military academy is the hardest week of the whole course. New cadets arrive with a suitcase full of clothes they will hardly ever wear and a head full of ideas about what military life will be like. Within a few days, both the clothes and many of the ideas are put away.\n\nThe day begins early. A bugle or a loud bell wakes everyone at half past five, and cadets have only a few minutes to wash, dress and make their beds. Beds must be made in a very particular way, with the sheets folded tightly at the corners. At first, this seems like a strange thing to care about. Instructors explain, however, that small tasks done correctly every day teach the habit of attention to detail, and that this habit can save lives later.\n\nAfter breakfast there is physical training, followed by classes. In the first week, much of the time is spent learning basic things: how to wear the uniform, how to march, how to salute and how to address officers. Cadets also learn the rules of the academy, and there are a lot of them. Mistakes are corrected immediately, often in front of the whole group, which many newcomers find embarrassing.\n\nWhat surprises most cadets is how little time they have for themselves. Every hour of the day is planned, and even free time is short. Mobile phones are often allowed only in the evening. Some cadets feel homesick, and a few decide during the first week that this life is not for them. Instructors say that this is normal and that it is better to discover it early.\n\nYet the first week also has positive surprises. Because everyone is facing the same difficulties, cadets quickly learn to help one another. A cadet who is good at ironing shows the others how to press a shirt; another who is a strong runner stays at the back to encourage those who are slower. By the end of the week, strangers from different parts of the country have started to become a team.\n\nMany former cadets remember this week for the rest of their lives. \"I was tired, I was nervous and I missed my family,\" says one officer, \"but it was the week I learned that I could do more than I thought.\"",
+ "questions": [
+  {
+   "id": "r005-q01",
+   "type": "reading",
+   "passageId": "r005",
+   "prompt": "What is the main idea of the text?",
+   "options": [
+    "Military academies should not be so strict with new cadets.",
+    "Most cadets leave the academy after the first week.",
+    "The first week at a military academy is difficult but helps cadets grow and work together.",
+    "Cadets spend their first week learning to use weapons."
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The text describes the difficulties and the positive results of the first week."
+  },
+  {
+   "id": "r005-q02",
+   "type": "reading",
+   "passageId": "r005",
+   "prompt": "Why does the text say that cadets' clothes are “put away”?",
+   "options": [
+    "The clothes are too old to wear.",
+    "Cadets have to give their clothes to the academy.",
+    "There is no space to keep clothes.",
+    "Cadets wear uniforms most of the time."
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "They brought clothes they will hardly ever wear, because they wear uniforms."
+  },
+  {
+   "id": "r005-q03",
+   "type": "reading",
+   "passageId": "r005",
+   "prompt": "According to the instructors, why must beds be made in a particular way?",
+   "options": [
+    "It keeps the rooms warm at night.",
+    "It is a tradition with no real purpose.",
+    "It is a punishment for late cadets.",
+    "It teaches cadets to pay attention to detail."
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Small tasks done correctly teach the habit of attention to detail."
+  },
+  {
+   "id": "r005-q04",
+   "type": "reading",
+   "passageId": "r005",
+   "prompt": "Which of the following is NOT mentioned as something cadets learn in the first week?",
+   "options": [
+    "how to fly a plane",
+    "how to march",
+    "how to salute",
+    "how to wear the uniform"
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Marching, saluting and wearing the uniform are mentioned."
+  },
+  {
+   "id": "r005-q05",
+   "type": "reading",
+   "passageId": "r005",
+   "prompt": "Many newcomers find the corrections embarrassing because",
+   "options": [
+    "they are written in a public report",
+    "they are made in front of the whole group",
+    "the instructors shout very loudly",
+    "they must pay a fine"
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“often in front of the whole group”."
+  },
+  {
+   "id": "r005-q06",
+   "type": "reading",
+   "passageId": "r005",
+   "prompt": "The word “homesick” in paragraph 4 means",
+   "options": [
+    "ill because of the food",
+    "tired after a long journey",
+    "sad because you are far from your home and family",
+    "worried about your exams"
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Homesick = missing home and family."
+  },
+  {
+   "id": "r005-q07",
+   "type": "reading",
+   "passageId": "r005",
+   "prompt": "What do instructors think about cadets who leave during the first week?",
+   "options": [
+    "It is better for them to find out early that the life is not right for them.",
+    "They were not strong enough to stay.",
+    "They should be stopped from leaving.",
+    "They will regret it for the rest of their lives."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“it is better to discover it early”."
+  },
+  {
+   "id": "r005-q08",
+   "type": "reading",
+   "passageId": "r005",
+   "prompt": "Why does the text mention a cadet who is good at ironing?",
+   "options": [
+    "To show that the uniforms are difficult to clean",
+    "To show how cadets help each other",
+    "To explain how cadets are chosen",
+    "To show that some cadets do not work hard"
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Example of cadets helping one another."
+  },
+  {
+   "id": "r005-q09",
+   "type": "reading",
+   "passageId": "r005",
+   "prompt": "What did the officer learn in the first week, according to the last paragraph?",
+   "options": [
+    "That military life was not for them",
+    "That they were capable of more than they expected",
+    "That family was more important than a career",
+    "That they were the best cadet in the group"
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“I could do more than I thought”."
+  }
+ ]
+}

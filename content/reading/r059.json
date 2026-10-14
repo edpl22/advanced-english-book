@@ -1,0 +1,336 @@
+{
+ "id": "r059",
+ "title": "More Than the Sum of the Parts",
+ "level": "C2",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "CPE",
+  "CAE",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "A single neuron does not think. A single ant has no conception of the colony it helps to build, and a single water molecule is neither wet nor turbulent. Yet brains think, colonies construct elaborate nests with ventilation systems, and water swirls into eddies and waves. Phenomena of this kind, in which a system exhibits properties that none of its components possesses individually, are commonly described as emergent. The concept is invoked across disciplines from physics to economics, and it has proved as fertile as it is contentious.\n\nThe appeal of the idea lies partly in its explanatory economy. A flock of starlings performing intricate aerial manoeuvres appears to be coordinated by some central intelligence, yet computer simulations have shown that strikingly similar patterns arise when each simulated bird follows only a few simple rules concerning its nearest neighbours — keep close, avoid collisions, match their direction. The global pattern is not designed or directed; it emerges from local interactions. Similar models have been applied to traffic jams, which can form and propagate backwards along a motorway without any obstruction, and to the spontaneous segregation of neighbourhoods arising from mild individual preferences.\n\nPhilosophers have long distinguished between two senses of the term. In what is often called weak emergence, the properties of the whole are surprising, and perhaps impossible to predict without simulation, but are nonetheless entirely determined by the parts and their interactions. The behaviour of the flock is, in principle, fully explained by the rules followed by each bird. Strong emergence, by contrast, would involve properties of the whole that are not even in principle derivable from the parts — genuinely novel features of reality, possibly with causal powers of their own. Consciousness is the case most frequently proposed as a candidate.\n\nWeak emergence is largely uncontroversial; it is, arguably, simply a description of complexity. Strong emergence is another matter. Its critics argue that it sits uneasily with the scientific picture of a world in which the behaviour of complex systems is ultimately grounded in the laws governing their constituents. If a higher-level property could exert causal influence not fully accounted for by lower-level processes, it would seem to violate the causal closure of physics — the principle that every physical event has a sufficient physical cause. Defenders reply that this principle is an assumption rather than an established fact, and that our failure to explain consciousness in physical terms may indicate the limits of reductive explanation.\n\nBetween these positions lies a pragmatic consensus that much of science operates at levels that cannot usefully be reduced, whatever the metaphysical truth. A meteorologist forecasting a storm does not reason about individual molecules, nor does an economist modelling inflation begin with the neurochemistry of consumers. Higher-level concepts — pressure fronts, market expectations — capture regularities that would be invisible, or at least intractable, at lower levels. In this sense, emergence is less a mystery than a reminder that understanding a system often requires describing it at the scale at which its significant patterns appear.\n\nWhether reality itself is layered in this way, or whether the layers belong only to our descriptions, remains among the deepest open questions in the philosophy of science.",
+ "glossary": [
+  [
+   "intractable",
+   "extremely difficult to deal with or solve"
+  ],
+  [
+   "reductive",
+   "explaining something complex by reducing it to its simpler parts"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r059-q01",
+   "type": "reading",
+   "passageId": "r059",
+   "prompt": "What do the examples in paragraph 1 have in common?",
+   "options": [
+    "They all involve living organisms.",
+    "The system shows properties that its individual components do not have.",
+    "They are all controlled by a central intelligence.",
+    "They are all examples of physical laws being broken."
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Definition of emergence."
+  },
+  {
+   "id": "r059-q02",
+   "type": "reading",
+   "passageId": "r059",
+   "prompt": "The phrase “as fertile as it is contentious” suggests that the concept",
+   "options": [
+    "is useful only in biology",
+    "has been productive but also widely disputed",
+    "has been abandoned by scientists",
+    "is too simple to be useful"
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Fertile (productive) and contentious (disputed)."
+  },
+  {
+   "id": "r059-q03",
+   "type": "reading",
+   "passageId": "r059",
+   "prompt": "What did computer simulations of starling flocks show?",
+   "options": [
+    "Complex group patterns can arise from simple rules followed by individuals.",
+    "Flocks are directed by a leader bird.",
+    "Starlings cannot avoid collisions.",
+    "Flocks move randomly."
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 2."
+  },
+  {
+   "id": "r059-q04",
+   "type": "reading",
+   "passageId": "r059",
+   "prompt": "Why does the author mention traffic jams?",
+   "options": [
+    "As an example of strong emergence",
+    "To criticise motorway design",
+    "To show that simulations are unreliable",
+    "As another example of a pattern arising from local interactions"
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Jams form without any obstruction."
+  },
+  {
+   "id": "r059-q05",
+   "type": "reading",
+   "passageId": "r059",
+   "prompt": "What characterises weak emergence?",
+   "options": [
+    "The properties of the whole are fully determined by the parts, though they may be surprising.",
+    "The whole has causal powers independent of its parts.",
+    "The properties can never be simulated.",
+    "It applies only to consciousness."
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r059-q06",
+   "type": "reading",
+   "passageId": "r059",
+   "prompt": "Which phenomenon is most often proposed as a candidate for strong emergence?",
+   "options": [
+    "traffic jams",
+    "starling flocks",
+    "turbulence in water",
+    "consciousness"
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r059-q07",
+   "type": "reading",
+   "passageId": "r059",
+   "prompt": "Why do critics argue that strong emergence conflicts with science?",
+   "options": [
+    "It cannot be observed in laboratories.",
+    "It contradicts the theory of evolution.",
+    "It depends on computer simulations.",
+    "It seems to violate the principle that every physical event has a sufficient physical cause."
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Causal closure of physics."
+  },
+  {
+   "id": "r059-q08",
+   "type": "reading",
+   "passageId": "r059",
+   "prompt": "How do defenders of strong emergence respond?",
+   "options": [
+    "They admit that strong emergence is impossible.",
+    "They argue that physics is irrelevant to science.",
+    "Causal closure is an assumption, and explaining consciousness may exceed reductive methods.",
+    "They claim consciousness has been fully explained."
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r059-q09",
+   "type": "reading",
+   "passageId": "r059",
+   "prompt": "What is the point of the examples of the meteorologist and the economist?",
+   "options": [
+    "Science often works best at higher levels of description.",
+    "Weather and economics are unpredictable.",
+    "Scientists ignore molecules and neurochemistry because they are unimportant.",
+    "Higher-level concepts are always inaccurate."
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Higher-level concepts capture regularities invisible at lower levels."
+  },
+  {
+   "id": "r059-q10",
+   "type": "reading",
+   "passageId": "r059",
+   "prompt": "The word “intractable” in paragraph 5 is closest in meaning to",
+   "options": [
+    "easily visible",
+    "completely false",
+    "very hard to work with",
+    "physically small"
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "See glossary."
+  },
+  {
+   "id": "r059-q11",
+   "type": "reading",
+   "passageId": "r059",
+   "prompt": "Which statement best summarises the final paragraph?",
+   "options": [
+    "Philosophers have resolved the question of emergence.",
+    "It is still unclear whether levels exist in reality or only in our descriptions.",
+    "Reality is definitely layered.",
+    "Descriptions of reality are unnecessary."
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Remains among the deepest open questions."
+  }
+ ]
+}

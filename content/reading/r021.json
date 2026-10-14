@@ -1,0 +1,280 @@
+{
+ "id": "r021",
+ "title": "The Morning of the Fitness Test",
+ "level": "B1",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "EsPCEx",
+  "EFOMM",
+  "AFA",
+  "EN",
+  "ENEM"
+ ],
+ "text": "For candidates who want to enter a military school, the physical fitness test is often the part of the selection process that causes the most anxiety. Unlike a written exam, it cannot be passed with a good memory or a lucky guess. The body has to be ready, and preparing it takes months, not days.\n\nThe exact tests are different in each school, but most include a combination of running, push-ups, sit-ups and pull-ups on a bar. Many schools also include swimming. Each exercise has a minimum standard, which may be different for men and women and for different age groups. Candidates who do not reach the minimum in one exercise can be eliminated, even if they did very well in the others. For this reason, instructors advise candidates to train all the exercises and not only their favourites.\n\nA common mistake is to start training too late and then train too hard to recover the lost time. This often leads to injuries, especially in the knees and feet, which can stop a candidate from training for weeks. Experts recommend starting at least six months before the test and increasing the effort gradually, for example by running a little further each week. Rest days are part of the plan: muscles become stronger while they are recovering, not while they are working.\n\nFood and sleep are also important. A candidate who studies late every night and sleeps only five hours will not perform well, however hard he or she trains. Drinking enough water, eating regular meals and avoiding very heavy food before training all make a difference.\n\nOn the day of the test, the advice from instructors is simple. Arrive early, so that you are not stressed. Eat a light breakfast two or three hours before the test, not just before it. Warm up properly, but do not tire yourself. Do not try anything new on the day: no new shoes, no new food, no new technique. Listen carefully to the instructions, because an exercise that is done incorrectly may not be counted.\n\nFinally, remember that the fitness test is not only a test of the body. Candidates who stay calm, follow instructions and keep going when they are tired are already showing qualities that military schools value. As one instructor put it, \"On test day, your legs do the running, but your head decides when to stop.\"",
+ "questions": [
+  {
+   "id": "r021-q01",
+   "type": "reading",
+   "passageId": "r021",
+   "prompt": "Why is the fitness test different from a written exam?",
+   "options": [
+    "It is much easier than a written exam.",
+    "Good memory or luck cannot help you pass it.",
+    "It takes place only in the morning.",
+    "It is the last part of the selection process."
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“it cannot be passed with a good memory or a lucky guess”."
+  },
+  {
+   "id": "r021-q02",
+   "type": "reading",
+   "passageId": "r021",
+   "prompt": "Why do instructors advise candidates to train all the exercises?",
+   "options": [
+    "Failing one exercise can eliminate a candidate.",
+    "All exercises have the same standard.",
+    "Candidates can choose their exercises on the day.",
+    "Some exercises are not counted."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Candidates who fail one minimum can be eliminated."
+  },
+  {
+   "id": "r021-q03",
+   "type": "reading",
+   "passageId": "r021",
+   "prompt": "What often happens when candidates start training too late?",
+   "options": [
+    "They do not have time to buy equipment.",
+    "They lose interest in the test.",
+    "They forget the exercises.",
+    "They train too hard and get injured."
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "This often leads to injuries."
+  },
+  {
+   "id": "r021-q04",
+   "type": "reading",
+   "passageId": "r021",
+   "prompt": "Experts recommend starting to train",
+   "options": [
+    "at least six months before the test",
+    "one month before the test",
+    "only after passing the written exam",
+    "a week before the test"
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r021-q05",
+   "type": "reading",
+   "passageId": "r021",
+   "prompt": "According to the text, when do muscles become stronger?",
+   "options": [
+    "while they are working",
+    "only when candidates eat a lot",
+    "during the test",
+    "while they are recovering"
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“muscles become stronger while they are recovering”."
+  },
+  {
+   "id": "r021-q06",
+   "type": "reading",
+   "passageId": "r021",
+   "prompt": "The word “gradually” in paragraph 3 is closest in meaning to",
+   "options": [
+    "very quickly",
+    "little by little",
+    "every day",
+    "without stopping"
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Increasing the effort gradually = a little at a time."
+  },
+  {
+   "id": "r021-q07",
+   "type": "reading",
+   "passageId": "r021",
+   "prompt": "Which piece of advice for test day is NOT given in the text?",
+   "options": [
+    "Arrive early.",
+    "Run a long distance before the test.",
+    "Eat a light breakfast two or three hours before.",
+    "Do not use new shoes."
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Instructors say: warm up, but do not tire yourself."
+  },
+  {
+   "id": "r021-q08",
+   "type": "reading",
+   "passageId": "r021",
+   "prompt": "Why should candidates listen carefully to the instructions?",
+   "options": [
+    "The instructions are given only once a year.",
+    "The instructors want to test their English.",
+    "An incorrect exercise may not be counted.",
+    "They can choose a different exercise."
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“an exercise that is done incorrectly may not be counted”."
+  },
+  {
+   "id": "r021-q09",
+   "type": "reading",
+   "passageId": "r021",
+   "prompt": "What does the instructor mean in the last sentence?",
+   "options": [
+    "Running is the most important exercise.",
+    "Candidates should stop when they are tired.",
+    "Mental strength is as important as physical strength.",
+    "Instructors decide when the test ends."
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "ENEM"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“your head decides when to stop” — determination matters."
+  }
+ ]
+}

@@ -1,0 +1,1908 @@
+{
+ "topic": "future",
+ "batch": 1,
+ "title": "The future",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "fut-001-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.2",
+   "type": "mcq",
+   "explanation": "Prediction from evidence: going to.",
+   "prompt": "Look at those clouds! It ___ rain.",
+   "options": [
+    "is going to",
+    "will to",
+    "is raining to",
+    "goes to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "fut-001-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.1",
+   "type": "mcq",
+   "explanation": "Spontaneous offer: will.",
+   "prompt": "I’m really tired. — Sit down, I ___ make you a coffee.",
+   "options": [
+    "am going",
+    "will",
+    "am making to",
+    "make to"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "fut-001-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.1",
+   "type": "mcq",
+   "explanation": "Fixed arrangement: present continuous.",
+   "prompt": "We ___ dinner with Ana tonight — we booked a table last week.",
+   "options": [
+    "have",
+    "had",
+    "are having",
+    "will to have"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "fut-001-04",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.3",
+   "type": "mcq",
+   "explanation": "Timetable: present simple.",
+   "prompt": "The train ___ at 7.15 tomorrow morning.",
+   "options": [
+    "leave",
+    "is leave",
+    "left",
+    "leaves"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "fut-001-05",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.1",
+   "type": "mcq",
+   "explanation": "Plans: going to.",
+   "prompt": "What ___ do after the exam?",
+   "options": [
+    "are you going to",
+    "you are going to",
+    "do you going to",
+    "will you to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "fut-001-06",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "4.2",
+   "type": "mcq",
+   "explanation": "Opinion about the future: will.",
+   "prompt": "I’m sure the new restaurant ___ very popular.",
+   "options": [
+    "is being",
+    "will be",
+    "be",
+    "are"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "fut-001-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "mcq",
+   "explanation": "Action in progress at a future time: future continuous.",
+   "prompt": "This time tomorrow I ___ on a beach in Bahia.",
+   "options": [
+    "will lie",
+    "lie",
+    "will be lying",
+    "am lain"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "fut-001-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "mcq",
+   "explanation": "by + future perfect.",
+   "prompt": "By the end of the year, I ___ 500 kilometres.",
+   "options": [
+    "will run",
+    "am running",
+    "run",
+    "will have run"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "fut-001-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "mcq",
+   "explanation": "be about to = very soon.",
+   "prompt": "Hurry up! The film ___ to start.",
+   "options": [
+    "is about",
+    "is near",
+    "will",
+    "is going"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "fut-001-10",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "4.1",
+   "type": "mcq",
+   "explanation": "Time clauses: present simple for the future.",
+   "prompt": "I’ll call you as soon as I ___ home.",
+   "options": [
+    "will get",
+    "get",
+    "am going to get",
+    "got"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "fut-001-11",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "4.2",
+   "type": "mcq",
+   "explanation": "I’m sure + will.",
+   "prompt": "Don’t worry — I’m sure you ___ the exam.",
+   "options": [
+    "pass",
+    "are passing",
+    "will pass",
+    "passed"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "fut-001-12",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "mcq",
+   "explanation": "be due to = scheduled.",
+   "prompt": "The plane ___ to land at 10.30.",
+   "options": [
+    "is about",
+    "will be",
+    "is near",
+    "is due"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "fut-001-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.5",
+   "type": "mcq",
+   "explanation": "Future in the past: was going to.",
+   "prompt": "I ___ call you yesterday, but I forgot.",
+   "options": [
+    "was going to",
+    "am going to",
+    "will",
+    "would to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "fut-001-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "mcq",
+   "explanation": "Duration up to a future point: future perfect continuous.",
+   "prompt": "By next June, we ___ here for ten years.",
+   "options": [
+    "will live",
+    "will have been living",
+    "are living",
+    "will be live"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "fut-001-15",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "mcq",
+   "explanation": "Future continuous for polite questions about plans.",
+   "prompt": "___ you be using the car this evening? I’d like to borrow it.",
+   "options": [
+    "Are",
+    "Do",
+    "Will",
+    "Have"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "fut-001-16",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "4.5",
+   "type": "mcq",
+   "explanation": "Future in the past: would.",
+   "prompt": "Little did they know that the war ___ last six years.",
+   "options": [
+    "will",
+    "is going to",
+    "shall",
+    "would"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "fut-001-17",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "mcq",
+   "explanation": "be set to = planned (news style).",
+   "prompt": "The new rules are ___ to come into force in January.",
+   "options": [
+    "set",
+    "sure of",
+    "due for",
+    "about"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "fut-001-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "4.5",
+   "type": "mcq",
+   "explanation": "be on the point of + -ing.",
+   "prompt": "He was on the point of ___ when the phone rang.",
+   "options": [
+    "leave",
+    "leaving",
+    "to leave",
+    "left"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "fut-001-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.2",
+   "type": "gap",
+   "explanation": "Prediction: will / going to.",
+   "prompt": "I think it ___ sunny tomorrow.",
+   "acceptedAnswers": [
+    "will be",
+    "is going to be"
+   ],
+   "cue": "be"
+  },
+  {
+   "id": "fut-001-20",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.1",
+   "type": "gap",
+   "explanation": "Arrangement: present continuous.",
+   "prompt": "We ___ to the cinema tonight. We’ve already got the tickets.",
+   "acceptedAnswers": [
+    "are going"
+   ],
+   "cue": "go"
+  },
+  {
+   "id": "fut-001-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "gap",
+   "explanation": "Future continuous.",
+   "prompt": "Don’t phone at eight — we ___ dinner then.",
+   "acceptedAnswers": [
+    "will be having"
+   ],
+   "cue": "have"
+  },
+  {
+   "id": "fut-001-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "4.1",
+   "type": "gap",
+   "explanation": "Time clause: present simple.",
+   "prompt": "When you ___ in Lisbon, give me a call.",
+   "acceptedAnswers": [
+    "arrive",
+    "get"
+   ],
+   "cue": "arrive"
+  },
+  {
+   "id": "fut-001-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "4.3",
+   "type": "gap",
+   "explanation": "Timetable: present simple.",
+   "prompt": "The concert ___ at nine, according to the programme.",
+   "acceptedAnswers": [
+    "starts",
+    "begins"
+   ],
+   "cue": "start"
+  },
+  {
+   "id": "fut-001-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "gap",
+   "explanation": "Future perfect.",
+   "prompt": "By the time you get here, I ___ dinner.",
+   "acceptedAnswers": [
+    "will have cooked"
+   ],
+   "cue": "cook"
+  },
+  {
+   "id": "fut-001-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "gap",
+   "explanation": "Future perfect (continuous) + for.",
+   "prompt": "In June, she ___ at the company for twenty years.",
+   "acceptedAnswers": [
+    "will have worked",
+    "will have been working"
+   ],
+   "cue": "work"
+  },
+  {
+   "id": "fut-001-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.5",
+   "type": "gap",
+   "explanation": "Unfulfilled plan.",
+   "prompt": "I ___ visit you last week, but I had to work late.",
+   "acceptedAnswers": [
+    "was going to"
+   ],
+   "cue": "be going to"
+  },
+  {
+   "id": "fut-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "gap",
+   "explanation": "be due to = scheduled.",
+   "prompt": "The minister ___ announce her resignation later today.",
+   "acceptedAnswers": [
+    "is due to"
+   ],
+   "cue": "be due"
+  },
+  {
+   "id": "fut-001-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "4.5",
+   "type": "gap",
+   "explanation": "Future in the past: was about to.",
+   "prompt": "I had a feeling that something terrible ___ happen.",
+   "acceptedAnswers": [
+    "was about to"
+   ],
+   "cue": "be about"
+  },
+  {
+   "id": "fut-001-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "future"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "4.1",
+   "type": "kwt",
+   "explanation": "Plan: going to.",
+   "first": "I plan to visit my aunt next week.",
+   "keyword": "GOING",
+   "before": "I",
+   "after": "my aunt next week.",
+   "acceptedAnswers": [
+    "am going to visit",
+    "am going to see"
+   ]
+  },
+  {
+   "id": "fut-001-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "future"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "kwt",
+   "explanation": "be about to = very soon.",
+   "first": "The concert will start any minute now.",
+   "keyword": "ABOUT",
+   "before": "The concert",
+   "after": "start.",
+   "acceptedAnswers": [
+    "is about to"
+   ]
+  },
+  {
+   "id": "fut-001-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "future"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "kwt",
+   "explanation": "Future perfect.",
+   "first": "The building work will be finished before the summer.",
+   "keyword": "HAVE",
+   "before": "They",
+   "after": "the building work before the summer.",
+   "acceptedAnswers": [
+    "will have finished",
+    "will have completed"
+   ]
+  },
+  {
+   "id": "fut-001-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "future"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "kwt",
+   "explanation": "be due to = scheduled.",
+   "first": "The meeting is scheduled for 3 p.m.",
+   "keyword": "DUE",
+   "before": "The meeting",
+   "after": "at 3 p.m.",
+   "acceptedAnswers": [
+    "is due to start",
+    "is due to begin",
+    "is due to take place"
+   ]
+  },
+  {
+   "id": "fut-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "future"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "4.5",
+   "type": "kwt",
+   "explanation": "Future in the past.",
+   "first": "She intended to call you, but she forgot.",
+   "keyword": "GOING",
+   "before": "She",
+   "after": "you, but she forgot.",
+   "acceptedAnswers": [
+    "was going to call",
+    "was going to phone",
+    "was going to ring"
+   ]
+  },
+  {
+   "id": "fut-001-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.1",
+   "type": "error-correction",
+   "explanation": "Time clause: present simple.",
+   "parts": [
+    "I ",
+    {
+     "u": "will call"
+    },
+    " you when I ",
+    {
+     "u": "will arrive"
+    },
+    "."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "arrive",
+    "get there"
+   ]
+  },
+  {
+   "id": "fut-001-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "error-correction",
+   "explanation": "Action in progress: future continuous.",
+   "parts": [
+    "This time next week, I ",
+    {
+     "u": "will lie"
+    },
+    " on a beach in ",
+    {
+     "u": "Bahia"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "will be lying"
+   ]
+  },
+  {
+   "id": "fut-001-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "4.3",
+   "type": "error-correction",
+   "explanation": "Timetable: present simple.",
+   "parts": [
+    "The bus ",
+    {
+     "u": "is leaving"
+    },
+    " at 6.45 every day, so don’t ",
+    {
+     "u": "be"
+    },
+    " late."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "leaves"
+   ]
+  },
+  {
+   "id": "fut-001-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "error-correction",
+   "explanation": "by + future perfect.",
+   "parts": [
+    "By 2035, scientists ",
+    {
+     "u": "will find"
+    },
+    " a cure, I’m ",
+    {
+     "u": "sure"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "will have found"
+   ]
+  },
+  {
+   "id": "fut-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "4.5",
+   "type": "error-correction",
+   "explanation": "Past simple for the event that stopped the plan.",
+   "parts": [
+    "I ",
+    {
+     "u": "was going to call"
+    },
+    " you, but I ",
+    {
+     "u": "am forgetting"
+    },
+    "."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "forgot"
+   ]
+  },
+  {
+   "id": "fut-001-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.3",
+   "type": "word-order",
+   "explanation": "Timetable question.",
+   "fragments": [
+    "What",
+    "time",
+    "does",
+    "the",
+    "film",
+    "start?"
+   ],
+   "acceptedAnswers": [
+    "What time does the film start?"
+   ]
+  },
+  {
+   "id": "fut-001-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "word-order",
+   "explanation": "Future continuous.",
+   "fragments": [
+    "I’ll",
+    "be",
+    "waiting",
+    "for you",
+    "at",
+    "the station."
+   ],
+   "acceptedAnswers": [
+    "I’ll be waiting for you at the station."
+   ]
+  },
+  {
+   "id": "fut-001-41",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "word-order",
+   "explanation": "Future perfect.",
+   "fragments": [
+    "By",
+    "Friday,",
+    "we",
+    "will",
+    "have",
+    "finished",
+    "the project."
+   ],
+   "acceptedAnswers": [
+    "By Friday, we will have finished the project.",
+    "We will have finished the project by Friday."
+   ]
+  },
+  {
+   "id": "fut-001-42",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.1",
+   "type": "matching",
+   "explanation": "Future forms and their uses.",
+   "prompt": "Match each sentence with its use.",
+   "left": [
+    "I’ll help you with that bag.",
+    "I’m meeting Ana at six.",
+    "It’s going to rain.",
+    "The train leaves at 8.",
+    "I think he’ll win."
+   ],
+   "right": [
+    "a timetable",
+    "a past plan",
+    "a spontaneous offer",
+    "an opinion about the future",
+    "a prediction based on evidence",
+    "a fixed arrangement"
+   ],
+   "answer": [
+    2,
+    5,
+    4,
+    0,
+    3
+   ]
+  },
+  {
+   "id": "fut-001-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "matching",
+   "explanation": "Future forms.",
+   "prompt": "Name each future form.",
+   "left": [
+    "will have finished",
+    "will be finishing",
+    "is going to finish",
+    "finishes",
+    "is finishing"
+   ],
+   "right": [
+    "present continuous (arrangement)",
+    "future in the past",
+    "future perfect",
+    "going to future",
+    "future continuous",
+    "present simple (timetable)"
+   ],
+   "answer": [
+    2,
+    4,
+    3,
+    5,
+    0
+   ]
+  },
+  {
+   "id": "fut-001-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "matching",
+   "explanation": "Other ways of talking about the future.",
+   "prompt": "Match each expression with its meaning.",
+   "left": [
+    "be about to",
+    "be due to",
+    "be on the point of",
+    "be bound to",
+    "be set to"
+   ],
+   "right": [
+    "+ -ing: very soon",
+    "very soon (no time expression)",
+    "scheduled for a particular time",
+    "certain to happen",
+    "planned and expected (news style)",
+    "already finished"
+   ],
+   "answer": [
+    1,
+    2,
+    0,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "fut-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "future"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "4.5",
+   "type": "matching",
+   "explanation": "Talking about the future from a past point of view.",
+   "prompt": "Future in the past: match each beginning with its ending.",
+   "left": [
+    "I knew she",
+    "We were about to leave",
+    "He was to become",
+    "They were going to marry,",
+    "I was due to fly at six,"
+   ],
+   "right": [
+    "when the phone rang.",
+    "would understand.",
+    "but they changed their minds.",
+    "but the flight was cancelled.",
+    "the most famous writer of his generation.",
+    "will come."
+   ],
+   "answer": [
+    1,
+    0,
+    4,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "fut-001-46",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "future"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.1",
+   "type": "open-cloze",
+   "explanation": "Future forms in everyday plans.",
+   "title": "Weekend plans",
+   "text": "This weekend is [1] to be busy! On Saturday morning I [2] playing football with my friends — we play every week. In the afternoon, my cousins [3] coming to visit. They’re arriving at three, and I think we [4] probably go to the beach if the weather is good. The forecast says it [5] going to be sunny. On Sunday, my family [6] having lunch at my grandmother’s house. The bus [7] at eleven, so we need to leave home at half past ten. In the evening, I [8] going to study for my English test, which [9] on Monday. I hope I [10] pass!",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "going"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "am"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "are"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "will",
+      "shall"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "is"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "is",
+      "are"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "leaves",
+      "goes"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "am"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "is"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "will"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fut-001-47",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "future"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "open-cloze",
+   "explanation": "Future forms in a work email.",
+   "title": "Next week at the office",
+   "text": "Just to let you know what [1] happen next week. On Monday, the new director [2] due to arrive at nine. By the time she arrives, we [3] have prepared the meeting room. She [4] be meeting each team individually during the week, so please check your calendar. On Wednesday, we [5] going to discuss the budget; I’m sure there [6] be some difficult questions. The training course starts [7] Thursday and finishes on Friday. By the end of the week, all of you [8] have met her at least once. Don’t worry if you can’t make a meeting — I [9] let her know. I’m sure it [10] go well.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "will"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "is"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "will",
+      "should",
+      "must"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "will"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "are"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "will"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "on"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "will",
+      "should"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "will",
+      "can"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "will"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fut-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "future"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "4.5",
+   "type": "open-cloze",
+   "explanation": "The future seen from the past.",
+   "title": "The expedition that never was",
+   "text": "In 1913, the explorer was [1] to lead an expedition to the South Pole. Everything was ready: the ship was due [2] sail in October, and the crew had been chosen. Little did he know that his plans [3] soon be ruined. He was on the [4] of signing the final contract when war broke out in Europe. The expedition, which was [5] to be the greatest of his career, never took place. Years later, he wrote that he [6] always regret the decision to postpone it. “Had I left a month earlier,” he said, “I [7] have reached the Pole before anyone else.” Whether he [8] have succeeded, we will never know. What we do know is that the man who was to [9] the most famous explorer of his age died almost [10]: few people today remember his name.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "about",
+      "due",
+      "set",
+      "going",
+      "supposed",
+      "meant",
+      "scheduled",
+      "planning"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "would"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "point",
+      "verge",
+      "brink"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "meant",
+      "supposed",
+      "going",
+      "expected",
+      "intended",
+      "set",
+      "due"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "would"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "might",
+      "could",
+      "would"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "would",
+      "could",
+      "might"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "become",
+      "be"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "forgotten",
+      "unknown",
+      "anonymous"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fut-001-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "future"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "4.1",
+   "type": "mc-cloze",
+   "explanation": "Choosing the right future form.",
+   "title": "Graduation day",
+   "text": "Next Saturday, my sister [1] from university. The ceremony [2] at ten o’clock. We [3] lunch at a restaurant afterwards — Dad booked it a month ago. I think she [4] very emotional. By the end of the day, she [5] goodbye to all her friends. Next month, she [6] to São Paulo — she’s got a job there. This time next year, she [7] there for almost a year. I’m sure she [8] a great career.",
+   "gaps": [
+    {
+     "options": [
+      "graduate",
+      "will graduating",
+      "is graduating",
+      "is graduate"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "is start",
+      "start",
+      "will starting",
+      "starts"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "are having",
+      "have",
+      "had",
+      "will having"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "is",
+      "will be",
+      "was",
+      "be"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "will say",
+      "says",
+      "will have said",
+      "is saying"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "move",
+      "moved",
+      "will moving",
+      "is moving"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "will have been living",
+      "will live",
+      "is living",
+      "lives"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "has",
+      "will have",
+      "is having",
+      "had"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "fut-001-50",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "future"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "4.4",
+   "type": "mc-cloze",
+   "explanation": "Future forms in a science report.",
+   "title": "A mission to Mars",
+   "text": "The spacecraft [1] to be launched next month. If all goes to plan, it [2] Mars in about seven months. By the time it arrives, it [3] more than 400 million kilometres. Scientists hope the mission [4] answer the question of whether life ever existed there. Once it has landed, the rover [5] samples for at least two years. The launch was originally [6] to take place last year, but it [7] because of technical problems. Engineers say they are confident that this time nothing [8] wrong.",
+   "gaps": [
+    {
+     "options": [
+      "is about",
+      "will",
+      "is due",
+      "is on the point"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "is reaching",
+      "reached",
+      "has reached",
+      "will reach"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "will have travelled",
+      "will travel",
+      "travels",
+      "is travelling"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "is",
+      "will",
+      "shall to",
+      "would to"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "is collected",
+      "collects at",
+      "will be collecting",
+      "was collecting"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "about",
+      "bound",
+      "set up",
+      "scheduled"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "was postponed",
+      "postponed",
+      "has postponed",
+      "is postponing"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "goes",
+      "will go",
+      "is going",
+      "went"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

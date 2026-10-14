@@ -1,0 +1,260 @@
+{
+ "id": "r004",
+ "title": "A Library of Things",
+ "level": "B1",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "When Marta moved into her first flat, she needed a drill to put up some shelves. A new drill cost more than she wanted to spend, and she knew she would probably use it only two or three times a year. Then a neighbour told her about a place at the end of the street where she could borrow one for a week, for almost nothing. It was called a \"library of things\".\n\nA library of things works in the same way as an ordinary library, but instead of books it lends out objects. Members pay a small yearly fee, or sometimes nothing at all, and can borrow tools, camping equipment, sewing machines, games, musical instruments and even party decorations. Most items can be kept for one or two weeks. When they come back, volunteers check that they are clean and working before they go out again.\n\nThe idea is simple, but it solves several problems at the same time. First, it saves money. Many families spend a lot on things that they use very rarely and then keep in a cupboard for years. Second, it saves space, which is important for people who live in small flats. Third, it is good for the environment. If ten families share one drill instead of buying ten, nine drills do not need to be made, packed and transported.\n\nLibraries of things also bring people together. Many of them organise workshops where members learn to repair broken objects, from bicycles to toasters. Older members often teach younger ones skills that are in danger of being forgotten. \"People come in to borrow a ladder and leave with a new friend,\" says one volunteer.\n\nOf course, the system is not perfect. Some objects are returned late or damaged, and popular items, such as carpet cleaners, are often already out when someone needs them. Most libraries depend on volunteers and donations, so they can close if there is not enough support.\n\nMarta borrowed the drill, put up her shelves and returned it the following Saturday. Now she is a volunteer herself. \"I used to think that I had to own everything I needed,\" she says. \"Now I ask a different question: do I need to own it, or do I just need to use it?\"",
+ "questions": [
+  {
+   "id": "r004-q01",
+   "type": "reading",
+   "passageId": "r004",
+   "prompt": "What is the text mainly about?",
+   "options": [
+    "A shop that sells second-hand tools",
+    "A place where people can borrow useful objects",
+    "A new way to buy books cheaply",
+    "A course that teaches people to build shelves"
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The text explains what a library of things is and how it works."
+  },
+  {
+   "id": "r004-q02",
+   "type": "reading",
+   "passageId": "r004",
+   "prompt": "Why did Marta not buy a drill?",
+   "options": [
+    "She would not use it very often.",
+    "Her neighbour gave her one.",
+    "There were no drills in the shops.",
+    "She did not know how to use one."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“she would probably use it only two or three times a year”."
+  },
+  {
+   "id": "r004-q03",
+   "type": "reading",
+   "passageId": "r004",
+   "prompt": "According to paragraph 2, what do volunteers do when an object is returned?",
+   "options": [
+    "They sell it to another member.",
+    "They send it back to the shop.",
+    "They check that it is clean and works.",
+    "They charge the member a fee."
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“volunteers check that they are clean and working”."
+  },
+  {
+   "id": "r004-q04",
+   "type": "reading",
+   "passageId": "r004",
+   "prompt": "Which advantage is NOT mentioned in paragraph 3?",
+   "options": [
+    "It saves money.",
+    "It saves space at home.",
+    "It is better for the environment.",
+    "It helps people find jobs."
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Money, space and the environment are mentioned; jobs are not."
+  },
+  {
+   "id": "r004-q05",
+   "type": "reading",
+   "passageId": "r004",
+   "prompt": "The word “rarely” in paragraph 3 is closest in meaning to",
+   "options": [
+    "not often",
+    "very carefully",
+    "every day",
+    "too much"
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Things used rarely = things not used often."
+  },
+  {
+   "id": "r004-q06",
+   "type": "reading",
+   "passageId": "r004",
+   "prompt": "What happens at the workshops?",
+   "options": [
+    "Members build new furniture to sell.",
+    "Volunteers repair objects for money.",
+    "Children learn to play instruments.",
+    "Members learn how to fix broken objects."
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“members learn to repair broken objects”."
+  },
+  {
+   "id": "r004-q07",
+   "type": "reading",
+   "passageId": "r004",
+   "prompt": "The word “them” in paragraph 4 (“Many of them organise workshops”) refers to",
+   "options": [
+    "libraries of things",
+    "members",
+    "broken objects",
+    "older members"
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Many libraries of things organise workshops."
+  },
+  {
+   "id": "r004-q08",
+   "type": "reading",
+   "passageId": "r004",
+   "prompt": "What is one problem with libraries of things?",
+   "options": [
+    "Members must pay a very high fee.",
+    "Objects can only be kept for one day.",
+    "Popular items are not always available.",
+    "Only older people are allowed to join."
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“popular items … are often already out when someone needs them”."
+  },
+  {
+   "id": "r004-q09",
+   "type": "reading",
+   "passageId": "r004",
+   "prompt": "What can we understand about Marta at the end of the text?",
+   "options": [
+    "She has decided to buy her own drill.",
+    "She has changed the way she thinks about owning things.",
+    "She no longer lives in a flat.",
+    "She thinks libraries of things are too expensive."
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "She now asks whether she needs to own something or just use it."
+  }
+ ]
+}

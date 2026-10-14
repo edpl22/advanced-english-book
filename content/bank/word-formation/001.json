@@ -1,0 +1,1875 @@
+{
+ "topic": "word-formation",
+ "batch": 1,
+ "title": "Word formation",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "wf-001-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "mcq",
+   "explanation": "Person: -er.",
+   "prompt": "The ___ of the race received a gold medal.",
+   "options": [
+    "winner",
+    "win",
+    "winning",
+    "won"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "wf-001-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.2",
+   "type": "mcq",
+   "explanation": "Adjective: -y.",
+   "prompt": "It was a very ___ day — the sun shone all afternoon.",
+   "options": [
+    "sun",
+    "sunny",
+    "sunshine",
+    "sunned"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "wf-001-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.3",
+   "type": "mcq",
+   "explanation": "dis- + verb.",
+   "prompt": "I’m sorry, but I ___ with you.",
+   "options": [
+    "unagree",
+    "misagree",
+    "disagree",
+    "inagree"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "wf-001-04",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.2",
+   "type": "mcq",
+   "explanation": "-ful = with care.",
+   "prompt": "Be ___ — the floor is wet.",
+   "options": [
+    "careless",
+    "care",
+    "caring",
+    "careful"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "wf-001-05",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "mcq",
+   "explanation": "Person: -ist.",
+   "prompt": "Marie Curie was a famous ___.",
+   "options": [
+    "scientist",
+    "science",
+    "scientific",
+    "scienced"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "wf-001-06",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "26.3",
+   "type": "mcq",
+   "explanation": "il- before l.",
+   "prompt": "Her handwriting is completely ___.",
+   "options": [
+    "unlegible",
+    "illegible",
+    "inlegible",
+    "dislegible"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "wf-001-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "mcq",
+   "explanation": "Noun: -ion.",
+   "prompt": "The ___ of the new president will take place in October.",
+   "options": [
+    "elect",
+    "elective",
+    "election",
+    "elector"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "wf-001-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "26.2",
+   "type": "mcq",
+   "explanation": "Adjective: -ible.",
+   "prompt": "The building is not ___ to wheelchair users.",
+   "options": [
+    "access",
+    "accessing",
+    "accessory",
+    "accessible"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "wf-001-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "26.4",
+   "type": "mcq",
+   "explanation": "Verb: -ise.",
+   "prompt": "The government wants to ___ the old railway.",
+   "options": [
+    "modernise",
+    "modern",
+    "modernity",
+    "modernly"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "wf-001-10",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "26.3",
+   "type": "mcq",
+   "explanation": "re- = again.",
+   "prompt": "Please ___ your password every three months.",
+   "options": [
+    "unnew",
+    "renew",
+    "misnew",
+    "denew"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "wf-001-11",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "mcq",
+   "explanation": "Noun: -ion.",
+   "prompt": "There is a strong ___ between diet and health.",
+   "options": [
+    "connect",
+    "connective",
+    "connection",
+    "connector"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "wf-001-12",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.2",
+   "type": "mcq",
+   "explanation": "Adjective: -ous.",
+   "prompt": "It is a very ___ region with plenty of jobs.",
+   "options": [
+    "prosper",
+    "prosperity",
+    "prosperously",
+    "prosperous"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "wf-001-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.4",
+   "type": "mcq",
+   "explanation": "Verb: -en.",
+   "prompt": "We need to ___ our position in the market.",
+   "options": [
+    "strengthen",
+    "strong",
+    "strength",
+    "strongly"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "wf-001-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.3",
+   "type": "mcq",
+   "explanation": "in- + consistent.",
+   "prompt": "The two reports are ___ — they say opposite things.",
+   "options": [
+    "unconsistent",
+    "inconsistent",
+    "disconsistent",
+    "misconsistent"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "wf-001-15",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "mcq",
+   "explanation": "Noun: -ation.",
+   "prompt": "The ___ of the new law was delayed.",
+   "options": [
+    "implement",
+    "implemental",
+    "implementation",
+    "implementing"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "wf-001-16",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "26.3",
+   "type": "mcq",
+   "explanation": "in- + sensitive.",
+   "prompt": "His ___ remarks offended many people.",
+   "options": [
+    "unsensitive",
+    "nonsensitive",
+    "dissensitive",
+    "insensitive"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "wf-001-17",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.4",
+   "type": "mcq",
+   "explanation": "Verb: -ise.",
+   "prompt": "The aim is to ___ the risk of infection.",
+   "options": [
+    "minimise",
+    "minimum",
+    "minimal",
+    "minimally"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "wf-001-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "mcq",
+   "explanation": "dis- + satisfaction.",
+   "prompt": "There was widespread ___ with the government’s response.",
+   "options": [
+    "unsatisfaction",
+    "dissatisfaction",
+    "dissatisfied",
+    "satisfactory"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "wf-001-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "word-formation",
+   "explanation": "Person: -er.",
+   "prompt": "My brother is a ___ in a big company.",
+   "acceptedAnswers": [
+    "manager"
+   ],
+   "cue": "MANAGE"
+  },
+  {
+   "id": "wf-001-20",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "word-formation",
+   "explanation": "Noun: -y.",
+   "prompt": "The ___ of the exam surprised everyone.",
+   "acceptedAnswers": [
+    "difficulty"
+   ],
+   "cue": "DIFFICULT"
+  },
+  {
+   "id": "wf-001-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "26.2",
+   "type": "word-formation",
+   "explanation": "Adverb: -ly.",
+   "prompt": "She spoke ___ about her experience.",
+   "acceptedAnswers": [
+    "honestly"
+   ],
+   "cue": "HONEST"
+  },
+  {
+   "id": "wf-001-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "word-formation",
+   "explanation": "Noun: -al.",
+   "prompt": "His ___ to help was disappointing.",
+   "acceptedAnswers": [
+    "refusal"
+   ],
+   "cue": "REFUSE"
+  },
+  {
+   "id": "wf-001-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "26.2",
+   "type": "word-formation",
+   "explanation": "Adjective: -ed.",
+   "prompt": "The company is looking for ___ staff.",
+   "acceptedAnswers": [
+    "experienced"
+   ],
+   "cue": "EXPERIENCE"
+  },
+  {
+   "id": "wf-001-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.2",
+   "type": "word-formation",
+   "explanation": "Adjective: -ant.",
+   "prompt": "There was a ___ increase in sales last month.",
+   "acceptedAnswers": [
+    "significant"
+   ],
+   "cue": "SIGNIFY"
+  },
+  {
+   "id": "wf-001-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "word-formation",
+   "explanation": "Noun: -er.",
+   "prompt": "The ___ of the two companies created a giant.",
+   "acceptedAnswers": [
+    "merger"
+   ],
+   "cue": "MERGE"
+  },
+  {
+   "id": "wf-001-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.3",
+   "type": "word-formation",
+   "explanation": "dis- + plural.",
+   "prompt": "Living in the city has its ___ as well as its benefits.",
+   "acceptedAnswers": [
+    "disadvantages"
+   ],
+   "cue": "ADVANTAGE"
+  },
+  {
+   "id": "wf-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "word-formation",
+   "explanation": "Noun: -ness.",
+   "prompt": "The plan was criticised for its ___ — nobody knew what it meant.",
+   "acceptedAnswers": [
+    "vagueness"
+   ],
+   "cue": "VAGUE"
+  },
+  {
+   "id": "wf-001-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "26.3",
+   "type": "word-formation",
+   "explanation": "im- + permit + -ible.",
+   "prompt": "Such behaviour is ___ in a professional setting.",
+   "acceptedAnswers": [
+    "impermissible"
+   ],
+   "cue": "PERMIT"
+  },
+  {
+   "id": "wf-001-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "kwt",
+   "explanation": "Adjective → noun.",
+   "first": "She is a very skilful painter.",
+   "keyword": "SKILL",
+   "before": "She paints with",
+   "after": ".",
+   "acceptedAnswers": [
+    "great skill",
+    "a lot of skill",
+    "considerable skill",
+    "remarkable skill"
+   ]
+  },
+  {
+   "id": "wf-001-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.2",
+   "type": "kwt",
+   "explanation": "un- + forget + -able.",
+   "first": "It is impossible to forget that day.",
+   "keyword": "UNFORGETTABLE",
+   "before": "That day",
+   "after": ".",
+   "acceptedAnswers": [
+    "was unforgettable",
+    "is unforgettable",
+    "will be unforgettable"
+   ]
+  },
+  {
+   "id": "wf-001-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.4",
+   "type": "kwt",
+   "explanation": "Verb → noun: -ment.",
+   "first": "They decided to enlarge the airport.",
+   "keyword": "ENLARGEMENT",
+   "before": "They decided on",
+   "after": "of the airport.",
+   "acceptedAnswers": [
+    "the enlargement",
+    "an enlargement"
+   ]
+  },
+  {
+   "id": "wf-001-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "26.3",
+   "type": "kwt",
+   "explanation": "in- + dependent.",
+   "first": "He is very dependent on his parents.",
+   "keyword": "INDEPENDENT",
+   "before": "He is not",
+   "after": "of his parents.",
+   "acceptedAnswers": [
+    "at all independent",
+    "very independent",
+    "really independent"
+   ]
+  },
+  {
+   "id": "wf-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "kwt",
+   "explanation": "Verb → noun.",
+   "first": "It was disappointing that the company did not meet its targets.",
+   "keyword": "FAILURE",
+   "before": "The company’s",
+   "after": "its targets was disappointing.",
+   "acceptedAnswers": [
+    "failure to meet",
+    "failure to reach",
+    "failure to achieve"
+   ]
+  },
+  {
+   "id": "wf-001-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.2",
+   "type": "error-correction",
+   "explanation": "Adjective: friendly.",
+   "parts": [
+    "He is a very ",
+    {
+     "u": "friendship"
+    },
+    " ",
+    {
+     "u": "person"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "friendly"
+   ]
+  },
+  {
+   "id": "wf-001-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "error-correction",
+   "explanation": "Noun: arrival.",
+   "parts": [
+    "The ",
+    {
+     "u": "arrive"
+    },
+    " of the plane was ",
+    {
+     "u": "delayed"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "arrival"
+   ]
+  },
+  {
+   "id": "wf-001-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "26.3",
+   "type": "error-correction",
+   "explanation": "in- + correct.",
+   "parts": [
+    "This answer is ",
+    {
+     "u": "uncorrect"
+    },
+    " — please ",
+    {
+     "u": "try"
+    },
+    " again."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "incorrect",
+    "wrong"
+   ]
+  },
+  {
+   "id": "wf-001-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.2",
+   "type": "error-correction",
+   "explanation": "Adjective: growing.",
+   "parts": [
+    "There is a ",
+    {
+     "u": "grow"
+    },
+    " demand for ",
+    {
+     "u": "renewable"
+    },
+    " energy."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "growing"
+   ]
+  },
+  {
+   "id": "wf-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "error-correction",
+   "explanation": "Noun: approval.",
+   "parts": [
+    "The ",
+    {
+     "u": "approve"
+    },
+    " of the plan ",
+    {
+     "u": "requires"
+    },
+    " a vote."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "approval"
+   ]
+  },
+  {
+   "id": "wf-001-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.2",
+   "type": "word-order",
+   "explanation": "Adjective: successful.",
+   "fragments": [
+    "She",
+    "is",
+    "a",
+    "very",
+    "successful",
+    "singer."
+   ],
+   "acceptedAnswers": [
+    "She is a very successful singer."
+   ]
+  },
+  {
+   "id": "wf-001-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "26.3",
+   "type": "word-order",
+   "explanation": "un- + expected.",
+   "fragments": [
+    "The",
+    "decision",
+    "was",
+    "completely",
+    "unexpected."
+   ],
+   "acceptedAnswers": [
+    "The decision was completely unexpected."
+   ]
+  },
+  {
+   "id": "wf-001-41",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "word-order",
+   "explanation": "have difficulty + -ing.",
+   "fragments": [
+    "They",
+    "had",
+    "difficulty",
+    "understanding",
+    "the instructions."
+   ],
+   "acceptedAnswers": [
+    "They had difficulty understanding the instructions."
+   ]
+  },
+  {
+   "id": "wf-001-42",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "matching",
+   "explanation": "Noun suffixes.",
+   "prompt": "Match each verb with its noun.",
+   "left": [
+    "decide",
+    "arrive",
+    "agree",
+    "discover",
+    "fail"
+   ],
+   "right": [
+    "arrival",
+    "agreement",
+    "decision",
+    "failure",
+    "discovery",
+    "argument"
+   ],
+   "answer": [
+    2,
+    0,
+    1,
+    4,
+    3
+   ]
+  },
+  {
+   "id": "wf-001-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "26.3",
+   "type": "matching",
+   "explanation": "Negative prefixes.",
+   "prompt": "Which negative prefix does each word take?",
+   "left": [
+    "possible",
+    "legal",
+    "responsible",
+    "honest",
+    "understand"
+   ],
+   "right": [
+    "ir-",
+    "il-",
+    "im-",
+    "dis-",
+    "mis-",
+    "un-"
+   ],
+   "answer": [
+    2,
+    1,
+    0,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "wf-001-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "matching",
+   "explanation": "Adjective → noun.",
+   "prompt": "Match each adjective with its noun.",
+   "left": [
+    "generous",
+    "anxious",
+    "loyal",
+    "wise",
+    "patient"
+   ],
+   "right": [
+    "loyalty",
+    "patience",
+    "wisdom",
+    "generosity",
+    "anxiety",
+    "wiseness"
+   ],
+   "answer": [
+    3,
+    4,
+    0,
+    2,
+    1
+   ]
+  },
+  {
+   "id": "wf-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "26.3",
+   "type": "matching",
+   "explanation": "Prefixes of meaning.",
+   "prompt": "Match each prefix with its meaning.",
+   "left": [
+    "counter-",
+    "sub-",
+    "trans-",
+    "semi-",
+    "post-"
+   ],
+   "right": [
+    "after",
+    "before",
+    "half",
+    "against / in response to",
+    "under / below",
+    "across"
+   ],
+   "answer": [
+    3,
+    4,
+    5,
+    2,
+    0
+   ]
+  },
+  {
+   "id": "wf-001-46",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.2",
+   "type": "open-cloze",
+   "explanation": "Basic suffixes and prefixes.",
+   "title": "My hometown",
+   "text": "I come from a small town in the [1] (NORTH) part of Brazil. It is very [2] (PEACE) and the people are [3] (FRIEND). There isn’t much [4] (EMPLOY), so many young people move to the city. My parents run a small [5] (BAKE). Their bread is [6] (FAME) in the region. In summer, there is a [7] (TRADITION) festival with music and dancing. It is the most [8] (EXCITE) time of the year. I am [9] (HAPPY) when I am away, and I always look forward to my [10] (ARRIVE) home.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "northern"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "peaceful"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "friendly"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "employment"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "bakery"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "famous"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "traditional"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "exciting"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "unhappy"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "arrival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wf-001-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "open-cloze",
+   "explanation": "Word formation in an article.",
+   "title": "Online learning",
+   "text": "The [1] (POPULAR) of online courses has grown [2] (DRAMATIC) in recent years. For many students, the [3] (FLEXIBLE) to study at any time is the main [4] (ATTRACT). However, critics point out that online learning requires a high level of [5] (MOTIVATE). Without face-to-face [6] (INTERACT), some students feel [7] (ISOLATE). [8] (FORTUNATE), new tools are making courses more [9] (ENGAGE). Universities that ignore this trend risk becoming [10] (RELEVANT).",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "popularity"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "dramatically"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "flexibility"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "attraction"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "motivation"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "interaction"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "isolated"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "Fortunately"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "engaging"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "irrelevant"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wf-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "open-cloze",
+   "explanation": "Advanced word formation.",
+   "title": "The economics of happiness",
+   "text": "Economists have long assumed that [1] (WEALTHY) leads to happiness. Recent research, however, suggests that the relationship is far from [2] (STRAIGHT). Beyond a certain point, further increases in income bring [3] (SURPRISE) little satisfaction. What seems to matter more is a sense of [4] (SECURE) and the quality of our [5] (RELATE). [6] (COMPARE) with others also plays a role: people judge their own [7] (WELL) relative to their neighbours. This helps to explain the [8] (APPEAR) paradox of rich societies in which [9] (SATISFY) is widespread. The [10] (IMPLY) for policy-makers are considerable.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "wealth"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "straightforward"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "surprisingly"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "security"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "relationships"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "Comparison"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "wellbeing",
+      "well-being"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "apparent"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "dissatisfaction"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "implications"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wf-001-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "26.2",
+   "type": "mc-cloze",
+   "explanation": "Choosing the right word form.",
+   "title": "A new job",
+   "text": "I started my new job last month. The [1] process was long, but I got the job! My manager is very [2], and my colleagues are always [3]. The work is [4], although sometimes it is [5]. There are good opportunities for [6], and the [7] atmosphere is relaxed. I’m very [8] with my decision.",
+   "gaps": [
+    {
+     "options": [
+      "apply",
+      "applicable",
+      "application",
+      "applicably"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "support",
+      "supporting",
+      "supporter",
+      "supportive"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "helpful",
+      "helpless",
+      "help",
+      "helping"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "interested",
+      "interesting",
+      "interest",
+      "interestingly"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "stress",
+      "stressed",
+      "stressful",
+      "stressing"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "promote",
+      "promoter",
+      "promotional",
+      "promotion"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "working",
+      "work",
+      "worker",
+      "worked"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "satisfying",
+      "satisfied",
+      "satisfaction",
+      "satisfy"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "wf-001-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "word-formation"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "26.1",
+   "type": "mc-cloze",
+   "explanation": "Word formation in a policy text.",
+   "title": "Climate policy",
+   "text": "Governments face growing [1] to reduce emissions. Many have pledged to become carbon [2] by 2050. Achieving this will require a [3] of the energy sector and significant [4] in renewables. Critics argue that current targets are [5]. Others warn that the [6] of fossil fuels could cause economic [7]. Whatever the approach, international [8] will be essential.",
+   "gaps": [
+    {
+     "options": [
+      "press",
+      "pressing",
+      "pressure",
+      "pressurise"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "neutrality",
+      "neutralise",
+      "neutrally",
+      "neutral"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "transformation",
+      "transform",
+      "transformative",
+      "transformer"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "invest",
+      "investment",
+      "investor",
+      "invested"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "unreal",
+      "realise",
+      "unrealistic",
+      "reality"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "abandon",
+      "abandoned",
+      "abandoner",
+      "abandonment"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "disruption",
+      "disrupt",
+      "disruptive",
+      "disrupted"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "cooperate",
+      "cooperation",
+      "cooperative",
+      "cooperated"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

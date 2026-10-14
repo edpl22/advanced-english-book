@@ -1,0 +1,260 @@
+{
+ "id": "r020",
+ "title": "Eating in the Street",
+ "level": "B1",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "In almost every country in the world, people buy food in the street. In Bangkok, you can eat noodle soup at a plastic table on the pavement. In Mexico City, there are tacos on almost every corner. In Salvador, women dressed in white sell acarajé, a fried bean cake filled with shrimp and spicy sauce. Street food is not just a quick meal. For millions of people, it is part of daily life and part of their culture.\n\nThere are good reasons why street food is so popular. First, it is usually cheap. Workers who have only a short break, students with little money and tourists who want to try local dishes can all eat well without spending much. Second, it is fast: you can order, pay and eat in a few minutes. Third, it is often delicious. Many street sellers make only one or two dishes, and they have been cooking them for years, sometimes using recipes from their parents or grandparents.\n\nStreet food is also important for the economy. According to international organisations, millions of people around the world earn their living by selling food in the street. For many of them, especially women and people without formal education, it is one of the few ways to start a small business without a lot of money.\n\nHowever, street food also has problems. In some places, sellers do not have clean water or a safe way to keep food cold, so there is a risk of food poisoning. Some city governments see street sellers as a problem: they say that the sellers block the pavements, create rubbish and do not pay taxes. In several cities, the authorities have tried to move sellers away from the busiest streets.\n\nOther cities have chosen a different approach. Singapore, for example, moved its street sellers into \"hawker centres\", large covered areas with clean water, electricity and many small food stalls. The food is still cheap and varied, but it is easier to control hygiene. Today these centres are among the most popular places to eat in the city, both for locals and for visitors.\n\nTravel writers often say that the best way to know a city is to eat its street food. The advice is probably good, but it is wise to follow a few simple rules: choose stalls where many local people are eating, prefer food that is cooked in front of you, and be careful with raw salads and ice.",
+ "questions": [
+  {
+   "id": "r020-q01",
+   "type": "reading",
+   "passageId": "r020",
+   "prompt": "What is the main idea of the first paragraph?",
+   "options": [
+    "Street food is only popular in Asia.",
+    "Street food exists all over the world and is part of many cultures.",
+    "Acarajé is the most famous street food.",
+    "People eat street food only when they travel."
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Examples from different countries; part of daily life and culture."
+  },
+  {
+   "id": "r020-q02",
+   "type": "reading",
+   "passageId": "r020",
+   "prompt": "Which reason for the popularity of street food is NOT given in paragraph 2?",
+   "options": [
+    "It is healthier than restaurant food.",
+    "It is cheap.",
+    "It is fast.",
+    "It is often delicious."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Health is not given as a reason."
+  },
+  {
+   "id": "r020-q03",
+   "type": "reading",
+   "passageId": "r020",
+   "prompt": "Why is street food often delicious, according to the text?",
+   "options": [
+    "Sellers have cooked the same dishes for a long time.",
+    "Sellers use very expensive ingredients.",
+    "The food is cooked in large factories.",
+    "Sellers change their menu every day."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“they have been cooking them for years”."
+  },
+  {
+   "id": "r020-q04",
+   "type": "reading",
+   "passageId": "r020",
+   "prompt": "Why is street food important for many women and people without formal education?",
+   "options": [
+    "It gives them free meals.",
+    "It helps them get a university degree.",
+    "It allows them to travel abroad.",
+    "It is a way to start a business without much money."
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“one of the few ways to start a small business without a lot of money”."
+  },
+  {
+   "id": "r020-q05",
+   "type": "reading",
+   "passageId": "r020",
+   "prompt": "What risk is mentioned in paragraph 4?",
+   "options": [
+    "fire",
+    "traffic accidents",
+    "food poisoning",
+    "high prices"
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“there is a risk of food poisoning”."
+  },
+  {
+   "id": "r020-q06",
+   "type": "reading",
+   "passageId": "r020",
+   "prompt": "Some city governments do not like street sellers because they",
+   "options": [
+    "sell food that is too expensive",
+    "cook food that tourists do not like",
+    "block pavements and create rubbish",
+    "work only at night"
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r020-q07",
+   "type": "reading",
+   "passageId": "r020",
+   "prompt": "What is a “hawker centre”?",
+   "options": [
+    "a restaurant for tourists",
+    "a covered area with many food stalls and clean water",
+    "a school for street cooks",
+    "a market that sells only fruit"
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“large covered areas with clean water, electricity and many small food stalls”."
+  },
+  {
+   "id": "r020-q08",
+   "type": "reading",
+   "passageId": "r020",
+   "prompt": "The word “it” in paragraph 5 (“it is easier to control hygiene”) refers to",
+   "options": [
+    "Singapore",
+    "the food",
+    "electricity",
+    "the situation in hawker centres"
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "In hawker centres it is easier to control hygiene."
+  },
+  {
+   "id": "r020-q09",
+   "type": "reading",
+   "passageId": "r020",
+   "prompt": "Which piece of advice is given in the last paragraph?",
+   "options": [
+    "Choose stalls where many local people eat.",
+    "Always eat raw salads.",
+    "Avoid food cooked in front of you.",
+    "Eat only in hawker centres."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“choose stalls where many local people are eating”."
+  }
+ ]
+}

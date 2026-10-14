@@ -1,0 +1,280 @@
+{
+ "id": "r027",
+ "title": "Finding Your Way When the Signal Fails",
+ "level": "B2",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "EsPCEx",
+  "EFOMM",
+  "AFA",
+  "EN"
+ ],
+ "text": "For most people today, finding their way means looking at a screen. Satellite navigation is so reliable and so convenient that many drivers would be lost — literally — without it. Armed forces depend on it too, for everything from guiding aircraft to coordinating the movement of troops. Yet military instructors around the world continue to teach an apparently old-fashioned skill: navigation with a map and a compass. The reason is simple. Satellite signals are weak, and they can fail.\n\nSignals can be blocked by mountains, dense forest or tall buildings. Batteries run out, especially in extreme cold. Equipment can be lost or damaged. Most importantly, in a conflict, an enemy may deliberately interfere with the signals, either by \"jamming\" them — transmitting noise that drowns them out — or by \"spoofing\" them, sending false signals that make a receiver show the wrong position. A soldier who trusts the screen completely may walk confidently in the wrong direction.\n\nTraditional navigation relies on a few basic techniques. The first is reading a topographic map, which uses contour lines to show the shape of the land. Lines that are close together indicate steep slopes; lines that are far apart indicate gentle ones. With practice, a navigator can look at a map and imagine the hills, valleys and ridges it represents, and then compare them with what is visible on the ground.\n\nThe second technique is using a compass to follow a bearing, which is a direction expressed as an angle from north. Navigators must remember that a compass points to magnetic north, not to the true North Pole, and that the difference between the two varies from place to place. Maps usually indicate the correction needed.\n\nThe third technique is estimating distance. Over rough terrain or at night, it is easy to overestimate how far one has walked. Many soldiers count their steps, knowing from practice how many paces they take to cover a hundred metres on different types of ground. Combined with a bearing, this allows them to calculate their position even when they can see no landmarks — a method known as dead reckoning.\n\nNone of this means rejecting technology. The best navigators use satellite systems and traditional methods together, checking one against the other. As one instructor puts it, \"The receiver tells you where it thinks you are. The map and the ground tell you whether it is right.\"",
+ "glossary": [
+  [
+   "bearing",
+   "a direction measured as an angle from north"
+  ],
+  [
+   "contour line",
+   "a line on a map joining points of equal height"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r027-q01",
+   "type": "reading",
+   "passageId": "r027",
+   "prompt": "Why do military instructors still teach map and compass navigation?",
+   "options": [
+    "Satellite navigation is too expensive.",
+    "Soldiers are not allowed to use screens.",
+    "Satellite signals can fail or be disrupted.",
+    "Maps are more accurate than satellites."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“Satellite signals are weak, and they can fail.”"
+  },
+  {
+   "id": "r027-q02",
+   "type": "reading",
+   "passageId": "r027",
+   "prompt": "What is the difference between “jamming” and “spoofing”?",
+   "options": [
+    "Jamming is accidental; spoofing is deliberate.",
+    "Jamming affects maps; spoofing affects compasses.",
+    "They are two names for the same thing.",
+    "Jamming blocks signals with noise; spoofing sends false positions."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Defined in paragraph 2."
+  },
+  {
+   "id": "r027-q03",
+   "type": "reading",
+   "passageId": "r027",
+   "prompt": "Why is spoofing especially dangerous?",
+   "options": [
+    "It destroys the receiver.",
+    "It drains batteries quickly.",
+    "A soldier may confidently follow a wrong position.",
+    "It can only be used in mountains."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“may walk confidently in the wrong direction”."
+  },
+  {
+   "id": "r027-q04",
+   "type": "reading",
+   "passageId": "r027",
+   "prompt": "On a topographic map, contour lines that are close together show",
+   "options": [
+    "steep slopes",
+    "rivers",
+    "flat land",
+    "roads"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“Lines that are close together indicate steep slopes”."
+  },
+  {
+   "id": "r027-q05",
+   "type": "reading",
+   "passageId": "r027",
+   "prompt": "What must navigators remember about a compass?",
+   "options": [
+    "It does not work at night.",
+    "It must be corrected every hour.",
+    "It cannot be used with a map.",
+    "It points to magnetic north, not true north."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r027-q06",
+   "type": "reading",
+   "passageId": "r027",
+   "prompt": "Why do many soldiers count their steps?",
+   "options": [
+    "To estimate the distance they have travelled",
+    "To keep the same speed as the group",
+    "To stay awake at night",
+    "To avoid making noise"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Pace counting estimates distance."
+  },
+  {
+   "id": "r027-q07",
+   "type": "reading",
+   "passageId": "r027",
+   "prompt": "What is dead reckoning?",
+   "options": [
+    "Navigating by following the stars",
+    "Calculating your position from direction and distance travelled",
+    "Using landmarks to find your way",
+    "Asking local people for directions"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Bearing + distance allows a calculation of position without landmarks."
+  },
+  {
+   "id": "r027-q08",
+   "type": "reading",
+   "passageId": "r027",
+   "prompt": "The word “it” in the last sentence (“where it thinks you are”) refers to",
+   "options": [
+    "the map",
+    "the ground",
+    "the instructor",
+    "the receiver"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The receiver tells you where it thinks you are."
+  },
+  {
+   "id": "r027-q09",
+   "type": "reading",
+   "passageId": "r027",
+   "prompt": "What is the author's conclusion?",
+   "options": [
+    "Satellite navigation should be abandoned.",
+    "Traditional and satellite navigation should be used together.",
+    "Maps are no longer necessary.",
+    "Only experienced soldiers should use compasses."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“The best navigators use satellite systems and traditional methods together.”"
+  }
+ ]
+}

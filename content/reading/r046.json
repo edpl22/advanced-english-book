@@ -1,0 +1,300 @@
+{
+ "id": "r046",
+ "title": "Maps and Power",
+ "level": "C1",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ITA",
+  "IME",
+  "EN",
+  "EFOMM",
+  "AFA",
+  "EsPCEx"
+ ],
+ "text": "Maps are often regarded as neutral representations of the world, faithful copies of the landscape reduced to paper. Historians of cartography have long argued otherwise. Every map involves choices — what to include and what to omit, which features to emphasise, which names to use — and these choices reflect the purposes of those who commissioned it. Few institutions have shaped the history of map-making as profoundly as armies, for whom accurate knowledge of terrain has always been a matter of life and death.\n\nThe connection is visible in the names of some of the world's oldest mapping agencies. Britain's national mapping agency, the Ordnance Survey, owes its name to the Board of Ordnance, the body responsible for military supplies and fortifications. Its origins are usually traced to the military survey of the Scottish Highlands carried out after the Jacobite rising of 1745, when the government recognised that its troops were operating in a region they could barely navigate. In France, the systematic triangulation of the entire country in the eighteenth century, led by several generations of the Cassini family, was motivated in part by the requirements of administration and defence.\n\nMilitary mapping demanded new standards of precision. A general planning the positions of artillery needed to know not only where a hill was, but how high it was and what could be seen from its summit. This encouraged the development of techniques for representing relief, culminating in the contour line, and the adoption of consistent scales and symbols. Many of the conventions familiar to anyone who reads a map today were standardised for military purposes.\n\nThe relationship between maps and power has also had a darker side. Maps have been used to assert territorial claims, sometimes by drawing borders through lands whose inhabitants had no say in the matter. During periods of conflict, governments have deliberately distorted or withheld maps, omitting military installations or introducing errors to mislead potential enemies. Even in peacetime, the decision to name a feature after a colonial administrator rather than using the name given by local people is itself a political act.\n\nIn the twentieth century, aerial photography and later satellite imagery transformed military cartography, allowing territory to be mapped without setting foot on it. The satellite navigation systems that now guide everything from delivery vans to smartphones were originally developed for military use. The irony is considerable: technologies conceived for war have made detailed geographical knowledge available to almost everyone. Yet the fundamental insight of the historians remains valid. A map is never simply a picture of the world; it is an argument about it.",
+ "glossary": [
+  [
+   "triangulation",
+   "a method of measuring distances by forming triangles from known points"
+  ],
+  [
+   "relief",
+   "differences in the height of land"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r046-q01",
+   "type": "reading",
+   "passageId": "r046",
+   "prompt": "What view of maps do historians of cartography challenge?",
+   "options": [
+    "That maps are neutral copies of the world",
+    "That maps are useful for armies",
+    "That maps have a long history",
+    "That maps require precision"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "They argue maps involve choices reflecting purposes."
+  },
+  {
+   "id": "r046-q02",
+   "type": "reading",
+   "passageId": "r046",
+   "prompt": "Why does the author mention the name of the Ordnance Survey?",
+   "options": [
+    "It is the oldest mapping agency in the world.",
+    "It was founded by the Cassini family.",
+    "It shows the military origins of a national mapping agency.",
+    "It produced the first contour lines."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Its name derives from the Board of Ordnance."
+  },
+  {
+   "id": "r046-q03",
+   "type": "reading",
+   "passageId": "r046",
+   "prompt": "According to paragraph 2, why was the Scottish Highlands survey carried out?",
+   "options": [
+    "The region was being sold.",
+    "Scientists wanted to measure mountains.",
+    "Tourists needed maps.",
+    "Government troops could hardly navigate the region."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Troops were operating in a region they could barely navigate."
+  },
+  {
+   "id": "r046-q04",
+   "type": "reading",
+   "passageId": "r046",
+   "prompt": "What did military needs contribute to map-making, according to paragraph 3?",
+   "options": [
+    "Greater precision and standardised conventions",
+    "Colourful decorations",
+    "Larger and heavier maps",
+    "Fewer symbols"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Contour lines, consistent scales and symbols."
+  },
+  {
+   "id": "r046-q05",
+   "type": "reading",
+   "passageId": "r046",
+   "prompt": "Why did an artillery commander need to know the height of a hill?",
+   "options": [
+    "To calculate the cost of moving guns",
+    "To know what could be seen from its summit",
+    "To name it correctly",
+    "To find water sources"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r046-q06",
+   "type": "reading",
+   "passageId": "r046",
+   "prompt": "Which of the following is NOT mentioned as a way maps have been used for political purposes?",
+   "options": [
+    "asserting territorial claims",
+    "omitting military installations",
+    "naming features after colonial administrators",
+    "selling maps to raise money for wars"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Selling maps is not mentioned."
+  },
+  {
+   "id": "r046-q07",
+   "type": "reading",
+   "passageId": "r046",
+   "prompt": "Why does the author describe naming a feature after a colonial administrator as “a political act”?",
+   "options": [
+    "It requires the approval of parliament.",
+    "It is illegal in most countries.",
+    "It replaces local names and reflects a relationship of power.",
+    "It makes maps less accurate."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Choosing a colonial name over local names."
+  },
+  {
+   "id": "r046-q08",
+   "type": "reading",
+   "passageId": "r046",
+   "prompt": "What “irony” is mentioned in the last paragraph?",
+   "options": [
+    "Satellites are less accurate than old maps.",
+    "Armies no longer use maps.",
+    "Military technologies have made geographical knowledge widely available.",
+    "Historians rely on military maps."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Technologies conceived for war benefit almost everyone."
+  },
+  {
+   "id": "r046-q09",
+   "type": "reading",
+   "passageId": "r046",
+   "prompt": "What does the final sentence, “it is an argument about it”, mean?",
+   "options": [
+    "Maps often cause arguments between countries.",
+    "A map presents a particular interpretation of the world.",
+    "Maps are usually inaccurate.",
+    "Maps should be replaced by photographs."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Maps reflect choices and purposes."
+  }
+ ]
+}

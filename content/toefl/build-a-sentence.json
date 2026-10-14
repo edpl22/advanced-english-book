@@ -1,0 +1,2941 @@
+[
+  {
+    "id": "bs-001",
+    "context": "Did the professor say anything about the essays?",
+    "chunks": [
+      "she",
+      "didn't",
+      "mention",
+      "when",
+      "the essays",
+      "were",
+      "due"
+    ],
+    "distractor": "was",
+    "acceptedAnswers": [],
+    "topic": "indirect-question",
+    "difficulty": "easy",
+    "explanation": "Pergunta indireta: depois de 'when' a ordem é sujeito + verbo ('the essays were'), sem inversão. Como 'essays' é plural, o verbo é 'were'."
+  },
+  {
+    "id": "bs-002",
+    "context": "Where is the new library?",
+    "chunks": [
+      "I'm",
+      "not sure",
+      "where",
+      "it",
+      "is",
+      "located"
+    ],
+    "distractor": "does",
+    "acceptedAnswers": [],
+    "topic": "indirect-question",
+    "difficulty": "easy",
+    "explanation": "Em perguntas indiretas a ordem é sujeito + verbo: 'where it is located', e não 'where is it located'."
+  },
+  {
+    "id": "bs-003",
+    "context": "The bus hasn't come yet.",
+    "chunks": [
+      "do you know",
+      "what time",
+      "it",
+      "is",
+      "supposed",
+      "to arrive"
+    ],
+    "distractor": "does",
+    "acceptedAnswers": [],
+    "topic": "indirect-question",
+    "difficulty": "medium",
+    "explanation": "Depois de 'Do you know', a pergunta embutida segue a ordem afirmativa: 'what time it is supposed to arrive'.",
+    "punctuation": "?"
+  },
+  {
+    "id": "bs-004",
+    "context": "Why is Mark so upset today?",
+    "chunks": [
+      "he",
+      "refuses",
+      "to tell",
+      "anyone",
+      "what",
+      "happened",
+      "at the meeting"
+    ],
+    "distractor": "did",
+    "acceptedAnswers": [],
+    "topic": "indirect-question",
+    "difficulty": "medium",
+    "explanation": "Quando 'what' é o sujeito da pergunta embutida, o verbo vem logo depois ('what happened'), sem o auxiliar 'did'."
+  },
+  {
+    "id": "bs-005",
+    "context": "Are you coming to the reunion?",
+    "chunks": [
+      "I",
+      "haven't",
+      "decided",
+      "whether",
+      "I",
+      "can",
+      "take",
+      "the day off"
+    ],
+    "distractor": "taking",
+    "acceptedAnswers": [],
+    "topic": "indirect-question",
+    "difficulty": "medium",
+    "explanation": "Depois de 'whether' vem uma oração com ordem direta: sujeito + modal + verbo base ('I can take')."
+  },
+  {
+    "id": "bs-006",
+    "context": "The museum is closed again?",
+    "chunks": [
+      "could you",
+      "find out",
+      "how long",
+      "it",
+      "will",
+      "remain",
+      "closed"
+    ],
+    "distractor": "remains",
+    "acceptedAnswers": [],
+    "topic": "indirect-question",
+    "difficulty": "hard",
+    "explanation": "Em pedidos educados ('Could you find out...'), a pergunta embutida mantém sujeito + verbo: 'how long it will remain closed'. Depois de 'will', o verbo fica na forma base.",
+    "punctuation": "?"
+  },
+  {
+    "id": "bs-007",
+    "context": "Is Sara joining us for lunch?",
+    "chunks": [
+      "I",
+      "wonder",
+      "if",
+      "she",
+      "is",
+      "still",
+      "in class"
+    ],
+    "distractor": "does",
+    "acceptedAnswers": [],
+    "topic": "indirect-question",
+    "difficulty": "easy",
+    "explanation": "Pergunta indireta com 'if': sujeito antes do verbo ('she is'), sem inversão."
+  },
+  {
+    "id": "bs-008",
+    "context": "I can't find the conference schedule anywhere.",
+    "chunks": [
+      "let me",
+      "ask",
+      "the organizers",
+      "where",
+      "they",
+      "posted",
+      "it"
+    ],
+    "distractor": "does",
+    "acceptedAnswers": [],
+    "topic": "indirect-question",
+    "difficulty": "medium",
+    "explanation": "Na pergunta indireta não se usa auxiliar: 'where they posted it', e não 'where did they post it'."
+  },
+  {
+    "id": "bs-009",
+    "context": "What did the landlord say about the repairs?",
+    "chunks": [
+      "he",
+      "couldn't",
+      "tell me",
+      "when",
+      "the plumber",
+      "would",
+      "be",
+      "available"
+    ],
+    "distractor": "is",
+    "acceptedAnswers": [],
+    "topic": "indirect-question",
+    "difficulty": "hard",
+    "explanation": "Pergunta indireta no discurso relatado: sujeito + 'would' + verbo base ('the plumber would be available')."
+  },
+  {
+    "id": "bs-010",
+    "context": "Have you heard anything about the new manager?",
+    "chunks": [
+      "nobody",
+      "knows",
+      "who",
+      "she",
+      "is",
+      "or",
+      "where",
+      "she",
+      "came from"
+    ],
+    "distractor": "does",
+    "acceptedAnswers": [],
+    "topic": "indirect-question",
+    "difficulty": "medium",
+    "explanation": "Duas perguntas indiretas coordenadas, ambas com sujeito + verbo: 'who she is' e 'where she came from'."
+  },
+  {
+    "id": "bs-011",
+    "context": "Why did the flight get canceled?",
+    "chunks": [
+      "the airline",
+      "still",
+      "hasn't",
+      "explained",
+      "what",
+      "caused",
+      "the problem"
+    ],
+    "distractor": "did",
+    "acceptedAnswers": [],
+    "topic": "indirect-question",
+    "difficulty": "hard",
+    "explanation": "'What' é o sujeito de 'caused', então não há auxiliar: 'what caused the problem'. 'Still' vem antes do auxiliar negativo 'hasn't'."
+  },
+  {
+    "id": "bs-012",
+    "context": "Which room is the workshop in?",
+    "chunks": [
+      "can you",
+      "tell me",
+      "which room",
+      "it's",
+      "in"
+    ],
+    "distractor": "is it",
+    "acceptedAnswers": [],
+    "topic": "indirect-question",
+    "difficulty": "easy",
+    "explanation": "Depois de 'Can you tell me', a ordem é sujeito + verbo ('it's'), e a preposição 'in' fica no final.",
+    "punctuation": "?"
+  },
+  {
+    "id": "bs-013",
+    "context": "I'm going to the bookstore later.",
+    "chunks": [
+      "do",
+      "you",
+      "want",
+      "me",
+      "to come",
+      "with you"
+    ],
+    "distractor": "does",
+    "acceptedAnswers": [],
+    "topic": "direct-question",
+    "difficulty": "easy",
+    "explanation": "Pergunta direta no presente com 'you' usa o auxiliar 'do' + sujeito + verbo base.",
+    "punctuation": "?"
+  },
+  {
+    "id": "bs-014",
+    "context": "I just got back from Japan.",
+    "chunks": [
+      "how long",
+      "did",
+      "you",
+      "stay",
+      "there"
+    ],
+    "distractor": "stayed",
+    "acceptedAnswers": [],
+    "topic": "direct-question",
+    "difficulty": "easy",
+    "explanation": "Depois do auxiliar 'did', o verbo fica na forma base: 'stay', e não 'stayed'.",
+    "punctuation": "?"
+  },
+  {
+    "id": "bs-015",
+    "context": "My sister finally finished her thesis.",
+    "chunks": [
+      "how long",
+      "has",
+      "she",
+      "been",
+      "working",
+      "on it"
+    ],
+    "distractor": "have",
+    "acceptedAnswers": [],
+    "topic": "direct-question",
+    "difficulty": "medium",
+    "explanation": "Com sujeito na 3ª pessoa ('she') o auxiliar é 'has'. A ordem é palavra interrogativa + auxiliar + sujeito + verbo.",
+    "punctuation": "?"
+  },
+  {
+    "id": "bs-016",
+    "context": "The lab results came in this morning.",
+    "chunks": [
+      "were",
+      "they",
+      "what",
+      "you",
+      "had",
+      "expected"
+    ],
+    "distractor": "was",
+    "acceptedAnswers": [],
+    "topic": "direct-question",
+    "difficulty": "medium",
+    "explanation": "'They' pede 'were'. Na pergunta, o verbo 'be' vem antes do sujeito: 'were they...'.",
+    "punctuation": "?"
+  },
+  {
+    "id": "bs-017",
+    "context": "I'm thinking of moving to Lisbon.",
+    "chunks": [
+      "what",
+      "made",
+      "you",
+      "decide",
+      "to leave",
+      "the city"
+    ],
+    "distractor": "did",
+    "acceptedAnswers": [],
+    "topic": "direct-question",
+    "difficulty": "easy",
+    "explanation": "Quando 'what' é o sujeito ('what made you...'), não se usa o auxiliar 'did'.",
+    "punctuation": "?"
+  },
+  {
+    "id": "bs-018",
+    "context": "Someone left a package at the front desk.",
+    "chunks": [
+      "who",
+      "does",
+      "it",
+      "belong",
+      "to"
+    ],
+    "distractor": "belongs",
+    "acceptedAnswers": [],
+    "topic": "direct-question",
+    "difficulty": "medium",
+    "explanation": "Depois de 'does', o verbo fica na forma base ('belong'), e a preposição 'to' vai para o final.",
+    "punctuation": "?"
+  },
+  {
+    "id": "bs-019",
+    "context": "I've been offered the job in Toronto.",
+    "chunks": [
+      "will",
+      "they",
+      "let",
+      "you",
+      "work",
+      "remotely",
+      "at least part of the time"
+    ],
+    "distractor": "to work",
+    "acceptedAnswers": [],
+    "topic": "direct-question",
+    "difficulty": "hard",
+    "explanation": "'Let' + objeto + verbo base, sem 'to'. A pergunta usa 'will' + sujeito + verbo.",
+    "punctuation": "?"
+  },
+  {
+    "id": "bs-020",
+    "context": "The printer on the second floor is broken again.",
+    "chunks": [
+      "has",
+      "anyone",
+      "called",
+      "the technician",
+      "yet"
+    ],
+    "distractor": "call",
+    "acceptedAnswers": [],
+    "topic": "direct-question",
+    "difficulty": "medium",
+    "explanation": "Pergunta no presente perfeito: 'has' + sujeito + particípio ('called'). 'Yet' fica no final.",
+    "punctuation": "?"
+  },
+  {
+    "id": "bs-021",
+    "context": "I'm so tired today.",
+    "chunks": [
+      "what time",
+      "did",
+      "you",
+      "go",
+      "to bed",
+      "last night"
+    ],
+    "distractor": "went",
+    "acceptedAnswers": [],
+    "topic": "direct-question",
+    "difficulty": "easy",
+    "explanation": "Com 'did' na pergunta, o verbo principal fica na forma base: 'go', e não 'went'.",
+    "punctuation": "?"
+  },
+  {
+    "id": "bs-022",
+    "context": "The committee rejected my proposal.",
+    "chunks": [
+      "did",
+      "they",
+      "give",
+      "you",
+      "any reason",
+      "for",
+      "turning it down"
+    ],
+    "distractor": "gave",
+    "acceptedAnswers": [],
+    "topic": "direct-question",
+    "difficulty": "hard",
+    "explanation": "Pergunta com 'did' + sujeito + verbo base ('give'). Depois da preposição 'for', usa-se o gerúndio ('turning').",
+    "punctuation": "?"
+  },
+  {
+    "id": "bs-023",
+    "context": "We should leave for the airport soon.",
+    "chunks": [
+      "how much",
+      "time",
+      "do",
+      "we",
+      "need",
+      "to get there"
+    ],
+    "distractor": "does",
+    "acceptedAnswers": [],
+    "topic": "direct-question",
+    "difficulty": "medium",
+    "explanation": "'Time' é incontável, por isso 'how much'. Com 'we' o auxiliar é 'do'.",
+    "punctuation": "?"
+  },
+  {
+    "id": "bs-024",
+    "context": "I'm thinking about applying for the scholarship.",
+    "chunks": [
+      "wouldn't",
+      "it",
+      "be",
+      "better",
+      "to wait",
+      "until",
+      "next semester"
+    ],
+    "distractor": "is",
+    "acceptedAnswers": [],
+    "topic": "direct-question",
+    "difficulty": "hard",
+    "explanation": "Pergunta negativa com 'wouldn't' + sujeito + 'be', usada para sugerir algo com educação.",
+    "punctuation": "?"
+  },
+  {
+    "id": "bs-025",
+    "context": "Do you want to see that new movie?",
+    "chunks": [
+      "I've",
+      "already",
+      "seen",
+      "it",
+      "twice"
+    ],
+    "distractor": "saw",
+    "acceptedAnswers": [
+      [
+        "I've",
+        "seen",
+        "it",
+        "twice",
+        "already"
+      ]
+    ],
+    "topic": "present-perfect",
+    "difficulty": "easy",
+    "explanation": "Presente perfeito: 'have' + particípio ('seen'). 'Already' fica entre o auxiliar e o particípio, ou no fim da frase."
+  },
+  {
+    "id": "bs-026",
+    "context": "Is Tom still in Brazil?",
+    "chunks": [
+      "no",
+      "he",
+      "has",
+      "just",
+      "come",
+      "back"
+    ],
+    "distractor": "came",
+    "acceptedAnswers": [],
+    "topic": "present-perfect",
+    "difficulty": "easy",
+    "explanation": "'Just' indica algo muito recente e fica entre 'has' e o particípio 'come'."
+  },
+  {
+    "id": "bs-027",
+    "context": "How's the new job going?",
+    "chunks": [
+      "I've",
+      "only",
+      "been",
+      "there",
+      "for",
+      "two weeks"
+    ],
+    "distractor": "since",
+    "acceptedAnswers": [
+      [
+        "I've",
+        "been",
+        "there",
+        "for",
+        "only",
+        "two weeks"
+      ]
+    ],
+    "topic": "present-perfect",
+    "difficulty": "medium",
+    "explanation": "'For' + período de tempo ('two weeks'); 'since' exige um ponto de partida. O presente perfeito indica algo que começou e continua."
+  },
+  {
+    "id": "bs-028",
+    "context": "Why don't you call Lisa?",
+    "chunks": [
+      "I",
+      "have",
+      "tried",
+      "three times",
+      "but",
+      "she",
+      "hasn't",
+      "answered"
+    ],
+    "distractor": "didn't",
+    "acceptedAnswers": [],
+    "topic": "present-perfect",
+    "difficulty": "medium",
+    "explanation": "Presente perfeito nas duas orações: 'have tried' e 'hasn't answered'. 'Didn't' exigiria o verbo na forma base."
+  },
+  {
+    "id": "bs-029",
+    "context": "Have you visited the new science museum?",
+    "chunks": [
+      "I",
+      "haven't",
+      "had",
+      "the chance",
+      "to go",
+      "yet"
+    ],
+    "distractor": "having",
+    "acceptedAnswers": [],
+    "topic": "present-perfect",
+    "difficulty": "hard",
+    "explanation": "Negativa no presente perfeito: 'haven't' + particípio ('had'). 'Yet' vai no final da frase."
+  },
+  {
+    "id": "bs-030",
+    "context": "Is Ana a good driver?",
+    "chunks": [
+      "she",
+      "has",
+      "driven",
+      "ever since",
+      "she",
+      "was",
+      "sixteen"
+    ],
+    "distractor": "drove",
+    "acceptedAnswers": [],
+    "topic": "present-perfect",
+    "difficulty": "medium",
+    "explanation": "A oração principal fica no presente perfeito ('has driven'). 'Ever since' + passado simples marca quando começou."
+  },
+  {
+    "id": "bs-031",
+    "context": "Can I borrow your copy of the novel?",
+    "chunks": [
+      "sorry",
+      "I",
+      "haven't",
+      "finished",
+      "reading",
+      "it"
+    ],
+    "distractor": "didn't",
+    "acceptedAnswers": [],
+    "topic": "present-perfect",
+    "difficulty": "easy",
+    "explanation": "'Haven't' + particípio ('finished'). Depois de 'finish', usa-se o gerúndio ('reading')."
+  },
+  {
+    "id": "bs-032",
+    "context": "You look exhausted.",
+    "chunks": [
+      "I've",
+      "been",
+      "studying",
+      "for",
+      "the exam",
+      "since",
+      "early this morning"
+    ],
+    "distractor": "studied",
+    "acceptedAnswers": [],
+    "topic": "present-perfect",
+    "difficulty": "hard",
+    "explanation": "Presente perfeito contínuo ('have been' + -ing) para uma ação que começou no passado e continua. 'Since' + ponto de partida."
+  },
+  {
+    "id": "bs-033",
+    "context": "Do you know anyone at this party?",
+    "chunks": [
+      "I've",
+      "never",
+      "met",
+      "most of",
+      "these people",
+      "before"
+    ],
+    "distractor": "meet",
+    "acceptedAnswers": [],
+    "topic": "present-perfect",
+    "difficulty": "medium",
+    "explanation": "'Never' fica entre o auxiliar e o particípio ('have never met'). 'Before' vai no final."
+  },
+  {
+    "id": "bs-034",
+    "context": "Is the report ready?",
+    "chunks": [
+      "Jenna",
+      "has",
+      "just",
+      "sent",
+      "it",
+      "to",
+      "the whole team"
+    ],
+    "distractor": "send",
+    "acceptedAnswers": [],
+    "topic": "present-perfect",
+    "difficulty": "medium",
+    "explanation": "'Has just' + particípio ('sent') indica uma ação que acabou de acontecer."
+  },
+  {
+    "id": "bs-035",
+    "context": "How long have you known Carlos?",
+    "chunks": [
+      "we",
+      "have",
+      "been",
+      "friends",
+      "since",
+      "we",
+      "were",
+      "in high school"
+    ],
+    "distractor": "are",
+    "acceptedAnswers": [],
+    "topic": "present-perfect",
+    "difficulty": "hard",
+    "explanation": "A oração principal usa o presente perfeito ('have been'); depois de 'since', o passado simples ('we were')."
+  },
+  {
+    "id": "bs-036",
+    "context": "Want to grab some pizza?",
+    "chunks": [
+      "thanks",
+      "but",
+      "I've",
+      "already",
+      "eaten",
+      "dinner"
+    ],
+    "distractor": "ate",
+    "acceptedAnswers": [],
+    "topic": "present-perfect",
+    "difficulty": "easy",
+    "explanation": "Presente perfeito: 'have' + particípio ('eaten'), e não o passado simples 'ate'."
+  },
+  {
+    "id": "bs-037",
+    "context": "Did you catch the train?",
+    "chunks": [
+      "no",
+      "it",
+      "had",
+      "already",
+      "left",
+      "when",
+      "I",
+      "arrived"
+    ],
+    "distractor": "leaved",
+    "acceptedAnswers": [
+      [
+        "no",
+        "when",
+        "I",
+        "arrived",
+        "it",
+        "had",
+        "already",
+        "left"
+      ]
+    ],
+    "topic": "past-perfect",
+    "difficulty": "easy",
+    "explanation": "Passado perfeito ('had left') para a ação que aconteceu antes de outra no passado ('I arrived')."
+  },
+  {
+    "id": "bs-038",
+    "context": "How was your first time skiing?",
+    "chunks": [
+      "I",
+      "had",
+      "never",
+      "tried",
+      "anything",
+      "like it",
+      "before"
+    ],
+    "distractor": "try",
+    "acceptedAnswers": [],
+    "topic": "past-perfect",
+    "difficulty": "medium",
+    "explanation": "'Had never' + particípio ('tried') descreve uma experiência que ainda não tinha acontecido até aquele momento."
+  },
+  {
+    "id": "bs-039",
+    "context": "Why was Emma so nervous at the interview?",
+    "chunks": [
+      "she",
+      "hadn't",
+      "prepared",
+      "for",
+      "the technical questions"
+    ],
+    "distractor": "prepare",
+    "acceptedAnswers": [],
+    "topic": "past-perfect",
+    "difficulty": "medium",
+    "explanation": "Passado perfeito negativo: 'hadn't' + particípio ('prepared'), indicando algo anterior à entrevista."
+  },
+  {
+    "id": "bs-040",
+    "context": "Did you enjoy the concert?",
+    "chunks": [
+      "by the time",
+      "we",
+      "got there",
+      "the band",
+      "had",
+      "finished",
+      "playing"
+    ],
+    "distractor": "has",
+    "acceptedAnswers": [
+      [
+        "the band",
+        "had",
+        "finished",
+        "playing",
+        "by the time",
+        "we",
+        "got there"
+      ]
+    ],
+    "topic": "past-perfect",
+    "difficulty": "hard",
+    "explanation": "Com 'by the time' + passado simples, a ação anterior vai para o passado perfeito ('had finished')."
+  },
+  {
+    "id": "bs-041",
+    "context": "Was the restaurant any good?",
+    "chunks": [
+      "it was",
+      "better",
+      "than",
+      "I",
+      "had",
+      "expected"
+    ],
+    "distractor": "have",
+    "acceptedAnswers": [],
+    "topic": "past-perfect",
+    "difficulty": "medium",
+    "explanation": "A expectativa veio antes da visita, por isso o passado perfeito: 'than I had expected'."
+  },
+  {
+    "id": "bs-042",
+    "context": "Why didn't you eat at the party?",
+    "chunks": [
+      "I",
+      "had",
+      "eaten",
+      "before",
+      "I",
+      "left home"
+    ],
+    "distractor": "ate",
+    "acceptedAnswers": [
+      [
+        "before",
+        "I",
+        "left home",
+        "I",
+        "had",
+        "eaten"
+      ]
+    ],
+    "topic": "past-perfect",
+    "difficulty": "easy",
+    "explanation": "Passado perfeito: 'had' + particípio ('eaten'). 'Ate' é passado simples e não combina com 'had'."
+  },
+  {
+    "id": "bs-043",
+    "context": "Did Leo know about the surprise party?",
+    "chunks": [
+      "someone",
+      "had",
+      "told",
+      "him",
+      "about it",
+      "the day before"
+    ],
+    "distractor": "tell",
+    "acceptedAnswers": [],
+    "topic": "past-perfect",
+    "difficulty": "hard",
+    "explanation": "'Had told' mostra que alguém contou antes da festa. 'The day before' (e não 'yesterday') é usado em relatos no passado."
+  },
+  {
+    "id": "bs-044",
+    "context": "Why was the office empty this morning?",
+    "chunks": [
+      "everyone",
+      "had",
+      "gone",
+      "to",
+      "the training session",
+      "downtown"
+    ],
+    "distractor": "went",
+    "acceptedAnswers": [],
+    "topic": "past-perfect",
+    "difficulty": "medium",
+    "explanation": "'Had' + particípio ('gone'); 'went' é passado simples e não pode vir depois de 'had'."
+  },
+  {
+    "id": "bs-045",
+    "context": "Did you recognize your old teacher?",
+    "chunks": [
+      "not at first",
+      "because",
+      "she",
+      "had",
+      "changed",
+      "so much"
+    ],
+    "distractor": "change",
+    "acceptedAnswers": [],
+    "topic": "past-perfect",
+    "difficulty": "hard",
+    "explanation": "A mudança aconteceu antes do reencontro, por isso 'had changed' (passado perfeito)."
+  },
+  {
+    "id": "bs-046",
+    "context": "Why were you late for the meeting?",
+    "chunks": [
+      "I",
+      "had",
+      "forgotten",
+      "that",
+      "it",
+      "started",
+      "at nine"
+    ],
+    "distractor": "forgot",
+    "acceptedAnswers": [],
+    "topic": "past-perfect",
+    "difficulty": "medium",
+    "explanation": "O particípio de 'forget' é 'forgotten'. 'Had forgotten' indica que o esquecimento veio antes do atraso."
+  },
+  {
+    "id": "bs-047",
+    "context": "Why didn't you watch the final episode with us?",
+    "chunks": [
+      "I",
+      "had",
+      "already",
+      "seen",
+      "it",
+      "at",
+      "my cousin's house"
+    ],
+    "distractor": "saw",
+    "acceptedAnswers": [],
+    "topic": "past-perfect",
+    "difficulty": "easy",
+    "explanation": "'Had already seen' indica que a ação aconteceu antes do momento passado. Depois de 'had' vem o particípio."
+  },
+  {
+    "id": "bs-048",
+    "context": "How did the hikers get lost?",
+    "chunks": [
+      "they",
+      "had",
+      "ignored",
+      "the warnings",
+      "about",
+      "the trail"
+    ],
+    "distractor": "ignore",
+    "acceptedAnswers": [],
+    "topic": "past-perfect",
+    "difficulty": "hard",
+    "explanation": "Passado perfeito ('had ignored') explica a causa anterior de um fato no passado."
+  },
+  {
+    "id": "bs-049",
+    "context": "Where's the old bridge?",
+    "chunks": [
+      "it",
+      "was",
+      "torn",
+      "down",
+      "last year"
+    ],
+    "distractor": "tore",
+    "acceptedAnswers": [],
+    "topic": "passive",
+    "difficulty": "easy",
+    "explanation": "Voz passiva no passado: 'was' + particípio ('torn'). 'Tore' é o passado simples, não o particípio."
+  },
+  {
+    "id": "bs-050",
+    "context": "Who made this cake?",
+    "chunks": [
+      "it",
+      "was",
+      "baked",
+      "by",
+      "my grandmother"
+    ],
+    "distractor": "bake",
+    "acceptedAnswers": [],
+    "topic": "passive",
+    "difficulty": "easy",
+    "explanation": "Passiva com agente: 'was' + particípio ('baked') + 'by' + quem fez a ação."
+  },
+  {
+    "id": "bs-051",
+    "context": "Is the conference room available?",
+    "chunks": [
+      "sorry",
+      "it's",
+      "being",
+      "cleaned",
+      "right now"
+    ],
+    "distractor": "clean",
+    "acceptedAnswers": [],
+    "topic": "passive",
+    "difficulty": "medium",
+    "explanation": "Passiva no presente contínuo: 'is being' + particípio ('cleaned') para uma ação em andamento."
+  },
+  {
+    "id": "bs-052",
+    "context": "When will we get our test scores?",
+    "chunks": [
+      "they",
+      "will",
+      "be",
+      "posted",
+      "online",
+      "by Friday"
+    ],
+    "distractor": "post",
+    "acceptedAnswers": [],
+    "topic": "passive",
+    "difficulty": "medium",
+    "explanation": "Passiva no futuro: 'will be' + particípio ('posted')."
+  },
+  {
+    "id": "bs-053",
+    "context": "Why is Main Street closed?",
+    "chunks": [
+      "a new",
+      "water pipe",
+      "is",
+      "being",
+      "installed",
+      "under",
+      "the road"
+    ],
+    "distractor": "installing",
+    "acceptedAnswers": [],
+    "topic": "passive",
+    "difficulty": "hard",
+    "explanation": "Passiva no presente contínuo: 'is being installed'. O cano não instala nada; ele é instalado."
+  },
+  {
+    "id": "bs-054",
+    "context": "Did they find the missing dog?",
+    "chunks": [
+      "yes",
+      "he",
+      "was",
+      "found",
+      "near",
+      "the park"
+    ],
+    "distractor": "find",
+    "acceptedAnswers": [],
+    "topic": "passive",
+    "difficulty": "medium",
+    "explanation": "Passiva no passado: 'was' + particípio ('found')."
+  },
+  {
+    "id": "bs-055",
+    "context": "Is the museum open on Mondays?",
+    "chunks": [
+      "visitors",
+      "are",
+      "not",
+      "allowed",
+      "in",
+      "on Mondays"
+    ],
+    "distractor": "allow",
+    "acceptedAnswers": [],
+    "topic": "passive",
+    "difficulty": "hard",
+    "explanation": "Passiva negativa: 'are not allowed'. Os visitantes recebem a ação (não têm permissão)."
+  },
+  {
+    "id": "bs-056",
+    "context": "Has the contract been signed?",
+    "chunks": [
+      "it",
+      "hasn't",
+      "been",
+      "approved",
+      "by",
+      "the lawyers",
+      "yet"
+    ],
+    "distractor": "be",
+    "acceptedAnswers": [],
+    "topic": "passive",
+    "difficulty": "medium",
+    "explanation": "Passiva no presente perfeito: 'hasn't been' + particípio ('approved')."
+  },
+  {
+    "id": "bs-057",
+    "context": "Why didn't you stay at the hotel downtown?",
+    "chunks": [
+      "all",
+      "the rooms",
+      "had",
+      "already",
+      "been",
+      "booked"
+    ],
+    "distractor": "being",
+    "acceptedAnswers": [],
+    "topic": "passive",
+    "difficulty": "hard",
+    "explanation": "Passiva no passado perfeito: 'had been' + particípio ('booked')."
+  },
+  {
+    "id": "bs-058",
+    "context": "What language do they speak in Brazil?",
+    "chunks": [
+      "Portuguese",
+      "is",
+      "spoken",
+      "in",
+      "most of",
+      "the country"
+    ],
+    "distractor": "speaks",
+    "acceptedAnswers": [],
+    "topic": "passive",
+    "difficulty": "easy",
+    "explanation": "Passiva no presente: 'is' + particípio ('spoken')."
+  },
+  {
+    "id": "bs-059",
+    "context": "What happened to the old factory?",
+    "chunks": [
+      "it",
+      "is",
+      "going",
+      "to be",
+      "turned",
+      "into",
+      "apartments"
+    ],
+    "distractor": "turn",
+    "acceptedAnswers": [],
+    "topic": "passive",
+    "difficulty": "hard",
+    "explanation": "Passiva com 'going to': 'is going to be' + particípio ('turned')."
+  },
+  {
+    "id": "bs-060",
+    "context": "Can I use my phone during the exam?",
+    "chunks": [
+      "phones",
+      "must",
+      "be",
+      "left",
+      "outside",
+      "the room"
+    ],
+    "distractor": "leave",
+    "acceptedAnswers": [],
+    "topic": "passive",
+    "difficulty": "medium",
+    "explanation": "Passiva com modal: 'must be' + particípio ('left')."
+  },
+  {
+    "id": "bs-061",
+    "context": "Are you going to the beach this weekend?",
+    "chunks": [
+      "if",
+      "it",
+      "doesn't",
+      "rain",
+      "we",
+      "will",
+      "go"
+    ],
+    "distractor": "didn't",
+    "acceptedAnswers": [
+      [
+        "we",
+        "will",
+        "go",
+        "if",
+        "it",
+        "doesn't",
+        "rain"
+      ]
+    ],
+    "topic": "conditional",
+    "difficulty": "easy",
+    "explanation": "Primeira condicional: 'if' + presente ('doesn't rain'), resultado com 'will'."
+  },
+  {
+    "id": "bs-062",
+    "context": "Should I take the job offer?",
+    "chunks": [
+      "if",
+      "I",
+      "were",
+      "you",
+      "I",
+      "would",
+      "accept",
+      "it"
+    ],
+    "distractor": "will",
+    "acceptedAnswers": [
+      [
+        "I",
+        "would",
+        "accept",
+        "it",
+        "if",
+        "I",
+        "were",
+        "you"
+      ]
+    ],
+    "topic": "conditional",
+    "difficulty": "medium",
+    "explanation": "Segunda condicional para conselho: 'If I were you, I would...'. 'Will' não combina com 'were'."
+  },
+  {
+    "id": "bs-063",
+    "context": "You missed a great party last night.",
+    "chunks": [
+      "had",
+      "I",
+      "known",
+      "about it",
+      "I",
+      "would",
+      "have",
+      "gone"
+    ],
+    "distractor": "did",
+    "acceptedAnswers": [],
+    "topic": "conditional",
+    "difficulty": "hard",
+    "explanation": "Inversão condicional: 'Had I known' = 'If I had known'. O resultado no passado usa 'would have' + particípio."
+  },
+  {
+    "id": "bs-064",
+    "context": "The traffic was terrible this morning.",
+    "chunks": [
+      "had",
+      "we",
+      "left",
+      "earlier",
+      "we",
+      "would",
+      "have",
+      "avoided",
+      "it"
+    ],
+    "distractor": "leave",
+    "acceptedAnswers": [],
+    "topic": "conditional",
+    "difficulty": "hard",
+    "explanation": "Terceira condicional com inversão: 'Had we left' (= 'If we had left') + 'would have avoided'."
+  },
+  {
+    "id": "bs-065",
+    "context": "Do you think I'll pass the driving test?",
+    "chunks": [
+      "you",
+      "will",
+      "pass",
+      "as long as",
+      "you",
+      "stay",
+      "calm"
+    ],
+    "distractor": "stays",
+    "acceptedAnswers": [
+      [
+        "as long as",
+        "you",
+        "stay",
+        "calm",
+        "you",
+        "will",
+        "pass"
+      ]
+    ],
+    "topic": "conditional",
+    "difficulty": "medium",
+    "explanation": "'As long as' funciona como 'if': presente na condição ('you stay') e 'will' no resultado."
+  },
+  {
+    "id": "bs-066",
+    "context": "Why didn't you call me?",
+    "chunks": [
+      "I",
+      "would",
+      "have",
+      "called",
+      "if",
+      "I",
+      "had",
+      "had",
+      "your number"
+    ],
+    "distractor": "has",
+    "acceptedAnswers": [
+      [
+        "if",
+        "I",
+        "had",
+        "had",
+        "your number",
+        "I",
+        "would",
+        "have",
+        "called"
+      ]
+    ],
+    "topic": "conditional",
+    "difficulty": "medium",
+    "explanation": "Terceira condicional: 'would have called' + 'if I had had' (passado perfeito do verbo 'have')."
+  },
+  {
+    "id": "bs-067",
+    "context": "Will you need help moving next week?",
+    "chunks": [
+      "should",
+      "you",
+      "have",
+      "some free time",
+      "I'd",
+      "appreciate",
+      "a hand"
+    ],
+    "distractor": "will",
+    "acceptedAnswers": [
+      [
+        "I'd",
+        "appreciate",
+        "a hand",
+        "should",
+        "you",
+        "have",
+        "some free time"
+      ]
+    ],
+    "topic": "conditional",
+    "difficulty": "hard",
+    "explanation": "Inversão com 'should': 'Should you have...' = 'If you have...'. É uma forma formal e educada de condição."
+  },
+  {
+    "id": "bs-068",
+    "context": "What happens if I press this button?",
+    "chunks": [
+      "the machine",
+      "stops",
+      "if",
+      "you",
+      "press",
+      "it"
+    ],
+    "distractor": "pressed",
+    "acceptedAnswers": [
+      [
+        "if",
+        "you",
+        "press",
+        "it",
+        "the machine",
+        "stops"
+      ]
+    ],
+    "topic": "conditional",
+    "difficulty": "easy",
+    "explanation": "Condicional zero (fato geral): presente nas duas orações ('stops' e 'press')."
+  },
+  {
+    "id": "bs-069",
+    "context": "Can we have the picnic in the park?",
+    "chunks": [
+      "unless",
+      "it",
+      "rains",
+      "we",
+      "can",
+      "eat",
+      "outside"
+    ],
+    "distractor": "rain",
+    "acceptedAnswers": [
+      [
+        "we",
+        "can",
+        "eat",
+        "outside",
+        "unless",
+        "it",
+        "rains"
+      ]
+    ],
+    "topic": "conditional",
+    "difficulty": "medium",
+    "explanation": "'Unless' significa 'a menos que' e vem com o presente ('it rains')."
+  },
+  {
+    "id": "bs-070",
+    "context": "Were you disappointed about the scholarship?",
+    "chunks": [
+      "had",
+      "it",
+      "not",
+      "been",
+      "for",
+      "my advisor",
+      "I",
+      "would have",
+      "given up"
+    ],
+    "distractor": "was",
+    "acceptedAnswers": [
+      [
+        "I",
+        "would have",
+        "given up",
+        "had",
+        "it",
+        "not",
+        "been",
+        "for",
+        "my advisor"
+      ]
+    ],
+    "topic": "conditional",
+    "difficulty": "hard",
+    "explanation": "'Had it not been for' = 'If it hadn't been for' (inversão da terceira condicional) + 'would have given up'."
+  },
+  {
+    "id": "bs-071",
+    "context": "Is it okay if I bring a friend?",
+    "chunks": [
+      "if",
+      "you",
+      "bring",
+      "someone",
+      "let",
+      "me",
+      "know",
+      "in advance"
+    ],
+    "distractor": "brings",
+    "acceptedAnswers": [
+      [
+        "let",
+        "me",
+        "know",
+        "in advance",
+        "if",
+        "you",
+        "bring",
+        "someone"
+      ]
+    ],
+    "topic": "conditional",
+    "difficulty": "medium",
+    "explanation": "Condição no presente ('if you bring') seguida de imperativo ('let me know')."
+  },
+  {
+    "id": "bs-072",
+    "context": "Can I call you tonight?",
+    "chunks": [
+      "if",
+      "I'm",
+      "not",
+      "busy",
+      "I'll",
+      "answer"
+    ],
+    "distractor": "will",
+    "acceptedAnswers": [
+      [
+        "I'll",
+        "answer",
+        "if",
+        "I'm",
+        "not",
+        "busy"
+      ]
+    ],
+    "topic": "conditional",
+    "difficulty": "easy",
+    "explanation": "Primeira condicional: presente na oração com 'if' e futuro ('I'll') no resultado."
+  },
+  {
+    "id": "bs-073",
+    "context": "Do you often cook at home?",
+    "chunks": [
+      "rarely",
+      "do",
+      "I",
+      "have",
+      "time",
+      "to cook",
+      "these days"
+    ],
+    "distractor": "does",
+    "acceptedAnswers": [],
+    "topic": "inversion",
+    "difficulty": "medium",
+    "explanation": "Advérbio negativo no início ('Rarely') exige inversão: auxiliar + sujeito ('do I have')."
+  },
+  {
+    "id": "bs-074",
+    "context": "Was the hotel nice?",
+    "chunks": [
+      "not only",
+      "was",
+      "it",
+      "clean",
+      "but",
+      "it",
+      "was",
+      "also",
+      "cheap"
+    ],
+    "distractor": "being",
+    "acceptedAnswers": [],
+    "topic": "inversion",
+    "difficulty": "hard",
+    "explanation": "'Not only' no início provoca inversão ('was it clean'); a segunda parte ('but it was also...') tem ordem normal."
+  },
+  {
+    "id": "bs-075",
+    "context": "Have you ever seen a view like this?",
+    "chunks": [
+      "never",
+      "have",
+      "I",
+      "seen",
+      "anything",
+      "so",
+      "beautiful"
+    ],
+    "distractor": "saw",
+    "acceptedAnswers": [],
+    "topic": "inversion",
+    "difficulty": "hard",
+    "explanation": "'Never' no início exige inversão: 'have I seen'. Depois de 'have' vem o particípio."
+  },
+  {
+    "id": "bs-076",
+    "context": "Did the manager approve your vacation?",
+    "chunks": [
+      "only after",
+      "I",
+      "explained",
+      "the situation",
+      "did",
+      "she",
+      "agree"
+    ],
+    "distractor": "agreed",
+    "acceptedAnswers": [],
+    "topic": "inversion",
+    "difficulty": "hard",
+    "explanation": "Com 'Only after...' no início, a inversão ocorre na oração principal: 'did she agree' (verbo na forma base)."
+  },
+  {
+    "id": "bs-077",
+    "context": "How was the final exam?",
+    "chunks": [
+      "seldom",
+      "have",
+      "I",
+      "felt",
+      "so",
+      "unprepared"
+    ],
+    "distractor": "feel",
+    "acceptedAnswers": [],
+    "topic": "inversion",
+    "difficulty": "medium",
+    "explanation": "'Seldom' no início exige inversão: 'have I felt' (auxiliar + sujeito + particípio)."
+  },
+  {
+    "id": "bs-078",
+    "context": "Was the movie as good as people said?",
+    "chunks": [
+      "no sooner",
+      "had",
+      "it",
+      "started",
+      "than",
+      "I",
+      "fell asleep"
+    ],
+    "distractor": "when",
+    "acceptedAnswers": [],
+    "topic": "inversion",
+    "difficulty": "hard",
+    "explanation": "A estrutura fixa é 'No sooner had... than...'. Com 'no sooner' usa-se 'than', e não 'when'."
+  },
+  {
+    "id": "bs-079",
+    "context": "Is it easy to get tickets for that show?",
+    "chunks": [
+      "under no circumstances",
+      "will",
+      "they",
+      "sell",
+      "tickets",
+      "at the door"
+    ],
+    "distractor": "sells",
+    "acceptedAnswers": [],
+    "topic": "inversion",
+    "difficulty": "hard",
+    "explanation": "'Under no circumstances' no início exige inversão: 'will they sell' (verbo na forma base)."
+  },
+  {
+    "id": "bs-080",
+    "context": "Did you expect to win the prize?",
+    "chunks": [
+      "little",
+      "did",
+      "I",
+      "know",
+      "that",
+      "I",
+      "would win"
+    ],
+    "distractor": "knew",
+    "acceptedAnswers": [],
+    "topic": "inversion",
+    "difficulty": "medium",
+    "explanation": "'Little did I know' é inversão enfática: 'did' + sujeito + verbo base ('know')."
+  },
+  {
+    "id": "bs-081",
+    "context": "Is the new phone worth the price?",
+    "chunks": [
+      "not only",
+      "does",
+      "it",
+      "take",
+      "great photos",
+      "but",
+      "the battery",
+      "lasts",
+      "for days"
+    ],
+    "distractor": "takes",
+    "acceptedAnswers": [],
+    "topic": "inversion",
+    "difficulty": "hard",
+    "explanation": "'Not only does it take...' (inversão com 'does' + verbo base); na segunda parte, a ordem é normal ('the battery lasts')."
+  },
+  {
+    "id": "bs-082",
+    "context": "Was the hike difficult?",
+    "chunks": [
+      "hardly",
+      "had",
+      "we",
+      "started",
+      "when",
+      "it",
+      "began",
+      "to rain"
+    ],
+    "distractor": "have",
+    "acceptedAnswers": [],
+    "topic": "inversion",
+    "difficulty": "medium",
+    "explanation": "'Hardly had we started when...' expressa que uma coisa aconteceu logo depois da outra; usa o passado perfeito com inversão."
+  },
+  {
+    "id": "bs-083",
+    "context": "Does your brother help with the chores?",
+    "chunks": [
+      "at no point",
+      "has",
+      "he",
+      "offered",
+      "to wash",
+      "the dishes"
+    ],
+    "distractor": "offer",
+    "acceptedAnswers": [],
+    "topic": "inversion",
+    "difficulty": "hard",
+    "explanation": "'At no point' no início exige inversão: 'has he offered'."
+  },
+  {
+    "id": "bs-084",
+    "context": "Did you meet the author at the event?",
+    "chunks": [
+      "not until",
+      "the end",
+      "did",
+      "I",
+      "get",
+      "a chance",
+      "to talk",
+      "to her"
+    ],
+    "distractor": "got",
+    "acceptedAnswers": [],
+    "topic": "inversion",
+    "difficulty": "medium",
+    "explanation": "'Not until...' no início leva a inversão na oração principal: 'did I get' (verbo na forma base)."
+  },
+  {
+    "id": "bs-085",
+    "context": "Who's that woman by the door?",
+    "chunks": [
+      "she's",
+      "the teacher",
+      "who",
+      "helped",
+      "me",
+      "with",
+      "my thesis"
+    ],
+    "distractor": "which",
+    "acceptedAnswers": [],
+    "topic": "relative-clause",
+    "difficulty": "easy",
+    "explanation": "Para pessoas usa-se 'who' (ou 'that'), não 'which'."
+  },
+  {
+    "id": "bs-086",
+    "context": "Which laptop did you buy?",
+    "chunks": [
+      "the one",
+      "that",
+      "was",
+      "on sale",
+      "last week"
+    ],
+    "distractor": "who",
+    "acceptedAnswers": [],
+    "topic": "relative-clause",
+    "difficulty": "easy",
+    "explanation": "Para coisas usa-se 'that' ou 'which'; 'who' é só para pessoas."
+  },
+  {
+    "id": "bs-087",
+    "context": "Do you remember that café?",
+    "chunks": [
+      "it's",
+      "the place",
+      "where",
+      "we",
+      "first",
+      "met"
+    ],
+    "distractor": "which",
+    "acceptedAnswers": [],
+    "topic": "relative-clause",
+    "difficulty": "medium",
+    "explanation": "'Where' introduz uma oração relativa de lugar: 'the place where we first met'."
+  },
+  {
+    "id": "bs-088",
+    "context": "Have you met the new neighbors?",
+    "chunks": [
+      "yes",
+      "they're",
+      "the couple",
+      "whose",
+      "son",
+      "plays",
+      "in the orchestra"
+    ],
+    "distractor": "who's",
+    "acceptedAnswers": [],
+    "topic": "relative-clause",
+    "difficulty": "medium",
+    "explanation": "'Whose' indica posse ('o filho deles'). 'Who's' é a contração de 'who is'."
+  },
+  {
+    "id": "bs-089",
+    "context": "Why did you choose this university?",
+    "chunks": [
+      "it",
+      "has",
+      "the program",
+      "that",
+      "I",
+      "was",
+      "most interested in"
+    ],
+    "distractor": "who",
+    "acceptedAnswers": [],
+    "topic": "relative-clause",
+    "difficulty": "hard",
+    "explanation": "'That' retoma 'the program' (uma coisa); a preposição 'in' pode ficar no final da oração relativa."
+  },
+  {
+    "id": "bs-090",
+    "context": "Is this the book you recommended?",
+    "chunks": [
+      "no",
+      "the book",
+      "I",
+      "told you about",
+      "has",
+      "a red cover"
+    ],
+    "distractor": "have",
+    "acceptedAnswers": [],
+    "topic": "relative-clause",
+    "difficulty": "medium",
+    "explanation": "Oração relativa sem pronome ('the book I told you about'); o verbo principal 'has' concorda com 'the book'."
+  },
+  {
+    "id": "bs-091",
+    "context": "Why do you like Professor Lee?",
+    "chunks": [
+      "she",
+      "explains",
+      "things",
+      "in a way",
+      "that",
+      "everyone",
+      "can",
+      "understand"
+    ],
+    "distractor": "understands",
+    "acceptedAnswers": [],
+    "topic": "relative-clause",
+    "difficulty": "hard",
+    "explanation": "Oração relativa com 'that' retomando 'a way'; depois do modal 'can', o verbo fica na forma base."
+  },
+  {
+    "id": "bs-092",
+    "context": "Where did you get that jacket?",
+    "chunks": [
+      "at",
+      "the store",
+      "whose",
+      "owner",
+      "is",
+      "my cousin"
+    ],
+    "distractor": "who",
+    "acceptedAnswers": [],
+    "topic": "relative-clause",
+    "difficulty": "medium",
+    "explanation": "'Whose' também pode indicar posse de coisas: 'the store whose owner...' (a loja cujo dono...)."
+  },
+  {
+    "id": "bs-093",
+    "context": "Who should I ask about the visa?",
+    "chunks": [
+      "talk to",
+      "the officer",
+      "to whom",
+      "you",
+      "submitted",
+      "your forms"
+    ],
+    "distractor": "who",
+    "acceptedAnswers": [],
+    "topic": "relative-clause",
+    "difficulty": "hard",
+    "explanation": "Em registro formal, a preposição vem antes do pronome: 'to whom'. 'Who' sozinho deixaria a frase sem o 'to'."
+  },
+  {
+    "id": "bs-094",
+    "context": "What's your favorite season?",
+    "chunks": [
+      "summer",
+      "because",
+      "that's",
+      "when",
+      "I",
+      "can",
+      "travel"
+    ],
+    "distractor": "which",
+    "acceptedAnswers": [],
+    "topic": "relative-clause",
+    "difficulty": "easy",
+    "explanation": "'When' introduz uma oração relativa de tempo: 'that's when I can travel'."
+  },
+  {
+    "id": "bs-095",
+    "context": "Did you finish the project?",
+    "chunks": [
+      "almost",
+      "the only part",
+      "that",
+      "is",
+      "left",
+      "is",
+      "the conclusion"
+    ],
+    "distractor": "are",
+    "acceptedAnswers": [],
+    "topic": "relative-clause",
+    "difficulty": "medium",
+    "explanation": "O verbo concorda com 'the only part' (singular): 'that is left' e 'is the conclusion'."
+  },
+  {
+    "id": "bs-096",
+    "context": "Why are you selling your car?",
+    "chunks": [
+      "I",
+      "need",
+      "something",
+      "which",
+      "uses",
+      "less",
+      "fuel"
+    ],
+    "distractor": "who",
+    "acceptedAnswers": [],
+    "topic": "relative-clause",
+    "difficulty": "hard",
+    "explanation": "'Which' retoma 'something' (uma coisa) e é o sujeito de 'uses'."
+  },
+  {
+    "id": "bs-097",
+    "context": "Do you go to the gym?",
+    "chunks": [
+      "I",
+      "usually",
+      "go",
+      "three times",
+      "a week"
+    ],
+    "distractor": "usual",
+    "acceptedAnswers": [
+      [
+        "usually",
+        "I",
+        "go",
+        "three times",
+        "a week"
+      ]
+    ],
+    "topic": "adverb-placement",
+    "difficulty": "easy",
+    "explanation": "Advérbios de frequência ('usually') ficam antes do verbo principal. 'Usual' é adjetivo."
+  },
+  {
+    "id": "bs-098",
+    "context": "Is Paul ever on time?",
+    "chunks": [
+      "he",
+      "is",
+      "always",
+      "late",
+      "for",
+      "class"
+    ],
+    "distractor": "ever",
+    "acceptedAnswers": [],
+    "topic": "adverb-placement",
+    "difficulty": "easy",
+    "explanation": "Com o verbo 'be', o advérbio de frequência vem depois dele: 'he is always late'."
+  },
+  {
+    "id": "bs-099",
+    "context": "Have you finished the assignment?",
+    "chunks": [
+      "I",
+      "have",
+      "almost",
+      "finished",
+      "it"
+    ],
+    "distractor": "yet",
+    "acceptedAnswers": [],
+    "topic": "adverb-placement",
+    "difficulty": "medium",
+    "explanation": "'Almost' fica entre o auxiliar e o particípio: 'have almost finished'."
+  },
+  {
+    "id": "bs-100",
+    "context": "How's your Spanish?",
+    "chunks": [
+      "I",
+      "can",
+      "speak",
+      "it",
+      "fairly",
+      "well",
+      "now"
+    ],
+    "distractor": "good",
+    "acceptedAnswers": [
+      [
+        "now",
+        "I",
+        "can",
+        "speak",
+        "it",
+        "fairly",
+        "well"
+      ]
+    ],
+    "topic": "adverb-placement",
+    "difficulty": "medium",
+    "explanation": "Para modificar um verbo usa-se o advérbio 'well', não o adjetivo 'good'. O advérbio vem depois do objeto ('speak it well')."
+  },
+  {
+    "id": "bs-101",
+    "context": "Did the meeting go well?",
+    "chunks": [
+      "we",
+      "have",
+      "never",
+      "had",
+      "such",
+      "a productive",
+      "discussion"
+    ],
+    "distractor": "ever",
+    "acceptedAnswers": [],
+    "topic": "adverb-placement",
+    "difficulty": "hard",
+    "explanation": "'Never' fica entre 'have' e o particípio. 'Ever' não tem sentido negativo em frases afirmativas."
+  },
+  {
+    "id": "bs-102",
+    "context": "Do you still live with your parents?",
+    "chunks": [
+      "no",
+      "I",
+      "don't",
+      "live",
+      "there",
+      "anymore"
+    ],
+    "distractor": "already",
+    "acceptedAnswers": [],
+    "topic": "adverb-placement",
+    "difficulty": "medium",
+    "explanation": "'Anymore' vai no final de frases negativas para indicar que algo deixou de acontecer."
+  },
+  {
+    "id": "bs-103",
+    "context": "Was the test hard?",
+    "chunks": [
+      "I",
+      "could",
+      "hardly",
+      "understand",
+      "the first question"
+    ],
+    "distractor": "hard",
+    "acceptedAnswers": [],
+    "topic": "adverb-placement",
+    "difficulty": "hard",
+    "explanation": "'Hardly' (quase não) fica entre o modal e o verbo. 'Hard' tem outro sentido ('difícil' ou 'com esforço')."
+  },
+  {
+    "id": "bs-104",
+    "context": "Does your sister like spicy food?",
+    "chunks": [
+      "she",
+      "rarely",
+      "eats",
+      "anything",
+      "spicy"
+    ],
+    "distractor": "eat",
+    "acceptedAnswers": [],
+    "topic": "adverb-placement",
+    "difficulty": "medium",
+    "explanation": "'Rarely' vem antes do verbo principal; com 'she', o verbo leva -s ('eats')."
+  },
+  {
+    "id": "bs-105",
+    "context": "Can you help me move tomorrow?",
+    "chunks": [
+      "I",
+      "will",
+      "probably",
+      "be",
+      "free",
+      "in the afternoon"
+    ],
+    "distractor": "probable",
+    "acceptedAnswers": [
+      [
+        "in the afternoon",
+        "I",
+        "will",
+        "probably",
+        "be",
+        "free"
+      ]
+    ],
+    "topic": "adverb-placement",
+    "difficulty": "easy",
+    "explanation": "'Probably' fica entre 'will' e o verbo principal. 'Probable' é adjetivo."
+  },
+  {
+    "id": "bs-106",
+    "context": "How did the presentation go?",
+    "chunks": [
+      "it",
+      "went",
+      "surprisingly",
+      "well",
+      "considering",
+      "how little",
+      "we",
+      "practiced"
+    ],
+    "distractor": "surprising",
+    "acceptedAnswers": [],
+    "topic": "adverb-placement",
+    "difficulty": "hard",
+    "explanation": "'Surprisingly' (advérbio) modifica outro advérbio ('well'). O adjetivo 'surprising' não pode fazer isso."
+  },
+  {
+    "id": "bs-107",
+    "context": "Have you seen Jake recently?",
+    "chunks": [
+      "I",
+      "have",
+      "only",
+      "seen",
+      "him",
+      "once",
+      "this month"
+    ],
+    "distractor": "one",
+    "acceptedAnswers": [
+      [
+        "I",
+        "have",
+        "seen",
+        "him",
+        "only",
+        "once",
+        "this month"
+      ]
+    ],
+    "topic": "adverb-placement",
+    "difficulty": "medium",
+    "explanation": "'Only' pode vir antes do particípio ou antes de 'once'. 'Once' é advérbio; 'one' é número."
+  },
+  {
+    "id": "bs-108",
+    "context": "Are you ready for the trip?",
+    "chunks": [
+      "I",
+      "still",
+      "haven't",
+      "packed",
+      "my suitcase"
+    ],
+    "distractor": "already",
+    "acceptedAnswers": [],
+    "topic": "adverb-placement",
+    "difficulty": "hard",
+    "explanation": "Em frases negativas, 'still' fica antes do auxiliar ('still haven't') e indica que algo esperado ainda não aconteceu."
+  },
+  {
+    "id": "bs-109",
+    "context": "Is the new phone better than the old one?",
+    "chunks": [
+      "it's",
+      "not",
+      "as",
+      "fast",
+      "as",
+      "I",
+      "expected"
+    ],
+    "distractor": "than",
+    "acceptedAnswers": [],
+    "topic": "comparatives",
+    "difficulty": "easy",
+    "explanation": "A comparação de igualdade negativa é 'not as + adjetivo + as'. Não se mistura 'as' com 'than'."
+  },
+  {
+    "id": "bs-110",
+    "context": "How's the weather in your city?",
+    "chunks": [
+      "it's",
+      "much",
+      "colder",
+      "than",
+      "it",
+      "was",
+      "last week"
+    ],
+    "distractor": "more",
+    "acceptedAnswers": [],
+    "topic": "comparatives",
+    "difficulty": "easy",
+    "explanation": "'Cold' forma o comparativo com -er ('colder'). 'Much' intensifica o comparativo; 'more colder' está errado."
+  },
+  {
+    "id": "bs-111",
+    "context": "Which apartment did you pick?",
+    "chunks": [
+      "the bigger",
+      "one",
+      "even though",
+      "it's",
+      "more",
+      "expensive"
+    ],
+    "distractor": "most",
+    "acceptedAnswers": [],
+    "topic": "comparatives",
+    "difficulty": "medium",
+    "explanation": "Adjetivos longos formam o comparativo com 'more' ('more expensive'). 'Most' é superlativo e exigiria 'the'."
+  },
+  {
+    "id": "bs-112",
+    "context": "Is Spanish harder than French?",
+    "chunks": [
+      "for me",
+      "it's",
+      "not",
+      "nearly",
+      "as",
+      "difficult"
+    ],
+    "distractor": "more",
+    "acceptedAnswers": [],
+    "topic": "comparatives",
+    "difficulty": "medium",
+    "explanation": "'Not nearly as + adjetivo' significa 'nem de longe tão...'. O segundo termo da comparação pode ficar implícito."
+  },
+  {
+    "id": "bs-113",
+    "context": "Do you think prices will go up?",
+    "chunks": [
+      "the more",
+      "demand",
+      "grows",
+      "the higher",
+      "prices",
+      "will",
+      "get"
+    ],
+    "distractor": "high",
+    "acceptedAnswers": [],
+    "topic": "comparatives",
+    "difficulty": "hard",
+    "explanation": "Estrutura 'the + comparativo..., the + comparativo...': uma coisa aumenta à medida que a outra aumenta."
+  },
+  {
+    "id": "bs-114",
+    "context": "Was the second movie good?",
+    "chunks": [
+      "it",
+      "wasn't",
+      "nearly",
+      "as",
+      "good",
+      "as",
+      "the first one"
+    ],
+    "distractor": "better",
+    "acceptedAnswers": [],
+    "topic": "comparatives",
+    "difficulty": "medium",
+    "explanation": "Em 'as ... as' usa-se o adjetivo na forma normal ('good'), nunca no comparativo."
+  },
+  {
+    "id": "bs-115",
+    "context": "Who's taller, you or your brother?",
+    "chunks": [
+      "he",
+      "is",
+      "a little",
+      "taller",
+      "than",
+      "me"
+    ],
+    "distractor": "tallest",
+    "acceptedAnswers": [],
+    "topic": "comparatives",
+    "difficulty": "easy",
+    "explanation": "Para comparar duas pessoas usa-se o comparativo ('taller than'). 'Tallest' é superlativo."
+  },
+  {
+    "id": "bs-116",
+    "context": "Should we take the highway?",
+    "chunks": [
+      "the back roads",
+      "are",
+      "twice",
+      "as",
+      "fast",
+      "at this hour"
+    ],
+    "distractor": "times",
+    "acceptedAnswers": [],
+    "topic": "comparatives",
+    "difficulty": "hard",
+    "explanation": "Multiplicadores vêm antes de 'as ... as': 'twice as fast' (duas vezes mais rápido)."
+  },
+  {
+    "id": "bs-117",
+    "context": "How did you like the city?",
+    "chunks": [
+      "it was",
+      "far",
+      "less",
+      "crowded",
+      "than",
+      "I",
+      "had imagined"
+    ],
+    "distractor": "fewer",
+    "acceptedAnswers": [],
+    "topic": "comparatives",
+    "difficulty": "medium",
+    "explanation": "'Less' + adjetivo forma o comparativo de inferioridade. 'Fewer' só acompanha substantivos contáveis."
+  },
+  {
+    "id": "bs-118",
+    "context": "Is the online course as good as the in-person one?",
+    "chunks": [
+      "it's",
+      "not",
+      "quite",
+      "as",
+      "engaging",
+      "but",
+      "it's",
+      "more",
+      "flexible"
+    ],
+    "distractor": "most",
+    "acceptedAnswers": [],
+    "topic": "comparatives",
+    "difficulty": "hard",
+    "explanation": "'Not quite as engaging' (não tão envolvente) contrasta com 'more flexible' (mais flexível)."
+  },
+  {
+    "id": "bs-119",
+    "context": "Is this the best pizza place in town?",
+    "chunks": [
+      "it's",
+      "the best",
+      "one",
+      "I've",
+      "ever",
+      "tried"
+    ],
+    "distractor": "better",
+    "acceptedAnswers": [],
+    "topic": "comparatives",
+    "difficulty": "easy",
+    "explanation": "Superlativo + presente perfeito com 'ever': 'the best one I've ever tried'."
+  },
+  {
+    "id": "bs-120",
+    "context": "Did the team play well?",
+    "chunks": [
+      "they",
+      "played",
+      "better",
+      "than",
+      "they",
+      "did",
+      "last season"
+    ],
+    "distractor": "good",
+    "acceptedAnswers": [],
+    "topic": "comparatives",
+    "difficulty": "medium",
+    "explanation": "'Better' é o comparativo de 'well'. 'Did' substitui o verbo 'played' na segunda parte da comparação."
+  },
+  {
+    "id": "bs-121",
+    "context": "Did you go to the party on Saturday?",
+    "chunks": [
+      "no",
+      "I",
+      "had to",
+      "look after",
+      "my little brother"
+    ],
+    "distractor": "looking after",
+    "acceptedAnswers": [],
+    "topic": "phrasal-verbs",
+    "difficulty": "easy",
+    "explanation": "'Look after' significa 'cuidar de'. Depois de 'had to', o verbo fica na forma base."
+  },
+  {
+    "id": "bs-122",
+    "context": "Where's the meeting going to be?",
+    "chunks": [
+      "it's",
+      "been",
+      "called off",
+      "because of",
+      "the storm"
+    ],
+    "distractor": "call off",
+    "acceptedAnswers": [],
+    "topic": "phrasal-verbs",
+    "difficulty": "easy",
+    "explanation": "'Call off' significa 'cancelar'. Na passiva com 'been', usa-se o particípio: 'called off'."
+  },
+  {
+    "id": "bs-123",
+    "context": "How do you get along with your new roommate?",
+    "chunks": [
+      "we",
+      "get along",
+      "really",
+      "well",
+      "with",
+      "each other"
+    ],
+    "distractor": "gets along",
+    "acceptedAnswers": [
+      [
+        "we",
+        "get along",
+        "with",
+        "each other",
+        "really",
+        "well"
+      ]
+    ],
+    "topic": "phrasal-verbs",
+    "difficulty": "medium",
+    "explanation": "'Get along (with)' significa 'dar-se bem com'. Com 'we', o verbo não leva -s."
+  },
+  {
+    "id": "bs-124",
+    "context": "Did you finish the application form?",
+    "chunks": [
+      "I",
+      "still",
+      "need to",
+      "fill out",
+      "the last section"
+    ],
+    "distractor": "filling out",
+    "acceptedAnswers": [],
+    "topic": "phrasal-verbs",
+    "difficulty": "medium",
+    "explanation": "'Fill out' significa 'preencher' (um formulário). Depois de 'need to', o verbo fica na forma base."
+  },
+  {
+    "id": "bs-125",
+    "context": "Why did you stop going to the gym?",
+    "chunks": [
+      "I",
+      "couldn't",
+      "keep up",
+      "with",
+      "the advanced",
+      "classes"
+    ],
+    "distractor": "kept up",
+    "acceptedAnswers": [],
+    "topic": "phrasal-verbs",
+    "difficulty": "hard",
+    "explanation": "'Keep up with' significa 'acompanhar o ritmo de'. Depois de 'couldn't', o verbo fica na forma base."
+  },
+  {
+    "id": "bs-126",
+    "context": "Can you help me with this math problem?",
+    "chunks": [
+      "let me",
+      "figure",
+      "it",
+      "out",
+      "first"
+    ],
+    "distractor": "figuring",
+    "acceptedAnswers": [],
+    "topic": "phrasal-verbs",
+    "difficulty": "medium",
+    "explanation": "Com phrasal verb separável e pronome objeto, o pronome fica no meio: 'figure it out'."
+  },
+  {
+    "id": "bs-127",
+    "context": "Are you still interested in the position?",
+    "chunks": [
+      "I",
+      "am",
+      "looking forward",
+      "to",
+      "hearing",
+      "from you"
+    ],
+    "distractor": "hear",
+    "acceptedAnswers": [],
+    "topic": "phrasal-verbs",
+    "difficulty": "hard",
+    "explanation": "Em 'look forward to', o 'to' é preposição, por isso vem seguido de gerúndio: 'to hearing'."
+  },
+  {
+    "id": "bs-128",
+    "context": "Is the movie theater far?",
+    "chunks": [
+      "it's",
+      "right",
+      "across",
+      "from",
+      "the bank"
+    ],
+    "distractor": "of",
+    "acceptedAnswers": [],
+    "topic": "phrasal-verbs",
+    "difficulty": "easy",
+    "explanation": "A expressão correta é 'across from' (em frente a). 'Right' reforça a ideia de proximidade."
+  },
+  {
+    "id": "bs-129",
+    "context": "What should I do with these old clothes?",
+    "chunks": [
+      "you",
+      "could",
+      "give",
+      "them",
+      "away",
+      "to",
+      "a charity"
+    ],
+    "distractor": "giving",
+    "acceptedAnswers": [],
+    "topic": "phrasal-verbs",
+    "difficulty": "medium",
+    "explanation": "'Give away' significa 'doar'. O pronome objeto fica no meio ('give them away'), e depois de 'could' vem o verbo base."
+  },
+  {
+    "id": "bs-130",
+    "context": "Did the company accept the new policy?",
+    "chunks": [
+      "they",
+      "finally",
+      "gave in",
+      "to",
+      "the employees'",
+      "demands"
+    ],
+    "distractor": "gave up",
+    "acceptedAnswers": [],
+    "topic": "phrasal-verbs",
+    "difficulty": "hard",
+    "explanation": "'Give in to' significa 'ceder a'. 'Give up' (desistir) não é usado com 'to' nesse sentido."
+  },
+  {
+    "id": "bs-131",
+    "context": "Have you heard from Maria lately?",
+    "chunks": [
+      "I",
+      "ran into",
+      "her",
+      "at",
+      "the supermarket",
+      "yesterday"
+    ],
+    "distractor": "run into",
+    "acceptedAnswers": [],
+    "topic": "phrasal-verbs",
+    "difficulty": "medium",
+    "explanation": "'Run into' significa 'encontrar por acaso'. Com 'yesterday', usa-se o passado: 'ran into'."
+  },
+  {
+    "id": "bs-132",
+    "context": "Why are you so worried about the presentation?",
+    "chunks": [
+      "I",
+      "am",
+      "not",
+      "used",
+      "to",
+      "speaking",
+      "in public"
+    ],
+    "distractor": "speak",
+    "acceptedAnswers": [],
+    "topic": "phrasal-verbs",
+    "difficulty": "hard",
+    "explanation": "Em 'be used to' (estar acostumado a), o 'to' é preposição e pede gerúndio: 'used to speaking'."
+  },
+  {
+    "id": "bs-133",
+    "context": "Should we invite the whole class?",
+    "chunks": [
+      "I'd",
+      "rather",
+      "we",
+      "didn't",
+      "invite",
+      "everyone"
+    ],
+    "distractor": "doesn't",
+    "acceptedAnswers": [],
+    "topic": "subjunctive",
+    "difficulty": "medium",
+    "explanation": "'I'd rather' + outro sujeito pede o passado com valor de presente: 'I'd rather we didn't invite...'."
+  },
+  {
+    "id": "bs-134",
+    "context": "What did the doctor recommend?",
+    "chunks": [
+      "she",
+      "suggested",
+      "that",
+      "he",
+      "take",
+      "a week",
+      "off"
+    ],
+    "distractor": "to take",
+    "acceptedAnswers": [],
+    "topic": "subjunctive",
+    "difficulty": "hard",
+    "explanation": "Depois de 'suggest that', usa-se o subjuntivo, isto é, o verbo na forma base sem 'to': 'that he take'."
+  },
+  {
+    "id": "bs-135",
+    "context": "Are you going to drive to the airport?",
+    "chunks": [
+      "I'd",
+      "rather",
+      "you",
+      "drove",
+      "me",
+      "there"
+    ],
+    "distractor": "driving",
+    "acceptedAnswers": [],
+    "topic": "subjunctive",
+    "difficulty": "medium",
+    "explanation": "'I'd rather' + sujeito + passado simples ('you drove') expressa preferência sobre a ação de outra pessoa."
+  },
+  {
+    "id": "bs-136",
+    "context": "Is the deadline flexible?",
+    "chunks": [
+      "it's",
+      "essential",
+      "that",
+      "every report",
+      "be",
+      "submitted",
+      "on time"
+    ],
+    "distractor": "being",
+    "acceptedAnswers": [],
+    "topic": "subjunctive",
+    "difficulty": "hard",
+    "explanation": "Depois de 'it's essential that', o subjuntivo usa a forma base: 'be submitted', inclusive na passiva."
+  },
+  {
+    "id": "bs-137",
+    "context": "Do you like living in the city?",
+    "chunks": [
+      "I",
+      "wish",
+      "I",
+      "lived",
+      "closer",
+      "to",
+      "the beach"
+    ],
+    "distractor": "live",
+    "acceptedAnswers": [],
+    "topic": "subjunctive",
+    "difficulty": "medium",
+    "explanation": "'I wish' + passado simples expressa um desejo sobre o presente: 'I wish I lived...'."
+  },
+  {
+    "id": "bs-138",
+    "context": "Is Dr. Patel stepping down as director?",
+    "chunks": [
+      "the board",
+      "insisted",
+      "that",
+      "she",
+      "remain",
+      "in charge"
+    ],
+    "distractor": "remaining",
+    "acceptedAnswers": [],
+    "topic": "subjunctive",
+    "difficulty": "hard",
+    "explanation": "Depois de 'insist that', usa-se o subjuntivo (forma base): 'that she remain'."
+  },
+  {
+    "id": "bs-139",
+    "context": "Want me to tell everyone the news?",
+    "chunks": [
+      "I'd",
+      "rather",
+      "you",
+      "kept",
+      "it",
+      "to yourself",
+      "for now"
+    ],
+    "distractor": "keeping",
+    "acceptedAnswers": [],
+    "topic": "subjunctive",
+    "difficulty": "medium",
+    "explanation": "'I'd rather you kept...' usa o passado para fazer um pedido educado sobre o presente."
+  },
+  {
+    "id": "bs-140",
+    "context": "Why are you studying so hard?",
+    "chunks": [
+      "it's",
+      "time",
+      "we",
+      "started",
+      "preparing",
+      "for",
+      "the finals"
+    ],
+    "distractor": "starting",
+    "acceptedAnswers": [],
+    "topic": "subjunctive",
+    "difficulty": "hard",
+    "explanation": "'It's time' + sujeito + passado ('we started') indica que algo já deveria estar acontecendo."
+  },
+  {
+    "id": "bs-141",
+    "context": "Are you enjoying the vacation?",
+    "chunks": [
+      "I",
+      "wish",
+      "it",
+      "were",
+      "a little",
+      "longer"
+    ],
+    "distractor": "is",
+    "acceptedAnswers": [],
+    "topic": "subjunctive",
+    "difficulty": "easy",
+    "explanation": "'I wish' + 'were' expressa um desejo irreal no presente. 'Is' não combina com 'wish'."
+  },
+  {
+    "id": "bs-142",
+    "context": "The concert was amazing!",
+    "chunks": [
+      "I",
+      "wish",
+      "I",
+      "had",
+      "gone",
+      "with you"
+    ],
+    "distractor": "have",
+    "acceptedAnswers": [],
+    "topic": "subjunctive",
+    "difficulty": "medium",
+    "explanation": "'I wish' + passado perfeito ('had gone') expressa arrependimento sobre o passado."
+  },
+  {
+    "id": "bs-143",
+    "context": "You should have listened to me.",
+    "chunks": [
+      "if only",
+      "I",
+      "had",
+      "taken",
+      "your advice",
+      "more",
+      "seriously"
+    ],
+    "distractor": "have",
+    "acceptedAnswers": [],
+    "topic": "subjunctive",
+    "difficulty": "hard",
+    "explanation": "'If only' + passado perfeito expressa arrependimento forte sobre algo do passado."
+  },
+  {
+    "id": "bs-144",
+    "context": "Can I bring my dog to the office?",
+    "chunks": [
+      "the policy",
+      "requires",
+      "that",
+      "all pets",
+      "stay",
+      "at home"
+    ],
+    "distractor": "stays",
+    "acceptedAnswers": [],
+    "topic": "subjunctive",
+    "difficulty": "hard",
+    "explanation": "Depois de 'require that', usa-se o subjuntivo (forma base): 'that all pets stay'."
+  },
+  {
+    "id": "bs-145",
+    "context": "Was the workshop popular?",
+    "chunks": [
+      "not",
+      "enough",
+      "people",
+      "signed up",
+      "for it"
+    ],
+    "distractor": "much",
+    "acceptedAnswers": [],
+    "topic": "quantifiers",
+    "difficulty": "easy",
+    "explanation": "'Enough' acompanha substantivos contáveis e incontáveis; 'much' não é usado com 'people' (contável)."
+  },
+  {
+    "id": "bs-146",
+    "context": "Do you have any milk?",
+    "chunks": [
+      "there's",
+      "only",
+      "a little",
+      "left",
+      "in the fridge"
+    ],
+    "distractor": "many",
+    "acceptedAnswers": [],
+    "topic": "quantifiers",
+    "difficulty": "easy",
+    "explanation": "'Milk' é incontável, por isso 'a little'. 'Many' é usado só com contáveis."
+  },
+  {
+    "id": "bs-147",
+    "context": "Did many students pass the exam?",
+    "chunks": [
+      "very",
+      "few",
+      "of them",
+      "got",
+      "a passing grade"
+    ],
+    "distractor": "little",
+    "acceptedAnswers": [],
+    "topic": "quantifiers",
+    "difficulty": "medium",
+    "explanation": "'Few' é usado com contáveis ('students'); 'little' é para incontáveis."
+  },
+  {
+    "id": "bs-148",
+    "context": "How was the job fair?",
+    "chunks": [
+      "there",
+      "were",
+      "hardly",
+      "any",
+      "companies",
+      "from",
+      "my field"
+    ],
+    "distractor": "no",
+    "acceptedAnswers": [],
+    "topic": "quantifiers",
+    "difficulty": "medium",
+    "explanation": "'Hardly' já tem sentido negativo, por isso vem com 'any', e não com 'no'."
+  },
+  {
+    "id": "bs-149",
+    "context": "Should we order more chairs?",
+    "chunks": [
+      "we",
+      "don't",
+      "have",
+      "nearly",
+      "enough",
+      "for",
+      "all the guests"
+    ],
+    "distractor": "many",
+    "acceptedAnswers": [],
+    "topic": "quantifiers",
+    "difficulty": "hard",
+    "explanation": "'Not nearly enough' significa 'nem de longe o suficiente'. 'Enough' pode aparecer sem substantivo."
+  },
+  {
+    "id": "bs-150",
+    "context": "Did you get any advice from your mentor?",
+    "chunks": [
+      "she",
+      "gave",
+      "me",
+      "a lot of",
+      "useful",
+      "information"
+    ],
+    "distractor": "many",
+    "acceptedAnswers": [],
+    "topic": "quantifiers",
+    "difficulty": "medium",
+    "explanation": "'Information' é incontável: usa-se 'a lot of' ou 'much', nunca 'many'."
+  },
+  {
+    "id": "bs-151",
+    "context": "Are the volunteers helpful?",
+    "chunks": [
+      "each",
+      "of",
+      "them",
+      "brings",
+      "something",
+      "different"
+    ],
+    "distractor": "bring",
+    "acceptedAnswers": [],
+    "topic": "quantifiers",
+    "difficulty": "hard",
+    "explanation": "'Each of them' é singular, então o verbo leva -s: 'brings'."
+  },
+  {
+    "id": "bs-152",
+    "context": "Did you buy any souvenirs?",
+    "chunks": [
+      "I",
+      "didn't",
+      "buy",
+      "anything",
+      "at all"
+    ],
+    "distractor": "nothing",
+    "acceptedAnswers": [],
+    "topic": "quantifiers",
+    "difficulty": "easy",
+    "explanation": "Em frases negativas, usa-se 'anything'. 'Didn't... nothing' seria uma dupla negação."
+  },
+  {
+    "id": "bs-153",
+    "context": "Are your neighbors friendly?",
+    "chunks": [
+      "most",
+      "of",
+      "them",
+      "are",
+      "but",
+      "a few",
+      "aren't"
+    ],
+    "distractor": "little",
+    "acceptedAnswers": [],
+    "topic": "quantifiers",
+    "difficulty": "medium",
+    "explanation": "'A few' é usado com contáveis ('neighbors'); 'little' é para incontáveis."
+  },
+  {
+    "id": "bs-154",
+    "context": "Is there time to visit both museums?",
+    "chunks": [
+      "neither",
+      "of them",
+      "is",
+      "open",
+      "on Sundays"
+    ],
+    "distractor": "both",
+    "acceptedAnswers": [],
+    "topic": "quantifiers",
+    "difficulty": "hard",
+    "explanation": "'Neither of them' (nenhum dos dois) leva o verbo no singular em inglês formal: 'is open'."
+  },
+  {
+    "id": "bs-155",
+    "context": "How much homework did you get?",
+    "chunks": [
+      "we",
+      "got",
+      "too",
+      "much",
+      "homework",
+      "for",
+      "one weekend"
+    ],
+    "distractor": "many",
+    "acceptedAnswers": [],
+    "topic": "quantifiers",
+    "difficulty": "medium",
+    "explanation": "'Homework' é incontável: 'too much homework', e não 'too many'."
+  },
+  {
+    "id": "bs-156",
+    "context": "Did everyone agree with the plan?",
+    "chunks": [
+      "not",
+      "all",
+      "of",
+      "the members",
+      "were",
+      "convinced"
+    ],
+    "distractor": "every",
+    "acceptedAnswers": [],
+    "topic": "quantifiers",
+    "difficulty": "hard",
+    "explanation": "'All of' + substantivo plural. 'Every' não pode ser seguido de 'of'."
+  }
+]

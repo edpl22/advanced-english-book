@@ -1,0 +1,1864 @@
+{
+ "topic": "prepositions",
+ "batch": 1,
+ "title": "Prepositions",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "prep-001-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.1",
+   "type": "mcq",
+   "explanation": "in + month.",
+   "prompt": "My birthday is ___ July.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "by"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "prep-001-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.1",
+   "type": "mcq",
+   "explanation": "at + clock time.",
+   "prompt": "The film starts ___ eight o’clock.",
+   "options": [
+    "in",
+    "at",
+    "on",
+    "to"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "prep-001-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.1",
+   "type": "mcq",
+   "explanation": "on + day.",
+   "prompt": "I’ll see you ___ Friday.",
+   "options": [
+    "in",
+    "at",
+    "on",
+    "to"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "prep-001-04",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.1",
+   "type": "mcq",
+   "explanation": "on = on a surface.",
+   "prompt": "The keys are ___ the table.",
+   "options": [
+    "in",
+    "at",
+    "to",
+    "on"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "prep-001-05",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "mcq",
+   "explanation": "afraid of.",
+   "prompt": "I’m afraid ___ spiders.",
+   "options": [
+    "of",
+    "from",
+    "with",
+    "for"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "prep-001-06",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "mcq",
+   "explanation": "wait for.",
+   "prompt": "She’s waiting ___ the bus.",
+   "options": [
+    "to",
+    "for",
+    "at",
+    "on"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "prep-001-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "mcq",
+   "explanation": "keen on.",
+   "prompt": "I’m not very keen ___ horror films.",
+   "options": [
+    "of",
+    "in",
+    "on",
+    "for"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "prep-001-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "mcq",
+   "explanation": "capable of + -ing.",
+   "prompt": "She’s capable ___ running the company on her own.",
+   "options": [
+    "to",
+    "for",
+    "in",
+    "of"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "prep-001-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "19.3",
+   "type": "mcq",
+   "explanation": "an alternative to.",
+   "prompt": "Is there an alternative ___ this plan?",
+   "options": [
+    "to",
+    "of",
+    "for",
+    "with"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "prep-001-10",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "mcq",
+   "explanation": "translate into.",
+   "prompt": "Can you translate this ___ English?",
+   "options": [
+    "in",
+    "into",
+    "for",
+    "on"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "prep-001-11",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "19.4",
+   "type": "mcq",
+   "explanation": "by chance.",
+   "prompt": "I met my best friend ___ chance on a train.",
+   "options": [
+    "in",
+    "on",
+    "by",
+    "at"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "prep-001-12",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "19.1",
+   "type": "mcq",
+   "explanation": "by = not later than.",
+   "prompt": "We’ll finish the project ___ Friday at the latest.",
+   "options": [
+    "until",
+    "till",
+    "since",
+    "by"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "prep-001-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.3",
+   "type": "mcq",
+   "explanation": "a decrease / increase in.",
+   "prompt": "There has been a decrease ___ the number of accidents.",
+   "options": [
+    "in",
+    "of",
+    "on",
+    "at"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "prep-001-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "mcq",
+   "explanation": "based on.",
+   "prompt": "The decision was based ___ the latest research.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "of"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "prep-001-15",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.4",
+   "type": "mcq",
+   "explanation": "out of order = not working.",
+   "prompt": "The lift is ___ order, so we’ll have to take the stairs.",
+   "options": [
+    "in",
+    "off",
+    "out of",
+    "under"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "prep-001-16",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "19.3",
+   "type": "mcq",
+   "explanation": "regard for.",
+   "prompt": "The government has shown little regard ___ public opinion.",
+   "options": [
+    "of",
+    "to",
+    "in",
+    "for"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "prep-001-17",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "mcq",
+   "explanation": "contingent on / upon.",
+   "prompt": "The success of the plan is contingent ___ funding.",
+   "options": [
+    "on",
+    "of",
+    "with",
+    "to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "prep-001-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "19.4",
+   "type": "mcq",
+   "explanation": "to all intents and purposes = in effect.",
+   "prompt": "The report was, ___ all intents and purposes, a confession.",
+   "options": [
+    "for",
+    "to",
+    "by",
+    "with"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "prep-001-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.1",
+   "type": "gap",
+   "explanation": "in / during + season.",
+   "prompt": "We usually go to the beach ___ the summer.",
+   "acceptedAnswers": [
+    "in",
+    "during"
+   ]
+  },
+  {
+   "id": "prep-001-20",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.1",
+   "type": "gap",
+   "explanation": "on + date.",
+   "prompt": "She was born ___ 15 March.",
+   "acceptedAnswers": [
+    "on"
+   ]
+  },
+  {
+   "id": "prep-001-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "gap",
+   "explanation": "aware of.",
+   "prompt": "Are you aware ___ the risks?",
+   "acceptedAnswers": [
+    "of"
+   ]
+  },
+  {
+   "id": "prep-001-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "gap",
+   "explanation": "familiar with.",
+   "prompt": "I’m not familiar ___ this software.",
+   "acceptedAnswers": [
+    "with"
+   ]
+  },
+  {
+   "id": "prep-001-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "19.3",
+   "type": "gap",
+   "explanation": "the difference between.",
+   "prompt": "What’s the difference ___ a crocodile and an alligator?",
+   "acceptedAnswers": [
+    "between"
+   ]
+  },
+  {
+   "id": "prep-001-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.3",
+   "type": "gap",
+   "explanation": "experience in / of + -ing.",
+   "prompt": "She has a lot of experience ___ teaching children.",
+   "acceptedAnswers": [
+    "in",
+    "of",
+    "with"
+   ]
+  },
+  {
+   "id": "prep-001-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.4",
+   "type": "gap",
+   "explanation": "in prison.",
+   "prompt": "He was sentenced to five years ___ prison.",
+   "acceptedAnswers": [
+    "in"
+   ]
+  },
+  {
+   "id": "prep-001-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.1",
+   "type": "gap",
+   "explanation": "on the left / right.",
+   "prompt": "I’m not used to driving ___ the left.",
+   "acceptedAnswers": [
+    "on"
+   ]
+  },
+  {
+   "id": "prep-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "19.4",
+   "type": "gap",
+   "explanation": "at odds with = in conflict with.",
+   "prompt": "The new policy is ___ odds with the company’s values.",
+   "acceptedAnswers": [
+    "at"
+   ]
+  },
+  {
+   "id": "prep-001-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "gap",
+   "explanation": "acquit someone of.",
+   "prompt": "He was acquitted ___ all charges.",
+   "acceptedAnswers": [
+    "of"
+   ]
+  },
+  {
+   "id": "prep-001-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "kwt",
+   "explanation": "be fond of.",
+   "first": "I like classical music a lot.",
+   "keyword": "FOND",
+   "before": "I am very",
+   "after": "classical music.",
+   "acceptedAnswers": [
+    "fond of"
+   ]
+  },
+  {
+   "id": "prep-001-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "kwt",
+   "explanation": "responsible for.",
+   "first": "Who is in charge of the marketing department?",
+   "keyword": "RESPONSIBLE",
+   "before": "Who is",
+   "after": "the marketing department?",
+   "acceptedAnswers": [
+    "responsible for"
+   ]
+  },
+  {
+   "id": "prep-001-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.4",
+   "type": "kwt",
+   "explanation": "on purpose = deliberately.",
+   "first": "He didn’t mean to break the vase.",
+   "keyword": "PURPOSE",
+   "before": "He didn’t break the vase",
+   "after": ".",
+   "acceptedAnswers": [
+    "on purpose"
+   ]
+  },
+  {
+   "id": "prep-001-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "kwt",
+   "explanation": "due to = caused by.",
+   "first": "She succeeded thanks to her hard work.",
+   "keyword": "DUE",
+   "before": "Her success was",
+   "after": "her hard work.",
+   "acceptedAnswers": [
+    "due to"
+   ]
+  },
+  {
+   "id": "prep-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "19.4",
+   "type": "kwt",
+   "explanation": "at odds with.",
+   "first": "The two reports contradict each other.",
+   "keyword": "ODDS",
+   "before": "The two reports are",
+   "after": "each other.",
+   "acceptedAnswers": [
+    "at odds with"
+   ]
+  },
+  {
+   "id": "prep-001-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.1",
+   "type": "error-correction",
+   "explanation": "on + day.",
+   "parts": [
+    "The shop opens ",
+    {
+     "u": "at"
+    },
+    " Sundays ",
+    {
+     "u": "at"
+    },
+    " ten."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "on"
+   ]
+  },
+  {
+   "id": "prep-001-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "error-correction",
+   "explanation": "explain something to someone.",
+   "parts": [
+    "He ",
+    {
+     "u": "explained me"
+    },
+    " the rules of the ",
+    {
+     "u": "game"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "explained to me",
+    "explained"
+   ]
+  },
+  {
+   "id": "prep-001-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "error-correction",
+   "explanation": "It’s kind of you.",
+   "parts": [
+    "It’s ",
+    {
+     "u": "kind"
+    },
+    " ",
+    {
+     "u": "from"
+    },
+    " you to help me."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "of"
+   ]
+  },
+  {
+   "id": "prep-001-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "error-correction",
+   "explanation": "based on.",
+   "parts": [
+    "The film is based ",
+    {
+     "u": "in"
+    },
+    " a true ",
+    {
+     "u": "story"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "on"
+   ]
+  },
+  {
+   "id": "prep-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "19.3",
+   "type": "error-correction",
+   "explanation": "an influence on.",
+   "parts": [
+    "She has a strong ",
+    {
+     "u": "influence"
+    },
+    " ",
+    {
+     "u": "in"
+    },
+    " her younger brother."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "on",
+    "over"
+   ]
+  },
+  {
+   "id": "prep-001-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.1",
+   "type": "word-order",
+   "explanation": "Preposition of place.",
+   "fragments": [
+    "The",
+    "cat",
+    "is",
+    "sleeping",
+    "under",
+    "the table."
+   ],
+   "acceptedAnswers": [
+    "The cat is sleeping under the table."
+   ]
+  },
+  {
+   "id": "prep-001-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "word-order",
+   "explanation": "good at + -ing.",
+   "fragments": [
+    "I",
+    "am",
+    "not",
+    "very",
+    "good",
+    "at",
+    "cooking."
+   ],
+   "acceptedAnswers": [
+    "I am not very good at cooking."
+   ]
+  },
+  {
+   "id": "prep-001-41",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.4",
+   "type": "word-order",
+   "explanation": "Preposition at the end of a question.",
+   "fragments": [
+    "Which",
+    "hotel",
+    "are",
+    "you",
+    "staying",
+    "at?"
+   ],
+   "acceptedAnswers": [
+    "Which hotel are you staying at?",
+    "At which hotel are you staying?"
+   ]
+  },
+  {
+   "id": "prep-001-42",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.1",
+   "type": "matching",
+   "explanation": "Prepositions of time.",
+   "prompt": "Which words follow each preposition?",
+   "left": [
+    "at",
+    "on",
+    "in",
+    "by",
+    "for"
+   ],
+   "right": [
+    "three hours (duration)",
+    "the morning / 2010 / summer",
+    "since Tuesday",
+    "night / midnight / noon",
+    "Monday / my birthday / 4 July",
+    "Friday at the latest (deadline)"
+   ],
+   "answer": [
+    3,
+    4,
+    1,
+    5,
+    0
+   ]
+  },
+  {
+   "id": "prep-001-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "matching",
+   "explanation": "Adjective + preposition.",
+   "prompt": "Which preposition follows each adjective?",
+   "left": [
+    "good",
+    "afraid",
+    "interested",
+    "responsible",
+    "similar"
+   ],
+   "right": [
+    "to",
+    "on",
+    "for",
+    "at",
+    "of",
+    "in"
+   ],
+   "answer": [
+    3,
+    4,
+    5,
+    2,
+    0
+   ]
+  },
+  {
+   "id": "prep-001-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.3",
+   "type": "matching",
+   "explanation": "Noun + preposition.",
+   "prompt": "Which preposition follows each noun?",
+   "left": [
+    "a solution",
+    "an increase",
+    "a lack",
+    "a demand",
+    "an attitude"
+   ],
+   "right": [
+    "for",
+    "at",
+    "towards",
+    "of",
+    "to",
+    "in"
+   ],
+   "answer": [
+    4,
+    5,
+    3,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "prep-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "19.4",
+   "type": "matching",
+   "explanation": "Formal prepositional phrases.",
+   "prompt": "Match each phrase with its meaning.",
+   "left": [
+    "in the light of",
+    "on behalf of",
+    "in lieu of",
+    "by virtue of",
+    "with regard to"
+   ],
+   "right": [
+    "instead of",
+    "in spite of",
+    "concerning",
+    "considering (new information)",
+    "because of (a quality or right)",
+    "representing (someone)"
+   ],
+   "answer": [
+    3,
+    5,
+    0,
+    4,
+    2
+   ]
+  },
+  {
+   "id": "prep-001-46",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.1",
+   "type": "open-cloze",
+   "explanation": "Prepositions of time, place and transport.",
+   "title": "My week",
+   "text": "I start work [1] eight o’clock [2] Monday mornings. I go to work [3] bus, and the journey takes about twenty minutes. I work [4] a big office [5] the city centre. [6] lunchtime, I usually eat [7] a café near the office. I finish work [8] six. [9] the evening, I go to the gym or stay [10] home and watch TV.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "at"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "on"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "by"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "in",
+      "at"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "in"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "At"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "in",
+      "at"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "at"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "In"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "at"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "prep-001-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "open-cloze",
+   "explanation": "Dependent prepositions in a formal letter.",
+   "title": "A letter of complaint to a hotel",
+   "text": "I am writing [1] complain about the service I received [2] your hotel last week. [3] arrival, I was told that my reservation had been cancelled [4] mistake. I insisted [5] speaking to the manager, who apologised [6] the error but said there were no rooms available. I was eventually given a room [7] the top floor, which was not [8] keeping with the standard I had paid for. I would be grateful [9] a full refund. I look forward [10] hearing from you.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "at"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "On",
+      "Upon"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "by",
+      "in"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "on"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "for"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "on"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "in"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "for"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "prep-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "19.4",
+   "type": "open-cloze",
+   "explanation": "Formal prepositional phrases.",
+   "title": "Diplomatic language",
+   "text": "The ambassador spoke [1] behalf of the government. [2] the light of recent events, she said, her country was not [3] a position to sign the agreement. [4] regard to trade, however, talks would continue. Critics accused the government of acting [5] bad faith and of being [6] odds with its own allies. The ambassador insisted that the decision was [7] keeping with international law and that, [8] all intents and purposes, nothing had changed. She declined to comment [9] the record, but hinted that a compromise was [10] the cards.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "on"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "In"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "in"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "With",
+      "In"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "in"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "at"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "in"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off",
+      "on"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "on",
+      "in"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "prep-001-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "19.2",
+   "type": "mc-cloze",
+   "explanation": "Adjective + preposition.",
+   "title": "Moving to a new city",
+   "text": "When I moved to São Paulo, I was worried [1] finding a flat. I searched [2] weeks before I found one [3] a quiet street. My neighbours were very kind [4] me and helped me [5] the move. At first I wasn’t used [6] the traffic, but now I’m quite fond [7] the city. I’m proud [8] myself for making the change.",
+   "gaps": [
+    {
+     "options": [
+      "of",
+      "for",
+      "about",
+      "with"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "since",
+      "during",
+      "in",
+      "for"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "in",
+      "into",
+      "at",
+      "to"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "for",
+      "to",
+      "at",
+      "in"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "for",
+      "at",
+      "with",
+      "on"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "for",
+      "with",
+      "at",
+      "to"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "of",
+      "for",
+      "with",
+      "to"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "for",
+      "of",
+      "with",
+      "about"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "prep-001-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "prepositions"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "19.4",
+   "type": "mc-cloze",
+   "explanation": "Prepositions in legal English.",
+   "title": "The fine print",
+   "text": "The contract shall remain [1] force for two years. [2] the event of a dispute, both parties agree to seek mediation. The supplier is liable [3] any damage caused [4] negligence. Payment is due [5] receipt of the invoice. The client may terminate the agreement [6] giving thirty days’ notice. [7] accordance with the law, all personal data will be protected. Nothing in this agreement shall be construed as a waiver [8] either party’s rights.",
+   "gaps": [
+    {
+     "options": [
+      "on",
+      "at",
+      "in",
+      "by"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "On",
+      "At",
+      "By",
+      "In"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "for",
+      "of",
+      "to",
+      "with"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "for",
+      "by",
+      "with",
+      "from"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "at",
+      "in",
+      "upon",
+      "by"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "with",
+      "from",
+      "at",
+      "by"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "In",
+      "On",
+      "At",
+      "By"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "for",
+      "of",
+      "to",
+      "on"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

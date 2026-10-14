@@ -1,0 +1,304 @@
+{
+ "id": "r052",
+ "title": "Two Languages, One Brain",
+ "level": "C1",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "TOEFL",
+  "IELTS",
+  "CAE",
+  "FUVEST"
+ ],
+ "text": "For much of the twentieth century, bilingualism was widely regarded with suspicion. Some educators and psychologists believed that learning two languages in childhood would confuse children, slow their intellectual development and leave them fully competent in neither. Early studies appeared to confirm these fears, reporting that bilingual children performed worse on intelligence tests than their monolingual peers. In retrospect, many of these studies were deeply flawed: they often compared children from very different social backgrounds and tested bilinguals in a language they did not fully command.\n\nWhen researchers began to control for such factors, the picture changed dramatically. A landmark study in Canada in the early 1960s found that bilingual children performed as well as, or better than, monolinguals on a range of tasks. In the following decades, attention shifted from the supposed costs of bilingualism to its possible benefits.\n\nA central idea in this research is that a bilingual person's two languages are both active in the mind, even when only one is being used. A speaker of Portuguese and English, conversing in English, does not simply switch Portuguese off; the system must continually select the appropriate language and suppress interference from the other. Some researchers proposed that this constant practice in managing attention might strengthen general cognitive abilities known as executive functions, which include the ability to ignore irrelevant information and to switch between tasks.\n\nFor a time, this proposal attracted enormous enthusiasm, particularly after studies reported that bilinguals outperformed monolinguals on certain tasks requiring attentional control, and that lifelong bilingualism might delay the onset of symptoms of dementia. More recently, however, the so-called bilingual advantage has become one of the most contested topics in cognitive psychology. Several large studies have found little or no difference between bilinguals and monolinguals on executive function tasks, and some researchers have argued that positive results were more likely to be published than negative ones. Others respond that bilingualism is not a single experience, and that differences in how, when and how intensively people use their languages may explain the inconsistent findings.\n\nWhat is not in dispute is perhaps more important. There is no credible evidence that raising children with two languages harms their development. Bilingual children may initially know fewer words in each language than monolinguals, but their total vocabulary across both languages is typically comparable, and they generally catch up. Meanwhile, the social, cultural and economic benefits of speaking more than one language are considerable, regardless of any effect on cognitive tests. Whether or not bilingualism makes the brain more efficient, it undoubtedly makes the world larger.",
+ "glossary": [
+  [
+   "executive functions",
+   "mental skills used to plan, focus attention and control behaviour"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r052-q01",
+   "type": "reading",
+   "passageId": "r052",
+   "prompt": "What did many twentieth-century educators believe about bilingualism?",
+   "options": [
+    "It would make children more intelligent.",
+    "It was necessary for all children.",
+    "It had no effect on development.",
+    "It would confuse children and slow their development."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 1."
+  },
+  {
+   "id": "r052-q02",
+   "type": "reading",
+   "passageId": "r052",
+   "prompt": "Why does the author describe the early studies as “deeply flawed”?",
+   "options": [
+    "They included too many children.",
+    "They compared children from different backgrounds and tested them in a weaker language.",
+    "They were conducted only in Canada.",
+    "They measured vocabulary instead of intelligence."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 1."
+  },
+  {
+   "id": "r052-q03",
+   "type": "reading",
+   "passageId": "r052",
+   "prompt": "What was the significance of the Canadian study in the 1960s?",
+   "options": [
+    "It proved that bilingualism causes confusion.",
+    "It was the first study of dementia.",
+    "It found that bilingual children performed as well as or better than monolinguals.",
+    "It showed that only adults benefit from bilingualism."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "A landmark study that changed the picture."
+  },
+  {
+   "id": "r052-q04",
+   "type": "reading",
+   "passageId": "r052",
+   "prompt": "According to paragraph 3, what happens in a bilingual's mind while using one language?",
+   "options": [
+    "The other language is completely switched off.",
+    "Both languages remain active and one must be suppressed.",
+    "The person translates everything mentally.",
+    "The two languages merge into one."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The system must select the language and suppress the other."
+  },
+  {
+   "id": "r052-q05",
+   "type": "reading",
+   "passageId": "r052",
+   "prompt": "What are executive functions?",
+   "options": [
+    "Abilities such as ignoring irrelevant information and switching tasks",
+    "The ability to learn vocabulary quickly",
+    "Skills used only by managers",
+    "The memory of childhood experiences"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Defined in paragraph 3 and the glossary."
+  },
+  {
+   "id": "r052-q06",
+   "type": "reading",
+   "passageId": "r052",
+   "prompt": "How does the author describe the current status of the “bilingual advantage”?",
+   "options": [
+    "It is highly contested.",
+    "It has been definitively proved.",
+    "It has been completely rejected.",
+    "It is accepted by all researchers."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“one of the most contested topics in cognitive psychology”."
+  },
+  {
+   "id": "r052-q07",
+   "type": "reading",
+   "passageId": "r052",
+   "prompt": "Which explanation for the inconsistent findings is mentioned?",
+   "options": [
+    "Differences in how people use their languages",
+    "Errors in translation of the tests",
+    "The age of the researchers",
+    "The cost of large studies"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Bilingualism is not a single experience."
+  },
+  {
+   "id": "r052-q08",
+   "type": "reading",
+   "passageId": "r052",
+   "prompt": "What is NOT in dispute, according to the last paragraph?",
+   "options": [
+    "Bilingualism improves executive functions.",
+    "Bilingual children know more words in each language.",
+    "Raising children bilingually does not harm their development.",
+    "Bilingualism delays dementia."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "No credible evidence of harm."
+  },
+  {
+   "id": "r052-q09",
+   "type": "reading",
+   "passageId": "r052",
+   "prompt": "What does the author say about bilingual children's vocabulary?",
+   "options": [
+    "They always know more words in each language.",
+    "They never catch up with monolinguals.",
+    "They prefer to use only one language.",
+    "Their total vocabulary across both languages is typically comparable to monolinguals'."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in the last paragraph."
+  },
+  {
+   "id": "r052-q10",
+   "type": "reading",
+   "passageId": "r052",
+   "prompt": "What does the final sentence suggest?",
+   "options": [
+    "Bilingualism makes the brain physically larger.",
+    "Bilingualism has valuable benefits beyond any cognitive advantage.",
+    "Bilinguals travel more often.",
+    "The cognitive benefits are the most important."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“it undoubtedly makes the world larger”."
+  }
+ ]
+}

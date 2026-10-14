@@ -1,0 +1,270 @@
+{
+ "id": "r035",
+ "title": "Where Does the Plastic Go?",
+ "level": "B2",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "FUVEST",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "Every year, millions of tonnes of plastic waste enter the oceans, carried by rivers, blown from beaches and landfill sites, or lost from fishing boats. Images of turtles tangled in nets and beaches covered in bottles have made marine plastic one of the most visible environmental issues of our time. Yet scientists studying the problem have encountered a puzzle: the amount of plastic they can find floating on the surface of the ocean is far smaller than the amount that is believed to have entered it. Where has the rest gone?\n\nPart of the answer is that plastic does not stay in one piece. Exposed to sunlight, waves and changes in temperature, large items gradually break into smaller and smaller fragments. Particles smaller than five millimetres are known as microplastics. Some come from the breakdown of larger objects; others enter the water already small, such as fibres released when synthetic clothes are washed or particles worn from car tyres. Microplastics are difficult to collect and, at the smallest sizes, to detect.\n\nA considerable amount of plastic is carried by ocean currents into five large areas where currents circulate slowly, sometimes called \"garbage patches\". Contrary to popular belief, these are not floating islands of rubbish that could be seen from a ship or a satellite. Most of the plastic consists of small fragments spread through the water like a thin soup, which makes cleaning them up extremely difficult.\n\nMuch plastic, however, never reaches these areas. Large quantities are washed back onto coastlines, where they may be buried in sand or broken down further. Some plastic sinks, either because it is denser than water or because it becomes covered with algae and other organisms that make it heavier. Researchers have found microplastics in sediments on the deep sea floor, in Arctic ice and even inside organisms living in the deepest ocean trenches.\n\nThe effects on marine life are still being investigated. Large items can entangle or be swallowed by animals, sometimes with fatal consequences. The effects of microplastics are less clear. They are eaten by many organisms, from tiny plankton to fish and shellfish, and may carry chemicals that can be harmful. Whether they pose a significant risk to human health through the food chain is an open question that scientists are actively studying.\n\nWhat is clear is that removing plastic from the ocean is far more difficult than preventing it from getting there. Most experts therefore argue that the priority should be improving waste management on land, reducing unnecessary single-use plastics and designing products that are easier to recycle.",
+ "questions": [
+  {
+   "id": "r035-q01",
+   "type": "reading",
+   "passageId": "r035",
+   "prompt": "What puzzle have scientists encountered?",
+   "options": [
+    "Plastic disappears completely in sea water.",
+    "Turtles are not affected by plastic.",
+    "Rivers carry no plastic to the sea.",
+    "Much less plastic is found on the surface than is believed to have entered the ocean."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 1."
+  },
+  {
+   "id": "r035-q02",
+   "type": "reading",
+   "passageId": "r035",
+   "prompt": "What are microplastics?",
+   "options": [
+    "Plastics used in medicine",
+    "Large items such as bottles and nets",
+    "Plastic that dissolves in water",
+    "Plastic particles smaller than five millimetres"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Defined in paragraph 2."
+  },
+  {
+   "id": "r035-q03",
+   "type": "reading",
+   "passageId": "r035",
+   "prompt": "Which of the following is mentioned as a source of microplastics that enter the water already small?",
+   "options": [
+    "fibres from washing synthetic clothes",
+    "fishing nets",
+    "plastic bottles",
+    "shopping bags"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Fibres from synthetic clothes and particles from tyres."
+  },
+  {
+   "id": "r035-q04",
+   "type": "reading",
+   "passageId": "r035",
+   "prompt": "What is the popular misconception about “garbage patches”?",
+   "options": [
+    "That they contain plastic",
+    "That they are caused by ocean currents",
+    "That they are floating islands of rubbish visible from ships or satellites",
+    "That they are difficult to clean"
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“Contrary to popular belief, these are not floating islands of rubbish…”"
+  },
+  {
+   "id": "r035-q05",
+   "type": "reading",
+   "passageId": "r035",
+   "prompt": "Why is cleaning up the garbage patches extremely difficult?",
+   "options": [
+    "The areas are too cold for ships.",
+    "The plastic is too heavy to lift.",
+    "Satellites cannot locate them.",
+    "The plastic consists mostly of small fragments spread through the water."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Small fragments like a thin soup."
+  },
+  {
+   "id": "r035-q06",
+   "type": "reading",
+   "passageId": "r035",
+   "prompt": "According to paragraph 4, why does some plastic sink?",
+   "options": [
+    "It absorbs salt from the water.",
+    "It becomes covered with organisms that make it heavier.",
+    "Fish carry it to the bottom.",
+    "It is broken down by sunlight."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Covered with algae and other organisms."
+  },
+  {
+   "id": "r035-q07",
+   "type": "reading",
+   "passageId": "r035",
+   "prompt": "Which place is NOT mentioned as a location where microplastics have been found?",
+   "options": [
+    "deep-sea sediments",
+    "underground water in deserts",
+    "Arctic ice",
+    "organisms in ocean trenches"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Deserts are not mentioned."
+  },
+  {
+   "id": "r035-q08",
+   "type": "reading",
+   "passageId": "r035",
+   "prompt": "What does the text say about the risk of microplastics to human health?",
+   "options": [
+    "It is still uncertain and under study.",
+    "It has been proved to be very serious.",
+    "It has been proved to be zero.",
+    "It affects only people who eat shellfish."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“an open question that scientists are actively studying”."
+  },
+  {
+   "id": "r035-q09",
+   "type": "reading",
+   "passageId": "r035",
+   "prompt": "What do most experts consider the priority?",
+   "options": [
+    "Building ships to clean garbage patches",
+    "Studying plastic in the deep sea",
+    "Preventing plastic from reaching the ocean",
+    "Banning fishing"
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Improve waste management, reduce single-use plastics, design for recycling."
+  }
+ ]
+}

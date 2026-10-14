@@ -1,0 +1,1867 @@
+{
+ "topic": "phrasal-verbs",
+ "batch": 5,
+ "title": "Phrasal verbs — problems, money and decisions",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "pv-005-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "run out (of) = have no more.",
+   "prompt": "We’ve ___ of sugar — can you buy some on your way home?",
+   "options": [
+    "run out",
+    "run off",
+    "run over",
+    "run away"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-005-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "pay back = return money.",
+   "prompt": "Can you ___ the money you borrowed last month?",
+   "options": [
+    "pay in",
+    "pay back",
+    "pay over",
+    "pay out"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-005-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "put out = extinguish.",
+   "prompt": "The firefighters quickly ___ the fire.",
+   "options": [
+    "put off",
+    "put up",
+    "put out",
+    "put on"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-005-04",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "look into = investigate.",
+   "prompt": "The police are ___ the robbery.",
+   "options": [
+    "looking up",
+    "looking after",
+    "looking over",
+    "looking into"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-005-05",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "pay off = finish paying a debt.",
+   "prompt": "It took them twenty years to ___ their mortgage.",
+   "options": [
+    "pay off",
+    "pay up",
+    "pay out",
+    "pay in"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-005-06",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "fall through = fail to happen.",
+   "prompt": "Our plans ___ when the bank refused to lend us the money.",
+   "options": [
+    "fell out",
+    "fell through",
+    "fell over",
+    "fell back"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-005-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "cut down = reduce.",
+   "prompt": "The company is trying to ___ costs by using less paper.",
+   "options": [
+    "cut off",
+    "cut in",
+    "cut down",
+    "cut through"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-005-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "sort out = solve.",
+   "prompt": "We need someone to ___ the problem with the printer.",
+   "options": [
+    "sort in",
+    "sort off",
+    "sort through",
+    "sort out"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-005-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "break out = start suddenly (war, fire, disease).",
+   "prompt": "The Second World War ___ in 1939.",
+   "options": [
+    "broke out",
+    "broke up",
+    "broke off",
+    "broke down"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-005-10",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "make off with = steal and escape.",
+   "prompt": "The thief ___ the money and disappeared into the crowd.",
+   "options": [
+    "made up with",
+    "made off with",
+    "made out of",
+    "made away to"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-005-11",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "crack down on = deal with very strictly.",
+   "prompt": "The government has promised to ___ corruption.",
+   "options": [
+    "crack up on",
+    "crack in on",
+    "crack down on",
+    "crack off on"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-005-12",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.2",
+   "type": "mcq",
+   "explanation": "sleep on it = wait until the next day before deciding.",
+   "prompt": "Don’t decide now — ___ and tell me tomorrow.",
+   "options": [
+    "sleep it on",
+    "sleep in it",
+    "sleep off it",
+    "sleep on it"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-005-13",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "hold off (on) = delay doing something.",
+   "prompt": "We’ll have to ___ buying a new car until prices come down.",
+   "options": [
+    "hold off on",
+    "hold up on",
+    "hold back of",
+    "hold out of"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-005-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "wipe out = destroy completely.",
+   "prompt": "The economic crisis ___ thousands of small businesses.",
+   "options": [
+    "wiped off",
+    "wiped out",
+    "wiped up",
+    "wiped down"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-005-15",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "run up = accumulate (a debt, a bill).",
+   "prompt": "He managed to ___ a huge debt on his credit card.",
+   "options": [
+    "run in",
+    "run over",
+    "run up",
+    "run through"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pv-005-16",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "pull out = withdraw.",
+   "prompt": "The investors ___ when they realised the project was too risky.",
+   "options": [
+    "pulled through",
+    "pulled over",
+    "pulled up",
+    "pulled out"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pv-005-17",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "mcq",
+   "explanation": "do someone out of something = cheat them out of it.",
+   "prompt": "The scheme was a fraud, and thousands of people were ___ of their savings.",
+   "options": [
+    "done out",
+    "done in",
+    "done up",
+    "done over"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pv-005-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mcq",
+   "explanation": "eat into = gradually reduce.",
+   "prompt": "Rising costs are starting to ___ the company’s profits.",
+   "options": [
+    "eat out",
+    "eat into",
+    "eat in",
+    "eat off"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pv-005-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "go off = start ringing (an alarm).",
+   "prompt": "The fire alarm ___ in the middle of the night.",
+   "cue": "go off",
+   "acceptedAnswers": [
+    "went off"
+   ]
+  },
+  {
+   "id": "pv-005-20",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "put up = increase (prices).",
+   "prompt": "They’ve ___ the price of petrol again this month.",
+   "cue": "put up",
+   "acceptedAnswers": [
+    "put up"
+   ]
+  },
+  {
+   "id": "pv-005-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "hand over = give (control or possession).",
+   "prompt": "The bank refused to ___ the money until the documents were signed.",
+   "cue": "hand over",
+   "acceptedAnswers": [
+    "hand over"
+   ]
+  },
+  {
+   "id": "pv-005-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "put aside = save for later.",
+   "prompt": "Every month we ___ €200 for our holiday.",
+   "cue": "put aside",
+   "acceptedAnswers": [
+    "put aside"
+   ]
+  },
+  {
+   "id": "pv-005-23",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "break down = fail (talks).",
+   "prompt": "The negotiations ___ when neither side would compromise.",
+   "cue": "break down",
+   "acceptedAnswers": [
+    "broke down"
+   ]
+  },
+  {
+   "id": "pv-005-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "phrasal-choice",
+   "explanation": "fall back on = use when other things fail.",
+   "prompt": "When I lost my job, I ___ my savings.",
+   "cue": "fall back on",
+   "acceptedAnswers": [
+    "fell back on"
+   ]
+  },
+  {
+   "id": "pv-005-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "phrasal-choice",
+   "explanation": "face up to = accept and deal with.",
+   "prompt": "If you don’t ___ the problem now, it will only get worse.",
+   "cue": "face up to",
+   "acceptedAnswers": [
+    "face up to"
+   ]
+  },
+  {
+   "id": "pv-005-26",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "fritter away = waste gradually.",
+   "prompt": "She ___ her inheritance in less than two years.",
+   "cue": "fritter away",
+   "acceptedAnswers": [
+    "frittered away"
+   ]
+  },
+  {
+   "id": "pv-005-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "cave in = give in to pressure.",
+   "prompt": "The company finally ___ to the pressure and lowered its prices.",
+   "cue": "cave in",
+   "acceptedAnswers": [
+    "caved in"
+   ]
+  },
+  {
+   "id": "pv-005-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "phrasal-choice",
+   "explanation": "seize on = use eagerly to your advantage.",
+   "prompt": "The opposition ___ every weakness in the minister’s argument.",
+   "cue": "seize on",
+   "acceptedAnswers": [
+    "seized on"
+   ]
+  },
+  {
+   "id": "pv-005-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "kwt",
+   "explanation": "cancel = call off.",
+   "first": "The meeting has been cancelled.",
+   "keyword": "CALLED",
+   "before": "They have",
+   "after": "the meeting.",
+   "acceptedAnswers": [
+    "called off"
+   ]
+  },
+  {
+   "id": "pv-005-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "kwt",
+   "explanation": "investigate = look into.",
+   "first": "We must investigate the complaint immediately.",
+   "keyword": "LOOK",
+   "before": "We must",
+   "after": "the complaint immediately.",
+   "acceptedAnswers": [
+    "look into"
+   ]
+  },
+  {
+   "id": "pv-005-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "kwt",
+   "explanation": "repay completely = pay off.",
+   "first": "He finally repaid all his debts.",
+   "keyword": "OFF",
+   "before": "He finally",
+   "after": "all his debts.",
+   "acceptedAnswers": [
+    "paid off"
+   ]
+  },
+  {
+   "id": "pv-005-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "kwt",
+   "explanation": "fail to happen = fall through.",
+   "first": "The project failed because of a lack of money.",
+   "keyword": "THROUGH",
+   "before": "The project",
+   "after": "because of a lack of money.",
+   "acceptedAnswers": [
+    "fell through"
+   ]
+  },
+  {
+   "id": "pv-005-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "kwt",
+   "explanation": "withdraw from = pull out of.",
+   "first": "The company has decided to withdraw from the deal.",
+   "keyword": "PULL",
+   "before": "The company has decided to",
+   "after": "the deal.",
+   "acceptedAnswers": [
+    "pull out of"
+   ]
+  },
+  {
+   "id": "pv-005-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.2",
+   "type": "error-correction",
+   "explanation": "put out = extinguish; put off = postpone.",
+   "parts": [
+    "The fire ",
+    {
+     "u": "broke out"
+    },
+    " at midnight and it took hours to ",
+    {
+     "u": "put it off"
+    },
+    "."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "put it out",
+    "put out"
+   ]
+  },
+  {
+   "id": "pv-005-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "error-correction",
+   "explanation": "fall through = fail to happen.",
+   "parts": [
+    "The deal ",
+    {
+     "u": "fell out"
+    },
+    " because the buyer couldn’t ",
+    {
+     "u": "raise"
+    },
+    " the money."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "fell through",
+    "collapsed"
+   ]
+  },
+  {
+   "id": "pv-005-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.2",
+   "type": "error-correction",
+   "explanation": "look into is inseparable.",
+   "parts": [
+    "They ",
+    {
+     "u": "looked the matter into"
+    },
+    " very ",
+    {
+     "u": "carefully"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "looked into the matter"
+   ]
+  },
+  {
+   "id": "pv-005-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "error-correction",
+   "explanation": "cut down on + noun.",
+   "parts": [
+    "The company has ",
+    {
+     "u": "paid back"
+    },
+    " its loans, but it still needs to ",
+    {
+     "u": "cut down"
+    },
+    " its spending."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "cut down on",
+    "cut back on",
+    "reduce"
+   ]
+  },
+  {
+   "id": "pv-005-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "error-correction",
+   "explanation": "crack down on + noun.",
+   "parts": [
+    "The government promised to ",
+    {
+     "u": "crack down"
+    },
+    " tax evasion, but nothing ",
+    {
+     "u": "came of"
+    },
+    " it."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "crack down on"
+   ]
+  },
+  {
+   "id": "pv-005-39",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.2",
+   "type": "word-order",
+   "explanation": "Separable verb: both orders with a noun.",
+   "fragments": [
+    "Firefighters",
+    "put",
+    "out",
+    "the fire",
+    "in",
+    "less than an hour."
+   ],
+   "acceptedAnswers": [
+    "Firefighters put out the fire in less than an hour.",
+    "Firefighters put the fire out in less than an hour."
+   ]
+  },
+  {
+   "id": "pv-005-40",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "word-order",
+   "explanation": "Three-part verb: face up to.",
+   "fragments": [
+    "We",
+    "have",
+    "to",
+    "face",
+    "up",
+    "to",
+    "the problem."
+   ],
+   "acceptedAnswers": [
+    "We have to face up to the problem."
+   ]
+  },
+  {
+   "id": "pv-005-41",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.6",
+   "type": "word-order",
+   "explanation": "make off with = steal and escape.",
+   "fragments": [
+    "The",
+    "thieves",
+    "made",
+    "off",
+    "with",
+    "the jewels."
+   ],
+   "acceptedAnswers": [
+    "The thieves made off with the jewels."
+   ]
+  },
+  {
+   "id": "pv-005-42",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "matching",
+   "explanation": "Money verbs.",
+   "prompt": "Money: match each phrasal verb with its meaning.",
+   "left": [
+    "pay back",
+    "save up",
+    "take out",
+    "run up",
+    "splash out"
+   ],
+   "right": [
+    "spend a lot of money on something enjoyable",
+    "return money you borrowed",
+    "obtain (a loan, a policy)",
+    "accumulate (a debt or a bill)",
+    "keep money for something you want",
+    "lend money"
+   ],
+   "answer": [
+    1,
+    4,
+    2,
+    3,
+    0
+   ]
+  },
+  {
+   "id": "pv-005-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "matching",
+   "explanation": "Problem verbs.",
+   "prompt": "Problems: match each phrasal verb with its meaning.",
+   "left": [
+    "break down",
+    "sort out",
+    "put out",
+    "fall through",
+    "look into"
+   ],
+   "right": [
+    "investigate",
+    "fail to happen (a plan)",
+    "stop working",
+    "extinguish",
+    "solve",
+    "start suddenly"
+   ],
+   "answer": [
+    2,
+    4,
+    3,
+    1,
+    0
+   ]
+  },
+  {
+   "id": "pv-005-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "matching",
+   "explanation": "Decision verbs.",
+   "prompt": "Decisions: match each phrasal verb with its meaning.",
+   "left": [
+    "back out",
+    "go along with",
+    "rule out",
+    "opt out",
+    "settle on"
+   ],
+   "right": [
+    "decide not to take part",
+    "withdraw from an agreement",
+    "choose after considering",
+    "accept (a plan or idea)",
+    "exclude a possibility",
+    "recommend"
+   ],
+   "answer": [
+    1,
+    3,
+    4,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "pv-005-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "vocabulary",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "matching",
+   "explanation": "Finance and crisis verbs.",
+   "prompt": "Match each phrasal verb with its meaning.",
+   "left": [
+    "cave in",
+    "bail out",
+    "fritter away",
+    "stave off",
+    "tide over"
+   ],
+   "right": [
+    "waste gradually",
+    "help through a difficult period",
+    "give in to pressure",
+    "rescue from financial difficulty",
+    "prevent or delay something bad",
+    "go bankrupt"
+   ],
+   "answer": [
+    2,
+    3,
+    0,
+    4,
+    1
+   ]
+  },
+  {
+   "id": "pv-005-46",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "open-cloze",
+   "explanation": "go off, run out, break down, tell off, go down, sort out, find out, call off, turn out, pick up.",
+   "title": "A bad day",
+   "text": "Yesterday everything went wrong. First, my alarm didn’t go [1], so I woke up late. Then the car wouldn’t start, and I realised we had run [2] of petrol. I took the bus, but it broke [3] halfway to the office. When I finally arrived, my boss told me [4] for being late. In the afternoon, the computer system went [5], and we lost hours of work. The IT department tried to sort it [6], but it took them all day. On the way home, I found [7] that my concert tickets were useless because the band had called the tour [8]. I just went to bed early and hoped the next day would turn [9] better. Fortunately, it did — things usually pick [10] after a day like that.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "off"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "down"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "down"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pv-005-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "open-cloze",
+   "explanation": "run up, build up, face up to, sit down, cut back on, set aside, pay off, splash out, save up.",
+   "title": "Paying off a debt",
+   "text": "When Rafael left university, he had run [1] a large debt on his credit card. At first he tried to ignore it, but the interest kept building [2]. Eventually he decided to face [3] to the problem. He sat [4] and worked out a budget, cut [5] on eating out and sold some things he didn’t need. Every month he set [6] a fixed amount to pay [7] the debt. It took him three years to pay it all [8], but he says the experience taught him a lot. “I used to splash [9] on things I didn’t need,” he admits. “Now I save [10] for what I really want.”",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "down"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "back",
+      "down"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "aside"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off",
+      "back",
+      "down"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off",
+      "back"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pv-005-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "open-cloze",
+   "explanation": "step in, bail out, tide over, pick up, stave off, lay off, sell off, hold out, cave in, pay off.",
+   "title": "The rescue package",
+   "text": "When the airline ran into financial trouble, the government stepped [1] with a rescue package. Critics argued that taxpayers should not have to bail [2] a private company. The government countered that the loan would only tide the airline [3] until demand picked [4]. To stave [5] bankruptcy, the airline also had to lay [6] two thousand staff and sell [7] some of its routes. The unions, which had initially held [8] against the cuts, eventually caved [9]. Whether the plan will pay [10] in the long run remains to be seen.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "in"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "over"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "up"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "out"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "in"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "off"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pv-005-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mc-cloze",
+   "explanation": "deal with, find out, come up with, break down, hold up, hang up on, follow up, sort out.",
+   "title": "Dealing with complaints",
+   "text": "A good customer service team knows how to [1] complaints. First, they [2] what went wrong. Then they [3] a solution as quickly as possible. If a product has [4], they offer a replacement. If a delivery has been [5], they explain why. They never [6] the customer, even when the customer is rude. And they always [7] a few days later to make sure the problem has been [8].",
+   "gaps": [
+    {
+     "options": [
+      "deal in",
+      "deal out",
+      "deal with",
+      "deal on"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "find in",
+      "find over",
+      "find up",
+      "find out"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "come up with",
+      "come round to",
+      "come down with",
+      "come in for"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "broken out",
+      "broken down",
+      "broken up",
+      "broken in"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "held on",
+      "held in",
+      "held up",
+      "held to"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "hang out with",
+      "hang on to",
+      "hang around with",
+      "hang up on"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "follow up",
+      "follow on",
+      "follow in",
+      "follow off"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "sorted in",
+      "sorted out",
+      "sorted off",
+      "sorted by"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "pv-005-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "phrasal-verbs"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "22.4",
+   "type": "mc-cloze",
+   "explanation": "tail off, weed out, zero in on, cash in on, hunt down, pitch in, pay off, bounce back.",
+   "title": "Saving a failing business",
+   "text": "When sales began to [1], the owners knew they had to act. They [2] the least profitable products and [3] on what customers really wanted. Some suppliers tried to [4] the situation by raising prices, but the owners [5] better deals elsewhere. Staff were asked to [6] during the busiest months. The changes [7] slowly at first, but within a year the business had [8].",
+   "gaps": [
+    {
+     "options": [
+      "tail on",
+      "tail up",
+      "tail off",
+      "tail over"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "weeded in",
+      "weeded up",
+      "weeded over",
+      "weeded out"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "zeroed in",
+      "zeroed out",
+      "zeroed up",
+      "zeroed down"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "cash out of",
+      "cash in on",
+      "cash up with",
+      "cash off on"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "hunted up",
+      "hunted off",
+      "hunted down",
+      "hunted in"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "pitch up",
+      "pitch out",
+      "pitch over",
+      "pitch in"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "paid off",
+      "paid up",
+      "paid out",
+      "paid in"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "bounced off",
+      "bounced back",
+      "bounced up",
+      "bounced over"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

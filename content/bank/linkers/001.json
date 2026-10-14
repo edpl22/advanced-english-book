@@ -1,0 +1,1942 @@
+{
+ "topic": "linkers",
+ "batch": 1,
+ "title": "Linking words and discourse markers",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "link-001-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.1",
+   "type": "mcq",
+   "explanation": "Contrast: but.",
+   "prompt": "I like coffee, ___ I don’t drink it at night.",
+   "options": [
+    "but",
+    "so",
+    "because",
+    "despite"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "link-001-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.2",
+   "type": "mcq",
+   "explanation": "Consequence: so.",
+   "prompt": "It was cold, ___ I put on a jacket.",
+   "options": [
+    "but",
+    "so",
+    "because",
+    "although"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "link-001-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.2",
+   "type": "mcq",
+   "explanation": "because + clause.",
+   "prompt": "We didn’t go out ___ it was raining.",
+   "options": [
+    "because of",
+    "so",
+    "because",
+    "despite"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "link-001-04",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.3",
+   "type": "mcq",
+   "explanation": "also before the main verb.",
+   "prompt": "She speaks English and French. She ___ speaks a little Japanese.",
+   "options": [
+    "either",
+    "as well",
+    "besides of",
+    "also"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "link-001-05",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.4",
+   "type": "mcq",
+   "explanation": "despite + noun.",
+   "prompt": "___ the noise, I managed to sleep.",
+   "options": [
+    "Despite",
+    "Although",
+    "However",
+    "Because"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "link-001-06",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "21.2",
+   "type": "mcq",
+   "explanation": "because of + noun.",
+   "prompt": "The road was blocked ___ a fallen tree.",
+   "options": [
+    "because",
+    "because of",
+    "so",
+    "although"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "link-001-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "21.1",
+   "type": "mcq",
+   "explanation": "although + clause.",
+   "prompt": "___ he had never cooked before, the meal was excellent.",
+   "options": [
+    "Despite",
+    "However",
+    "Although",
+    "In spite of"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "link-001-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "21.3",
+   "type": "mcq",
+   "explanation": "as well as + -ing.",
+   "prompt": "___ studying medicine, she plays in an orchestra.",
+   "options": [
+    "Also",
+    "Moreover",
+    "Too",
+    "As well as"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "link-001-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "21.2",
+   "type": "mcq",
+   "explanation": "Negative purpose: so as not to.",
+   "prompt": "She whispered ___ wake the baby.",
+   "options": [
+    "so as not to",
+    "in order not",
+    "so that not",
+    "for not to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "link-001-10",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "21.1",
+   "type": "mcq",
+   "explanation": "however + new sentence.",
+   "prompt": "The plan sounds good. ___, it will be expensive.",
+   "options": [
+    "Although",
+    "However",
+    "Despite",
+    "Whereas"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "link-001-11",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "21.4",
+   "type": "mcq",
+   "explanation": "despite the fact that + clause.",
+   "prompt": "We enjoyed the trip ___ the fact that it rained every day.",
+   "options": [
+    "although",
+    "however",
+    "despite",
+    "even though"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "link-001-12",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "21.2",
+   "type": "mcq",
+   "explanation": "Consequence after a semicolon.",
+   "prompt": "Sales have fallen; ___, the company is cutting jobs.",
+   "options": [
+    "although",
+    "whereas",
+    "moreover",
+    "consequently"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "link-001-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.1",
+   "type": "mcq",
+   "explanation": "Contrast between two facts: whereas.",
+   "prompt": "The north of the country is dry, ___ the south receives heavy rain.",
+   "options": [
+    "whereas",
+    "despite",
+    "however",
+    "therefore"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "link-001-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.2",
+   "type": "mcq",
+   "explanation": "owing to + noun.",
+   "prompt": "___ to a lack of funding, the project was abandoned.",
+   "options": [
+    "Because",
+    "Owing",
+    "Since",
+    "Thanks of"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "link-001-15",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.3",
+   "type": "mcq",
+   "explanation": "Addition: what is more.",
+   "prompt": "The hotel is close to the beach. ___, it has an excellent restaurant.",
+   "options": [
+    "Even so",
+    "Whereas",
+    "What is more",
+    "Nevertheless"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "link-001-16",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "21.4",
+   "type": "mcq",
+   "explanation": "notwithstanding (formal) = despite.",
+   "prompt": "___ his many achievements, he remained a modest man.",
+   "options": [
+    "Albeit",
+    "Whereas",
+    "Inasmuch",
+    "Notwithstanding"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "link-001-17",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "21.1",
+   "type": "mcq",
+   "explanation": "albeit + adjective = although it is.",
+   "prompt": "The proposal, ___ ambitious, is entirely feasible.",
+   "options": [
+    "albeit",
+    "despite",
+    "whereas",
+    "nevertheless"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "link-001-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "21.2",
+   "type": "mcq",
+   "explanation": "hence = for this reason.",
+   "prompt": "The evidence was weak; ___, the case was dismissed.",
+   "options": [
+    "whereas",
+    "hence",
+    "albeit",
+    "notwithstanding"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "link-001-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.2",
+   "type": "gap",
+   "explanation": "Consequence.",
+   "prompt": "I was tired, ___ I went to bed early.",
+   "acceptedAnswers": [
+    "so",
+    "and",
+    "and so"
+   ]
+  },
+  {
+   "id": "link-001-20",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.2",
+   "type": "gap",
+   "explanation": "because of + noun.",
+   "prompt": "He was late ___ the traffic.",
+   "acceptedAnswers": [
+    "because of",
+    "due to",
+    "owing to"
+   ]
+  },
+  {
+   "id": "link-001-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "21.1",
+   "type": "gap",
+   "explanation": "Concession + clause.",
+   "prompt": "___ she studied hard, she failed the test.",
+   "acceptedAnswers": [
+    "Although",
+    "Though",
+    "Even though",
+    "While"
+   ]
+  },
+  {
+   "id": "link-001-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "21.2",
+   "type": "gap",
+   "explanation": "in order to.",
+   "prompt": "I’m learning Portuguese ___ order to work in Lisbon.",
+   "acceptedAnswers": [
+    "in"
+   ]
+  },
+  {
+   "id": "link-001-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "21.1",
+   "type": "gap",
+   "explanation": "Contrast + new sentence.",
+   "prompt": "It was very cold. ___, we went to the beach.",
+   "acceptedAnswers": [
+    "However",
+    "Nevertheless",
+    "Nonetheless",
+    "Even so",
+    "Still",
+    "Despite this",
+    "In spite of this"
+   ]
+  },
+  {
+   "id": "link-001-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.2",
+   "type": "gap",
+   "explanation": "in case = as a precaution.",
+   "prompt": "Take an umbrella ___ case it rains.",
+   "acceptedAnswers": [
+    "in"
+   ]
+  },
+  {
+   "id": "link-001-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.3",
+   "type": "gap",
+   "explanation": "apart from + -ing = as well as.",
+   "prompt": "___ from being cheap, the flat is very central.",
+   "acceptedAnswers": [
+    "Apart",
+    "Aside"
+   ]
+  },
+  {
+   "id": "link-001-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.2",
+   "type": "gap",
+   "explanation": "so that + clause.",
+   "prompt": "He left the meeting early ___ that he could catch his flight.",
+   "acceptedAnswers": [
+    "so"
+   ]
+  },
+  {
+   "id": "link-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "21.1",
+   "type": "gap",
+   "explanation": "needless to say.",
+   "prompt": "The results were, ___ to say, disappointing.",
+   "acceptedAnswers": [
+    "needless"
+   ]
+  },
+  {
+   "id": "link-001-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "21.1",
+   "type": "gap",
+   "explanation": "albeit / if + adverb.",
+   "prompt": "She accepted the job, ___ reluctantly.",
+   "acceptedAnswers": [
+    "albeit",
+    "though",
+    "although",
+    "if"
+   ]
+  },
+  {
+   "id": "link-001-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "21.4",
+   "type": "kwt",
+   "explanation": "in spite of + noun.",
+   "first": "Although the weather was bad, we enjoyed the trip.",
+   "keyword": "SPITE",
+   "before": "",
+   "after": "the bad weather, we enjoyed the trip.",
+   "acceptedAnswers": [
+    "In spite of"
+   ]
+  },
+  {
+   "id": "link-001-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.2",
+   "type": "kwt",
+   "explanation": "in order to + infinitive.",
+   "first": "He worked hard so that he would get promoted.",
+   "keyword": "ORDER",
+   "before": "He worked hard",
+   "after": "promoted.",
+   "acceptedAnswers": [
+    "in order to get",
+    "in order to be"
+   ]
+  },
+  {
+   "id": "link-001-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.2",
+   "type": "kwt",
+   "explanation": "due to + noun.",
+   "first": "The road was closed because there had been an accident.",
+   "keyword": "DUE",
+   "before": "The road was closed",
+   "after": "an accident.",
+   "acceptedAnswers": [
+    "due to"
+   ]
+  },
+  {
+   "id": "link-001-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "21.4",
+   "type": "kwt",
+   "explanation": "despite the fact that + clause.",
+   "first": "Even though she was exhausted, she kept working.",
+   "keyword": "FACT",
+   "before": "Despite",
+   "after": "exhausted, she kept working.",
+   "acceptedAnswers": [
+    "the fact that she was",
+    "the fact she was"
+   ]
+  },
+  {
+   "id": "link-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "21.3",
+   "type": "kwt",
+   "explanation": "Not only + inversion.",
+   "first": "The house is too small and, in addition, it is very expensive.",
+   "keyword": "ONLY",
+   "before": "Not",
+   "after": "small, but it is also very expensive.",
+   "acceptedAnswers": [
+    "only is the house too"
+   ]
+  },
+  {
+   "id": "link-001-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.2",
+   "type": "error-correction",
+   "explanation": "because of + noun.",
+   "parts": [
+    "The match was cancelled ",
+    {
+     "u": "because"
+    },
+    " the heavy ",
+    {
+     "u": "rain"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "because of",
+    "due to",
+    "owing to"
+   ]
+  },
+  {
+   "id": "link-001-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "21.4",
+   "type": "error-correction",
+   "explanation": "despite cannot introduce a clause.",
+   "parts": [
+    {
+     "u": "Despite"
+    },
+    " the price was high, she ",
+    {
+     "u": "bought"
+    },
+    " the dress."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "Although",
+    "Even though",
+    "Though",
+    "Despite the fact that"
+   ]
+  },
+  {
+   "id": "link-001-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "21.2",
+   "type": "error-correction",
+   "explanation": "Purpose: to + infinitive.",
+   "parts": [
+    "I’m saving money ",
+    {
+     "u": "for buy"
+    },
+    " a ",
+    {
+     "u": "new"
+    },
+    " laptop."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "to buy",
+    "in order to buy",
+    "so as to buy"
+   ]
+  },
+  {
+   "id": "link-001-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.1",
+   "type": "error-correction",
+   "explanation": "Comma splice: use a semicolon or a full stop.",
+   "parts": [
+    "She was tired",
+    {
+     "u": ", however"
+    },
+    " she ",
+    {
+     "u": "kept"
+    },
+    " working."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "; however,",
+    ". However,"
+   ]
+  },
+  {
+   "id": "link-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "21.4",
+   "type": "error-correction",
+   "explanation": "Preposition + noun.",
+   "parts": [
+    {
+     "u": "Although"
+    },
+    " his illness, he ",
+    {
+     "u": "continued"
+    },
+    " to work."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "Despite",
+    "In spite of",
+    "Notwithstanding"
+   ]
+  },
+  {
+   "id": "link-001-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.2",
+   "type": "word-order",
+   "explanation": "so = consequence.",
+   "fragments": [
+    "I",
+    "was",
+    "hungry,",
+    "so",
+    "I",
+    "made",
+    "a sandwich."
+   ],
+   "acceptedAnswers": [
+    "I was hungry, so I made a sandwich."
+   ]
+  },
+  {
+   "id": "link-001-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "21.4",
+   "type": "word-order",
+   "explanation": "despite + noun.",
+   "fragments": [
+    "Despite",
+    "the",
+    "rain,",
+    "the",
+    "concert",
+    "went ahead."
+   ],
+   "acceptedAnswers": [
+    "Despite the rain, the concert went ahead.",
+    "The concert went ahead despite the rain."
+   ]
+  },
+  {
+   "id": "link-001-41",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.2",
+   "type": "word-order",
+   "explanation": "so as not to.",
+   "fragments": [
+    "He",
+    "whispered",
+    "so as",
+    "not",
+    "to",
+    "wake",
+    "the children."
+   ],
+   "acceptedAnswers": [
+    "He whispered so as not to wake the children."
+   ]
+  },
+  {
+   "id": "link-001-42",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "21.1",
+   "type": "matching",
+   "explanation": "Formal and neutral linkers.",
+   "prompt": "Match each formal linker with a simpler equivalent.",
+   "left": [
+    "nevertheless",
+    "consequently",
+    "furthermore",
+    "whereas",
+    "owing to"
+   ],
+   "right": [
+    "because of",
+    "also",
+    "however",
+    "although",
+    "while (contrast)",
+    "so / therefore"
+   ],
+   "answer": [
+    2,
+    5,
+    1,
+    4,
+    0
+   ]
+  },
+  {
+   "id": "link-001-43",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.4",
+   "type": "matching",
+   "explanation": "Grammar of linkers.",
+   "prompt": "Match the halves.",
+   "left": [
+    "Despite",
+    "Although",
+    "Because of",
+    "So that",
+    "In order to"
+   ],
+   "right": [
+    "see better, we turned on the lights.",
+    "the rain, we stayed in.",
+    "it rains.",
+    "it rained, we went out.",
+    "we could see, we turned on the lights.",
+    "the rain, we went out."
+   ],
+   "answer": [
+    5,
+    3,
+    1,
+    4,
+    0
+   ]
+  },
+  {
+   "id": "link-001-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.1",
+   "type": "matching",
+   "explanation": "Synonymous linkers.",
+   "prompt": "Choose the linker with the same meaning.",
+   "left": [
+    "in spite of",
+    "as a result",
+    "on the other hand",
+    "in addition",
+    "provided that"
+   ],
+   "right": [
+    "moreover",
+    "unless",
+    "despite",
+    "as long as",
+    "consequently",
+    "by contrast"
+   ],
+   "answer": [
+    2,
+    4,
+    5,
+    0,
+    3
+   ]
+  },
+  {
+   "id": "link-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "21.4",
+   "type": "matching",
+   "explanation": "C2 linkers.",
+   "prompt": "Formal linkers: match each one with its meaning.",
+   "left": [
+    "albeit",
+    "notwithstanding",
+    "hence",
+    "whereby",
+    "inasmuch as"
+   ],
+   "right": [
+    "for this reason",
+    "in case",
+    "to the extent that; because",
+    "although (+ adjective or phrase)",
+    "by which (a method or system)",
+    "despite (formal)"
+   ],
+   "answer": [
+    3,
+    5,
+    0,
+    4,
+    2
+   ]
+  },
+  {
+   "id": "link-001-46",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.2",
+   "type": "open-cloze",
+   "explanation": "Basic linkers in a description.",
+   "title": "Why I love my city",
+   "text": "I live in Florianópolis, [1] is an island in the south of Brazil. I love it here [2] the beaches are beautiful and the people are friendly. In summer it is very hot, [3] in winter it can be quite cold. There are lots of tourists in January, [4] the roads are often busy. [5] this, I would never want to live anywhere else. The food is great, [6] the seafood is cheap. [7], there are lots of things to do: surfing, hiking and going out at night. [8] I have to travel for work, I always miss my city. If you visit, take a jacket [9] case it gets cold. And don’t forget your sunscreen, [10]!",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "which"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "because",
+      "as",
+      "since"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "but",
+      "while",
+      "whereas",
+      "and"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "so",
+      "and"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "Despite",
+      "Notwithstanding"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "and"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "Also",
+      "Moreover",
+      "Furthermore",
+      "Besides",
+      "Plus",
+      "Additionally"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "When",
+      "Whenever",
+      "If"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "in"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "too"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "link-001-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "21.1",
+   "type": "open-cloze",
+   "explanation": "Linkers in an argumentative text.",
+   "title": "The four-day week",
+   "text": "Several companies have experimented with a four-day working week. [1] the reduced hours, productivity has often stayed the same or even increased. Supporters argue that workers are less tired and, [2] a result, make fewer mistakes. [3], they say, staff take fewer days off sick. Critics, [4] the other hand, point out that not every job can be done in four days. Hospitals, [5] instance, need staff every day. [6] some sectors may benefit, others could face higher costs. The idea is popular with employees; [7], many managers remain sceptical. Most experts agree that the model can work, [8] that it is introduced gradually. [9] all, it is not the number of hours that matters, [10] what people achieve in them.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "Despite",
+      "Notwithstanding"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "as"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "Moreover",
+      "Furthermore",
+      "Also",
+      "Besides",
+      "Additionally"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "on"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "for"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "While",
+      "Although",
+      "Though",
+      "Whereas",
+      "Whilst"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "however",
+      "nevertheless",
+      "nonetheless",
+      "yet",
+      "still"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "provided",
+      "providing"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "After",
+      "Above"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "but"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "link-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "21.4",
+   "type": "open-cloze",
+   "explanation": "Advanced linkers in an essay.",
+   "title": "The paradox of choice",
+   "text": "We tend to assume that more choice makes us happier. Research suggests otherwise. [1] people value having options, too many can be paralysing. In one famous study, shoppers were offered either six or twenty-four kinds of jam. [2] more people stopped at the larger display, far fewer actually bought anything. The researchers concluded that excessive choice can lead to anxiety and, [3], to worse decisions. This is not to say that choice is bad, [4] that there is an optimum number of options. [5] as consumers might wish otherwise, simplicity often serves them better. Some companies, [6], have begun to reduce their product ranges. The effect, [7] modest, has been measurable. [8] the findings are not universal — some studies have failed to replicate them — they remain influential, [9] because they challenge such a deeply held belief. [10] all their flaws, they remind us that more is not always better.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "Although",
+      "While",
+      "Though",
+      "Whilst"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "Although",
+      "While",
+      "Though",
+      "Whereas",
+      "Whilst"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "consequently",
+      "ultimately",
+      "therefore",
+      "thus",
+      "hence",
+      "eventually"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "but",
+      "rather"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "Much"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "accordingly",
+      "therefore",
+      "consequently",
+      "thus",
+      "hence"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "albeit",
+      "though",
+      "although",
+      "if",
+      "while"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "Although",
+      "While",
+      "Though",
+      "Whilst"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "partly",
+      "largely",
+      "mainly",
+      "precisely",
+      "perhaps",
+      "chiefly"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "For",
+      "Despite",
+      "With"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "link-001-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "21.1",
+   "type": "mc-cloze",
+   "explanation": "Linkers in an opinion essay.",
+   "title": "Should students wear uniforms?",
+   "text": "Many schools require students to wear uniforms. [1], this rule is controversial. Supporters say uniforms are cheaper than ordinary clothes. [2], they argue that uniforms reduce bullying [3] all students look the same. Critics, [4], claim that uniforms limit self-expression. [5] the debate, most Brazilian public schools still use them. Some schools have chosen a compromise: students wear a uniform T-shirt, [6] they can choose the rest of their clothes. [7] research on the topic is limited, it seems that uniforms have little effect on learning. [8], the decision may depend more on tradition than on evidence.",
+   "gaps": [
+    {
+     "options": [
+      "Although",
+      "Despite",
+      "However",
+      "Because"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "However",
+      "Whereas",
+      "Despite",
+      "Moreover"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "because",
+      "because of",
+      "despite",
+      "although"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "as a result",
+      "on the other hand",
+      "for example",
+      "in addition"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "Although",
+      "However",
+      "Despite",
+      "Because"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "despite",
+      "because of",
+      "so as",
+      "but"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "Although",
+      "Despite",
+      "However",
+      "Due to"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "Although",
+      "Therefore",
+      "Whereas",
+      "Despite"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "link-001-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "linkers"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "21.4",
+   "type": "mc-cloze",
+   "explanation": "Linkers in an academic paragraph.",
+   "title": "Weighing up a policy",
+   "text": "The policy has had mixed results. [1] it has reduced emissions, it has also raised energy prices. [2], some economists argue that the costs fall disproportionately on the poor. [3] these concerns, the government has refused to change course, [4] that the long-term benefits outweigh the short-term costs. [5], public support for the policy has fallen sharply. [6] the evidence remains incomplete, it would be premature to judge the policy a failure. It may, [7], need to be adjusted [8] that low-income households are protected.",
+   "gaps": [
+    {
+     "options": [
+      "Despite",
+      "However",
+      "While",
+      "Owing to"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "Nevertheless",
+      "Whereas",
+      "Albeit",
+      "Furthermore"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "Notwithstanding",
+      "Although",
+      "Whereas",
+      "Hence"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "argued",
+      "arguing",
+      "to argue",
+      "argue"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "Albeit",
+      "Whereas",
+      "Consequently",
+      "Notwithstanding"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "Despite",
+      "Albeit",
+      "Whereby",
+      "As"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "however",
+      "whereas",
+      "albeit",
+      "despite"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "such",
+      "so",
+      "hence",
+      "whereby"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

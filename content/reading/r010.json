@@ -1,0 +1,320 @@
+{
+ "id": "r010",
+ "title": "From Paint to Pixels: A Short History of Camouflage",
+ "level": "C1",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ITA",
+  "IME",
+  "EN",
+  "EFOMM",
+  "AFA",
+  "EsPCEx"
+ ],
+ "text": "For most of military history, soldiers were meant to be seen. Bright uniforms helped commanders identify their units through the smoke of battle, intimidated the enemy and expressed the prestige of the regiment. The scarlet coats of British infantry and the blue-and-red uniforms of French soldiers made sense in an age of short-range muskets, when armies fought in close formation and visibility was less dangerous than confusion.\n\nThat logic collapsed with the arrival of accurate, long-range rifles and, later, the machine gun. A soldier who could be picked out at several hundred metres was a soldier who would not survive long. During the second half of the nineteenth century, armies gradually adopted drab colours such as khaki and field grey, and by the end of the First World War the brightly dressed infantryman had all but disappeared from the battlefield.\n\nThe First World War also saw the birth of camouflage as a deliberate discipline. Several armies recruited artists, whose understanding of colour, shape and perception proved unexpectedly valuable. They painted guns and vehicles in irregular patches to break up their outlines, built fake trees to conceal observation posts and draped netting over artillery positions. At sea, where hiding a ship was impossible, a stranger approach was adopted: \"dazzle\" painting covered vessels in bold, clashing stripes. The aim was not concealment but confusion, making it harder for an enemy submarine commander to judge a ship's course and speed.\n\nAs surveillance technology advanced, camouflage had to address senses other than human sight. Aerial photography made shadows and tracks as revealing as the objects themselves, so units learned to manage their entire \"signature\": the marks of vehicles on the ground, the regularity of tents, the glint of glass. Infrared sensors later added a further challenge, since a perfectly coloured uniform is useless if the body inside it glows on a thermal image. Modern materials therefore aim to reduce heat emissions as well as visual contrast.\n\nThe most visible recent development has been digital or \"pixelated\" patterns, made of small rectangular blocks of colour. Their designers argue that patterns combining small and large shapes work at several distances at once, imitating the textures of nature more effectively than smooth blotches. Results, however, have been mixed: at least one army spent large sums on a single \"universal\" pattern intended for every environment, only to discover that it performed poorly in most of them. The episode illustrated a principle that camouflage specialists have long understood: there is no such thing as being invisible everywhere, only being hard to see somewhere.",
+ "questions": [
+  {
+   "id": "r010-q01",
+   "type": "reading",
+   "passageId": "r010",
+   "prompt": "Why, according to paragraph 1, were bright uniforms once practical?",
+   "options": [
+    "They made soldiers harder to hit.",
+    "They helped commanders recognise their units in battle.",
+    "They were cheaper to produce.",
+    "They protected soldiers from the weather."
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“helped commanders identify their units through the smoke of battle”."
+  },
+  {
+   "id": "r010-q02",
+   "type": "reading",
+   "passageId": "r010",
+   "prompt": "What does the author mean by “That logic collapsed”?",
+   "options": [
+    "Armies stopped fighting in formations.",
+    "Soldiers refused to wear uniforms.",
+    "The military became less disciplined.",
+    "The reasons for wearing bright uniforms were no longer valid."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Long-range weapons made visibility deadly."
+  },
+  {
+   "id": "r010-q03",
+   "type": "reading",
+   "passageId": "r010",
+   "prompt": "The phrase “all but disappeared” in paragraph 2 means",
+   "options": [
+    "disappeared except in the navy",
+    "never disappeared",
+    "almost completely disappeared",
+    "disappeared and later returned"
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "All but = almost."
+  },
+  {
+   "id": "r010-q04",
+   "type": "reading",
+   "passageId": "r010",
+   "prompt": "Why were artists recruited during the First World War?",
+   "options": [
+    "They designed the new uniforms of the officers.",
+    "They recorded the war in paintings.",
+    "Their knowledge of colour and perception was useful for hiding equipment.",
+    "They trained soldiers to draw maps."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“whose understanding of colour, shape and perception proved unexpectedly valuable”."
+  },
+  {
+   "id": "r010-q05",
+   "type": "reading",
+   "passageId": "r010",
+   "prompt": "What was the purpose of “dazzle” painting?",
+   "options": [
+    "To make it difficult to estimate a ship's movement",
+    "To hide ships completely from submarines",
+    "To make ships look larger",
+    "To identify friendly ships at night"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“The aim was not concealment but confusion.”"
+  },
+  {
+   "id": "r010-q06",
+   "type": "reading",
+   "passageId": "r010",
+   "prompt": "The word “signature” in paragraph 4 refers to",
+   "options": [
+    "a commander's written authorisation",
+    "all the signs that reveal a unit's presence",
+    "the pattern painted on a vehicle",
+    "a code used in radio communication"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Tracks, regular tents, glint of glass — signs that reveal presence."
+  },
+  {
+   "id": "r010-q07",
+   "type": "reading",
+   "passageId": "r010",
+   "prompt": "Why are infrared sensors a challenge for camouflage?",
+   "options": [
+    "They work only in daylight.",
+    "They can see through netting.",
+    "They make shadows more visible.",
+    "They detect body heat regardless of the colour of the uniform."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“a perfectly coloured uniform is useless if the body inside it glows on a thermal image”."
+  },
+  {
+   "id": "r010-q08",
+   "type": "reading",
+   "passageId": "r010",
+   "prompt": "According to the designers, what is the advantage of pixelated patterns?",
+   "options": [
+    "They are cheaper to print.",
+    "They work in every environment.",
+    "They are effective at different distances.",
+    "They reduce heat emissions."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“work at several distances at once”."
+  },
+  {
+   "id": "r010-q09",
+   "type": "reading",
+   "passageId": "r010",
+   "prompt": "The example of the “universal” pattern is used to show that",
+   "options": [
+    "digital patterns are always inferior",
+    "armies should spend more on camouflage",
+    "infrared sensors are more important than colour",
+    "no camouflage pattern works well in all environments"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "It performed poorly in most environments."
+  },
+  {
+   "id": "r010-q10",
+   "type": "reading",
+   "passageId": "r010",
+   "prompt": "Which of the following best expresses the main idea of the passage?",
+   "options": [
+    "Camouflage has evolved in response to changes in weapons and surveillance.",
+    "Artists were the most important figures in military history.",
+    "Bright uniforms were a serious mistake from the beginning.",
+    "Modern camouflage makes soldiers completely invisible."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN",
+    "EFOMM",
+    "AFA",
+    "EsPCEx"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The passage traces camouflage as a response to weapons and detection technology."
+  }
+ ]
+}

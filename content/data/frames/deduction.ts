@@ -1,0 +1,51 @@
+import type { Frame } from '../../../src/lib/generators/frames';
+
+/** Unit 6 — deduction, semi-modals, criticism and regret. */
+export const DEDUCTION_FRAMES: Frame[] = [
+  // Present deduction
+  { ref: '6.1', level: 'B2', text: 'The lights are on. {f} ___ be at home.', answer: ['must'], wrong: ['can’t', 'mustn’t', 'needn’t'], note: 'Sure, from evidence: must.' },
+  { ref: '6.1', level: 'B2', text: '{m} ___ be at work — I’ve just seen him at the beach.', answer: ['can’t', 'cannot', 'couldn’t', 'could not'], wrong: ['mustn’t', 'must', 'needn’t'], gap: true, note: 'Sure it isn’t true: can’t (never mustn’t).' },
+  { ref: '6.1', level: 'B2', text: 'I’m not sure where {f} is. She ___ be in the library.', answer: ['might', 'may', 'could'], wrong: ['must', 'can’t', 'mustn’t'], gap: true, note: 'Possibility: might / may / could.' },
+  { ref: '6.1', level: 'B2', text: 'You’ve been driving for ten hours. You ___ be exhausted.', answer: ['must'], wrong: ['can’t', 'mustn’t', 'needn’t'], note: 'Logical conclusion: must.' },
+  { ref: '6.1', level: 'B2', text: 'That ___ be the right answer — it doesn’t make sense.', answer: ['can’t', 'cannot', 'couldn’t', 'could not'], wrong: ['mustn’t', 'must', 'needn’t'], gap: true, note: 'Negative deduction: can’t.' },
+  { ref: '6.1', level: 'B2', text: 'He isn’t answering his phone. He ___ be driving.', answer: ['might', 'may', 'could', 'must'], wrong: ['can’t to', 'mustn’t', 'needn’t'], note: 'Possibility (or conclusion) + continuous infinitive.' },
+  { ref: '6.1', level: 'B2', text: 'She ___ be Brazilian — she doesn’t speak a word of Portuguese.', answer: ['can’t', 'cannot', 'couldn’t'], wrong: ['mustn’t', 'must', 'needn’t'], note: 'Negative deduction: can’t.' },
+  { ref: '6.1', level: 'B2', text: 'They ___ be stuck in traffic; that would explain why they’re late.', answer: ['might', 'may', 'could', 'must'], wrong: ['can’t', 'mustn’t', 'needn’t'], note: 'Possibility: might / may / could.' },
+  { ref: '6.1', level: 'B1', text: 'It ___ be very cold in Curitiba in winter.', answer: ['can'], wrong: ['must to', 'is able', 'had better'], note: 'General possibility: can.' },
+  { ref: '6.1', level: 'B2', text: 'The package ___ arrive tomorrow — it was posted on {day}.', answer: ['should', 'ought to', 'will probably'], wrong: ['must have', 'can’t have', 'mustn’t'], note: 'Expectation: should / ought to.' },
+  { ref: '6.1', level: 'B2', text: 'The concert ___ be over by eleven, so we can catch the last train.', answer: ['should', 'will', 'ought to', 'must'], wrong: ['can’t', 'mustn’t', 'needn’t'], note: 'Expectation: should.' },
+  { ref: '6.1', level: 'B2', text: 'She’s not answering. She ___ a shower.', cue: 'might / have', answer: ['might be having'], wrong: ['might have', 'might has', 'might having'], note: 'Action in progress now: might be + -ing.' },
+  { ref: '6.1', level: 'B2', text: 'You ___ the bus if you leave now.', cue: 'might / catch', answer: ['might catch'], wrong: ['might caught', 'might to catch', 'might catching'], note: 'Future possibility: might + infinitive.' },
+  // Past deduction
+  { ref: '6.2', level: 'B2', text: 'The road is wet. It ___ rained during the night.', answer: ['must have'], wrong: ['can’t have', 'must', 'mustn’t have'], gap: true, note: 'Sure about the past: must have + past participle.' },
+  { ref: '6.2', level: 'B2', text: '{f} ___ seen me — she walked straight past without saying hello.', answer: ['can’t have', 'couldn’t have', 'cannot have'], wrong: ['mustn’t have', 'must have', 'needn’t have'], gap: true, note: 'Sure it didn’t happen: can’t have.' },
+  { ref: '6.2', level: 'B2', text: 'I can’t find my keys. I ___ left them at the office.', answer: ['might have', 'may have', 'could have', 'must have'], wrong: ['can’t have', 'mustn’t have', 'needn’t'], note: 'Possibility about the past: might have.' },
+  { ref: '6.2', level: 'B2', text: 'The plane ___ have landed by now — it was due at six.', answer: ['should', 'must', 'ought to'], wrong: ['can’t', 'mustn’t', 'needn’t'], note: 'Expectation about the past: should have.' },
+  { ref: '6.2', level: 'C1', text: 'She ___ have finished the marathon already — it only started an hour ago.', answer: ['can’t', 'couldn’t', 'cannot'], wrong: ['must', 'mustn’t', 'should'], gap: true, note: 'Impossible: can’t have.' },
+  { ref: '6.2', level: 'B2', text: 'The thieves ___ entered through the window — it’s broken.', answer: ['must have'], wrong: ['can’t have', 'must', 'needn’t have'], note: 'Conclusion from evidence: must have.' },
+  { ref: '6.2', level: 'B2', text: '{m} ___ have forgotten about the meeting — he’s never late.', answer: ['must', 'may', 'might', 'could'], wrong: ['mustn’t', 'needn’t', 'can’t to'], note: 'Deduction about the past.' },
+  { ref: '6.2', level: 'B2', text: 'The documents ___ have been stolen; the safe was open.', answer: ['must', 'might', 'may', 'could'], wrong: ['can’t', 'mustn’t', 'needn’t'], note: 'Passive perfect infinitive: must have been + past participle.' },
+  { ref: '6.2', level: 'C1', text: 'I didn’t hear the phone. I ___ been sleeping.', answer: ['must have', 'might have', 'may have'], wrong: ['must', 'can’t have', 'should'], note: 'Activity in progress in the past: must have been + -ing.' },
+  { ref: '6.2', level: 'B2', text: 'Someone ___ the door open — the cat has escaped.', cue: 'must / leave', answer: ['must have left'], wrong: ['must leave', 'must left', 'must have leave'], note: 'must have + past participle.' },
+  { ref: '6.2', level: 'C1', text: 'That ___ Pedro you saw yesterday; he’s in Japan.', cue: 'can’t / be', answer: ['can’t have been', 'cannot have been', 'couldn’t have been'], wrong: ['mustn’t have been', 'can’t be', 'can’t have be'], note: 'Impossible in the past: can’t have been.' },
+  { ref: '6.2', level: 'B2', text: 'I haven’t received the email. They ___ it to the wrong address.', cue: 'may / send', answer: ['may have sent'], wrong: ['may send', 'may sent', 'may have send'], note: 'Possibility about the past: may have + past participle.' },
+  { ref: '6.2', level: 'B2', text: 'They ___ by now; their flight landed two hours ago.', cue: 'should / arrive', answer: ['should have arrived'], wrong: ['should arrive', 'should arrived', 'should have arrive'], note: 'Expectation about the past: should have arrived.' },
+  { ref: '6.2', level: 'C1', text: 'He ___ the answer — he looked completely lost.', cue: 'can’t / know', answer: ['can’t have known', 'couldn’t have known', 'cannot have known'], wrong: ['mustn’t have known', 'can’t know', 'can’t have know'], note: 'Sure it wasn’t true: can’t have known.' },
+  { ref: '6.2', level: 'C1', text: 'She ___ a lot of money in her last job — she drives a Porsche.', cue: 'must / earn', answer: ['must have earned', 'must have earnt'], wrong: ['must earned', 'must have earn', 'must earning'], note: 'Conclusion about the past: must have earned.' },
+  // Semi-modals
+  { ref: '6.3', level: 'B2', text: 'You’d ___ leave now, or you’ll miss the bus.', answer: ['better'], wrong: ['best to', 'should', 'must'], gap: true, note: 'had better + infinitive without to.' },
+  { ref: '6.3', level: 'B2', text: 'You had better ___ late again.', answer: ['not be'], wrong: ['not to be', 'don’t be', 'be not'], gap: true, note: 'Negative: had better not + infinitive.' },
+  { ref: '6.3', level: 'B2', text: 'We ___ supposed to check in two hours before the flight.', answer: ['are', 'were'], wrong: ['have', 'must', 'should'], gap: true, note: 'be supposed to = be expected to.' },
+  { ref: '6.3', level: 'B2', text: 'You were ___ to call me last night! What happened?', answer: ['supposed', 'meant'], wrong: ['suppose', 'supposing', 'expect'], gap: true, note: 'was / were supposed to: an expectation that wasn’t met.' },
+  { ref: '6.3', level: 'B2', text: 'How ___ you read my messages without asking!', answer: ['dare'], wrong: ['need', 'must', 'ought'], gap: true, note: 'How dare you…! expresses indignation.' },
+  { ref: '6.3', level: 'C1', text: '___ I remind you that the deadline is tomorrow?', answer: ['Need', 'May', 'Must'], wrong: ['Ought', 'Had', 'Am'], note: 'Need I / May I…? (formal).' },
+  { ref: '6.3', level: 'B2', text: 'You ___ to apologise to her — you were very rude.', answer: ['ought', 'need', 'have'], wrong: ['should', 'must', 'had better'], gap: true, note: 'ought to = should (with to).' },
+  { ref: '6.3', level: 'B2', text: 'The film ___ to be very good — everyone recommends it.', cue: 'be supposed', answer: ['is supposed'], wrong: ['supposes', 'is supposing', 'suppose'], note: 'be supposed to = people say.' },
+  // Criticism and regret
+  { ref: '6.4', level: 'B2', text: 'You ___ have told me you were coming! I would have cooked something.', answer: ['could', 'might', 'should'], wrong: ['must', 'can’t', 'needn’t'], note: 'Criticism: could / might / should have.' },
+  { ref: '6.4', level: 'B2', text: 'I ___ have studied harder — now I have to retake the exam.', answer: ['should', 'ought to'], wrong: ['must', 'can’t', 'needn’t'], note: 'Regret: should have + past participle.' },
+  { ref: '6.4', level: 'C1', text: 'You ___ have bought so much food — only four people are coming.', answer: ['needn’t', 'shouldn’t', 'need not', 'should not'], wrong: ['mustn’t', 'didn’t', 'hadn’t'], note: 'Unnecessary past action: needn’t have.' },
+  { ref: '6.4', level: 'B2', text: 'You ___ me! I would have helped.', cue: 'should / tell', answer: ['should have told'], wrong: ['should tell', 'should told', 'should have tell'], note: 'Criticism: should have + past participle.' },
+  { ref: '6.4', level: 'C1', text: 'You ___ so much — we had plenty of food.', cue: 'need / not / cook', answer: ['needn’t have cooked', 'need not have cooked'], wrong: ['mustn’t have cooked', 'needn’t cook', 'didn’t need cook'], note: 'needn’t have + past participle.' },
+  { ref: '6.4', level: 'C1', text: 'You ___ me about the traffic! I’ve been in the car for three hours.', cue: 'might / warn', answer: ['might have warned'], wrong: ['might warn', 'might warned', 'might have warn'], note: 'Irritation: might have + past participle.' },
+];

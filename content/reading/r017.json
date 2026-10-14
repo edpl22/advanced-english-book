@@ -1,0 +1,260 @@
+{
+ "id": "r017",
+ "title": "Learning English on the Way to Work",
+ "level": "B1",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "Rafael is a nurse in a big hospital. Every day, he spends almost two hours on buses and trains: one hour to get to work and one hour to get home. For years, he used this time to sleep, look out of the window or check social media. Then, two years ago, he decided to use it to improve his English. He did not have time for a course, so he started listening to podcasts.\n\nAt first, it was difficult. He chose a podcast for native speakers about science, because he liked the topic, but the presenters spoke very fast and he understood almost nothing. \"I felt stupid,\" he remembers. \"After three days I almost gave up.\" A colleague suggested that he try podcasts made for learners. In these programmes, the presenters speak more slowly, explain difficult words and often publish a transcript, which is the full text of the episode.\n\nRafael found a method that worked for him. First, he listened to an episode without the transcript, just to understand the general idea. Then, at home, he read the transcript and wrote down five or six new words or expressions in a notebook. The next day, he listened to the same episode again on the train. \"The second time is magic,\" he says. \"Suddenly you understand things that were just noise the day before.\"\n\nTeachers say that Rafael's method is a good one. Listening to the same material several times helps learners notice how words are pronounced and connected in fast speech. Reading the transcript helps them to match sounds and written words. However, teachers also warn that listening alone is not enough. To speak well, learners also need to practise speaking, and to write well, they need to write.\n\nRafael knows this. After a year, he joined an online conversation group that meets on Saturday mornings. Now he speaks English for an hour every week with people from different countries. He also started listening to science podcasts for native speakers again — and this time he understands most of what he hears.\n\nHis advice for other learners is simple. \"Choose something you really find interesting, not just something that is good for you. If you like the topic, you will keep listening. And don't worry if you don't understand everything. Nobody does at the beginning.\"",
+ "questions": [
+  {
+   "id": "r017-q01",
+   "type": "reading",
+   "passageId": "r017",
+   "prompt": "Why did Rafael start listening to podcasts?",
+   "options": [
+    "His hospital asked him to learn English.",
+    "He wanted to use his travel time to improve his English.",
+    "He wanted to become a presenter.",
+    "He could not sleep on the bus."
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "He decided to use the two hours of travel to improve his English."
+  },
+  {
+   "id": "r017-q02",
+   "type": "reading",
+   "passageId": "r017",
+   "prompt": "What was the problem with the first podcast he chose?",
+   "options": [
+    "The presenters spoke too fast for him.",
+    "It was about a topic he did not like.",
+    "It did not have any new words.",
+    "It was too short."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“the presenters spoke very fast and he understood almost nothing”."
+  },
+  {
+   "id": "r017-q03",
+   "type": "reading",
+   "passageId": "r017",
+   "prompt": "What is a transcript, according to the text?",
+   "options": [
+    "a list of difficult words",
+    "the full text of a podcast episode",
+    "a summary written by the listener",
+    "a test at the end of a course"
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“a transcript, which is the full text of the episode”."
+  },
+  {
+   "id": "r017-q04",
+   "type": "reading",
+   "passageId": "r017",
+   "prompt": "What did Rafael do when he got home?",
+   "options": [
+    "He read the transcript and noted new words.",
+    "He listened to a new episode.",
+    "He wrote a summary of the episode.",
+    "He recorded himself speaking."
+   ],
+   "answer": 0,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "He read the transcript and wrote down new words in a notebook."
+  },
+  {
+   "id": "r017-q05",
+   "type": "reading",
+   "passageId": "r017",
+   "prompt": "What does Rafael mean by “The second time is magic”?",
+   "options": [
+    "The second episode of a podcast is always the best.",
+    "He listens to music after the podcast.",
+    "He forgets the words the second time.",
+    "He understands much more when he listens again."
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Things that were just noise become understandable."
+  },
+  {
+   "id": "r017-q06",
+   "type": "reading",
+   "passageId": "r017",
+   "prompt": "According to teachers, what is the limitation of Rafael's method?",
+   "options": [
+    "Transcripts make listening too easy.",
+    "Listening alone does not develop speaking and writing.",
+    "Listening twice is a waste of time.",
+    "Podcasts for learners are too slow."
+   ],
+   "answer": 1,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“listening alone is not enough”."
+  },
+  {
+   "id": "r017-q07",
+   "type": "reading",
+   "passageId": "r017",
+   "prompt": "What did Rafael do after a year?",
+   "options": [
+    "He started a course at a school.",
+    "He stopped listening to podcasts.",
+    "He joined an online conversation group.",
+    "He began teaching English to colleagues."
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“he joined an online conversation group”."
+  },
+  {
+   "id": "r017-q08",
+   "type": "reading",
+   "passageId": "r017",
+   "prompt": "What can be inferred about Rafael's English now?",
+   "options": [
+    "It is still at the same level.",
+    "He understands everything native speakers say.",
+    "He only understands podcasts for learners.",
+    "It has improved a lot since he started."
+   ],
+   "answer": 3,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "He now understands most of the native-speaker science podcasts."
+  },
+  {
+   "id": "r017-q09",
+   "type": "reading",
+   "passageId": "r017",
+   "prompt": "Which piece of advice does Rafael give?",
+   "options": [
+    "Always listen to podcasts for native speakers.",
+    "Read the transcript before listening.",
+    "Choose a topic that really interests you.",
+    "Stop if you do not understand everything."
+   ],
+   "answer": 2,
+   "level": "B1",
+   "difficulty": 2,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“Choose something you really find interesting”."
+  }
+ ]
+}

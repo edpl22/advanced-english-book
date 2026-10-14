@@ -1,0 +1,280 @@
+{
+ "id": "r032",
+ "title": "Reefs in Hot Water",
+ "level": "B2",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ENEM",
+  "FUVEST",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "Coral reefs cover less than one per cent of the ocean floor, yet they are home to roughly a quarter of all known marine species. They protect coastlines from waves and storms, support fishing communities and attract millions of tourists. They are also among the ecosystems most threatened by climate change.\n\nA reef is built by tiny animals called coral polyps, which produce hard skeletons of calcium carbonate. Over thousands of years, these skeletons accumulate to form enormous structures. The polyps, however, could not build reefs on their own. Living inside their tissues are microscopic algae which, like plants, use sunlight to produce food. The algae supply the coral with most of its energy and give it its colour; in return, the coral provides the algae with shelter and nutrients. This partnership is the foundation of the entire reef.\n\nThe partnership is also fragile. When the water becomes too warm — sometimes just one or two degrees above the normal summer maximum for several weeks — the coral expels the algae. Without them, the coral loses its colour and becomes white, a process known as bleaching. Bleached corals are not dead, and if temperatures return to normal quickly, the algae can return and the coral can recover. If the heat continues, however, the coral starves, and large areas of reef can die.\n\nMass bleaching events, affecting reefs across entire regions, were almost unknown before the 1980s. Since then, they have become more frequent and more severe as ocean temperatures have risen. Scientists are particularly concerned that the intervals between events are becoming too short for reefs to recover; a damaged reef may need a decade or more to regrow.\n\nRising temperatures are not the only threat. As the ocean absorbs carbon dioxide from the atmosphere, it becomes more acidic, which makes it harder for corals to build their skeletons. Pollution from agriculture, overfishing and coastal construction add further pressure.\n\nEfforts to protect reefs operate at several levels. Locally, reducing pollution and controlling fishing can make reefs more resilient. Researchers are also experimenting with growing corals in nurseries and transplanting them, and with identifying corals that tolerate heat better. These measures can help, but most scientists agree that they cannot save reefs on their own. In the long term, the future of coral reefs depends on limiting the warming of the oceans.",
+ "glossary": [
+  [
+   "polyp",
+   "a small sea animal with a tube-shaped body"
+  ],
+  [
+   "resilient",
+   "able to recover quickly from damage"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r032-q01",
+   "type": "reading",
+   "passageId": "r032",
+   "prompt": "Why does the author mention that reefs cover less than one per cent of the ocean floor?",
+   "options": [
+    "To contrast their small area with their great biological importance",
+    "To show that reefs are not very important",
+    "To explain why reefs are difficult to study",
+    "To suggest that reefs are growing"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Small area but a quarter of known marine species."
+  },
+  {
+   "id": "r032-q02",
+   "type": "reading",
+   "passageId": "r032",
+   "prompt": "What do the algae provide for the coral?",
+   "options": [
+    "Its hard skeleton",
+    "Protection from fish",
+    "Shelter from waves",
+    "Most of its energy and its colour"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 2."
+  },
+  {
+   "id": "r032-q03",
+   "type": "reading",
+   "passageId": "r032",
+   "prompt": "The relationship between coral and algae is best described as",
+   "options": [
+    "harmful to the coral",
+    "harmful to the algae",
+    "mutually beneficial",
+    "temporary and unimportant"
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Each provides something to the other."
+  },
+  {
+   "id": "r032-q04",
+   "type": "reading",
+   "passageId": "r032",
+   "prompt": "What causes coral bleaching?",
+   "options": [
+    "The coral's skeleton dissolves.",
+    "The coral expels the algae when the water is too warm.",
+    "Pollution changes the colour of the water.",
+    "Fish eat the algae."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r032-q05",
+   "type": "reading",
+   "passageId": "r032",
+   "prompt": "What is true about bleached corals?",
+   "options": [
+    "They are already dead.",
+    "They never recover.",
+    "They grow faster than before.",
+    "They can recover if temperatures return to normal quickly."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“Bleached corals are not dead.”"
+  },
+  {
+   "id": "r032-q06",
+   "type": "reading",
+   "passageId": "r032",
+   "prompt": "Why are scientists worried about the intervals between bleaching events?",
+   "options": [
+    "The events are becoming less severe.",
+    "Reefs may not have enough time to recover.",
+    "Reefs recover too quickly to be studied.",
+    "The intervals are becoming longer."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Intervals are becoming too short for reefs to recover."
+  },
+  {
+   "id": "r032-q07",
+   "type": "reading",
+   "passageId": "r032",
+   "prompt": "How does ocean acidification affect corals?",
+   "options": [
+    "It makes it harder for them to build skeletons.",
+    "It increases the number of algae.",
+    "It makes the water warmer.",
+    "It protects them from bleaching."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 5."
+  },
+  {
+   "id": "r032-q08",
+   "type": "reading",
+   "passageId": "r032",
+   "prompt": "Which of the following is NOT mentioned as a protective measure?",
+   "options": [
+    "building artificial islands",
+    "reducing pollution",
+    "growing corals in nurseries",
+    "identifying heat-tolerant corals"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Artificial islands are not mentioned."
+  },
+  {
+   "id": "r032-q09",
+   "type": "reading",
+   "passageId": "r032",
+   "prompt": "What is the main conclusion of the last paragraph?",
+   "options": [
+    "Coral nurseries can save all reefs.",
+    "Reefs will recover naturally without help.",
+    "Local measures help, but limiting ocean warming is essential.",
+    "Fishing is the main threat to reefs."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“the future of coral reefs depends on limiting the warming of the oceans”."
+  }
+ ]
+}

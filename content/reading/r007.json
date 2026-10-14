@@ -1,0 +1,280 @@
+{
+ "id": "r007",
+ "title": "Searching the Green Ocean",
+ "level": "B2",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "EsPCEx",
+  "EFOMM",
+  "AFA",
+  "EN"
+ ],
+ "text": "From the air, the Amazon rainforest looks like an endless green ocean. For search and rescue crews, this is exactly the problem. When a small aircraft goes down over the forest, or a group of travellers gets lost on a river, the people in danger may be only a few hundred metres from a helicopter and still be completely invisible. The canopy, the thick upper layer of leaves and branches, can be more than thirty metres high and hides almost everything beneath it.\n\nSearch and rescue in the region is usually a joint effort. Air force aircraft cover large areas quickly, while army units and navy patrol boats search rivers and the ground, often with the help of local communities who know the terrain far better than any map. Coordination is essential. A rescue centre divides the area into sectors, assigns each sector to a team and keeps a record of what has already been searched, so that time is not wasted covering the same ground twice.\n\nTechnology has made the task easier, but it has not solved it. Emergency beacons on aircraft send a signal by satellite when they detect a crash, which can reduce the search area from thousands of square kilometres to just a few. Thermal cameras can detect body heat, although the dense vegetation and the high temperatures of the forest often reduce their effectiveness. Survivors are therefore taught to help the searchers: to stay near the wreck, which is easier to find than a person; to make clearings or signals visible from above; and, if possible, to move towards a river, since rivers are the main roads of the region.\n\nOnce survivors are located, the rescue itself can be the most dangerous phase. Helicopters often cannot land, so rescuers are lowered by cable through gaps in the canopy, and the injured are lifted out on stretchers. Weather changes quickly: a clear afternoon can turn into a violent storm in less than an hour, forcing crews to interrupt the operation.\n\nDespite these difficulties, many operations end successfully. Crews say that the key factors are speed, good communication between services and the survivors' own discipline. As one pilot explained, \"The forest gives you very little time. The first forty-eight hours decide almost everything.\"",
+ "glossary": [
+  [
+   "canopy",
+   "the top layer of a forest, formed by leaves and branches"
+  ],
+  [
+   "beacon",
+   "a device that sends out a signal to show where something is"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r007-q01",
+   "type": "reading",
+   "passageId": "r007",
+   "prompt": "Why does the author compare the forest to an “endless green ocean”?",
+   "options": [
+    "To explain that most of the region is covered by water",
+    "To describe the colour of the rivers",
+    "To suggest that boats are better than aircraft",
+    "To show how hard it is to see anything below the trees from the air"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "People can be close to a helicopter and still be invisible."
+  },
+  {
+   "id": "r007-q02",
+   "type": "reading",
+   "passageId": "r007",
+   "prompt": "According to paragraph 2, why is the area divided into sectors?",
+   "options": [
+    "To give each service its own territory",
+    "To avoid searching the same place twice",
+    "To protect local communities",
+    "To make maps more accurate"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“so that time is not wasted covering the same ground twice”."
+  },
+  {
+   "id": "r007-q03",
+   "type": "reading",
+   "passageId": "r007",
+   "prompt": "Local communities are important in searches because",
+   "options": [
+    "they own most of the boats",
+    "they control the rescue centre",
+    "they have the best technology",
+    "they know the land very well"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“who know the terrain far better than any map”."
+  },
+  {
+   "id": "r007-q04",
+   "type": "reading",
+   "passageId": "r007",
+   "prompt": "What is the main advantage of emergency beacons?",
+   "options": [
+    "They detect the body heat of survivors.",
+    "They allow survivors to speak to rescuers.",
+    "They make the search area much smaller.",
+    "They help helicopters land in the forest."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "They reduce the search area to just a few square kilometres."
+  },
+  {
+   "id": "r007-q05",
+   "type": "reading",
+   "passageId": "r007",
+   "prompt": "Why are thermal cameras less effective in the forest?",
+   "options": [
+    "Because they do not work at night",
+    "Because of thick vegetation and high temperatures",
+    "Because helicopters cannot carry them",
+    "Because the rivers reflect the heat"
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“the dense vegetation and the high temperatures … reduce their effectiveness”."
+  },
+  {
+   "id": "r007-q06",
+   "type": "reading",
+   "passageId": "r007",
+   "prompt": "Which piece of advice for survivors is NOT given in the text?",
+   "options": [
+    "Stay near the wreck.",
+    "Make signals that can be seen from above.",
+    "Move towards a river if possible.",
+    "Climb the tallest tree to look for help."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Climbing trees is not mentioned."
+  },
+  {
+   "id": "r007-q07",
+   "type": "reading",
+   "passageId": "r007",
+   "prompt": "The word “phase” in paragraph 4 is closest in meaning to",
+   "options": [
+    "stage",
+    "team",
+    "decision",
+    "accident"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The rescue itself is a stage of the operation."
+  },
+  {
+   "id": "r007-q08",
+   "type": "reading",
+   "passageId": "r007",
+   "prompt": "Why do rescuers often have to be lowered by cable?",
+   "options": [
+    "The cable is faster than walking.",
+    "The survivors are on a river.",
+    "Helicopters are often unable to land.",
+    "The weather is always stormy."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“Helicopters often cannot land”."
+  },
+  {
+   "id": "r007-q09",
+   "type": "reading",
+   "passageId": "r007",
+   "prompt": "What does the pilot mean in the last paragraph?",
+   "options": [
+    "The early part of a search is the most important.",
+    "Rescues always take more than two days.",
+    "The forest is less dangerous than people think.",
+    "Survivors should wait two days before moving."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“The first forty-eight hours decide almost everything.”"
+  }
+ ]
+}

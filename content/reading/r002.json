@@ -1,0 +1,270 @@
+{
+ "id": "r002",
+ "title": "Why Languages Borrow Words",
+ "level": "C1",
+ "style": "academic",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "TOEFL",
+  "IELTS",
+  "CAE",
+  "FUVEST"
+ ],
+ "text": "No language is an island. Whenever communities come into contact — through trade, conquest, migration or, more recently, mass media — words travel between them. Linguists call these travelling words loanwords, although the term is misleading: nothing is ever given back. English, which has absorbed vocabulary from more than three hundred languages, is an extreme case, but the process is universal. Portuguese owes açúcar and almofada to Arabic, while English owes its veranda, its palaver and its albatross to Portuguese.\n\nWhy are some words borrowed and others not? The most common explanation is need. When speakers encounter a new object, institution or idea, they often adopt the name that comes with it. This explains why words for foods, plants and animals of the Americas — tomato, chocolate, jaguar — spread across Europe with the products themselves. Such \"necessary\" borrowings fill a gap in the receiving language.\n\nNeed alone, however, cannot account for the many loanwords that duplicate existing vocabulary. After the Norman Conquest, English already had perfectly good words for ask, help and freedom, yet it acquired question, aid and liberty from French. Here the driving force was prestige. For three centuries French was the language of the court, the law and the Church's administration, and using French words signalled education and status. The result is a vocabulary in which near-synonyms often differ in register: a Germanic word for everyday use and a Romance one for formal occasions.\n\nBorrowed words rarely remain unchanged. They are usually adapted to the sounds and grammar of the receiving language, and their meanings may narrow, widen or shift. The English word fetish, from Portuguese feitiço, has travelled far from its original sense of \"charm\" or \"sorcery\". Over time, many loanwords become so well integrated that speakers no longer perceive them as foreign at all.\n\nAttitudes towards borrowing vary considerably. Some countries have created official bodies to propose native alternatives to foreign terms, especially in technology. Others accept new words with little resistance. Linguists generally regard borrowing not as a threat but as evidence of a language's vitality: a sign that its speakers are participating in the wider world.",
+ "questions": [
+  {
+   "id": "r002-q01",
+   "type": "reading",
+   "passageId": "r002",
+   "prompt": "Why does the author describe the term “loanword” as misleading?",
+   "options": [
+    "Because the borrowed words are never returned",
+    "Because most loanwords are very old",
+    "Because English has too many of them",
+    "Because linguists rarely use it"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“nothing is ever given back”."
+  },
+  {
+   "id": "r002-q02",
+   "type": "reading",
+   "passageId": "r002",
+   "prompt": "According to paragraph 2, words such as tomato and chocolate were borrowed mainly because",
+   "options": [
+    "they were considered prestigious",
+    "they named new products that arrived in Europe",
+    "French speakers introduced them",
+    "they were easier to pronounce"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Necessary borrowings: the name came with the product."
+  },
+  {
+   "id": "r002-q03",
+   "type": "reading",
+   "passageId": "r002",
+   "prompt": "The word “duplicate” in paragraph 3 is closest in meaning to",
+   "options": [
+    "replace",
+    "explain",
+    "repeat what already exists",
+    "translate"
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Loanwords that duplicate existing vocabulary = words for which English already had an equivalent."
+  },
+  {
+   "id": "r002-q04",
+   "type": "reading",
+   "passageId": "r002",
+   "prompt": "What can be inferred about the pairs ask/question and help/aid?",
+   "options": [
+    "The French words are older.",
+    "They have exactly the same meaning and register.",
+    "The Germanic words are used only in writing.",
+    "The French words tend to be more formal."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“a Germanic word for everyday use and a Romance one for formal occasions”."
+  },
+  {
+   "id": "r002-q05",
+   "type": "reading",
+   "passageId": "r002",
+   "prompt": "Why does the author mention the word fetish?",
+   "options": [
+    "To illustrate how a borrowed word's meaning can change",
+    "To show that Portuguese borrowed from English",
+    "To criticise unnecessary borrowing",
+    "To explain the Norman Conquest"
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“has travelled far from its original sense”."
+  },
+  {
+   "id": "r002-q06",
+   "type": "reading",
+   "passageId": "r002",
+   "prompt": "Which of the following is NOT given as a cause of contact between languages?",
+   "options": [
+    "trade",
+    "religious conversion",
+    "migration",
+    "mass media"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The text lists trade, conquest, migration and mass media."
+  },
+  {
+   "id": "r002-q07",
+   "type": "reading",
+   "passageId": "r002",
+   "prompt": "According to the passage, how do linguists generally view borrowing?",
+   "options": [
+    "As a danger to national identity",
+    "As a temporary fashion",
+    "As a sign that a language is alive",
+    "As a problem limited to technology"
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“evidence of a language's vitality”."
+  },
+  {
+   "id": "r002-q08",
+   "type": "reading",
+   "passageId": "r002",
+   "prompt": "The word “them” in paragraph 1 (“words travel between them”) refers to",
+   "options": [
+    "linguists",
+    "loanwords",
+    "words",
+    "communities"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Words travel between communities."
+  },
+  {
+   "id": "r002-q09",
+   "type": "reading",
+   "passageId": "r002",
+   "prompt": "What is the main idea of the passage?",
+   "options": [
+    "Borrowing is a universal process driven mainly by need and prestige.",
+    "English has borrowed more words than any other language.",
+    "Official bodies should control borrowing.",
+    "Most loanwords keep their original meaning."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "TOEFL",
+    "IELTS",
+    "CAE",
+    "FUVEST"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The passage explains why and how languages borrow."
+  }
+ ]
+}

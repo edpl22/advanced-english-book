@@ -1,0 +1,1829 @@
+{
+ "topic": "inversion",
+ "batch": 1,
+ "title": "Inversion and emphasis — C1–C2",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "inv-001-01",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "23.1",
+   "type": "mcq",
+   "explanation": "Never before + auxiliary + subject.",
+   "prompt": "Never before ___ such a large crowd in this square.",
+   "options": [
+    "had I seen",
+    "I had seen",
+    "I saw",
+    "did I saw"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "inv-001-02",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "23.4",
+   "type": "mcq",
+   "explanation": "nor + auxiliary (be) + subject.",
+   "prompt": "I’m not hungry. — Nor ___ I.",
+   "options": [
+    "do",
+    "am",
+    "have",
+    "is"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "inv-001-03",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "23.4",
+   "type": "mcq",
+   "explanation": "so + auxiliary + subject.",
+   "prompt": "She can speak French, and so ___ her brother.",
+   "options": [
+    "does",
+    "is",
+    "can",
+    "has"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "inv-001-04",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "23.1",
+   "type": "mcq",
+   "explanation": "Seldom + have + subject.",
+   "prompt": "Seldom ___ such a generous offer.",
+   "options": [
+    "I have received",
+    "I received",
+    "did I received",
+    "have I received"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "inv-001-05",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "23.2",
+   "type": "mcq",
+   "explanation": "No sooner had + subject + past participle… than.",
+   "prompt": "No sooner ___ the house than it started to snow.",
+   "options": [
+    "had we left",
+    "we had left",
+    "did we leave",
+    "we left"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "inv-001-06",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "23.3",
+   "type": "mcq",
+   "explanation": "Inversion in the main clause.",
+   "prompt": "Only after the results were published ___ the scale of the problem.",
+   "options": [
+    "we understood",
+    "did we understand",
+    "we did understand",
+    "understood we"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "inv-001-07",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "23.4",
+   "type": "mcq",
+   "explanation": "Should + subject = if.",
+   "prompt": "___ you require further information, please contact our office.",
+   "options": [
+    "Would",
+    "Had",
+    "Should",
+    "Were"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "inv-001-08",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "23.1",
+   "type": "mcq",
+   "explanation": "At no point + auxiliary + subject.",
+   "prompt": "At no point ___ that the bridge was unsafe.",
+   "options": [
+    "we were told",
+    "told we were",
+    "we told",
+    "were we told"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "inv-001-09",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "23.2",
+   "type": "mcq",
+   "explanation": "Not only + did + subject.",
+   "prompt": "Not only ___ late, but she also forgot the tickets.",
+   "options": [
+    "did she arrive",
+    "she arrived",
+    "arrived she",
+    "she did arrive"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "inv-001-10",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.4",
+   "type": "mcq",
+   "explanation": "Had it not been for = If it hadn’t been for.",
+   "prompt": "___ it not been for the scholarship, she could never have studied abroad.",
+   "options": [
+    "Were",
+    "Had",
+    "Should",
+    "If"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "inv-001-11",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.3",
+   "type": "mcq",
+   "explanation": "Little did + subject + verb.",
+   "prompt": "Little ___ that her life was about to change for ever.",
+   "options": [
+    "she suspected",
+    "she did suspect",
+    "did she suspect",
+    "suspected she"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "inv-001-12",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.4",
+   "type": "mcq",
+   "explanation": "So + adjective + be + subject.",
+   "prompt": "So severe ___ that schools were closed for a week.",
+   "options": [
+    "the flooding was",
+    "did the flooding",
+    "the flooding had",
+    "was the flooding"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "inv-001-13",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.4",
+   "type": "mcq",
+   "explanation": "Such + be + noun phrase.",
+   "prompt": "Such ___ his anger that nobody dared to speak.",
+   "options": [
+    "was",
+    "did",
+    "had",
+    "were"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "inv-001-14",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.1",
+   "type": "mcq",
+   "explanation": "Under no circumstances + be + subject.",
+   "prompt": "Under no circumstances ___ to leave the room during the exam.",
+   "options": [
+    "candidates are allowed",
+    "are candidates allowed",
+    "candidates allowed",
+    "do candidates allowed"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "inv-001-15",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.2",
+   "type": "mcq",
+   "explanation": "Hardly had + subject + past participle… when.",
+   "prompt": "Hardly ___ the stage when the audience started cheering.",
+   "options": [
+    "the band had taken",
+    "did the band take",
+    "had the band taken",
+    "the band took"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "inv-001-16",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.3",
+   "type": "mcq",
+   "explanation": "Not until + time, then inversion.",
+   "prompt": "Not until the following morning ___ the damage.",
+   "options": [
+    "they discovered",
+    "discovered they",
+    "they did discover",
+    "did they discover"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "inv-001-17",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.4",
+   "type": "mcq",
+   "explanation": "Were + subject + to-infinitive.",
+   "prompt": "___ to resign, who would replace him?",
+   "options": [
+    "Were he",
+    "Was he",
+    "Had he",
+    "Should he to"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "inv-001-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.4",
+   "type": "mcq",
+   "explanation": "Adverb of direction + full verb + noun subject.",
+   "prompt": "Down ___, and we had to run for shelter.",
+   "options": [
+    "did the rain come",
+    "came the rain",
+    "the rain did come",
+    "rain came the"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "inv-001-19",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "23.1",
+   "type": "gap",
+   "explanation": "Present simple: do + subject.",
+   "prompt": "Rarely ___ we see such talent in a young player.",
+   "acceptedAnswers": [
+    "do"
+   ]
+  },
+  {
+   "id": "inv-001-20",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "23.1",
+   "type": "gap",
+   "explanation": "Not once + did + subject.",
+   "prompt": "Not once ___ he say thank you.",
+   "acceptedAnswers": [
+    "did"
+   ]
+  },
+  {
+   "id": "inv-001-21",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "23.1",
+   "type": "gap",
+   "explanation": "In no way + modal + subject.",
+   "prompt": "In no ___ can the company be held responsible.",
+   "acceptedAnswers": [
+    "way"
+   ]
+  },
+  {
+   "id": "inv-001-22",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "23.2",
+   "type": "gap",
+   "explanation": "scarcely… when.",
+   "prompt": "Scarcely had the meeting begun ___ the fire alarm went off.",
+   "acceptedAnswers": [
+    "when",
+    "before"
+   ]
+  },
+  {
+   "id": "inv-001-23",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "23.3",
+   "type": "gap",
+   "explanation": "Only after + clause.",
+   "prompt": "Only ___ I had read the contract did I understand the risks.",
+   "acceptedAnswers": [
+    "after",
+    "when",
+    "once"
+   ]
+  },
+  {
+   "id": "inv-001-24",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.4",
+   "type": "gap",
+   "explanation": "Were + subject + to-infinitive.",
+   "prompt": "___ I to win the lottery, I would buy a farm.",
+   "acceptedAnswers": [
+    "Were"
+   ]
+  },
+  {
+   "id": "inv-001-25",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.4",
+   "type": "gap",
+   "explanation": "So + adjective + be + subject.",
+   "prompt": "So ___ was the noise that we couldn’t sleep.",
+   "acceptedAnswers": [
+    "loud",
+    "great",
+    "intense",
+    "terrible",
+    "bad",
+    "deafening"
+   ]
+  },
+  {
+   "id": "inv-001-26",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.1",
+   "type": "gap",
+   "explanation": "Nowhere + be + subject.",
+   "prompt": "Nowhere ___ the problem more obvious than in our schools.",
+   "acceptedAnswers": [
+    "is"
+   ]
+  },
+  {
+   "id": "inv-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.4",
+   "type": "gap",
+   "explanation": "Inverted third conditional.",
+   "prompt": "Had I ___ about the risks, I would never have invested.",
+   "acceptedAnswers": [
+    "known"
+   ]
+  },
+  {
+   "id": "inv-001-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.1",
+   "type": "gap",
+   "explanation": "On no account + modal + subject.",
+   "prompt": "On no account ___ the doors be opened before the train stops.",
+   "acceptedAnswers": [
+    "should",
+    "must",
+    "may",
+    "can",
+    "will"
+   ]
+  },
+  {
+   "id": "inv-001-29",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "23.1",
+   "type": "kwt",
+   "explanation": "Rarely + have + subject.",
+   "first": "I have rarely heard such a beautiful voice.",
+   "keyword": "RARELY",
+   "before": "",
+   "after": "such a beautiful voice.",
+   "acceptedAnswers": [
+    "Rarely have I heard"
+   ]
+  },
+  {
+   "id": "inv-001-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "23.4",
+   "type": "kwt",
+   "explanation": "Should + subject = if.",
+   "first": "If you need any assistance, ask a member of staff.",
+   "keyword": "SHOULD",
+   "before": "",
+   "after": "any assistance, ask a member of staff.",
+   "acceptedAnswers": [
+    "Should you need",
+    "Should you require"
+   ]
+  },
+  {
+   "id": "inv-001-31",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.3",
+   "type": "kwt",
+   "explanation": "Not until + clause.",
+   "first": "We only realised what had happened when we got home.",
+   "keyword": "UNTIL",
+   "before": "Not",
+   "after": "home did we realise what had happened.",
+   "acceptedAnswers": [
+    "until we got",
+    "until we arrived"
+   ]
+  },
+  {
+   "id": "inv-001-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.3",
+   "type": "kwt",
+   "explanation": "Little did + subject.",
+   "first": "She had no idea that she was being followed.",
+   "keyword": "LITTLE",
+   "before": "",
+   "after": "that she was being followed.",
+   "acceptedAnswers": [
+    "Little did she know",
+    "Little did she realise",
+    "Little did she realize",
+    "Little did she suspect"
+   ]
+  },
+  {
+   "id": "inv-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.4",
+   "type": "kwt",
+   "explanation": "So + adjective + be + subject.",
+   "first": "The storm was so violent that trees were uprooted.",
+   "keyword": "VIOLENT",
+   "before": "So",
+   "after": "that trees were uprooted.",
+   "acceptedAnswers": [
+    "violent was the storm"
+   ]
+  },
+  {
+   "id": "inv-001-34",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "23.1",
+   "type": "error-correction",
+   "explanation": "Never + auxiliary + subject.",
+   "parts": [
+    "Never ",
+    {
+     "u": "I have"
+    },
+    " felt so ",
+    {
+     "u": "proud"
+    },
+    " of my students."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "have I"
+   ]
+  },
+  {
+   "id": "inv-001-35",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "23.2",
+   "type": "error-correction",
+   "explanation": "Not only + did + subject.",
+   "parts": [
+    "Not only ",
+    {
+     "u": "he forgot"
+    },
+    " my birthday, but he also ",
+    {
+     "u": "lost"
+    },
+    " the present."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "did he forget"
+   ]
+  },
+  {
+   "id": "inv-001-36",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "23.2",
+   "type": "error-correction",
+   "explanation": "no sooner… than.",
+   "parts": [
+    "No sooner had the plane ",
+    {
+     "u": "landed"
+    },
+    " ",
+    {
+     "u": "when"
+    },
+    " the storm began."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "than"
+   ]
+  },
+  {
+   "id": "inv-001-37",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.3",
+   "type": "error-correction",
+   "explanation": "Inversion in the main clause.",
+   "parts": [
+    "Only when the police ",
+    {
+     "u": "arrived"
+    },
+    " ",
+    {
+     "u": "the thieves ran"
+    },
+    " away."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "did the thieves run"
+   ]
+  },
+  {
+   "id": "inv-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.4",
+   "type": "error-correction",
+   "explanation": "Negative inverted conditional: Had she not…",
+   "parts": [
+    {
+     "u": "Hadn’t she"
+    },
+    " warned us, we ",
+    {
+     "u": "would have"
+    },
+    " been in serious trouble."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "Had she not",
+    "If she hadn’t",
+    "If she had not"
+   ]
+  },
+  {
+   "id": "inv-001-39",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "23.1",
+   "type": "word-order",
+   "explanation": "Rarely + have + subject.",
+   "fragments": [
+    "Rarely",
+    "have",
+    "I",
+    "seen",
+    "such",
+    "a",
+    "beautiful beach."
+   ],
+   "acceptedAnswers": [
+    "Rarely have I seen such a beautiful beach."
+   ]
+  },
+  {
+   "id": "inv-001-40",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.3",
+   "type": "word-order",
+   "explanation": "Only + prepositional phrase + inversion.",
+   "fragments": [
+    "Only",
+    "with",
+    "patience",
+    "will",
+    "you",
+    "master",
+    "this skill."
+   ],
+   "acceptedAnswers": [
+    "Only with patience will you master this skill."
+   ]
+  },
+  {
+   "id": "inv-001-41",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.4",
+   "type": "word-order",
+   "explanation": "Were it not for = If it weren’t for.",
+   "fragments": [
+    "Were",
+    "it",
+    "not",
+    "for",
+    "her help,",
+    "we",
+    "would be lost."
+   ],
+   "acceptedAnswers": [
+    "Were it not for her help, we would be lost."
+   ]
+  },
+  {
+   "id": "inv-001-42",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "23.2",
+   "type": "matching",
+   "explanation": "Correlative patterns.",
+   "prompt": "Match each beginning with its ending.",
+   "left": [
+    "Hardly had we sat down",
+    "No sooner had we sat down",
+    "Not only did they win,",
+    "Only when we sat down",
+    "Little did we know"
+   ],
+   "right": [
+    "did we notice the broken chair.",
+    "when the phone rang.",
+    "what was waiting for us.",
+    "than the phone rang.",
+    "but they also broke the record.",
+    "we noticed the broken chair."
+   ],
+   "answer": [
+    1,
+    3,
+    4,
+    0,
+    2
+   ]
+  },
+  {
+   "id": "inv-001-43",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "23.4",
+   "type": "matching",
+   "explanation": "Inverted conditionals.",
+   "prompt": "Match each inverted clause with its meaning.",
+   "left": [
+    "Had I known…",
+    "Were I you…",
+    "Should you see her…",
+    "Were they to fail…",
+    "Had it not been for you…"
+   ],
+   "right": [
+    "If they failed…",
+    "If I had known…",
+    "If you see her…",
+    "If you hadn’t been there…",
+    "If I were you…",
+    "If I knew…"
+   ],
+   "answer": [
+    1,
+    4,
+    2,
+    0,
+    3
+   ]
+  },
+  {
+   "id": "inv-001-44",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.1",
+   "type": "matching",
+   "explanation": "Neutral and emphatic word order.",
+   "prompt": "Match each neutral sentence with its inverted version.",
+   "left": [
+    "I have never seen such a mess.",
+    "As soon as I arrived, it rained.",
+    "I didn’t understand until later.",
+    "The wind was so strong that…",
+    "The demand was so great that…"
+   ],
+   "right": [
+    "Not until later did I understand.",
+    "So strong was the wind that…",
+    "Never have I seen such a mess.",
+    "Such was the demand that…",
+    "No sooner had I arrived than it rained.",
+    "Little did I understand."
+   ],
+   "answer": [
+    2,
+    4,
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "inv-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.1",
+   "type": "matching",
+   "explanation": "Understanding inversion.",
+   "prompt": "Match each formal sentence with its neutral meaning.",
+   "left": [
+    "On no account must you sign it.",
+    "Little did they know.",
+    "Rarely does it snow here.",
+    "Such was his anger that he left.",
+    "Not a word did she say."
+   ],
+   "right": [
+    "She said nothing at all.",
+    "You must not sign it under any circumstances.",
+    "He was so angry that he left.",
+    "They had no idea.",
+    "It hardly ever snows here.",
+    "It often snows here."
+   ],
+   "answer": [
+    1,
+    3,
+    4,
+    2,
+    0
+   ]
+  },
+  {
+   "id": "inv-001-46",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "23.1",
+   "type": "open-cloze",
+   "explanation": "Inversion in an informal but emphatic narrative.",
+   "title": "The holiday from hell",
+   "text": "Never [1] I been so glad to get home. No sooner [2] we arrived at the hotel than we discovered that our room had been given to someone else. Not only [3] the manager refuse to apologise, but he also asked us to pay extra for a smaller room. Hardly had we unpacked [4] the electricity went off. Only after we [5] complained three times did someone come to fix it. Little [6] we know that the worst was yet to come: the next day, the beach was closed because of pollution. Rarely [7] I felt so frustrated. Had we [8] the reviews, we would never have booked it. Under no circumstances [9] we go back. So bad [10] the experience that we now always read reviews first.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "have"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "did"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "when",
+      "before"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "did"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "have"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "read",
+      "checked",
+      "seen"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "will",
+      "would",
+      "shall"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "was"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "inv-001-47",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.2",
+   "type": "open-cloze",
+   "explanation": "Inversion for emphasis in a tribute.",
+   "title": "An inspiring teacher",
+   "text": "Seldom [1] a teacher had such an influence on a whole generation. Not [2] did she teach us grammar, but she also taught us to think. At no time [3] she make us feel stupid for asking questions. Only years later [4] I appreciate how much effort she put into every lesson. So great [5] her enthusiasm that even the laziest students worked hard. [6] it not been for her, I would never have become a teacher myself. Nowhere [7] her influence more visible than in the number of former students who now teach. Should you ever [8] her, please tell her how grateful we are. Little [9] she realise, when she started, how many lives she would change. Rarely, if [10], does one person make such a difference.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "has"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "only"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "did"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "did"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "was"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "Had"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "is"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "meet",
+      "see"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "did"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "ever"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "inv-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.1",
+   "type": "open-cloze",
+   "explanation": "Inversion in formal instructions.",
+   "title": "Safety on board",
+   "text": "Under no circumstances [1] passengers leave their seats while the aircraft is taxiing. Should the cabin lose pressure, oxygen masks [2] drop automatically. On no [3] should you inflate your life jacket inside the aircraft. Only when instructed by the crew [4] you leave the aircraft. Not until the engines have stopped [5] the doors be opened. Were the aircraft [6] land on water, life rafts would be released. Nowhere on board [7] smoking permitted. Not [8] must electronic devices be switched to flight mode, but they [9] also be stowed during landing. Should you have any questions, please ask a member [10] the crew.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "should",
+      "must",
+      "may",
+      "can"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "will"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "account"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "should",
+      "may",
+      "can",
+      "must"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "will",
+      "can",
+      "may",
+      "should"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "to"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "is"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "only"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "must",
+      "should"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "of"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "inv-001-49",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "23.2",
+   "type": "mc-cloze",
+   "explanation": "Choosing the auxiliary after a fronted expression.",
+   "title": "A difficult decision",
+   "text": "Rarely [1] the board faced such a difficult choice. Not only [2] sales fallen for three years, but the main competitor had also cut its prices. Only by closing the factory [3] the company survive, the directors believed. Little [4] they expect the reaction that followed. No sooner [5] the decision been announced than the workers went on strike. Never [6] the town seen such protests. Had the board [7] the workers earlier, the crisis might have been avoided. So strong [8] the opposition that the plan was finally abandoned.",
+   "gaps": [
+    {
+     "options": [
+      "did",
+      "was",
+      "had",
+      "has been"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "did",
+      "were",
+      "have",
+      "had"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "could",
+      "is",
+      "had",
+      "was"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "had",
+      "did",
+      "were",
+      "have"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "did",
+      "was",
+      "had",
+      "has"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "did",
+      "was",
+      "has been",
+      "had"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "consulted",
+      "consult",
+      "consulting",
+      "to consult"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "did",
+      "was",
+      "had",
+      "were"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "inv-001-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "inversion"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "23.1",
+   "type": "mc-cloze",
+   "explanation": "Inversion in a formal letter.",
+   "title": "A letter of complaint",
+   "text": "Dear Sir, Never before [1] I been treated so rudely in a shop. Not only [2] your assistant ignore me for twenty minutes, but she also refused to give me a receipt. At no point [3] she apologise. [4] I not needed the item urgently, I would have left immediately. Only after I [5] to speak to the manager did anyone help me. [6] you wish to discuss this, I can be contacted at the address above. Under no circumstances [7] I shop there again unless I receive an explanation. Seldom [8] I felt the need to write a letter like this.",
+   "gaps": [
+    {
+     "options": [
+      "had",
+      "did",
+      "have",
+      "was"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "had",
+      "was",
+      "does",
+      "did"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "did",
+      "had",
+      "was",
+      "has"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "If",
+      "Had",
+      "Were",
+      "Should"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "ask",
+      "had ask",
+      "asked",
+      "asking"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "If you",
+      "Had",
+      "Would",
+      "Should"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "will",
+      "am",
+      "had",
+      "have"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "am",
+      "have",
+      "did",
+      "was"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,324 @@
+{
+ "id": "r055",
+ "title": "Friction",
+ "level": "C2",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "ITA",
+  "IME",
+  "EN"
+ ],
+ "text": "Among the concepts bequeathed to military thought by the Prussian general and theorist Carl von Clausewitz, few have proved as durable as that of friction. In war, Clausewitz observed, everything is simple, yet even the simplest thing is hard to do. These small difficulties pile up, he argued, generating a resistance that only those who have known war can fully appreciate. A plan that appears straightforward on a map — a march, a crossing, a coordinated attack — encounters in execution a multitude of small obstacles: a messenger delayed, a road turned to mud, an order misunderstood, a unit exhausted. None is decisive in itself; together they can bring the most carefully designed operation to a halt.\n\nClausewitz's insight was not merely that things go wrong, which any soldier knows, but that friction is intrinsic to war rather than incidental to it. It cannot be eliminated by better planning, because it arises from the interaction of countless independent factors — weather, terrain, fatigue, fear, chance and the deliberate opposition of an enemy that is itself trying to impose friction. Closely related is the uncertainty often summarised, though not in his precise words, as the \"fog of war\": much of the information on which decisions in war are based is contradictory, false or simply absent.\n\nIt was widely hoped, in the closing decades of the twentieth century, that technology would finally lift this fog. Satellite surveillance, precision weapons and networked communications seemed to promise commanders an almost complete picture of the battlefield, transmitted in real time. Some enthusiasts spoke of achieving \"information dominance\", in which uncertainty would be reduced to a manageable residue. Experience has tempered these expectations. Technology has undoubtedly transformed what commanders can see and how quickly they can act, but it has also generated new forms of friction: an overwhelming volume of data that must be filtered and interpreted, dependence on networks vulnerable to disruption, and the temptation for senior commanders, able to watch events from afar, to intervene in decisions better left to those on the spot.\n\nIf friction cannot be abolished, it must be absorbed. Military institutions have developed a range of responses. Realistic training that exposes units to unexpected difficulties is perhaps the most important, since it accustoms them to working through friction rather than being paralysed by it. Simplicity in plans is another, since every additional dependency is an additional point of failure. Equally significant is a philosophy of command that conveys to subordinates not only what they are to do but why, so that when circumstances change — as they invariably will — they can act in accordance with the commander's intent without waiting for new orders that may never arrive.\n\nClausewitz himself was sceptical of any theory that promised certainty in war, and in this respect his thought remains a salutary corrective to technological optimism. The lesson extends beyond the battlefield. Any complex undertaking involving human beings, uncertain information and an adaptive environment will encounter its own friction. The wise planner does not assume it away, but builds in the margin, flexibility and trust required to overcome it.",
+ "glossary": [
+  [
+   "bequeath",
+   "to pass something on to people who come later"
+  ],
+  [
+   "salutary",
+   "having a good effect, though perhaps unwelcome"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r055-q01",
+   "type": "reading",
+   "passageId": "r055",
+   "prompt": "What does Clausewitz mean by saying that in war “even the simplest thing is hard to do”?",
+   "options": [
+    "Small obstacles accumulate and make even simple actions hard to carry out.",
+    "War requires very complex plans.",
+    "Soldiers are poorly trained.",
+    "Simple plans always fail."
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Friction: accumulated small difficulties."
+  },
+  {
+   "id": "r055-q02",
+   "type": "reading",
+   "passageId": "r055",
+   "prompt": "According to paragraph 2, what was Clausewitz's key insight?",
+   "options": [
+    "Things often go wrong in war.",
+    "Better planning can eliminate friction.",
+    "Friction is an inherent part of war, not an occasional accident.",
+    "Friction affects only the weaker side."
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“friction is intrinsic to war rather than incidental to it”."
+  },
+  {
+   "id": "r055-q03",
+   "type": "reading",
+   "passageId": "r055",
+   "prompt": "Why, according to the passage, can friction not be eliminated by better planning?",
+   "options": [
+    "Planners are usually inexperienced.",
+    "It results from the interaction of many independent factors, including an opposing enemy.",
+    "Plans are kept secret from soldiers.",
+    "War is always fought in bad weather."
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 2."
+  },
+  {
+   "id": "r055-q04",
+   "type": "reading",
+   "passageId": "r055",
+   "prompt": "What does the author say about the phrase “fog of war”?",
+   "options": [
+    "It was invented by modern technologists.",
+    "Clausewitz used it in every chapter.",
+    "It summarises Clausewitz's idea but is not his exact wording.",
+    "It refers only to weather conditions."
+   ],
+   "answer": 2,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“though not in his precise words”."
+  },
+  {
+   "id": "r055-q05",
+   "type": "reading",
+   "passageId": "r055",
+   "prompt": "What hope did some people have in the late twentieth century?",
+   "options": [
+    "That wars would no longer be fought.",
+    "That technology would almost eliminate uncertainty in war.",
+    "That Clausewitz's ideas would become popular.",
+    "That networks would replace soldiers."
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Technology would lift the fog."
+  },
+  {
+   "id": "r055-q06",
+   "type": "reading",
+   "passageId": "r055",
+   "prompt": "The word “tempered” in paragraph 3 is closest in meaning to",
+   "options": [
+    "confirmed",
+    "increased",
+    "destroyed",
+    "moderated"
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Experience has moderated expectations."
+  },
+  {
+   "id": "r055-q07",
+   "type": "reading",
+   "passageId": "r055",
+   "prompt": "Which new form of friction created by technology is mentioned?",
+   "options": [
+    "Soldiers refusing to use new equipment",
+    "A shortage of satellites",
+    "The high cost of training",
+    "Senior commanders interfering in decisions from far away"
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The temptation to intervene in decisions better left to those on the spot."
+  },
+  {
+   "id": "r055-q08",
+   "type": "reading",
+   "passageId": "r055",
+   "prompt": "Why does the author recommend simplicity in plans?",
+   "options": [
+    "Simple plans are cheaper to produce.",
+    "Soldiers cannot understand complex plans.",
+    "Enemies are confused by simple plans.",
+    "Each additional dependency creates another possible point of failure."
+   ],
+   "answer": 3,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r055-q09",
+   "type": "reading",
+   "passageId": "r055",
+   "prompt": "What is the purpose of explaining “why” as well as “what” to subordinates?",
+   "options": [
+    "To enable them to act sensibly when circumstances change",
+    "To make orders longer and more detailed",
+    "To check that they are loyal",
+    "To reduce the commander's responsibility"
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "They can act in accordance with the commander's intent."
+  },
+  {
+   "id": "r055-q10",
+   "type": "reading",
+   "passageId": "r055",
+   "prompt": "How does the author regard Clausewitz's scepticism?",
+   "options": [
+    "As a useful corrective to excessive faith in technology",
+    "As outdated and irrelevant",
+    "As an obstacle to modern innovation",
+    "As a purely theoretical idea"
+   ],
+   "answer": 0,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“a salutary corrective to technological optimism”."
+  },
+  {
+   "id": "r055-q11",
+   "type": "reading",
+   "passageId": "r055",
+   "prompt": "What broader lesson does the final paragraph draw?",
+   "options": [
+    "Only military planners need to consider friction.",
+    "Any complex human undertaking must be planned with friction in mind.",
+    "Friction can be eliminated in civilian life.",
+    "Planning is pointless because of friction."
+   ],
+   "answer": 1,
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "ITA",
+    "IME",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The wise planner builds in margin, flexibility and trust."
+  }
+ ]
+}

@@ -1,0 +1,280 @@
+{
+ "id": "r051",
+ "title": "Where Ships Go to Die",
+ "level": "C1",
+ "style": "general",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "FUVEST",
+  "CAE",
+  "TOEFL",
+  "IELTS"
+ ],
+ "text": "A large merchant ship typically has a working life of around twenty-five to thirty years. When it becomes too old, too expensive to maintain or simply unprofitable, it must be disposed of. The overwhelming majority of the world's end-of-life ships are not sunk or abandoned but dismantled, and their steel is recycled. In principle, this is an environmentally sound practice: a single large vessel can yield thousands of tonnes of reusable steel. In practice, the industry has long been associated with some of the most hazardous working conditions in the world.\n\nMuch of the global shipbreaking industry is concentrated on a few stretches of coastline in South Asia, notably in Bangladesh, India and Pakistan. There, ships are often driven at high tide directly onto tidal beaches, a method known as beaching, and then cut apart by hand. The economic logic is compelling: labour is inexpensive, the demand for steel in the local construction industry is high, and the yards can usually pay shipowners considerably more for a vessel than facilities elsewhere.\n\nThe human and environmental costs, however, have been severe. Workers, many of them migrants from poorer regions and some of them very young, have traditionally cut through steel with torches, often without adequate protective equipment. Explosions caused by residual fuel or gas, falling sections of steel and exposure to toxic substances have caused numerous deaths and injuries. Older ships may contain asbestos, heavy metals and other hazardous materials, and on a tidal beach residues can be washed directly into the sea, damaging coastal ecosystems and the livelihoods of fishing communities.\n\nPressure for reform has come from several directions. Campaign groups have documented accidents and named the shipowners whose vessels ended their lives on such beaches. An international convention on ship recycling has been negotiated, setting requirements for the safe and environmentally sound dismantling of ships, and some regions have adopted stricter rules for vessels flying their flags. A number of yards have invested in improvements, such as impermeable floors, cranes and training, and have obtained certification of their practices.\n\nCritics argue that regulation remains easy to evade. A shipowner wishing to avoid stricter rules can sell an old vessel to an intermediary, who may re-register it under a different flag shortly before its final voyage. Defenders of the industry, meanwhile, warn that excessively costly requirements could simply push the work to less regulated locations, or deprive regions of an important source of employment.\n\nThe challenge, then, is not to abolish shipbreaking, which performs a necessary function, but to ensure that the costs of disposing of the world's fleet are borne by those who profit from it rather than by the workers and coastlines least able to bear them.",
+ "glossary": [
+  [
+   "dismantle",
+   "to take something apart piece by piece"
+  ],
+  [
+   "asbestos",
+   "a mineral fibre, formerly used as insulation, that can cause serious lung disease"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r051-q01",
+   "type": "reading",
+   "passageId": "r051",
+   "prompt": "What happens to most end-of-life ships?",
+   "options": [
+    "They are dismantled and their steel is recycled.",
+    "They are sunk in deep water.",
+    "They are abandoned in ports.",
+    "They are converted into hotels."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 1."
+  },
+  {
+   "id": "r051-q02",
+   "type": "reading",
+   "passageId": "r051",
+   "prompt": "How does the author describe shipbreaking in principle?",
+   "options": [
+    "Economically useless",
+    "Illegal in most countries",
+    "Too dangerous to justify",
+    "Environmentally sound, because steel is recycled"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“In principle, this is an environmentally sound practice.”"
+  },
+  {
+   "id": "r051-q03",
+   "type": "reading",
+   "passageId": "r051",
+   "prompt": "What is “beaching”?",
+   "options": [
+    "Cleaning ships before they are sold",
+    "Driving ships onto tidal beaches to be cut apart",
+    "Repairing ships on the shore",
+    "Using ships as artificial reefs"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Defined in paragraph 2."
+  },
+  {
+   "id": "r051-q04",
+   "type": "reading",
+   "passageId": "r051",
+   "prompt": "Which factor is NOT given as part of the economic logic of South Asian yards?",
+   "options": [
+    "inexpensive labour",
+    "high demand for steel",
+    "higher prices paid to shipowners",
+    "government subsidies for shipbreaking"
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Subsidies are not mentioned."
+  },
+  {
+   "id": "r051-q05",
+   "type": "reading",
+   "passageId": "r051",
+   "prompt": "Which danger to workers is mentioned in paragraph 3?",
+   "options": [
+    "attacks by pirates",
+    "extreme cold",
+    "explosions caused by residual fuel or gas",
+    "collisions with other ships"
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r051-q06",
+   "type": "reading",
+   "passageId": "r051",
+   "prompt": "How do tidal beaches worsen environmental damage?",
+   "options": [
+    "Residues can be washed directly into the sea.",
+    "Ships sink more easily there.",
+    "Steel cannot be recycled there.",
+    "They attract more tourists."
+   ],
+   "answer": 0,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r051-q07",
+   "type": "reading",
+   "passageId": "r051",
+   "prompt": "According to critics, how can shipowners evade regulation?",
+   "options": [
+    "By sinking ships secretly",
+    "By selling ships to intermediaries who change their flag",
+    "By bribing campaign groups",
+    "By keeping ships in service longer"
+   ],
+   "answer": 1,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Re-registered under a different flag before the final voyage."
+  },
+  {
+   "id": "r051-q08",
+   "type": "reading",
+   "passageId": "r051",
+   "prompt": "What do defenders of the industry fear?",
+   "options": [
+    "Ships will become too expensive to build.",
+    "Workers will demand higher salaries.",
+    "Steel prices will fall.",
+    "Costly rules might move the work elsewhere or reduce employment."
+   ],
+   "answer": 3,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 5."
+  },
+  {
+   "id": "r051-q09",
+   "type": "reading",
+   "passageId": "r051",
+   "prompt": "What is the author's main conclusion?",
+   "options": [
+    "Shipbreaking should be banned.",
+    "South Asian yards should close.",
+    "The costs of shipbreaking should be borne by those who profit from it.",
+    "Ships should never be recycled."
+   ],
+   "answer": 2,
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "FUVEST",
+    "CAE",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in the last paragraph."
+  }
+ ]
+}

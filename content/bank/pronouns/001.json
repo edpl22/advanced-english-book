@@ -1,0 +1,1868 @@
+{
+ "topic": "pronouns",
+ "batch": 1,
+ "title": "Pronouns, it and there",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "pron-001-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.1",
+   "type": "mcq",
+   "explanation": "Reflexive for emphasis: nobody helped.",
+   "prompt": "Did you paint the house ___?",
+   "options": [
+    "yourself",
+    "you",
+    "your",
+    "yours"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pron-001-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "mcq",
+   "explanation": "there + be for existence.",
+   "prompt": "___ are two banks in this street.",
+   "options": [
+    "It",
+    "There",
+    "They",
+    "Its"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pron-001-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "mcq",
+   "explanation": "Weather: it.",
+   "prompt": "___ is raining again.",
+   "options": [
+    "There",
+    "Is",
+    "It",
+    "This"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pron-001-04",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.2",
+   "type": "mcq",
+   "explanation": "one replaces a singular noun.",
+   "prompt": "I don’t like this shirt. Can I see that ___?",
+   "options": [
+    "ones",
+    "it",
+    "other",
+    "one"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pron-001-05",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.4",
+   "type": "mcq",
+   "explanation": "anyone in questions.",
+   "prompt": "Is there ___ who speaks Japanese here?",
+   "options": [
+    "anyone",
+    "nobody",
+    "everything",
+    "anything"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pron-001-06",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.4",
+   "type": "mcq",
+   "explanation": "anywhere in negatives.",
+   "prompt": "I can’t find my keys ___.",
+   "options": [
+    "somewhere",
+    "anywhere",
+    "nowhere",
+    "everywhere"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pron-001-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "16.1",
+   "type": "mcq",
+   "explanation": "Reciprocal: each other.",
+   "prompt": "The two teams congratulated ___ after the match.",
+   "options": [
+    "themself",
+    "theirs",
+    "each other",
+    "one other"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pron-001-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "16.1",
+   "type": "mcq",
+   "explanation": "Reflexive: subject = object.",
+   "prompt": "She hurt ___ when she fell off her bike.",
+   "options": [
+    "her",
+    "hers",
+    "sheself",
+    "herself"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pron-001-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "mcq",
+   "explanation": "It’s no use + -ing.",
+   "prompt": "___ no use complaining — the decision is final.",
+   "options": [
+    "It’s",
+    "That’s",
+    "This",
+    "Its"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pron-001-10",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "16.4",
+   "type": "mcq",
+   "explanation": "anyone after if.",
+   "prompt": "If ___ needs help, please ask.",
+   "options": [
+    "no one",
+    "anyone",
+    "anything",
+    "nothing"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pron-001-11",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "16.4",
+   "type": "mcq",
+   "explanation": "none of + noun.",
+   "prompt": "___ of my friends could come, so I went alone.",
+   "options": [
+    "No one",
+    "Nobody",
+    "None",
+    "Nothing"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pron-001-12",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "16.2",
+   "type": "mcq",
+   "explanation": "ones replaces a plural noun.",
+   "prompt": "Which shoes do you prefer? — The black ___.",
+   "options": [
+    "one",
+    "them",
+    "others",
+    "ones"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pron-001-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "mcq",
+   "explanation": "I take it (that) = I assume.",
+   "prompt": "I take ___ that you have read the instructions.",
+   "options": [
+    "it",
+    "there",
+    "this",
+    "that"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pron-001-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.1",
+   "type": "mcq",
+   "explanation": "Emphatic reflexive.",
+   "prompt": "The house ___ isn’t very big, but the garden is enormous.",
+   "options": [
+    "it",
+    "itself",
+    "its",
+    "oneself"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pron-001-15",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.4",
+   "type": "mcq",
+   "explanation": "Generic one (formal).",
+   "prompt": "___ has to make mistakes in order to learn.",
+   "options": [
+    "It",
+    "There",
+    "One",
+    "You one"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "pron-001-16",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "mcq",
+   "explanation": "appreciate it if…",
+   "prompt": "I’d appreciate ___ if you could reply by Friday.",
+   "options": [
+    "that",
+    "this",
+    "there",
+    "it"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "pron-001-17",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "mcq",
+   "explanation": "Anticipatory it.",
+   "prompt": "___ remains to be seen whether the plan will work.",
+   "options": [
+    "It",
+    "There",
+    "That",
+    "What"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "pron-001-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "16.1",
+   "type": "mcq",
+   "explanation": "fend for oneself.",
+   "prompt": "The children were left to fend for ___.",
+   "options": [
+    "each other",
+    "themselves",
+    "them",
+    "theirselves"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "pron-001-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.1",
+   "type": "gap",
+   "explanation": "Reflexive pronoun.",
+   "prompt": "Look at ___ in the mirror!",
+   "acceptedAnswers": [
+    "yourself",
+    "yourselves"
+   ]
+  },
+  {
+   "id": "pron-001-20",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "gap",
+   "explanation": "there is.",
+   "prompt": "___ is a beautiful park near my house.",
+   "acceptedAnswers": [
+    "There"
+   ]
+  },
+  {
+   "id": "pron-001-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "16.1",
+   "type": "gap",
+   "explanation": "Reflexive for emphasis.",
+   "prompt": "We don’t need any help — we can do it ___.",
+   "acceptedAnswers": [
+    "ourselves"
+   ]
+  },
+  {
+   "id": "pron-001-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "gap",
+   "explanation": "there was.",
+   "prompt": "___ was nobody at the reception desk.",
+   "acceptedAnswers": [
+    "There"
+   ]
+  },
+  {
+   "id": "pron-001-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "16.2",
+   "type": "gap",
+   "explanation": "one = a pen.",
+   "prompt": "I need a pen. Have you got ___?",
+   "acceptedAnswers": [
+    "one"
+   ]
+  },
+  {
+   "id": "pron-001-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "gap",
+   "explanation": "It is said that…",
+   "prompt": "___ is said that the castle is haunted.",
+   "acceptedAnswers": [
+    "It"
+   ]
+  },
+  {
+   "id": "pron-001-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.1",
+   "type": "gap",
+   "explanation": "each other.",
+   "prompt": "Sofia and Rafael have known ___ other since childhood.",
+   "acceptedAnswers": [
+    "each"
+   ]
+  },
+  {
+   "id": "pron-001-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.4",
+   "type": "gap",
+   "explanation": "anything in negatives.",
+   "prompt": "I haven’t got ___ to do this weekend — I’m so bored.",
+   "acceptedAnswers": [
+    "anything"
+   ]
+  },
+  {
+   "id": "pron-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "16.1",
+   "type": "gap",
+   "explanation": "pride oneself on.",
+   "prompt": "He prides ___ on his punctuality.",
+   "acceptedAnswers": [
+    "himself"
+   ]
+  },
+  {
+   "id": "pron-001-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "gap",
+   "explanation": "It goes without saying that…",
+   "prompt": "___ goes without saying that safety comes first.",
+   "acceptedAnswers": [
+    "It"
+   ]
+  },
+  {
+   "id": "pron-001-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "16.1",
+   "type": "kwt",
+   "explanation": "Reflexive for emphasis.",
+   "first": "Nobody helped me with the decoration.",
+   "keyword": "MYSELF",
+   "before": "I did",
+   "after": ".",
+   "acceptedAnswers": [
+    "the decoration myself",
+    "all the decoration myself",
+    "the decorating myself"
+   ]
+  },
+  {
+   "id": "pron-001-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.1",
+   "type": "kwt",
+   "explanation": "be on speaking terms.",
+   "first": "They don’t talk to each other any more.",
+   "keyword": "SPEAKING",
+   "before": "They are no longer",
+   "after": ".",
+   "acceptedAnswers": [
+    "on speaking terms"
+   ]
+  },
+  {
+   "id": "pron-001-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "kwt",
+   "explanation": "It is said that…",
+   "first": "People say that the house is haunted.",
+   "keyword": "IT",
+   "before": "",
+   "after": "the house is haunted.",
+   "acceptedAnswers": [
+    "It is said that"
+   ]
+  },
+  {
+   "id": "pron-001-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "kwt",
+   "explanation": "It takes (someone) + time + to-infinitive.",
+   "first": "Learning to drive took me six months.",
+   "keyword": "TOOK",
+   "before": "It",
+   "after": "to learn to drive.",
+   "acceptedAnswers": [
+    "took me six months"
+   ]
+  },
+  {
+   "id": "pron-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "kwt",
+   "explanation": "can’t stand it when…",
+   "first": "I don’t like it when people interrupt me.",
+   "keyword": "STAND",
+   "before": "I can’t",
+   "after": "when people interrupt me.",
+   "acceptedAnswers": [
+    "stand it"
+   ]
+  },
+  {
+   "id": "pron-001-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "error-correction",
+   "explanation": "there are + plural noun.",
+   "parts": [
+    "There ",
+    {
+     "u": "is"
+    },
+    " a lot of people ",
+    {
+     "u": "outside"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "are"
+   ]
+  },
+  {
+   "id": "pron-001-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "16.1",
+   "type": "error-correction",
+   "explanation": "Reciprocal: each other.",
+   "parts": [
+    "My sister and I ",
+    {
+     "u": "helped ourselves"
+    },
+    " with the homework, as we ",
+    {
+     "u": "always"
+    },
+    " do."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "helped each other",
+    "helped one another"
+   ]
+  },
+  {
+   "id": "pron-001-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "16.2",
+   "type": "error-correction",
+   "explanation": "ones replaces a plural noun.",
+   "parts": [
+    "I don’t like these trousers. Can I try the blue ",
+    {
+     "u": "one"
+    },
+    "? They look ",
+    {
+     "u": "better"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "ones"
+   ]
+  },
+  {
+   "id": "pron-001-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "error-correction",
+   "explanation": "English needs a subject: it.",
+   "parts": [
+    {
+     "u": "Is"
+    },
+    " important to read the contract ",
+    {
+     "u": "carefully"
+    },
+    "."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "It is",
+    "It’s"
+   ]
+  },
+  {
+   "id": "pron-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "16.1",
+   "type": "error-correction",
+   "explanation": "pride oneself on.",
+   "parts": [
+    "The company ",
+    {
+     "u": "prides"
+    },
+    " ",
+    {
+     "u": "on"
+    },
+    " its customer service."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "prides itself"
+   ]
+  },
+  {
+   "id": "pron-001-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "word-order",
+   "explanation": "there are.",
+   "fragments": [
+    "There",
+    "are",
+    "two",
+    "cats",
+    "in",
+    "the garden."
+   ],
+   "acceptedAnswers": [
+    "There are two cats in the garden."
+   ]
+  },
+  {
+   "id": "pron-001-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "16.1",
+   "type": "word-order",
+   "explanation": "Reflexive pronoun.",
+   "fragments": [
+    "We",
+    "taught",
+    "ourselves",
+    "to",
+    "cook."
+   ],
+   "acceptedAnswers": [
+    "We taught ourselves to cook."
+   ]
+  },
+  {
+   "id": "pron-001-41",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "word-order",
+   "explanation": "Anticipatory it.",
+   "fragments": [
+    "It",
+    "is",
+    "important",
+    "to",
+    "drink",
+    "enough water."
+   ],
+   "acceptedAnswers": [
+    "It is important to drink enough water."
+   ]
+  },
+  {
+   "id": "pron-001-42",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.1",
+   "type": "matching",
+   "explanation": "Reflexive pronouns.",
+   "prompt": "Match each pronoun with its reflexive form.",
+   "left": [
+    "I",
+    "you (plural)",
+    "he",
+    "it",
+    "they"
+   ],
+   "right": [
+    "itself",
+    "themselves",
+    "myself",
+    "yourselves",
+    "himself",
+    "yourself"
+   ],
+   "answer": [
+    2,
+    3,
+    4,
+    0,
+    1
+   ]
+  },
+  {
+   "id": "pron-001-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "matching",
+   "explanation": "it vs there.",
+   "prompt": "It or there? Match the halves.",
+   "left": [
+    "It’s",
+    "There’s",
+    "It took",
+    "There were",
+    "It was"
+   ],
+   "right": [
+    "very cold last night.",
+    "a lot of traffic yesterday.",
+    "a long way to the station.",
+    "three hours to get there.",
+    "a cash machine in the station.",
+    "hundreds of people at the concert."
+   ],
+   "answer": [
+    2,
+    4,
+    3,
+    5,
+    0
+   ]
+  },
+  {
+   "id": "pron-001-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.1",
+   "type": "matching",
+   "explanation": "Reflexive, reciprocal and emphatic pronouns.",
+   "prompt": "Match each sentence with its meaning.",
+   "left": [
+    "They blamed themselves.",
+    "They blamed each other.",
+    "She did it herself.",
+    "She did it by herself.",
+    "The book itself is fine."
+   ],
+   "right": [
+    "The book is not fine.",
+    "She was alone when she did it.",
+    "Each one said it was the other’s fault.",
+    "The book is fine, unlike the film or the cover.",
+    "Each one said it was his own fault.",
+    "Nobody else did it for her."
+   ],
+   "answer": [
+    4,
+    2,
+    5,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "pron-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "matching",
+   "explanation": "Uses of it.",
+   "prompt": "What does “it” do in each sentence?",
+   "left": [
+    "It’s raining.",
+    "It’s ten o’clock.",
+    "It’s a pity you can’t come.",
+    "It was Ana who called.",
+    "I find it hard to relax."
+   ],
+   "right": [
+    "possessive",
+    "cleft sentence (focus)",
+    "weather",
+    "object it before an adjective + infinitive",
+    "time",
+    "introduces a clause later in the sentence"
+   ],
+   "answer": [
+    2,
+    4,
+    5,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "pron-001-46",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "open-cloze",
+   "explanation": "Pronouns, it and there in a story.",
+   "title": "A party",
+   "text": "Last Saturday, my friends and I had a party. [1] were about thirty people there. We made all the food [2] — pizzas, salads and a big chocolate cake. Everyone enjoyed [3] very much. [4] was a warm night, so we danced in the garden. At midnight, [5] knocked on the door: it was our neighbour! He asked us to turn the music down. We said sorry, and [6] invited him in. He stayed until two! My friends helped [7] to tidy up the next morning. It was the best party [8] has ever had in our street. I’m sure [9] will remember it for a long time. Now [10] needs to sleep for a week!",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "There"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "ourselves"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "themselves"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "It"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "someone",
+      "somebody"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "we"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "me",
+      "us"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "anyone",
+      "anybody",
+      "someone",
+      "somebody"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "everyone",
+      "everybody",
+      "we",
+      "people",
+      "they"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "everyone",
+      "everybody"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pron-001-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "16.1",
+   "type": "open-cloze",
+   "explanation": "Reflexive pronouns and it / there.",
+   "title": "Working from home",
+   "text": "When I started working from home, I found [1] hard to concentrate. [2] was always something to distract me — the washing, the fridge, the television. I had to teach [3] to stick to a routine. Now I get up at seven, make [4] a coffee and start work at eight. [5] is important to take breaks, so I go for a walk at lunchtime. My colleagues and I talk to each [6] online every morning, which helps. [7] who works from home knows how easy it is to lose track of time. I often ask [8]: “Have I done enough today?” The answer is usually yes. [9] takes time to adapt, but I wouldn’t go back to the office now. I can’t imagine doing [10] else.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "it"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "There"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "myself"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "myself"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "It"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "other"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "Anyone",
+      "Everyone",
+      "Anybody",
+      "Everybody"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "myself"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "It"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "anything"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pron-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "16.4",
+   "type": "open-cloze",
+   "explanation": "Generic pronouns.",
+   "title": "Talking about people in general",
+   "text": "English has several ways of referring to people in general. [1] can use “one”, although this now sounds rather formal: “[2] should always read the small print.” In everyday speech, “you” is far more common: “You never know what might happen.” “They” is often used for authorities — “[3] are raising taxes again” — and, increasingly, as a singular pronoun when a person’s gender is unknown: “If anyone calls, tell [4] I’m out.” Some traditionalists object, but singular “they” has been used for centuries, and [5] is now accepted by most style guides. [6] is worth noting, too, that “we” can include or exclude the listener: when a nurse asks “How are [7] feeling today?”, “we” means “you”. Monarchs once spoke of [8] in the plural — the “royal we”. [9] is little doubt that pronouns reveal [10] good deal about social relationships.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "We",
+      "You",
+      "One"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "One"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "They"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "them"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "it"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "It"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "we"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "themselves"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "There"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "a"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pron-001-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "mc-cloze",
+   "explanation": "Pronouns, it and there.",
+   "title": "At the gym",
+   "text": "[1] is a new gym near my house, so I joined last month. [2] is quite expensive, but the equipment is excellent. The trainers help you to set goals for [3]. I usually go with my brother; we push [4] to work harder. [5] in the gym is brand new — even the showers. Yesterday, [6] left a bag in the changing room, and a trainer found it. [7] took me a while to get used to the routine, but now I love it. I bought [8] a new pair of trainers to celebrate.",
+   "gaps": [
+    {
+     "options": [
+      "It",
+      "They",
+      "There",
+      "Its"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "There",
+      "They",
+      "He",
+      "It"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "yourself",
+      "you",
+      "your",
+      "yours"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "themselves",
+      "each other",
+      "himself",
+      "theirs"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "Anything",
+      "Nothing",
+      "Everything",
+      "Anyone"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "anyone",
+      "no one",
+      "everyone",
+      "someone"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "It",
+      "There",
+      "Its",
+      "They"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "me",
+      "myself",
+      "mine",
+      "my"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "pron-001-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "pronouns"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "16.3",
+   "type": "mc-cloze",
+   "explanation": "Anticipatory it, there and those in formal style.",
+   "title": "A formal announcement",
+   "text": "[1] is with great regret that we announce the closure of the library. [2] has been decided, after careful consideration, that the building will be sold. [3] are, of course, many people who will be disappointed. [4] who wish to borrow books before the closure should do so by 30 June. The staff [5] will be relocated to other branches. We would appreciate [6] if all borrowed books were returned promptly. [7] goes without saying that we are grateful for your support over the years. [8] wishing to make a donation may contact the council.",
+   "gaps": [
+    {
+     "options": [
+      "There",
+      "This",
+      "It",
+      "That"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "There",
+      "This",
+      "What",
+      "It"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "There",
+      "It",
+      "They",
+      "These"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "They",
+      "Those",
+      "These",
+      "Them"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "itself",
+      "theirselves",
+      "themselves",
+      "ourselves"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "that",
+      "this",
+      "there",
+      "it"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "It",
+      "There",
+      "This",
+      "That"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "Whoever",
+      "Anyone",
+      "Who",
+      "Whom"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

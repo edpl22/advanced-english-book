@@ -1,0 +1,1917 @@
+{
+ "topic": "adjectives",
+ "batch": 1,
+ "title": "Adjectives and comparison",
+ "reviewed": "author review, 2026-10-13",
+ "items": [
+  {
+   "id": "adj-001-01",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "mcq",
+   "explanation": "Comparative of a two-syllable adjective in -y: -ier.",
+   "prompt": "This suitcase is ___ than mine.",
+   "options": [
+    "heavier",
+    "more heavy",
+    "heavyer",
+    "most heavy"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "adj-001-02",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "mcq",
+   "explanation": "Superlative: the + -est.",
+   "prompt": "Mount Everest is the ___ mountain in the world.",
+   "options": [
+    "higher",
+    "highest",
+    "most high",
+    "high"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "adj-001-03",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.3",
+   "type": "mcq",
+   "explanation": "-ing adjective describes the cause.",
+   "prompt": "The football match was really ___.",
+   "options": [
+    "excited",
+    "excite",
+    "exciting",
+    "excitement"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "adj-001-04",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.3",
+   "type": "mcq",
+   "explanation": "-ed adjective describes the feeling.",
+   "prompt": "I’m ___ in learning Japanese.",
+   "options": [
+    "interesting",
+    "interest",
+    "interests",
+    "interested"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "adj-001-05",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "mcq",
+   "explanation": "as… as.",
+   "prompt": "My brother is not as tall ___ my father.",
+   "options": [
+    "as",
+    "than",
+    "that",
+    "like"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "adj-001-06",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "17.1",
+   "type": "mcq",
+   "explanation": "Opinion → size → colour.",
+   "prompt": "She was wearing a ___ dress.",
+   "options": [
+    "red long beautiful",
+    "beautiful long red",
+    "long beautiful red",
+    "red beautiful long"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "adj-001-07",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "17.2",
+   "type": "mcq",
+   "explanation": "Non-gradable adjectives take absolutely / really.",
+   "prompt": "The food was ___ delicious.",
+   "options": [
+    "slightly",
+    "a bit",
+    "absolutely",
+    "fairly"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "adj-001-08",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "17.3",
+   "type": "mcq",
+   "explanation": "-ed adjective: how I felt.",
+   "prompt": "I was ___ by the size of the bill.",
+   "options": [
+    "shocking",
+    "shock",
+    "shocks",
+    "shocked"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "adj-001-09",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "mcq",
+   "explanation": "the + comparative, the + comparative.",
+   "prompt": "The ___ I know him, the more I like him.",
+   "options": [
+    "better",
+    "best",
+    "good",
+    "more good"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "adj-001-10",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "mcq",
+   "explanation": "far / much + comparative.",
+   "prompt": "Living in the city is ___ more expensive than living in the countryside.",
+   "options": [
+    "very",
+    "far",
+    "more",
+    "too"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "adj-001-11",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "17.2",
+   "type": "mcq",
+   "explanation": "so + adjective + that.",
+   "prompt": "It was ___ cold that the lake froze.",
+   "options": [
+    "such",
+    "too",
+    "so",
+    "very"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "adj-001-12",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "mcq",
+   "explanation": "Comparative + and + comparative.",
+   "prompt": "Her English is getting better and ___.",
+   "options": [
+    "best",
+    "more good",
+    "good",
+    "better"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "adj-001-13",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.2",
+   "type": "mcq",
+   "explanation": "deeply + disappointing.",
+   "prompt": "The results were ___ disappointing.",
+   "options": [
+    "deeply",
+    "strongly",
+    "heavily",
+    "largely"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "adj-001-14",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "mcq",
+   "explanation": "twice as + adjective + as.",
+   "prompt": "The new model is ___ as fast as the old one.",
+   "options": [
+    "double",
+    "twice",
+    "second",
+    "twofold"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "adj-001-15",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.1",
+   "type": "mcq",
+   "explanation": "Opinion → age → material.",
+   "prompt": "They live in a ___ house.",
+   "options": [
+    "stone old charming",
+    "old charming stone",
+    "charming old stone",
+    "charming stone old"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "adj-001-16",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "mcq",
+   "explanation": "considerably + comparative.",
+   "prompt": "The problem is ___ more serious than we thought.",
+   "options": [
+    "very",
+    "too",
+    "so",
+    "considerably"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "adj-001-17",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "mcq",
+   "explanation": "arguably + superlative.",
+   "prompt": "He is ___ the most talented player of his generation.",
+   "options": [
+    "arguably",
+    "very",
+    "such",
+    "so"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "adj-001-18",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "17.2",
+   "type": "mcq",
+   "explanation": "Non-gradable adjective: entirely / completely.",
+   "prompt": "The plan is not ___ impossible, but it will be very difficult.",
+   "options": [
+    "very",
+    "entirely",
+    "extremely",
+    "a lot"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "adj-001-19",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "gap",
+   "explanation": "Double the consonant: hotter.",
+   "prompt": "Today is ___ than yesterday.",
+   "acceptedAnswers": [
+    "hotter"
+   ],
+   "cue": "hot"
+  },
+  {
+   "id": "adj-001-20",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "gap",
+   "explanation": "Irregular superlative.",
+   "prompt": "This is the ___ book I have ever read.",
+   "acceptedAnswers": [
+    "best"
+   ],
+   "cue": "good"
+  },
+  {
+   "id": "adj-001-21",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "17.3",
+   "type": "gap",
+   "explanation": "-ing adjective.",
+   "prompt": "The flight was really ___.",
+   "acceptedAnswers": [
+    "tiring"
+   ],
+   "cue": "tire"
+  },
+  {
+   "id": "adj-001-22",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "gap",
+   "explanation": "the more…, the more…",
+   "prompt": "The ___ you study, the more you learn.",
+   "acceptedAnswers": [
+    "more"
+   ],
+   "cue": "much"
+  },
+  {
+   "id": "adj-001-23",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "gap",
+   "explanation": "Irregular comparative.",
+   "prompt": "My house is ___ from the station than yours.",
+   "acceptedAnswers": [
+    "farther",
+    "further"
+   ],
+   "cue": "far"
+  },
+  {
+   "id": "adj-001-24",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "gap",
+   "explanation": "Irregular comparative.",
+   "prompt": "The situation is getting ___ every day.",
+   "acceptedAnswers": [
+    "worse"
+   ],
+   "cue": "bad"
+  },
+  {
+   "id": "adj-001-25",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "gap",
+   "explanation": "by far + superlative.",
+   "prompt": "This is by far the ___ decision we have ever made.",
+   "acceptedAnswers": [
+    "most important"
+   ],
+   "cue": "important"
+  },
+  {
+   "id": "adj-001-26",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.3",
+   "type": "gap",
+   "explanation": "Extreme -ing adjective.",
+   "prompt": "I found the documentary absolutely ___.",
+   "acceptedAnswers": [
+    "fascinating"
+   ],
+   "cue": "fascinate"
+  },
+  {
+   "id": "adj-001-27",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "gap",
+   "explanation": "the + comparative, the + comparative.",
+   "prompt": "The ___ the evidence, the stronger the case.",
+   "acceptedAnswers": [
+    "more reliable"
+   ],
+   "cue": "reliable"
+  },
+  {
+   "id": "adj-001-28",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "17.3",
+   "type": "gap",
+   "explanation": "nowhere near as… as.",
+   "prompt": "Her latest novel is nowhere near as ___ as her first.",
+   "acceptedAnswers": [
+    "gripping"
+   ],
+   "cue": "grip"
+  },
+  {
+   "id": "adj-001-29",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "kwt",
+   "explanation": "not as… as.",
+   "first": "My brother is taller than me.",
+   "keyword": "AS",
+   "before": "I am not",
+   "after": "my brother.",
+   "acceptedAnswers": [
+    "as tall as"
+   ]
+  },
+  {
+   "id": "adj-001-30",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "kwt",
+   "explanation": "Superlative + ever.",
+   "first": "I have never read such a good book.",
+   "keyword": "EVER",
+   "before": "This is the best book",
+   "after": "read.",
+   "acceptedAnswers": [
+    "I have ever",
+    "I’ve ever"
+   ]
+  },
+  {
+   "id": "adj-001-31",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "kwt",
+   "explanation": "the + comparative, the + comparative.",
+   "first": "If you eat more, you will put on more weight.",
+   "keyword": "MORE",
+   "before": "The",
+   "after": "the more weight you put on.",
+   "acceptedAnswers": [
+    "more you eat"
+   ]
+  },
+  {
+   "id": "adj-001-32",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "kwt",
+   "explanation": "nowhere near as… as = much less… than.",
+   "first": "The second test was much easier than the first.",
+   "keyword": "NEAR",
+   "before": "The first test was",
+   "after": "the second.",
+   "acceptedAnswers": [
+    "nowhere near as easy as"
+   ]
+  },
+  {
+   "id": "adj-001-33",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "17.3",
+   "type": "kwt",
+   "explanation": "-ed adjective for the feeling.",
+   "first": "The film bored me a lot.",
+   "keyword": "BORED",
+   "before": "I",
+   "after": "by the film.",
+   "acceptedAnswers": [
+    "was really bored",
+    "was very bored",
+    "was extremely bored",
+    "was bored stiff"
+   ]
+  },
+  {
+   "id": "adj-001-34",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "error-correction",
+   "explanation": "easy → easier.",
+   "parts": [
+    "This test is ",
+    {
+     "u": "more easy"
+    },
+    " than the ",
+    {
+     "u": "last"
+    },
+    " one."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "easier"
+   ]
+  },
+  {
+   "id": "adj-001-35",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "17.3",
+   "type": "error-correction",
+   "explanation": "-ed adjective for feelings.",
+   "parts": [
+    "I felt really ",
+    {
+     "u": "embarrassing"
+    },
+    " when I ",
+    {
+     "u": "fell"
+    },
+    " over."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "embarrassed"
+   ]
+  },
+  {
+   "id": "adj-001-36",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "error-correction",
+   "explanation": "Superlative + in + place / group.",
+   "parts": [
+    "She is ",
+    {
+     "u": "the most"
+    },
+    " intelligent ",
+    {
+     "u": "of"
+    },
+    " her class."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "in"
+   ]
+  },
+  {
+   "id": "adj-001-37",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.2",
+   "type": "error-correction",
+   "explanation": "Non-gradable adjective: not very.",
+   "parts": [
+    "It was a ",
+    {
+     "u": "very"
+    },
+    " ",
+    {
+     "u": "fantastic"
+    },
+    " concert."
+   ],
+   "errorIndex": 0,
+   "acceptedAnswers": [
+    "really",
+    "absolutely",
+    "truly",
+    "simply"
+   ]
+  },
+  {
+   "id": "adj-001-38",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "error-correction",
+   "explanation": "Never more + -er.",
+   "parts": [
+    "Prices are ",
+    {
+     "u": "much"
+    },
+    " ",
+    {
+     "u": "more higher"
+    },
+    " than last year."
+   ],
+   "errorIndex": 1,
+   "acceptedAnswers": [
+    "higher"
+   ]
+  },
+  {
+   "id": "adj-001-39",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "word-order",
+   "explanation": "Comparative + than.",
+   "fragments": [
+    "My",
+    "sister",
+    "is",
+    "older",
+    "than",
+    "me."
+   ],
+   "acceptedAnswers": [
+    "My sister is older than me."
+   ]
+  },
+  {
+   "id": "adj-001-40",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "word-order",
+   "explanation": "Superlative + in.",
+   "fragments": [
+    "It’s",
+    "the",
+    "most",
+    "beautiful",
+    "beach",
+    "in",
+    "Bahia."
+   ],
+   "acceptedAnswers": [
+    "It’s the most beautiful beach in Bahia."
+   ]
+  },
+  {
+   "id": "adj-001-41",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.1",
+   "type": "word-order",
+   "explanation": "Opinion → origin → material.",
+   "fragments": [
+    "She",
+    "bought",
+    "an",
+    "expensive",
+    "Italian",
+    "leather",
+    "bag."
+   ],
+   "acceptedAnswers": [
+    "She bought an expensive Italian leather bag."
+   ]
+  },
+  {
+   "id": "adj-001-42",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "matching",
+   "explanation": "Irregular comparatives.",
+   "prompt": "Match each adjective with its comparative.",
+   "left": [
+    "good",
+    "bad",
+    "far",
+    "little",
+    "many"
+   ],
+   "right": [
+    "worse",
+    "further",
+    "less",
+    "better",
+    "more",
+    "least"
+   ],
+   "answer": [
+    3,
+    0,
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "adj-001-43",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "17.3",
+   "type": "matching",
+   "explanation": "-ed adjectives describe feelings.",
+   "prompt": "How did you feel? Match each feeling with a situation.",
+   "left": [
+    "bored",
+    "confused",
+    "frightened",
+    "relieved",
+    "disappointed"
+   ],
+   "right": [
+    "My team lost the final.",
+    "I won the lottery.",
+    "I heard a strange noise at night.",
+    "The instructions made no sense.",
+    "The film was long and slow.",
+    "The test was cancelled — I hadn’t studied!"
+   ],
+   "answer": [
+    4,
+    3,
+    2,
+    5,
+    0
+   ]
+  },
+  {
+   "id": "adj-001-44",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "matching",
+   "explanation": "Modifying comparisons.",
+   "prompt": "Match each comparison with its meaning.",
+   "left": [
+    "far more expensive",
+    "slightly more expensive",
+    "twice as expensive",
+    "nowhere near as expensive",
+    "just as expensive"
+   ],
+   "right": [
+    "the same price",
+    "much cheaper",
+    "a bit cheaper",
+    "two times the price",
+    "a lot more",
+    "a little more"
+   ],
+   "answer": [
+    4,
+    5,
+    3,
+    1,
+    0
+   ]
+  },
+  {
+   "id": "adj-001-45",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "grammar",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "matching",
+   "explanation": "Comparative structures.",
+   "prompt": "Match each structure with an example.",
+   "left": [
+    "the + comparative, the + comparative",
+    "comparative + and + comparative",
+    "as + adjective + as",
+    "superlative + ever",
+    "not + so + adjective + as"
+   ],
+   "right": [
+    "It isn’t so cold as yesterday.",
+    "He’s more taller.",
+    "The sooner, the better.",
+    "It was the worst day ever.",
+    "It’s getting warmer and warmer.",
+    "She’s as stubborn as her father."
+   ],
+   "answer": [
+    2,
+    4,
+    5,
+    3,
+    0
+   ]
+  },
+  {
+   "id": "adj-001-46",
+   "level": "B1",
+   "difficulty": 1,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "open-cloze",
+   "explanation": "Comparatives and superlatives.",
+   "title": "Two cities",
+   "text": "São Paulo is [1] than Rio de Janeiro — it has more than twelve million people. Rio is smaller, but it is [2] beautiful, with its beaches and mountains. In my opinion, Rio is the [3] beautiful city in Brazil. São Paulo is [4] busy as New York, and the traffic is terrible. However, it has the [5] restaurants in the country. Rio is [6] hotter than São Paulo in summer. People say that Rio is [7] relaxed and São Paulo is more serious. Life in São Paulo is getting [8] and more expensive. But both cities are [9] exciting than my small town. The [10] I travel, the more I love Brazil.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "bigger",
+      "larger"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "more",
+      "very",
+      "really",
+      "so"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "most"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "as"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "best",
+      "most",
+      "finest"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "much",
+      "far",
+      "even",
+      "usually",
+      "often"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "more"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "more"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "more"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "more"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "adj-001-47",
+   "level": "C1",
+   "difficulty": 4,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CAE",
+    "CPE",
+    "ITA",
+    "IME",
+    "EN",
+    "FUVEST",
+    "TOEFL",
+    "IELTS"
+   ],
+   "source": "authored",
+   "ref": "17.3",
+   "type": "open-cloze",
+   "explanation": "-ed / -ing adjectives, extreme adjectives and comparison.",
+   "title": "A disappointing holiday",
+   "text": "We had been really [1] about our holiday in the mountains, but it turned out to be [2] disappointing. The hotel was far [3] than it had looked on the website, and the room was absolutely [4] — there was barely space for the bed. The food was [5] awful that we ate out every night. The weather didn’t help: it was [6] cold to go hiking on most days. To make matters [7], the cable car was closed. The [8] we stayed, the more frustrated we became. It was by [9] the worst holiday we’ve ever had. Next time we’ll read the reviews [10] carefully.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "excited"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "very",
+      "really",
+      "deeply",
+      "extremely",
+      "rather",
+      "quite",
+      "hugely"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "smaller",
+      "worse",
+      "dirtier",
+      "older"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "tiny",
+      "minute"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "so"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "too"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "worse"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "longer"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "far"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "more"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "adj-001-48",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "open-cloze",
+   "explanation": "Advanced comparison in academic writing.",
+   "title": "Comparisons in a research report",
+   "text": "The [1] the sample, the more reliable the results tend to be. In the present study, the sample was considerably [2] than in previous research, which makes the findings [3] the more significant. Participants in the experimental group performed [4] better than those in the control group, although the difference was nowhere [5] as large as expected. Older participants were [6] less likely to complete the tasks, but this was by no [7] a universal pattern. The results are, if anything, [8] more striking than those of earlier studies. [9] as they may seem, they should be treated with caution until they are replicated on a [10] scale.",
+   "gaps": [
+    {
+     "acceptedAnswers": [
+      "larger",
+      "bigger"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "larger",
+      "bigger"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "all"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "significantly",
+      "slightly",
+      "considerably",
+      "much",
+      "far",
+      "marginally",
+      "noticeably",
+      "somewhat"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "near"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "slightly",
+      "somewhat",
+      "significantly",
+      "considerably",
+      "much",
+      "far",
+      "marginally"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "means"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "even"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "Promising",
+      "Impressive",
+      "Striking",
+      "Encouraging",
+      "Remarkable",
+      "Significant",
+      "Convincing"
+     ]
+    },
+    {
+     "acceptedAnswers": [
+      "larger",
+      "wider",
+      "bigger",
+      "broader",
+      "grander"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "adj-001-49",
+   "level": "B2",
+   "difficulty": 2,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "ENEM",
+    "FUVEST",
+    "EsPCEx",
+    "EFOMM",
+    "EN",
+    "AFA",
+    "TOEFL",
+    "IELTS",
+    "CAE"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "mc-cloze",
+   "explanation": "Comparatives and superlatives.",
+   "title": "Choosing a phone",
+   "text": "I needed a new phone, so I compared two models. The first was [1] than the second, but it had a [2] camera. The second was [3] expensive, but its battery lasted [4] longer. In the end, I chose the second one because it was [5] practical. It’s the [6] phone I’ve ever had. My old phone was [7] as fast, and it was getting slower and [8] every month.",
+   "gaps": [
+    {
+     "options": [
+      "more cheap",
+      "cheapest",
+      "cheaper",
+      "cheap"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "more good",
+      "best",
+      "gooder",
+      "better"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "more",
+      "most",
+      "much",
+      "very more"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "very",
+      "much",
+      "more",
+      "most"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "most",
+      "much",
+      "more",
+      "the more"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "better",
+      "most good",
+      "good",
+      "best"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "nowhere near",
+      "not near",
+      "nowhere",
+      "no near"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "slowest",
+      "slower",
+      "more slow",
+      "slowly"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "adj-001-50",
+   "level": "C2",
+   "difficulty": 5,
+   "topics": [
+    "adjectives"
+   ],
+   "skill": "use-of-english",
+   "examTags": [
+    "CPE",
+    "CAE",
+    "ITA",
+    "IME"
+   ],
+   "source": "authored",
+   "ref": "17.4",
+   "type": "mc-cloze",
+   "explanation": "Comparison in persuasive writing.",
+   "title": "An editorial",
+   "text": "The decision to close the hospital could hardly have been [1] timed. Demand for healthcare has never been [2], and the nearest alternative is [3] fifty kilometres away. Officials insist that the new regional centre will be [4] superior to the old building. That may well be true, but it is [5] comfort to patients who cannot travel. The [6] the government delays a solution, the [7] the damage will be. This is, [8], one of the most short-sighted decisions in recent memory.",
+   "gaps": [
+    {
+     "options": [
+      "bad",
+      "worst",
+      "worse",
+      "badly"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "highest",
+      "high",
+      "more high",
+      "higher"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "over",
+      "more",
+      "most",
+      "above of"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "very",
+      "far",
+      "too",
+      "such"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "few",
+      "less",
+      "little",
+      "least"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "long",
+      "longest",
+      "more long",
+      "longer"
+     ],
+     "answer": 3
+    },
+    {
+     "options": [
+      "greater",
+      "great",
+      "greatest",
+      "more great"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "arguing",
+      "arguably",
+      "argued",
+      "argue"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ]
+}

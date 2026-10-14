@@ -1,0 +1,280 @@
+{
+ "id": "r030",
+ "title": "Weather in the Cockpit",
+ "level": "B2",
+ "style": "military",
+ "topics": [
+  "reading"
+ ],
+ "examTags": [
+  "EsPCEx",
+  "EFOMM",
+  "AFA",
+  "EN"
+ ],
+ "text": "Every pilot learns early in training that the weather can be a more dangerous enemy than any opponent. Modern aircraft are equipped with advanced instruments and can fly in conditions that would have grounded earlier generations, yet weather remains a factor in a significant proportion of aviation accidents, both civil and military. Understanding it is therefore not an optional extra but a basic part of a pilot's education.\n\nFog is one of the most familiar hazards. It forms when air near the ground cools until its water vapour condenses into tiny droplets, reducing visibility, sometimes to just a few metres. Aircraft can land in poor visibility using instrument landing systems, but these require special equipment at the airfield and in the aircraft, as well as additional training for the crew. At many military airfields, especially temporary ones, such equipment may not be available, and fog can bring operations to a halt.\n\nIce presents a less visible but equally serious danger. When an aircraft flies through clouds containing supercooled water — droplets that remain liquid below zero degrees — they can freeze instantly on contact with the wings. Even a thin layer of ice changes the shape of the wing and can significantly reduce the lift it produces while increasing drag. Many aircraft have systems that heat the wings or break up the ice, but pilots are also trained to recognise icing conditions and, where possible, to change altitude to avoid them.\n\nThunderstorms combine several hazards at once: heavy rain, hail, lightning and severe turbulence. Inside a large storm, air can move up and down at extraordinary speeds. Pilots are taught to keep well away from storms rather than try to fly through them. Near the ground, storms can also produce wind shear — a sudden change in wind speed or direction over a short distance. During take-off and landing, when an aircraft is flying slowly and close to the ground, wind shear can cause a dangerous loss of height before the crew has time to react.\n\nWeather forecasting has improved enormously, and military meteorologists provide detailed briefings before every mission. Even so, the atmosphere can change faster than any forecast. In the end, much depends on the judgement of the pilot. Instructors often repeat an old saying to new pilots: it is better to be on the ground wishing you were in the air than in the air wishing you were on the ground.",
+ "glossary": [
+  [
+   "lift",
+   "the upward force produced by an aircraft’s wings"
+  ],
+  [
+   "drag",
+   "the force that resists an object’s movement through the air"
+  ]
+ ],
+ "questions": [
+  {
+   "id": "r030-q01",
+   "type": "reading",
+   "passageId": "r030",
+   "prompt": "What point does the author make in paragraph 1?",
+   "options": [
+    "Modern aircraft are no longer affected by weather.",
+    "Military pilots fly only in good weather.",
+    "Weather training is optional for pilots.",
+    "Weather remains an important cause of aviation accidents."
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Weather remains a factor in a significant proportion of accidents."
+  },
+  {
+   "id": "r030-q02",
+   "type": "reading",
+   "passageId": "r030",
+   "prompt": "How does fog form, according to the text?",
+   "options": [
+    "Warm air rises quickly into clouds.",
+    "Air near the ground cools and its water vapour condenses.",
+    "Smoke from airfields mixes with rain.",
+    "Wind carries water from the sea."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 2."
+  },
+  {
+   "id": "r030-q03",
+   "type": "reading",
+   "passageId": "r030",
+   "prompt": "Why can fog stop operations at some military airfields?",
+   "options": [
+    "Their runways are too short.",
+    "Military pilots are not trained to land in fog.",
+    "They may lack the equipment needed for instrument landings.",
+    "Fog is more frequent at military airfields."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Temporary airfields may not have the equipment."
+  },
+  {
+   "id": "r030-q04",
+   "type": "reading",
+   "passageId": "r030",
+   "prompt": "What is “supercooled water”?",
+   "options": [
+    "Ice that forms on the ground",
+    "Very cold rain that falls as snow",
+    "Water used to cool engines",
+    "Water that stays liquid below zero degrees"
+   ],
+   "answer": 3,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Defined in paragraph 3."
+  },
+  {
+   "id": "r030-q05",
+   "type": "reading",
+   "passageId": "r030",
+   "prompt": "How does ice on the wings affect an aircraft?",
+   "options": [
+    "It makes the aircraft lighter.",
+    "It reduces lift and increases drag.",
+    "It improves the shape of the wing.",
+    "It affects only the engines."
+   ],
+   "answer": 1,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 3."
+  },
+  {
+   "id": "r030-q06",
+   "type": "reading",
+   "passageId": "r030",
+   "prompt": "What are pilots taught to do about thunderstorms?",
+   "options": [
+    "Stay well away from them.",
+    "Fly through them as quickly as possible.",
+    "Fly below them close to the ground.",
+    "Wait inside them until they pass."
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "“keep well away from storms rather than try to fly through them”."
+  },
+  {
+   "id": "r030-q07",
+   "type": "reading",
+   "passageId": "r030",
+   "prompt": "Why is wind shear especially dangerous during take-off and landing?",
+   "options": [
+    "Pilots are usually tired at those moments.",
+    "The engines are switched off.",
+    "The aircraft is slow and close to the ground.",
+    "Visibility is always poor near airfields."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Stated in paragraph 4."
+  },
+  {
+   "id": "r030-q08",
+   "type": "reading",
+   "passageId": "r030",
+   "prompt": "The word “they” in paragraph 3 (“they can freeze instantly”) refers to",
+   "options": [
+    "the supercooled droplets",
+    "the clouds",
+    "the wings",
+    "the pilots"
+   ],
+   "answer": 0,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "The droplets freeze on contact with the wings."
+  },
+  {
+   "id": "r030-q09",
+   "type": "reading",
+   "passageId": "r030",
+   "prompt": "What does the old saying in the last paragraph mean?",
+   "options": [
+    "Pilots should always try to fly.",
+    "Flying is safer than staying on the ground.",
+    "It is wiser not to fly when the weather is doubtful.",
+    "Pilots should trust the forecast completely."
+   ],
+   "answer": 2,
+   "level": "B2",
+   "difficulty": 3,
+   "topics": [
+    "reading"
+   ],
+   "skill": "reading",
+   "examTags": [
+    "EsPCEx",
+    "EFOMM",
+    "AFA",
+    "EN"
+   ],
+   "source": "authored",
+   "ref": "Reading",
+   "explanation": "Better to stay on the ground than regret being in the air."
+  }
+ ]
+}
