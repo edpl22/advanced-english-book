@@ -1,4 +1,4 @@
-import type { ChooseResponse, DiscussionTask, EmailTask } from './types';
+import type { ChooseResponse, CtwPassage, DiscussionTask, EmailTask } from './types';
 
 /**
  * Extra items for "practise one task" mode, beyond those inside the six
@@ -1222,4 +1222,99 @@ export const PRACTICE_INTERVIEW: Array<{ context: string; questions: Array<{ q: 
       }
     ]
   }
+];
+
+/**
+ * Extra Complete the Words passages: seven easy, seven medium and eight hard.
+ * The first sentence stays intact; ten blanks are clipped from the rest.
+ */
+export const PRACTICE_CTW: CtwPassage[] = [
+  {
+    id: 'p-ctw-01',
+    text: 'A camel’s hump does not contain water, as many people think. It is mostly made of fat, which the animal can use as a source of energy when food is hard to find. Camels survive long journeys in the desert because their bodies lose very little water. They produce dry waste, they sweat only when their temperature rises a great deal, and they can drink a huge amount of water in a few minutes when they finally reach a well.',
+  },
+  {
+    id: 'p-ctw-02',
+    text: 'Almost everyone gets hiccups from time to time. They begin when the diaphragm, the large muscle below the lungs, suddenly tightens without warning. Air rushes into the throat, and a small flap closes quickly behind it, which produces the familiar sound. Hiccups can be caused by eating too fast, drinking fizzy drinks or feeling excited. Most attacks stop on their own after a few minutes, although people have invented many strange remedies to end them sooner.',
+  },
+  {
+    id: 'p-ctw-03',
+    text: 'In cold countries, workers often spread salt on roads during the winter. Salt lowers the temperature at which water freezes, so ice melts even when the air is a little below zero. This makes the roads much safer for cars and for people walking. However, salt is less useful in very severe cold, and it can damage cars, bridges and plants near the road. For this reason, some cities now mix it with sand or use other chemicals instead.',
+  },
+  {
+    id: 'p-ctw-04',
+    text: 'Ants are able to find food and return to their nest with remarkable accuracy. When an ant discovers something to eat, it leaves a chemical trail on the ground as it walks home. Other ants follow this trail and add more of the chemical, so the path to a good food source becomes stronger over time. When the food is gone, the ants stop marking the trail, and the scent slowly fades away.',
+  },
+  {
+    id: 'p-ctw-05',
+    text: 'Twice a day, the level of the sea rises and falls along most coasts. These changes, called tides, are caused mainly by the pull of the moon. As the Earth turns, different places pass under the area where the moon pulls the water most strongly, and the sea rises there. The sun also has an effect, and when the sun and the moon pull in the same direction, the tides become especially high and low.',
+  },
+  {
+    id: 'p-ctw-06',
+    text: 'Yoghurt is made by adding friendly bacteria to warm milk. The bacteria feed on the natural sugar in the milk and turn it into an acid. This acid makes the milk thicker and gives yoghurt its slightly sour taste. The process works best at a steady, warm temperature, so it usually takes several hours. Because the acid prevents many harmful bacteria from growing, yoghurt was an important way of keeping milk safe before people had fridges.',
+  },
+  {
+    id: 'p-ctw-07',
+    text: 'Cacti are well adapted to life in hot, dry deserts. Instead of broad leaves, most species have sharp spines, which lose far less water and protect the plant from hungry animals. Their thick green stems carry out the work that leaves do in other plants, and they can store large amounts of water after a rare storm. Many cacti also have wide, shallow roots that spread just below the surface, so they can absorb rain quickly before it evaporates.',
+  },
+  {
+    id: 'p-ctw-08',
+    text: 'The sky looks blue on a clear day because of the way sunlight interacts with the air. Sunlight contains all the colours of the rainbow, but when it passes through the atmosphere, tiny gas molecules scatter short blue waves much more than long red ones. This scattered blue light reaches our eyes from every part of the sky. At sunrise and sunset, the light travels through much more air, so most of the blue is lost and the sky turns orange and red.',
+  },
+  {
+    id: 'p-ctw-09',
+    text: 'Every year, many birds travel thousands of kilometres between their breeding and wintering grounds. Scientists have long wondered how they find their way with such precision. Experiments suggest that birds combine several sources of information: they use the position of the sun during the day, the patterns of stars at night and, it seems, the magnetic field of the Earth. Young birds of some species make their first journey alone, which suggests that much of this ability is inherited rather than learned.',
+  },
+  {
+    id: 'p-ctw-10',
+    text: 'Glaciers are among the most powerful forces that shape the landscape. As a large mass of ice moves slowly downhill, it picks up rocks and scrapes them along the ground like a giant file. Over thousands of years, this process can turn a narrow river valley into a wide valley with steep sides and a flat floor. When the climate warms and the ice melts, it leaves behind these broad valleys, along with piles of rock and long, deep lakes.',
+  },
+  {
+    id: 'p-ctw-11',
+    text: 'Cities are often several degrees warmer than the countryside around them. This effect, known as the urban heat island, has a number of causes. Roads and buildings absorb heat from the sun during the day and release it slowly at night, while cars, factories and air conditioners add even more warmth. In addition, cities usually have fewer trees, which cool the air by providing shade and releasing water through their leaves. Planners now try to reduce the problem with parks, green roofs and lighter building materials.',
+  },
+  {
+    id: 'p-ctw-12',
+    text: 'Sleep plays an important role in the formation of long-term memories. During the day, new information is stored only temporarily in a part of the brain called the hippocampus. While we sleep, the brain appears to replay these recent experiences and gradually transfer the most useful ones to other regions, where they become more stable. Students who sleep well after studying tend to remember the material better than those who stay awake, even when both groups spend the same amount of time learning.',
+  },
+  {
+    id: 'p-ctw-13',
+    text: 'Plants cannot move, but their seeds can travel surprising distances. Some seeds have light, feathery parts that allow the wind to carry them across whole fields, while others are hidden inside sweet fruits that birds and mammals eat. The seeds pass through the animal unharmed and are dropped far from the parent plant, often with a little natural fertiliser. A few plants even have pods that dry out and burst open, throwing their seeds several metres away.',
+  },
+  {
+    id: 'p-ctw-14',
+    text: 'The arrival of the printing press in fifteenth-century Europe changed the way knowledge spread. Before that time, books were copied by hand, a slow and costly process that made them rare and expensive. Printing allowed hundreds of identical copies to be produced in the time a scribe needed for one, and prices fell sharply. As books became cheaper, more people learned to read, and new ideas in religion, science and politics could reach a wide audience within a few years.',
+  },
+  {
+    id: 'p-ctw-15',
+    text: 'Epidemiologists use the term herd immunity for the indirect protection that a population gains when a large share of its members is immune to an infection. Once enough people can no longer catch and transmit the disease, chains of infection are broken before they reach the few who remain vulnerable, such as newborn babies or patients whose treatment weakens the immune system. The proportion required depends on how contagious the disease is: the more easily it spreads, the higher the share of immune individuals needed to keep outbreaks from growing.',
+  },
+  {
+    id: 'p-ctw-16',
+    text: 'Behavioural economists have documented a bias known as anchoring. When people are asked to estimate an unknown quantity, their answers are strongly influenced by any number they have recently encountered, even one that is obviously irrelevant. In a well-known type of experiment, participants who first consider a high figure give much larger estimates than those who first consider a low one. The effect has practical consequences: an initial asking price in a negotiation, for instance, tends to shape the final agreement far more than either party realises.',
+  },
+  {
+    id: 'p-ctw-17',
+    text: 'The sunk cost fallacy describes the tendency to continue an activity because of what has already been invested in it. Rationally, past expenses that cannot be recovered should play no part in a decision about the future; only the expected costs and benefits from this point onwards are relevant. Nevertheless, individuals and organisations frequently persist with failing projects, arguing that abandoning them would waste the money already spent. Governments, too, are sometimes accused of prolonging expensive programmes for the same reason, when withdrawing earlier would have been less costly.',
+  },
+  {
+    id: 'p-ctw-18',
+    text: 'Price elasticity of demand measures how strongly the quantity people buy responds to a change in price. For goods with few substitutes, such as basic fuel or essential medicines, demand is relatively inelastic: consumers continue to buy similar amounts even when prices rise. Luxury items and products with many close alternatives, by contrast, tend to be highly elastic, because buyers can easily postpone a purchase or switch to a competitor. Governments take these differences into account when designing taxes, since a tax on an inelastic good raises revenue without greatly reducing consumption.',
+  },
+  {
+    id: 'p-ctw-19',
+    text: 'Social psychologists have observed that people are less likely to help a stranger in an emergency when other witnesses are present. This phenomenon, called the bystander effect, is usually explained by a diffusion of responsibility: each observer assumes that someone else will intervene, or that others are better qualified to act. Uncertainty also plays a role, since individuals look to the reactions of those around them to decide whether a situation is serious. Training programmes therefore encourage people who need assistance to address one specific person directly.',
+  },
+  {
+    id: 'p-ctw-20',
+    text: 'Some products become more valuable as the number of their users increases, a property economists call a network effect. A telephone, for instance, is of little use if nobody else owns one, but its value grows with every new subscriber who can be reached. Markets with strong network effects often tend towards a single dominant supplier, because new customers prefer the service that their friends and colleagues already use. Consequently, firms in these markets may accept heavy initial losses in order to attract a large user base as quickly as possible.',
+  },
+  {
+    id: 'p-ctw-21',
+    text: 'The Doppler effect is the change in the observed frequency of a wave when its source moves relative to the listener. As an ambulance approaches, each successive sound wave is emitted from a slightly closer position, so the waves arrive compressed and the siren seems higher in pitch; once the vehicle has passed, the waves are stretched and the pitch drops. The same principle applies to light, and astronomers rely on it to determine whether distant galaxies are moving towards or away from us, as well as to estimate their speed.',
+  },
+  {
+    id: 'p-ctw-22',
+    text: 'Linguists distinguish between the inherited vocabulary of a language and the words it has borrowed from others. English is an unusually clear example of extensive borrowing: after the Norman Conquest, thousands of French terms entered the language, particularly in the domains of law, government and cuisine. Many everyday concepts are consequently expressed by pairs of words with different origins, such as the native word for an animal and the borrowed word for its meat. Later centuries added scholarly vocabulary from Latin and Greek, which explains why academic English often sounds more formal than ordinary speech.',
+  },
 ];

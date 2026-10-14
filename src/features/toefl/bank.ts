@@ -6,7 +6,7 @@ import { TEST_03 } from '@content/toefl/test-03';
 import { TEST_04 } from '@content/toefl/test-04';
 import { TEST_05 } from '@content/toefl/test-05';
 import { TEST_06 } from '@content/toefl/test-06';
-import { PRACTICE_CHOOSE, PRACTICE_DISCUSSION, PRACTICE_EMAIL, PRACTICE_INTERVIEW } from '@content/toefl/practice-bank';
+import { PRACTICE_CHOOSE, PRACTICE_CTW, PRACTICE_DISCUSSION, PRACTICE_EMAIL, PRACTICE_INTERVIEW } from '@content/toefl/practice-bank';
 
 /** Build a Sentence bank (shared with the stand-alone Build a Sentence trainer). */
 export const BUILD_SENTENCE: BuildSentenceItem[] = raw as BuildSentenceItem[];
@@ -37,7 +37,7 @@ export function taskPools() {
   const r = TOEFL_TESTS.flatMap((t) => [t.reading.m1, t.reading.easy, t.reading.hard]);
   const l = TOEFL_TESTS.flatMap((t) => [t.listening.m1, t.listening.easy, t.listening.hard]);
   return {
-    ctw: r.flatMap((m) => m.ctw),
+    ctw: [...r.flatMap((m) => m.ctw), ...PRACTICE_CTW],
     daily: r.flatMap((m) => m.daily),
     academic: r.flatMap((m) => m.academic),
     choose: [...l.flatMap((m) => m.choose), ...PRACTICE_CHOOSE],

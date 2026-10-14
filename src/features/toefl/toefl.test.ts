@@ -27,6 +27,12 @@ describe('Complete the Words', () => {
     }
   });
 
+  it('has at least 40 passages with unique ids', () => {
+    const ids = taskPools().ctw.map((p) => p.id);
+    expect(ids.length).toBeGreaterThanOrEqual(40);
+    expect(new Set(ids).size).toBe(ids.length);
+  });
+
   it('the text is unchanged when blanks are filled', () => {
     for (const p of taskPools().ctw) {
       const rebuilt = clipPassage(p.text).map((x) => x.shown + x.missing + x.tail).join('');
