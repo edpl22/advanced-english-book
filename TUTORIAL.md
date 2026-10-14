@@ -133,7 +133,7 @@ Abra o endereço que aparecer (normalmente `http://localhost:4173`).
 
 O site é **estático**. A navegação usa `#/` nos endereços e os caminhos são relativos, então a pasta `dist/` funciona em qualquer hospedagem de arquivos estáticos (GitHub Pages, Netlify, Vercel, um servidor comum) sem configuração extra. Depois da primeira visita, um *service worker* deixa o site funcionando também **offline**.
 
-> **GitHub Pages:** em contas gratuitas, o Pages só publica repositórios **públicos**. Para publicar um repositório privado, é preciso um plano pago ou outra hospedagem (por exemplo, arrastar a pasta `dist/` para o Netlify Drop).
+> **Site no ar:** <https://edpl22.github.io/advanced-english-book/>. A cada `git push` na branch `main`, o GitHub Actions roda os testes, gera o build e publica a nova versão sozinho (veja a aba *Actions* do repositório). O arquivo do fluxo é `.github/workflows/deploy.yml`.
 
 ---
 
