@@ -2147,3 +2147,25 @@ textarea.writing {
 .controls .btn.primary:hover {
   background: var(--accent-soft);
 }
+
+/* End of a unit: mark it as completed by hand. */
+.unit-finish {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.6rem 1.2rem;
+  margin-top: 1.6rem;
+  padding: 0.9rem 0 0.2rem;
+  border-top: 1px solid var(--rule);
+}
+.unit-finish p {
+  margin: 0;
+  max-width: 34rem;
+  font-style: italic;
+  color: var(--ink-2);
+}
+.unit-finish.is-done p {
+  color: var(--ok);
+  font-style: normal;
+}

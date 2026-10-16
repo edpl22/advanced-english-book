@@ -99,3 +99,13 @@ export function everCorrect(s: State = load()): Set<string> {
   for (const [id, v] of Object.entries(s.items)) if (v.correct > 0) out.add(id);
   return out;
 }
+
+/** Mark a unit as completed by hand, or undo it. */
+export function setUnitCompleted(unitId: string, on: boolean): void {
+  update((s) => {
+    const completed = { ...s.completed };
+    if (on) completed[unitId] = Date.now();
+    else delete completed[unitId];
+    return { ...s, completed };
+  });
+}

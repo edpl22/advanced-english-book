@@ -2,7 +2,7 @@ import { useMemo, useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { UNITS } from '@content/units';
 import { useStore } from '@/lib/useStore';
-import { dueForReview, everCorrect, frequentErrors, inReview, topicAccuracy } from '@/lib/progress';
+import { dueForReview, everCorrect, frequentErrors, inReview, setUnitCompleted, topicAccuracy } from '@/lib/progress';
 import { exportJson, importJson, resetAll, isStorageAvailable } from '@/lib/storage';
 import { topicLabel } from '@/lib/topics';
 import { itemPoints, type Item } from '@/lib/schema';
@@ -27,7 +27,8 @@ function Bar({ value }: { value: number }) {
 
 export default function ProgressPage() {
   const state = useStore();
-  const [reviewing, setReviewing] = useState(false);
+  /** Items of the review in progress, fixed when it starts so answered ones stay on the page. */
+  const [reviewIds, setReviewIds] = useState<string[] | null>(null);
   const [msg, setMsg] = useState<string | null>(null);
   const fileRef = useRef<HTMLInputElement>(null);
 
@@ -36,7 +37,7 @@ export default function ProgressPage() {
   const errors = frequentErrors(state, 10);
   const due = dueForReview(state);
   const review = inReview(state);
-  const dueItems = useMemo(() => due.slice(0, 15).map(([id]) => findItem(id)).filter((x): x is Item => !!x), [due]);
+  const reviewItems = useMemo(() => (reviewIds ?? []).map(findItem).filter((x): x is Item => !!x), [reviewIds]);
 
   const download = () => {
     const blob = new Blob([exportJson()], { type: 'application/json' });
@@ -70,7 +71,10 @@ export default function ProgressPage() {
             <tr>
               <th>Unit</th>
               <th className="num">Items done</th>
-              <th>Completed</th>
+              <th>Progress</th>
+              <th>
+                <span className="sr-only">Mark as completed</span>
+              </th>
             </tr>
           </thead>
           <tbody>
@@ -78,6 +82,7 @@ export default function ProgressPage() {
               const items = u.exercises.flatMap((e) => e.items);
               const done = items.filter((i) => correct.has(i.id)).length;
               const pts = items.reduce((n, i) => n + itemPoints(i), 0);
+              const marked = Boolean(state.completed[u.id]);
               return (
                 <tr key={u.id}>
                   <td>
@@ -89,7 +94,12 @@ export default function ProgressPage() {
                     {done}/{items.length} <span className="muted">({pts} marks)</span>
                   </td>
                   <td>
-                    <Bar value={done / Math.max(1, items.length)} /> {Math.round((done / Math.max(1, items.length)) * 100)}%
+                    <Bar value={marked ? 1 : done / Math.max(1, items.length)} /> {marked ? '✓' : `${Math.round((done / Math.max(1, items.length)) * 100)}%`}
+                  </td>
+                  <td>
+                    <button type="button" className="linkish" aria-pressed={marked} onClick={() => setUnitCompleted(u.id, !marked)}>
+                      {marked ? 'Completed (undo)' : 'Mark as completed'}
+                    </button>
                   </td>
                 </tr>
               );
@@ -159,12 +169,21 @@ export default function ProgressPage() {
           {review.length} items in review (boxes 1–5) · <b>{due.length}</b> due today.{' '}
           <span className="muted">An item you get wrong enters box 1; each correct review moves it up a box (1, 2, 4, 8, 16 days); a mistake sends it back to box 1.</span>
         </p>
-        {due.length > 0 && !reviewing && (
-          <button type="button" className="btn primary" onClick={() => setReviewing(true)}>
+        {due.length > 0 && !reviewIds && (
+          <button type="button" className="btn primary" onClick={() => setReviewIds(due.slice(0, 15).map(([id]) => id))}>
             Review {Math.min(15, due.length)} items now
           </button>
         )}
-        {reviewing && dueItems.map((it, i) => <ItemView key={it.id} item={it} n={i + 1} context="review" showSource />)}
+        {reviewIds && (
+          <>
+            {reviewItems.map((it, i) => (
+              <ItemView key={it.id} item={it} n={i + 1} context="review" showSource />
+            ))}
+            <button type="button" className="btn" onClick={() => setReviewIds(null)}>
+              {due.length > 0 ? `Finish this round (${due.length} still due)` : 'Finish review'}
+            </button>
+          </>
+        )}
       </section>
 
       <section>

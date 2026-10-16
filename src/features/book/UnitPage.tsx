@@ -10,6 +10,32 @@ import { Paragraphs, RichText } from '@/components/RichText';
 import { update } from '@/lib/storage';
 import { useStore } from '@/lib/useStore';
 import { GENERATORS } from '@/lib/generators';
+import { setUnitCompleted } from '@/lib/progress';
+
+/** Mark the unit as completed by hand (or undo it). */
+function CompleteButton({ unitId, number, big }: { unitId: string; number: number; big?: boolean }) {
+  const state = useStore();
+  const done = Boolean(state.completed[unitId]);
+  if (big) {
+    return (
+      <div className={`unit-finish${done ? ' is-done' : ''}`}>
+        <p>
+          {done
+            ? `Unit ${number} is marked as completed on ${new Date(state.completed[unitId]).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' })}.`
+            : 'Finished this unit? Mark it as completed: the contents and My Progress will show it as done.'}
+        </p>
+        <button type="button" className={done ? 'btn' : 'btn primary'} aria-pressed={done} onClick={() => setUnitCompleted(unitId, !done)}>
+          {done ? 'Mark as not completed' : `Mark Unit ${number} as completed`}
+        </button>
+      </div>
+    );
+  }
+  return (
+    <button type="button" className="linkish" aria-pressed={done} onClick={() => setUnitCompleted(unitId, !done)}>
+      {done ? '✓ Completed (undo)' : 'Mark as completed'}
+    </button>
+  );
+}
 
 function BookmarkButton({ path, label }: { path: string; label: string }) {
   const state = useStore();
@@ -107,6 +133,8 @@ export function UnitPage() {
           <div className="margin-note">
             <span className="label">This unit</span>
             <BookmarkButton path={`/book/unit/${unit.id}`} label={`${unit.number} ${unit.title}`} />
+            <br />
+            <CompleteButton unitId={unit.id} number={unit.number} />
             <br />
             <button type="button" className="linkish" onClick={() => window.print()}>
               Print as book pages
@@ -243,6 +271,7 @@ export function UnitPage() {
             </ol>
           </div>
         </div>
+        <CompleteButton unitId={unit.id} number={unit.number} big />
       </section>
 
       <section aria-labelledby="more-h" className="no-print">

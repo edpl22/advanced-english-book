@@ -265,7 +265,8 @@ export function Contents() {
                 const all = unit ? unit.exercises.flatMap((e) => e.items) : [];
                 const total = all.reduce((n, it) => n + itemPoints(it), 0);
                 const got = all.filter((it) => done.has(it.id)).length;
-                const pct = all.length ? Math.round((got / all.length) * 100) : 0;
+                const marked = Boolean(state.completed[u.id]);
+                const pct = marked ? 100 : all.length ? Math.round((got / all.length) * 100) : 0;
                 return (
                   <li className="unit" key={u.id}>
                     <span className="n">{u.number}</span>
@@ -281,11 +282,18 @@ export function Contents() {
                       {u.ready ? (
                         <>
                           {total} items
-                          {pct > 0 && (
-                            <span className="done" title={`${pct}% of the unit answered correctly`}>
+                          {marked ? (
+                            <span className="done" title="Marked as completed">
                               {' '}
-                              · {pct}%
+                              · ✓ completed
                             </span>
+                          ) : (
+                            pct > 0 && (
+                              <span className="done" title={`${pct}% of the unit answered correctly`}>
+                                {' '}
+                                · {pct}%
+                              </span>
+                            )
                           )}
                         </>
                       ) : (
