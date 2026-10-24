@@ -1,12 +1,14 @@
 import type { Block } from '@content/units/types';
 import { Paragraphs, RichText } from './RichText';
+import { N_, useT } from '@/lib/i18n';
 
-const NOTE_LABEL = { note: 'Note', watch: 'Watch out!', exam: 'Exam focus' } as const;
+const NOTE_LABEL = { note: N_('Note'), watch: N_('Watch out!'), exam: N_('Exam focus') } as const;
 
 export function MarginNote({ variant, title, text }: { variant: 'note' | 'watch' | 'exam'; title?: string; text: string }) {
+  const t = useT();
   return (
-    <aside className={`margin-note ${variant}`} aria-label={title ?? NOTE_LABEL[variant]}>
-      <span className="label">{title ?? NOTE_LABEL[variant]}</span>
+    <aside className={`margin-note ${variant}`} aria-label={title ?? t(NOTE_LABEL[variant])}>
+      <span className="label">{title ?? t(NOTE_LABEL[variant])}</span>
       <RichText text={text} />
     </aside>
   );

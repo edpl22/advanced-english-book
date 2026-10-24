@@ -1,7 +1,13 @@
 import { Link } from 'react-router-dom';
 import { MarginNote } from '@/components/Blocks';
+import { useLang } from '@/lib/i18n';
+import { HowToUsePt } from './HowToUsePt';
 
 export function HowToUse() {
+  return useLang() === 'pt' ? <HowToUsePt /> : <HowToUseEn />;
+}
+
+function HowToUseEn() {
   return (
     <div className="single">
       <div className="running-head">

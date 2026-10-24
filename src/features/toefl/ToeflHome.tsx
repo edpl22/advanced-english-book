@@ -7,6 +7,13 @@ import { speechSupported } from '@/lib/speech';
 import { recordingSupported } from '@/lib/recorder';
 import { TOEFL_TESTS, taskPools } from './bank';
 import { listeningScreens, readingScreens, ToeflRunner, type Screen } from './ToeflRunner';
+import { fmtDate, useT, type T } from '@/lib/i18n';
+
+/** "Practice Test 3" in the interface language. */
+export function testTitle(t: T, title: string): string {
+  const m = /^Practice Test (\d+)$/.exec(title);
+  return m ? t('Practice Test {n}', { n: m[1] }) : title;
+}
 
 type TaskKey = 'ctw' | 'daily' | 'academic' | 'choose' | 'conversation' | 'announcement' | 'talk' | 'buildSentence' | 'email' | 'discussion' | 'repeat' | 'interview';
 
@@ -68,6 +75,7 @@ type Run = { kind: 'full'; testIdx: number } | { kind: 'section'; testIdx: numbe
 
 export default function ToeflHome() {
   const state = useStore();
+  const t = useT();
   const [run, setRun] = useState<Run | null>(null);
   const [testIdx, setTestIdx] = useState(0);
   const [section, setSection] = useState<SectionKey>('reading');
@@ -77,32 +85,34 @@ export default function ToeflHome() {
     const test = TOEFL_TESTS[run.kind === 'task' ? 0 : run.testIdx];
     if (run.kind === 'task') {
       const label = TASKS.find(([k]) => k === run.task)![1];
-      return <ToeflRunner key={run.seed} test={test} sections={[TASKS.find(([k]) => k === run.task)![2]]} practiceScreens={practiceSet(run.task, run.seed)} title={`Task practice · ${label}`} onExit={() => setRun(null)} />;
+      return <ToeflRunner key={run.seed} test={test} sections={[TASKS.find(([k]) => k === run.task)![2]]} practiceScreens={practiceSet(run.task, run.seed)} title={`${t('Task practice')} · ${label}`} onExit={() => setRun(null)} />;
     }
     const sections = run.kind === 'full' ? SECTION_ORDER : [run.section];
-    return <ToeflRunner test={test} sections={sections} title={`${test.title}${run.kind === 'section' ? ` · ${TOEFL_CONFIG.sections[run.section].title}` : ''}`} onExit={() => setRun(null)} />;
+    return <ToeflRunner test={test} sections={sections} title={`${testTitle(t, test.title)}${run.kind === 'section' ? ` · ${TOEFL_CONFIG.sections[run.section].title}` : ''}`} onExit={() => setRun(null)} />;
   }
 
-  const history = state.tests.filter((t) => t.kind === 'toefl').slice(-5).reverse();
+  const history = state.tests.filter((x) => x.kind === 'toefl').slice(-5).reverse();
 
   return (
     <div className="single">
       <div className="running-head">
-        <span>TOEFL Simulator</span>
-        <span>{TOEFL_CONFIG.formatLabel}</span>
+        <span>{t('TOEFL-format Simulator')}</span>
+        <span>{t(TOEFL_CONFIG.formatLabel)}</span>
       </div>
-      <h1 className="sc">TOEFL Simulator</h1>
+      <h1 className="sc">{t('TOEFL-format Simulator')}</h1>
       <p>
-        The structure of the TOEFL iBT introduced in January 2026, with original content: adaptive Reading and Listening, Writing with automatic
-        and self-assessed tasks, and recorded Speaking. Results are given as bands from 1 to 6 with their CEFR equivalent —{' '}
-        <b>an unofficial estimate</b>.
+        {t('The structure of the TOEFL iBT introduced in January 2026, with original content: adaptive Reading and Listening, Writing with automatic and self-assessed tasks, and recorded Speaking. Results are given as bands from 1 to 6 with their CEFR equivalent —')}{' '}
+        <b>{t('an unofficial estimate')}</b>.
+      </p>
+      <p className="legal-note">
+        {t('This is an independent practice simulator, not an official test: it is not affiliated with, endorsed or reviewed by ETS, and its questions are original, not taken from real exams. TOEFL and TOEFL iBT are registered trademarks of ETS, used here only to describe the format practised.')}
       </p>
       <table className="ledger" style={{ margin: '1rem 0 1.5rem' }}>
         <thead>
           <tr>
-            <th>Section</th>
-            <th className="num">Minutes</th>
-            <th>Tasks</th>
+            <th>{t('Section')}</th>
+            <th className="num">{t('Minutes')}</th>
+            <th>{t('Tasks')}</th>
           </tr>
         </thead>
         <tbody>
@@ -110,42 +120,46 @@ export default function ToeflHome() {
             <tr key={s}>
               <td>
                 {TOEFL_CONFIG.sections[s].title}
-                {TOEFL_CONFIG.sections[s].adaptive && <span className="muted"> · adaptive</span>}
+                {TOEFL_CONFIG.sections[s].adaptive && <span className="muted"> · {t('adaptive')}</span>}
               </td>
               <td className="num">{TOEFL_CONFIG.sections[s].minutes}</td>
-              <td>{Object.values(TOEFL_CONFIG.sections[s].tasks).map((t) => t.title).join(' · ')}</td>
+              <td lang="en">
+                {Object.values(TOEFL_CONFIG.sections[s].tasks)
+                  .map((x) => x.title)
+                  .join(' · ')}
+              </td>
             </tr>
           ))}
         </tbody>
       </table>
       {(!speechSupported() || !recordingSupported()) && (
         <p className="notice">
-          {!speechSupported() && 'This browser has no speech voices: listening tasks will offer transcripts instead. '}
-          {!recordingSupported() && 'Recording is not available: in Speaking you will answer aloud and rate yourself.'}
+          {!speechSupported() && `${t('This browser has no speech voices: listening tasks will offer transcripts instead.')} `}
+          {!recordingSupported() && t('Recording is not available: in Speaking you will answer aloud and rate yourself.')}
         </p>
       )}
 
       <section>
-        <h2 className="subhead">Complete test</h2>
+        <h2 className="subhead">{t('Complete test')}</h2>
         <div className="field">
-          <label htmlFor="t-test">Test</label>
+          <label htmlFor="t-test">{t('Test')}</label>
           <select id="t-test" value={testIdx} onChange={(e) => setTestIdx(Number(e.target.value))}>
-            {TOEFL_TESTS.map((t, i) => (
-              <option key={t.id} value={i}>
-                {t.title}
+            {TOEFL_TESTS.map((x, i) => (
+              <option key={x.id} value={i}>
+                {testTitle(t, x.title)}
               </option>
             ))}
           </select>
           <button type="button" className="btn primary" onClick={() => setRun({ kind: 'full', testIdx })}>
-            Start full test (about {SECTION_ORDER.reduce((n, s) => n + TOEFL_CONFIG.sections[s].minutes, 0)} minutes)
+            {t('Start full test (about {n} minutes)', { n: SECTION_ORDER.reduce((n, s) => n + TOEFL_CONFIG.sections[s].minutes, 0) })}
           </button>
         </div>
       </section>
 
       <section>
-        <h2 className="subhead">One section</h2>
+        <h2 className="subhead">{t('One section')}</h2>
         <div className="field">
-          <label htmlFor="t-sec">Section</label>
+          <label htmlFor="t-sec">{t('Section')}</label>
           <select id="t-sec" value={section} onChange={(e) => setSection(e.target.value as SectionKey)}>
             {SECTION_ORDER.map((s) => (
               <option key={s} value={s}>
@@ -154,16 +168,16 @@ export default function ToeflHome() {
             ))}
           </select>
           <button type="button" className="btn" onClick={() => setRun({ kind: 'section', testIdx, section })}>
-            Start section
+            {t('Start section')}
           </button>
         </div>
       </section>
 
       <section>
-        <h2 className="subhead">Practise one task</h2>
-        <p className="muted">Items are drawn at random from the bank (Build a Sentence: {taskPools().buildSentence.length} items).</p>
+        <h2 className="subhead">{t('Practise one task')}</h2>
+        <p className="muted">{t('Items are drawn at random from the bank (Build a Sentence: {n} items).', { n: taskPools().buildSentence.length })}</p>
         <div className="field">
-          <label htmlFor="t-task">Task</label>
+          <label htmlFor="t-task">{t('Task')}</label>
           <select id="t-task" value={task} onChange={(e) => setTask(e.target.value as TaskKey)}>
             {SECTION_ORDER.map((s) => (
               <optgroup key={s} label={TOEFL_CONFIG.sections[s].title}>
@@ -176,36 +190,36 @@ export default function ToeflHome() {
             ))}
           </select>
           <button type="button" className="btn" onClick={() => setRun({ kind: 'task', task, seed: randomSeedString() })}>
-            Practise
+            {t('Practise')}
           </button>
         </div>
       </section>
 
       {history.length > 0 && (
         <section>
-          <h2 className="subhead">Your simulations</h2>
+          <h2 className="subhead">{t('Your simulations')}</h2>
           <table className="ledger">
             <thead>
               <tr>
-                <th>Date</th>
-                <th>Test</th>
-                <th className="num">Overall</th>
+                <th>{t('Date')}</th>
+                <th>{t('Test')}</th>
+                <th className="num">{t('Overall')}</th>
                 <th className="num">R · L · W · S</th>
               </tr>
             </thead>
             <tbody>
-              {history.map((t) => (
-                <tr key={t.id}>
-                  <td>{new Date(t.at).toLocaleDateString()}</td>
-                  <td>{t.title}</td>
-                  <td className="num">{t.bands?.overall?.toFixed(1) ?? '—'}</td>
-                  <td className="num">{['reading', 'listening', 'writing', 'speaking'].map((s) => t.bands?.[s]?.toFixed(1) ?? '–').join(' · ')}</td>
+              {history.map((x) => (
+                <tr key={x.id}>
+                  <td>{fmtDate(state.settings.lang, new Date(x.at), { day: 'numeric', month: 'short', year: 'numeric' })}</td>
+                  <td>{x.title}</td>
+                  <td className="num">{x.bands?.overall?.toFixed(1) ?? '—'}</td>
+                  <td className="num">{['reading', 'listening', 'writing', 'speaking'].map((s) => x.bands?.[s]?.toFixed(1) ?? '–').join(' · ')}</td>
                 </tr>
               ))}
             </tbody>
           </table>
           <p className="muted">
-            All results are in <Link to="/progress">My Progress</Link>.
+            {t('All results are in')} <Link to="/progress">{t('My Progress')}</Link>.
           </p>
         </section>
       )}

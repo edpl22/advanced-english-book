@@ -6,20 +6,22 @@ import { RichText } from '@/components/RichText';
 import { ItemView } from '@/components/ItemView';
 import { Rng, randomSeedString } from '@/lib/rng';
 import { speak, speechSupported } from '@/lib/speech';
+import { N_, useT } from '@/lib/i18n';
 
-const PERIOD = { OE: 'Old English', ME: 'Middle English', EModE: 'Early Modern English' } as const;
+const PERIOD = { OE: N_('Old English'), ME: N_('Middle English'), EModE: N_('Early Modern English') } as const;
 
 const SECTIONS: Array<[string, string]> = [
-  ['timeline', 'Timeline'],
-  ['letters', 'The lost letters'],
-  ['grammar', 'Grammar then and now'],
-  ['texts', 'Texts'],
-  ['origins', 'Word origins'],
-  ['quiz', 'Quiz'],
+  ['timeline', N_('Timeline')],
+  ['letters', N_('The lost letters')],
+  ['grammar', N_('Grammar then and now')],
+  ['texts', N_('Texts')],
+  ['origins', N_('Word origins')],
+  ['quiz', N_('Quiz')],
 ];
 
 export default function MedievalHome() {
   const [params] = useSearchParams();
+  const t = useT();
   const target = params.get('s');
   const [quizSeed, setQuizSeed] = useState(randomSeedString);
   const [quizSection, setQuizSection] = useState<string>('all');
@@ -36,16 +38,14 @@ export default function MedievalHome() {
   return (
     <div className="single">
       <div className="running-head">
-        <span>Beyond the Book</span>
-        <span>Old &amp; Middle English</span>
+        <span>{t('Beyond the Book')}</span>
+        <span>{t('Old & Middle English')}</span>
       </div>
-      <h1 className="sc">Old &amp; Middle English</h1>
+      <h1 className="sc">{t('Old & Middle English')}</h1>
       <p className="dropcap">
-        English has been written for about thirteen centuries. A speaker of today needs a translation to read Beowulf, can puzzle through Chaucer
-        with notes, and reads Shakespeare with only occasional help. This chapter is a short tour of that history — for curiosity, and because it
-        explains many oddities of modern spelling and grammar.
+        {t('English has been written for about thirteen centuries. A speaker of today needs a translation to read Beowulf, can puzzle through Chaucer with notes, and reads Shakespeare with only occasional help. This chapter is a short tour of that history — for curiosity, and because it explains many oddities of modern spelling and grammar.')}
       </p>
-      <nav className="muted" aria-label="Sections">
+      <nav className="muted" aria-label={t('Sections')}>
         {SECTIONS.map(([id, label], i) => (
           <span key={id}>
             <a
@@ -55,7 +55,7 @@ export default function MedievalHome() {
                 document.getElementById(`me-${id}`)?.scrollIntoView();
               }}
             >
-              {label}
+              {t(label)}
             </a>
             {i < SECTIONS.length - 1 ? ' · ' : ''}
           </span>
@@ -65,13 +65,15 @@ export default function MedievalHome() {
       <section id="me-timeline">
         <div className="section-title">
           <span className="num">I</span>
-          <h2>Timeline</h2>
+          <h2>{t('Timeline')}</h2>
         </div>
-        <p className="muted">Old English c. 450–1100 · Middle English 1100–1500 · Early Modern English 1500–1700</p>
-        <ul className="timeline">
-          {TIMELINE.map((t) => (
-            <li key={t.date}>
-              <span className="date">{t.date}</span> <span className="tag">{PERIOD[t.period]}</span> {t.event}
+        <p className="muted">
+          {t('Old English')} c. 450–1100 · {t('Middle English')} 1100–1500 · {t('Early Modern English')} 1500–1700
+        </p>
+        <ul className="timeline" lang="en">
+          {TIMELINE.map((ev) => (
+            <li key={ev.date}>
+              <span className="date">{ev.date}</span> <span className="tag">{t(PERIOD[ev.period])}</span> {ev.event}
             </li>
           ))}
         </ul>
@@ -80,20 +82,20 @@ export default function MedievalHome() {
       <section id="me-letters">
         <div className="section-title">
           <span className="num">II</span>
-          <h2>The lost letters</h2>
+          <h2>{t('The lost letters')}</h2>
         </div>
         <div className="table-wrap">
           <table className="book-table">
             <thead>
               <tr>
-                <th>Letter</th>
-                <th>Name</th>
-                <th>Sound</th>
-                <th>Story</th>
-                <th>Example</th>
+                <th>{t('Letter')}</th>
+                <th>{t('Name')}</th>
+                <th>{t('Sound')}</th>
+                <th>{t('Story')}</th>
+                <th>{t('Example')}</th>
               </tr>
             </thead>
-            <tbody>
+            <tbody lang="en">
               {LETTERS.map((l) => (
                 <tr key={l.name}>
                   <td className="medieval" style={{ fontSize: '1.6rem', whiteSpace: 'nowrap' }}>
@@ -115,10 +117,10 @@ export default function MedievalHome() {
       <section id="me-grammar">
         <div className="section-title">
           <span className="num">III</span>
-          <h2>Grammar then and now</h2>
+          <h2>{t('Grammar then and now')}</h2>
         </div>
         {GRAMMAR_NOTES.map((g) => (
-          <div key={g.title}>
+          <div key={g.title} lang="en">
             <h3 className="subhead">{g.title}</h3>
             <p>
               <RichText text={g.text} />
@@ -131,24 +133,24 @@ export default function MedievalHome() {
       <section id="me-texts">
         <div className="section-title">
           <span className="num">IV</span>
-          <h2>Texts</h2>
+          <h2>{t('Texts')}</h2>
         </div>
-        <p className="muted">Originals on the left (public domain); line-by-line modern renderings on the right.</p>
-        {TEXTS.map((t) => (
-          <article key={t.id} style={{ marginBottom: '2rem' }}>
-            <h3 className="subhead">{t.title}</h3>
+        <p className="muted">{t('Originals on the left (public domain); line-by-line modern renderings on the right.')}</p>
+        {TEXTS.map((tx) => (
+          <article key={tx.id} style={{ marginBottom: '2rem' }}>
+            <h3 className="subhead">{tx.title}</h3>
             <p className="muted" style={{ marginTop: 0 }}>
-              {t.source} · {PERIOD[t.period]}{' '}
-              {speechSupported() && t.period === 'EModE' && (
-                <button type="button" className="linkish" onClick={() => speak(t.lines.map((l) => l[0]).join(' '), { rate: 0.85 })}>
-                  listen
+              {tx.source} · {t(PERIOD[tx.period])}{' '}
+              {speechSupported() && tx.period === 'EModE' && (
+                <button type="button" className="linkish" onClick={() => speak(tx.lines.map((l) => l[0]).join(' '), { rate: 0.85 })}>
+                  {t('listen')}
                 </button>
               )}
             </p>
             <div className="interlinear">
-              {t.lines.map(([orig, modern], i) => (
+              {tx.lines.map(([orig, modern], i) => (
                 <div key={i} style={{ display: 'contents' }}>
-                  <div className="ol" lang={t.period === 'OE' ? 'ang' : t.period === 'ME' ? 'enm' : 'en'}>
+                  <div className="ol" lang={tx.period === 'OE' ? 'ang' : tx.period === 'ME' ? 'enm' : 'en'}>
                     {orig}
                   </div>
                   <div className="ml" lang="en">
@@ -157,8 +159,8 @@ export default function MedievalHome() {
                 </div>
               ))}
             </div>
-            <ul style={{ fontSize: '0.92rem' }}>
-              {t.notes.map((n, i) => (
+            <ul style={{ fontSize: '0.92rem' }} lang="en">
+              {tx.notes.map((n, i) => (
                 <li key={i}>
                   <RichText text={n} />
                 </li>
@@ -171,19 +173,19 @@ export default function MedievalHome() {
       <section id="me-origins">
         <div className="section-title">
           <span className="num">V</span>
-          <h2>Word origins</h2>
+          <h2>{t('Word origins')}</h2>
         </div>
         <div className="table-wrap">
           <table className="book-table">
             <thead>
               <tr>
-                <th>Word</th>
-                <th>Then</th>
-                <th>Now</th>
-                <th>How it changed</th>
+                <th>{t('Word')}</th>
+                <th>{t('Then')}</th>
+                <th>{t('Now')}</th>
+                <th>{t('How it changed')}</th>
               </tr>
             </thead>
-            <tbody>
+            <tbody lang="en">
               {WORD_ORIGINS.map((w) => (
                 <tr key={w.word}>
                   <td>
@@ -202,20 +204,20 @@ export default function MedievalHome() {
       <section id="me-quiz">
         <div className="section-title">
           <span className="num">VI</span>
-          <h2>Quiz</h2>
+          <h2>{t('Quiz')}</h2>
         </div>
         <div className="field no-print">
-          <label htmlFor="me-sec">Section</label>
+          <label htmlFor="me-sec">{t('Section')}</label>
           <select id="me-sec" value={quizSection} onChange={(e) => setQuizSection(e.target.value)}>
-            <option value="all">all ({MEDIEVAL_QUIZ.length} questions)</option>
+            <option value="all">{t('all ({n} questions)', { n: MEDIEVAL_QUIZ.length })}</option>
             {SECTIONS.slice(0, 5).map(([id, label]) => (
               <option key={id} value={id}>
-                {label}
+                {t(label)}
               </option>
             ))}
           </select>
           <button type="button" className="btn" onClick={() => setQuizSeed(randomSeedString())}>
-            New quiz
+            {t('New quiz')}
           </button>
         </div>
         {quiz.map((q, i) => (

@@ -5,6 +5,7 @@ import { BookHome } from './features/book/BookHome';
 import { HowToUse } from './features/book/HowToUse';
 import { UnitPage } from './features/book/UnitPage';
 import { MorePractice } from './features/book/MorePractice';
+import { useT } from './lib/i18n';
 import { AnswerKey, FalseFriends, Glossary, IndexPage, IrregularVerbs, PhrasalDictionary } from './features/book/Appendices';
 
 const PracticeTests = lazy(() => import('./features/exams/PracticeTests'));
@@ -15,7 +16,8 @@ const Progress = lazy(() => import('./features/progress/ProgressPage'));
 const Daily = lazy(() => import('./features/daily/DailyChallenge'));
 
 function Lazy({ children }: { children: ReactNode }) {
-  return <Suspense fallback={<p className="muted">Turning the page…</p>}>{children}</Suspense>;
+  const t = useT();
+  return <Suspense fallback={<p className="muted">{t('Turning the page…')}</p>}>{children}</Suspense>;
 }
 
 export function App() {

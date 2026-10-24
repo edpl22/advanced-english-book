@@ -4,6 +4,7 @@ import type { Item } from '@/lib/schema';
 import { answerText, checkItem, type CheckResult, type ItemResponse, type ErrorResponse } from '@/lib/checking';
 import { knownWords } from '@/lib/knownWords';
 import { recordAnswer } from '@/lib/progress';
+import { useT } from '@/lib/i18n';
 import { Rng } from '@/lib/rng';
 import { RichText, refPath } from './RichText';
 
@@ -47,6 +48,7 @@ export function ItemView({ item, n, mode = 'practice', response: controlled, onR
     onChecked?.(r);
   };
 
+  const t = useT();
   const reviewResult = mode === 'review' ? checkItem(item, response, { knownWords: knownWords() }) : null;
   const effective = result ?? reviewResult;
 
@@ -57,7 +59,6 @@ export function ItemView({ item, n, mode = 'practice', response: controlled, onR
       </div>
       <div
         className="item-body"
-        lang="en"
         onKeyDown={(e) => {
           // Enter in a text box checks the answer, as a submit button would.
           if (mode === 'practice' && !locked && e.key === 'Enter' && e.target instanceof HTMLInputElement && e.target.type !== 'radio') {
@@ -66,13 +67,15 @@ export function ItemView({ item, n, mode = 'practice', response: controlled, onR
           }
         }}
       >
-        {item.instruction && mode !== 'review' && <div className="instruction">{item.instruction}</div>}
-        <ItemInput item={item} response={response} setResponse={setResponse} locked={locked} result={effective} shown={shown || mode === 'review'} n={n} />
-        {showSource && <span className="source-tag">{item.source === 'generated' ? 'generated' : 'authored'}</span>}
+        <div lang="en">
+          {item.instruction && mode !== 'review' && <div className="instruction">{item.instruction}</div>}
+          <ItemInput item={item} response={response} setResponse={setResponse} locked={locked} result={effective} shown={shown || mode === 'review'} n={n} />
+        </div>
+        {showSource && <span className="source-tag">{item.source === 'generated' ? t('generated') : t('authored')}</span>}
         {mode === 'practice' && (
           <div className="controls no-print">
             <button type="button" className="btn primary" onClick={check} disabled={locked}>
-              Check
+              {t('Check')}
             </button>
             <button
               type="button"
@@ -83,7 +86,7 @@ export function ItemView({ item, n, mode = 'practice', response: controlled, onR
               }}
               disabled={shown}
             >
-              Show answer
+              {t('Show answer')}
             </button>
             <button
               type="button"
@@ -94,7 +97,7 @@ export function ItemView({ item, n, mode = 'practice', response: controlled, onR
                 setShown(false);
               }}
             >
-              Try again
+              {t('Try again')}
             </button>
           </div>
         )}
@@ -105,8 +108,9 @@ export function ItemView({ item, n, mode = 'practice', response: controlled, onR
 }
 
 export function Feedback({ item, result, shown }: { item: Item; result: CheckResult | null; shown: boolean }) {
+  const t = useT();
   const verdict = result?.verdict;
-  const label = verdict === 'correct' ? 'Correct' : verdict === 'almost' ? 'Almost' : verdict === 'incorrect' ? 'Not quite' : 'Answer';
+  const label = verdict === 'correct' ? t('Correct') : verdict === 'almost' ? t('Almost') : verdict === 'incorrect' ? t('Not quite') : t('Answer');
   const cls = verdict ?? 'incorrect';
   return (
     <div className={`feedback ${cls}`} role="status" aria-live="polite">
@@ -116,18 +120,21 @@ export function Feedback({ item, result, shown }: { item: Item; result: CheckRes
           {result.score}/{result.maxScore}.{' '}
         </span>
       )}
-      {result?.message && <span>{result.message} </span>}
+      {result?.message && <span>{t(result.message, result.messageVars)} </span>}
       {(shown || verdict !== 'correct') && (
         <div>
-          <span className="sc">Answer:</span> <RichText text={answerText(item)} />
+          <span className="sc">{t('Answer:')}</span>{' '}
+          <span lang="en">
+            <RichText text={answerText(item)} />
+          </span>
         </div>
       )}
-      <div>
+      <div lang="en">
         <RichText text={item.explanation} />
       </div>
       <div>
         <Link to={refPath(item.ref)} className="sc">
-          Review: {item.ref}
+          {t('Review: {ref}', { ref: item.ref })}
         </Link>
       </div>
     </div>
@@ -150,6 +157,7 @@ function splitGap(prompt: string): [string, string] {
 }
 
 function ItemInput(p: InputProps): ReactNode {
+  const t = useT();
   const { item } = p;
   switch (item.type) {
     case 'mcq':
@@ -166,7 +174,7 @@ function ItemInput(p: InputProps): ReactNode {
           <RichText text={before} />
           <input
             className={`blank ${long ? 'wide' : ''}`}
-            aria-label={`Answer ${p.n}`}
+            aria-label={t('Answer {n}', { n: p.n })}
             value={value}
             onChange={(e) => p.setResponse(e.target.value)}
             readOnly={p.locked}
@@ -192,7 +200,7 @@ function ItemInput(p: InputProps): ReactNode {
             <RichText text={item.first} />
           </div>
           <div className="item-prompt">
-            <span className="kwt-key" aria-label={`key word ${item.keyword}`}>
+            <span className="kwt-key" aria-label={t('key word {keyword}', { keyword: item.keyword })}>
               {item.keyword}
             </span>
           </div>
@@ -200,7 +208,7 @@ function ItemInput(p: InputProps): ReactNode {
             {item.before && <RichText text={item.before + ' '} />}
             <input
               className="blank wide"
-              aria-label={`Answer ${p.n} (2–5 words including ${item.keyword})`}
+              aria-label={t('Answer {n} (2–5 words including {keyword})', { n: p.n, keyword: item.keyword })}
               value={value}
               onChange={(e) => p.setResponse(e.target.value)}
               readOnly={p.locked}
@@ -254,6 +262,7 @@ function Mcq({ prompt, options, answer, response, setResponse, locked, result, s
 }
 
 function ErrorCorrection({ item, response, setResponse, locked, n }: InputProps & { item: Extract<Item, { type: 'error-correction' }> }) {
+  const t = useT();
   const r = (response as ErrorResponse | undefined) ?? { index: -1, correction: '' };
   let k = -1;
   return (
@@ -279,10 +288,12 @@ function ErrorCorrection({ item, response, setResponse, locked, n }: InputProps 
         })}
       </div>
       <div className="item-prompt">
-        <span className="sc">Correction:</span>{' '}
+        <span className="sc">
+          {t('Correction:')}
+        </span>{' '}
         <input
           className="blank wide"
-          aria-label={`Correction for item ${n}`}
+          aria-label={t('Correction for item {n}', { n })}
           value={r.correction}
           onChange={(e) => setResponse({ ...r, correction: e.target.value })}
           readOnly={locked}
@@ -295,6 +306,7 @@ function ErrorCorrection({ item, response, setResponse, locked, n }: InputProps 
 }
 
 function Matching({ item, response, setResponse, locked, result, n }: InputProps & { item: Extract<Item, { type: 'matching' }> }) {
+  const t = useT();
   const r = Array.isArray(response) ? (response as number[]) : item.left.map(() => -1);
   return (
     <div>
@@ -306,7 +318,7 @@ function Matching({ item, response, setResponse, locked, result, n }: InputProps
               <RichText text={l} />{' '}
               <select
                 className={`blank ${result?.parts ? `gap-mark ${result.parts[i]}` : ''}`}
-                aria-label={`Match for ${i + 1} (item ${n})`}
+                aria-label={t('Match for {i} (item {n})', { i: i + 1, n })}
                 value={r[i] ?? -1}
                 disabled={locked}
                 onChange={(e) => {
@@ -338,6 +350,7 @@ function Matching({ item, response, setResponse, locked, result, n }: InputProps
 }
 
 function WordOrder({ item, response, setResponse, locked }: InputProps & { item: Extract<Item, { type: 'word-order' }> }) {
+  const t = useT();
   const shuffled = useMemo(() => {
     const idx = item.fragments.map((_, i) => i);
     let s = new Rng(item.id).shuffle(idx);
@@ -359,14 +372,14 @@ function WordOrder({ item, response, setResponse, locked }: InputProps & { item:
           <RichText text={item.context} />
         </div>
       )}
-      <div className="answer-line fragments" aria-label="Your sentence" aria-live="polite">
+      <div className="answer-line fragments" aria-label={t('Your sentence')} aria-live="polite">
         {placed.map((frag, i) => (
-          <button key={i} type="button" className="fragment placed" disabled={locked} onClick={() => setResponse(placed.filter((_, j) => j !== i))} aria-label={`Remove “${frag}”`}>
+          <button key={i} type="button" className="fragment placed" disabled={locked} onClick={() => setResponse(placed.filter((_, j) => j !== i))} aria-label={t('Remove “{frag}”', { frag })}>
             {frag}
           </button>
         ))}
       </div>
-      <div className="fragments" aria-label="Fragments">
+      <div className="fragments" aria-label={t('Fragments')}>
         {shuffled.map((k) =>
           used.has(k) ? null : (
             <button key={k} type="button" className="fragment" disabled={locked} onClick={() => setResponse([...placed, item.fragments[k]])}>
@@ -399,6 +412,7 @@ function clozeSegments(text: string): Array<string | number> {
 }
 
 function OpenCloze({ item, response, setResponse, locked, result }: InputProps & { item: Extract<Item, { type: 'open-cloze' }> }) {
+  const t = useT();
   const r = Array.isArray(response) ? (response as string[]) : item.gaps.map(() => '');
   return (
     <div>
@@ -412,7 +426,7 @@ function OpenCloze({ item, response, setResponse, locked, result }: InputProps &
               <span className="gap-num">{seg + 1}</span>
               <input
                 className={`blank ${result?.parts ? `gap-mark ${result.parts[seg]}` : ''}`}
-                aria-label={`Gap ${seg + 1}`}
+                aria-label={t('Gap {n}', { n: seg + 1 })}
                 value={r[seg] ?? ''}
                 readOnly={locked}
                 autoComplete="off"
@@ -432,6 +446,7 @@ function OpenCloze({ item, response, setResponse, locked, result }: InputProps &
 }
 
 function McCloze({ item, response, setResponse, locked, result }: InputProps & { item: Extract<Item, { type: 'mc-cloze' }> }) {
+  const t = useT();
   const r = Array.isArray(response) ? (response as number[]) : item.gaps.map(() => -1);
   return (
     <div>
@@ -445,7 +460,7 @@ function McCloze({ item, response, setResponse, locked, result }: InputProps & {
               <span className="gap-num">{seg + 1}</span>
               <select
                 className={`blank ${result?.parts ? `gap-mark ${result.parts[seg]}` : ''}`}
-                aria-label={`Gap ${seg + 1}`}
+                aria-label={t('Gap {n}', { n: seg + 1 })}
                 value={r[seg] ?? -1}
                 disabled={locked}
                 onChange={(e) => {

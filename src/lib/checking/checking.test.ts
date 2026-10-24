@@ -1,3 +1,4 @@
+import { translate } from '../i18n';
 import { describe, expect, it } from 'vitest';
 import {
   checkItem,
@@ -276,13 +277,13 @@ describe('checkItem', () => {
   it('kwt: key word missing', () => {
     const r = checkItem(kwt, 'if you do not leave');
     expect(r.verdict).toBe('incorrect');
-    expect(r.message).toMatch(/UNLESS/);
+    expect(translate('en', r.message!, r.messageVars)).toMatch(/UNLESS/);
   });
 
   it('kwt: too many words', () => {
     const r = checkItem(kwt, 'unless you decide to leave right');
     expect(r.verdict).toBe('incorrect');
-    expect(r.message).toMatch(/between 2 and 5/);
+    expect(translate('en', r.message!, r.messageVars)).toMatch(/between 2 and 5/);
   });
 
   it('kwt: contractions count as two words', () => {

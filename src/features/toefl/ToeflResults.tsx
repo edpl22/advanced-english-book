@@ -6,21 +6,23 @@ import { clipPassage, ctwCorrect } from './ctw';
 import { bsSentence } from './bank';
 import { adaptiveBand, cefr, overallBand, rubricScore, speakingBand, writingBand } from './scoring';
 import { screenScore, type Answers, type Screen } from './ToeflRunner';
+import { N_, useT } from '@/lib/i18n';
 
 const RUBRIC = TOEFL_CONFIG.rubric;
 const MARKS: Array<[number, string]> = [
-  [0, 'no'],
-  [1, 'partly'],
-  [2, 'yes'],
+  [0, N_('no')],
+  [1, N_('partly')],
+  [2, N_('yes')],
 ];
 
 function Rubric({ name, marks, setMarks }: { name: string; marks: number[]; setMarks: (m: number[]) => void }) {
+  const t = useT();
   return (
     <table className="ledger" style={{ margin: '0.5rem 0 1rem' }}>
       <tbody>
         {RUBRIC.map((r, i) => (
           <tr key={r}>
-            <td>{r}</td>
+            <td>{t(r)}</td>
             <td style={{ whiteSpace: 'nowrap' }}>
               {MARKS.map(([v, label]) => (
                 <label key={v} style={{ marginRight: '0.8rem' }}>
@@ -34,7 +36,7 @@ function Rubric({ name, marks, setMarks }: { name: string; marks: number[]; setM
                       setMarks(next);
                     }}
                   />{' '}
-                  {label}
+                  {t(label)}
                 </label>
               ))}
             </td>
@@ -58,6 +60,7 @@ export interface ResultsProps {
 }
 
 export function ToeflResults({ test, title, screens, answers, routes, sections, startedAt, practice, onExit }: ResultsProps) {
+  const t = useT();
   const [emailMarks, setEmailMarks] = useState<number[]>([1, 1, 1, 1, 1]);
   const [discMarks, setDiscMarks] = useState<number[]>([1, 1, 1, 1, 1]);
   const [intMarks, setIntMarks] = useState<number[]>([1, 1, 1, 1, 1]);
@@ -131,17 +134,19 @@ export function ToeflResults({ test, title, screens, answers, routes, sections, 
   return (
     <div className="single">
       <div className="running-head">
-        <span>TOEFL Simulator</span>
-        <span>{title} · results</span>
+        <span>{t('TOEFL-format Simulator')}</span>
+        <span>
+          {title} · {t('results')}
+        </span>
       </div>
-      <h1 className="sc">Results</h1>
+      <h1 className="sc">{t('Results')}</h1>
 
       {autoSections.map((sec) => {
-        const [c, t] = scored(sec);
+        const [c, n] = scored(sec);
         return (
           <p key={sec}>
-            <b>{TOEFL_CONFIG.sections[sec].title}</b>: {c}/{t} points
-            {routes[sec] && <span className="muted"> · Module 2: {routes[sec] === 'hard' ? 'harder' : 'easier'} route</span>}
+            <b>{TOEFL_CONFIG.sections[sec].title}</b>: {t('{c}/{n} points', { c, n })}
+            {routes[sec] && <span className="muted"> · {routes[sec] === 'hard' ? t('Module 2: harder route') : t('Module 2: easier route')}</span>}
           </p>
         );
       })}
@@ -151,7 +156,7 @@ export function ToeflResults({ test, title, screens, answers, routes, sections, 
       ) : (
         autoSections.length > 0 && (
           <details>
-            <summary className="linkish">Review answers and listening transcripts</summary>
+            <summary className="linkish">{t('Review answers and listening transcripts')}</summary>
             <PracticeReview screens={screens} answers={answers} />
           </details>
         )
@@ -162,7 +167,7 @@ export function ToeflResults({ test, title, screens, answers, routes, sections, 
           <h2 className="subhead">Writing</h2>
           {bas.length > 0 && (
             <p>
-              Build a Sentence: {scored('writing')[0]}/{scored('writing')[1]} correct.
+              Build a Sentence: {t('{c}/{n} correct.', { c: scored('writing')[0], n: scored('writing')[1] })}
             </p>
           )}
           {bas.map((s) =>
@@ -175,16 +180,16 @@ export function ToeflResults({ test, title, screens, answers, routes, sections, 
           )}
           {email && (
             <div>
-              <h3 className="subhead">Write an Email — assess yourself</h3>
+              <h3 className="subhead">Write an Email — {t('assess yourself')}</h3>
               <div className="two-col">
                 <div>
-                  <p className="sc muted">Your email</p>
+                  <p className="sc muted">{t('Your email')}</p>
                   <p style={{ whiteSpace: 'pre-line' }} lang="en">
                     {(answers[email.id] as string) || '—'}
                   </p>
                 </div>
                 <div>
-                  <p className="sc muted">Model answer</p>
+                  <p className="sc muted">{t('Model answer')}</p>
                   <p style={{ whiteSpace: 'pre-line' }} lang="en">
                     {email.task.model}
                   </p>
@@ -195,16 +200,16 @@ export function ToeflResults({ test, title, screens, answers, routes, sections, 
           )}
           {disc && (
             <div>
-              <h3 className="subhead">Academic Discussion — assess yourself</h3>
+              <h3 className="subhead">Academic Discussion — {t('assess yourself')}</h3>
               <div className="two-col">
                 <div>
-                  <p className="sc muted">Your post</p>
+                  <p className="sc muted">{t('Your post')}</p>
                   <p style={{ whiteSpace: 'pre-line' }} lang="en">
                     {(answers[disc.id] as string) || '—'}
                   </p>
                 </div>
                 <div>
-                  <p className="sc muted">Model answer</p>
+                  <p className="sc muted">{t('Model answer')}</p>
                   <p lang="en">{disc.task.model}</p>
                 </div>
               </div>
@@ -216,24 +221,24 @@ export function ToeflResults({ test, title, screens, answers, routes, sections, 
 
       {sections.includes('speaking') && (
         <section>
-          <h2 className="subhead">Speaking — listen and assess yourself</h2>
+          <h2 className="subhead">Speaking — {t('listen and assess yourself')}</h2>
           {repeats.length > 0 && <h3 className="subhead">Listen and Repeat</h3>}
           {repeats.map((r) => (
             <div key={r.id} style={{ borderBottom: '1px dotted var(--rule)', padding: '0.4rem 0' }}>
               <div lang="en">
                 {r.n}. {r.sentence}
               </div>
-              {answers[r.id] ? <audio controls src={answers[r.id] as string} /> : <span className="muted">no recording</span>}
+              {answers[r.id] ? <audio controls src={answers[r.id] as string} /> : <span className="muted">{t('no recording')}</span>}
               <div>
                 {(
                   [
-                    [2, 'exactly'],
-                    [1, 'small errors'],
-                    [0, 'major errors / no answer'],
+                    [2, N_('exactly')],
+                    [1, N_('small errors')],
+                    [0, N_('major errors / no answer')],
                   ] as const
                 ).map(([v, label]) => (
                   <label key={v} style={{ marginRight: '0.8rem' }}>
-                    <input type="radio" name={`rep-${r.id}`} checked={(repeatMarks[r.id] ?? 1) === v} onChange={() => setRepeatMarks((m) => ({ ...m, [r.id]: v }))} /> {label}
+                    <input type="radio" name={`rep-${r.id}`} checked={(repeatMarks[r.id] ?? 1) === v} onChange={() => setRepeatMarks((m) => ({ ...m, [r.id]: v }))} /> {t(label)}
                   </label>
                 ))}
               </div>
@@ -245,9 +250,9 @@ export function ToeflResults({ test, title, screens, answers, routes, sections, 
               <p lang="en">
                 <b>{q.n}.</b> {q.q}
               </p>
-              {answers[q.id] ? <audio controls src={answers[q.id] as string} /> : <span className="muted">no recording</span>}
+              {answers[q.id] ? <audio controls src={answers[q.id] as string} /> : <span className="muted">{t('no recording')}</span>}
               <p className="muted" lang="en">
-                <span className="sc">Model transcript:</span> {q.model}
+                <span className="sc">{t('Model transcript:')}</span> {q.model}
               </p>
             </div>
           ))}
@@ -257,21 +262,21 @@ export function ToeflResults({ test, title, screens, answers, routes, sections, 
 
       <div className="btn-row" style={{ margin: '1.5rem 0' }}>
         <button type="button" className="btn primary" onClick={finish}>
-          {saved ? 'Recalculate my estimate' : 'Calculate my band estimate'}
+          {saved ? t('Recalculate my estimate') : t('Calculate my band estimate')}
         </button>
         <button type="button" className="btn" onClick={onExit}>
-          Back to the simulator
+          {t('Back to the simulator')}
         </button>
       </div>
 
       {saved && (
         <section aria-live="polite">
-          <h2 className="subhead">Estimated scores</h2>
+          <h2 className="subhead">{t('Estimated scores')}</h2>
           <table className="ledger" style={{ maxWidth: '30rem' }}>
             <thead>
               <tr>
-                <th>Section</th>
-                <th className="num">Band (1–6)</th>
+                <th>{t('Section')}</th>
+                <th className="num">{t('Band (1–6)')}</th>
                 <th className="num">CEFR</th>
               </tr>
             </thead>
@@ -285,16 +290,16 @@ export function ToeflResults({ test, title, screens, answers, routes, sections, 
               ))}
               {sections.length > 1 && (
                 <tr>
-                  <th>Overall</th>
+                  <th>{t('Overall')}</th>
                   <th className="num">{saved.overall.toFixed(1)}</th>
                   <th className="num">{cefr(saved.overall)}</th>
                 </tr>
               )}
             </tbody>
           </table>
-          <p className="notice" lang="pt-BR">
-            <b>Estimativa não oficial.</b> Este simulador reproduz a estrutura do TOEFL iBT com conteúdo original; as bandas são uma aproximação
-            calculada a partir das suas respostas e da sua autoavaliação, não uma nota da ETS.
+          <p className="notice">
+            <b>{t('Unofficial estimate.')}</b>{' '}
+            {t('This simulator reproduces the structure of the TOEFL iBT with original content; the bands are an approximation calculated from your answers and your self-assessment, not an ETS score.')}
           </p>
         </section>
       )}
@@ -303,15 +308,16 @@ export function ToeflResults({ test, title, screens, answers, routes, sections, 
 }
 
 function PracticeReview({ screens, answers }: { screens: Screen[]; answers: Answers }) {
+  const t = useT();
   return (
     <section>
-      <h2 className="subhead">Review</h2>
+      <h2 className="subhead">{t('Review')}</h2>
       {screens.map((s) => {
         if (s.kind === 'read-q' || s.kind === 'listen-q') {
           const a = answers[s.id];
           return (
             <p key={s.id} lang="en">
-              {s.q.q} — <b>{s.q.options[s.q.answer]}</b> {a === s.q.answer ? '✓' : <span className="muted">(you: {typeof a === 'number' ? s.q.options[a] : '—'})</span>}
+              {s.q.q} — <b>{s.q.options[s.q.answer]}</b> {a === s.q.answer ? '✓' : <span className="muted">({t('you')}: {typeof a === 'number' ? s.q.options[a] : '—'})</span>}
             </p>
           );
         }
@@ -319,19 +325,19 @@ function PracticeReview({ screens, answers }: { screens: Screen[]; answers: Answ
           const a = answers[s.id];
           return (
             <p key={s.id} lang="en">
-              “{s.item.line}” — <b>{s.item.options[s.item.answer]}</b> {a === s.item.answer ? '✓' : <span className="muted">(you: {typeof a === 'number' ? s.item.options[a] : '—'})</span>}
+              “{s.item.line}” — <b>{s.item.options[s.item.answer]}</b> {a === s.item.answer ? '✓' : <span className="muted">({t('you')}: {typeof a === 'number' ? s.item.options[a] : '—'})</span>}
             </p>
           );
         }
         if (s.kind === 'ctw') {
           const typed = (answers[s.id] as string[] | undefined) ?? [];
-          const toks = clipPassage(s.passage.text).filter((t) => t.blank);
+          const toks = clipPassage(s.passage.text).filter((tok) => tok.blank);
           return (
             <p key={s.id} lang="en">
-              {toks.map((t, i) => (
+              {toks.map((tok, i) => (
                 <span key={i} style={{ marginRight: '0.6rem' }}>
-                  {t.shown}
-                  <b>{t.missing}</b> {ctwCorrect(t, typed[i] ?? '') ? '✓' : <span className="muted">({typed[i] || '—'})</span>}
+                  {tok.shown}
+                  <b>{tok.missing}</b> {ctwCorrect(tok, typed[i] ?? '') ? '✓' : <span className="muted">({typed[i] || '—'})</span>}
                 </span>
               ))}
             </p>
@@ -340,7 +346,9 @@ function PracticeReview({ screens, answers }: { screens: Screen[]; answers: Answ
         if (s.kind === 'audio')
           return (
             <details key={s.id}>
-              <summary className="linkish">Transcript: {s.audio.title}</summary>
+              <summary className="linkish">
+                {t('Transcript')}: {s.audio.title}
+              </summary>
               {s.audio.lines.map((l, i) => (
                 <p key={i} lang="en">
                   <b>{l.speaker}:</b> {l.text}

@@ -7,16 +7,17 @@ import { useStore } from '@/lib/useStore';
 import { nextBox, LEITNER_INTERVALS } from '@/lib/progress';
 import type { McqItemT } from '@/lib/schema';
 import { speak, speechSupported } from '@/lib/speech';
+import { N_, useT } from '@/lib/i18n';
 
 type Mode = 'match' | 'fake' | 'etymology' | 'fill' | 'review' | 'browse';
 
 const MODES: Array<[Mode, string, string]> = [
-  ['match', 'Definition Match', 'Choose the word for the definition.'],
-  ['fake', 'Real or Fake?', 'One definition is real; the others were invented.'],
-  ['etymology', 'Etymology Detective', 'Guess the language the word comes from.'],
-  ['fill', 'Fill the Sentence', 'Put the right word into the sentence.'],
-  ['review', 'Spaced Review', 'Five Leitner boxes: master each word.'],
-  ['browse', 'Browse the cards', 'Read every entry.'],
+  ['match', N_('Definition Match'), N_('Choose the word for the definition.')],
+  ['fake', N_('Real or Fake?'), N_('One definition is real; the others were invented.')],
+  ['etymology', N_('Etymology Detective'), N_('Guess the language the word comes from.')],
+  ['fill', N_('Fill the Sentence'), N_('Put the right word into the sentence.')],
+  ['review', N_('Spaced Review'), N_('Five Leitner boxes: master each word.')],
+  ['browse', N_('Browse the cards'), N_('Read every entry.')],
 ];
 
 const DAY = 86400000;
@@ -35,13 +36,14 @@ function recordWord(word: string, ok: boolean) {
 }
 
 export function EntryCard({ e }: { e: LexEntry }) {
+  const t = useT();
   return (
-    <article className="card-entry" lang="en" aria-label={`Entry: ${e.word}`}>
+    <article className="card-entry" lang="en" aria-label={t('Entry: {word}', { word: e.word })}>
       <div>
         <span className="headword">{e.word}</span>
         <span className="ipa">{e.ipa}</span>{' '}
         {speechSupported() && (
-          <button type="button" className="linkish" onClick={() => speak(e.word, { rate: 0.85 })} aria-label={`Hear ${e.word}`}>
+          <button type="button" className="linkish" onClick={() => speak(e.word, { rate: 0.85 })} aria-label={t('Hear {word}', { word: e.word })}>
             ♪
           </button>
         )}
@@ -54,7 +56,10 @@ export function EntryCard({ e }: { e: LexEntry }) {
         <i>{e.ex}</i>
       </p>
       <p className="muted" style={{ fontSize: '0.92rem', margin: 0 }}>
-        <span className="sc">Etymology</span> ({e.origin}): {e.etym}
+        <span className="sc">
+          {t('Etymology')}
+        </span>{' '}
+        ({e.origin}): {e.etym}
       </p>
     </article>
   );
@@ -80,6 +85,7 @@ function makeQuestion(mode: Mode, rng: Rng, pool: LexEntry[]): Question {
 
 export default function LexiconHome() {
   const state = useStore();
+  const t = useT();
   const [mode, setMode] = useState<Mode>('match');
   const [seed] = useState(randomSeedString);
   const [round, setRound] = useState(0);
@@ -118,14 +124,23 @@ export default function LexiconHome() {
   return (
     <div className="single">
       <div className="running-head">
-        <span>Lexicon</span>
+        <span>{t('Lexicon')}</span>
         <span>
-          {LEXICON.length} rare nouns · {mastered} mastered · streak {state.settings.streak} (best {state.settings.bestStreak})
+          {t('{n} rare nouns · {m} mastered · streak {s} (best {b})', {
+            n: LEXICON.length,
+            m: mastered,
+            s: state.settings.streak,
+            b: state.settings.bestStreak,
+          })}
         </span>
       </div>
-      <h1 className="sc">Lexicon</h1>
-      <p className="muted">Uncommon but real nouns for reading, writing and the pleasure of words. Origins: {ORIGINS.filter((o) => LEXICON.some((e) => e.origin === o)).length} languages.</p>
-      <nav aria-label="Games" className="tabs" style={{ padding: 0, margin: '0.5rem 0 1rem' }}>
+      <h1 className="sc">{t('Lexicon')}</h1>
+      <p className="muted">
+        {t('Uncommon but real nouns for reading, writing and the pleasure of words. Origins: {n} languages.', {
+          n: ORIGINS.filter((o) => LEXICON.some((e) => e.origin === o)).length,
+        })}
+      </p>
+      <nav aria-label={t('Games')} className="tabs" style={{ padding: 0, margin: '0.5rem 0 1rem' }}>
         {MODES.map(([m, label]) => (
           <a
             key={m}
@@ -138,11 +153,11 @@ export default function LexiconHome() {
               setRound((r) => r + 1);
             }}
           >
-            {label}
+            {t(label)}
           </a>
         ))}
       </nav>
-      <p className="instruction">{MODES.find(([m]) => m === mode)![2]}</p>
+      <p className="instruction">{t(MODES.find(([m]) => m === mode)![2])}</p>
 
       {mode === 'browse' ? (
         <div>
@@ -155,7 +170,7 @@ export default function LexiconHome() {
           <div className="card-entry" style={{ maxWidth: '40rem' }}>
             {mode === 'review' && (
               <p className="muted" style={{ marginTop: 0 }}>
-                Box {state.lexicon[q.entry.word]?.box ?? 1} of 5 · {duePool.length} words in today’s queue
+                {t('Box {b} of 5 · {n} words in today’s queue', { b: state.lexicon[q.entry.word]?.box ?? 1, n: duePool.length })}
               </p>
             )}
             <p style={{ fontSize: '1.15rem', whiteSpace: 'pre-line' }} lang="en">
@@ -180,12 +195,12 @@ export default function LexiconHome() {
               <div role="status">
                 <p className={chosen === q.answer ? '' : ''}>
                   <b className="sc" style={{ color: chosen === q.answer ? 'var(--ok)' : 'var(--accent)' }}>
-                    {chosen === q.answer ? 'Correct' : 'Not quite'}
+                    {chosen === q.answer ? t('Correct') : t('Not quite')}
                   </b>
                 </p>
                 <EntryCard e={q.entry} />
                 <button type="button" className="btn primary" onClick={next} autoFocus>
-                  Next word
+                  {t('Next word')}
                 </button>
               </div>
             )}

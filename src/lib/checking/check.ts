@@ -12,7 +12,9 @@ export interface CheckResult {
   score: number;
   maxScore: number;
   /** Extra feedback: spelling notice, word limit, missing key word… */
+  /** Feedback in English, with {placeholders} filled from messageVars (translated by the interface). */
   message?: string;
+  messageVars?: Record<string, string | number>;
   /** Per-gap / per-pair verdicts for multi-part items. */
   parts?: Verdict[];
 }
@@ -100,16 +102,18 @@ export function matchText(
   return { match: false };
 }
 
-function spellingMessage(a: { typed: string; expected: string }): string {
-  return `Almost — check your spelling: “${a.typed}” → “${a.expected}”.`;
-}
+const SPELLING = 'Almost — check your spelling: “{typed}” → “{expected}”.';
 
 function verdictFromMatch(m: TextMatch): Verdict {
   return m.match ? 'correct' : m.almost ? 'almost' : 'incorrect';
 }
 
-function single(verdict: Verdict, message?: string): CheckResult {
-  return { verdict, score: verdict === 'correct' ? 1 : 0, maxScore: 1, message };
+function single(verdict: Verdict, message?: string, messageVars?: Record<string, string | number>): CheckResult {
+  return { verdict, score: verdict === 'correct' ? 1 : 0, maxScore: 1, message, messageVars };
+}
+
+function spelling(verdict: Verdict, a: { typed: string; expected: string }): CheckResult {
+  return single(verdict, SPELLING, { typed: a.typed, expected: a.expected });
 }
 
 /**
@@ -154,7 +158,7 @@ export function checkItem(item: Item, response: ItemResponse, options: CheckOpti
         noAlmost: item.noAlmost,
         knownWords: options.knownWords,
       });
-      return single(verdictFromMatch(m), m.almost ? spellingMessage(m.almost) : undefined);
+      return m.almost ? spelling(verdictFromMatch(m), m.almost) : single(verdictFromMatch(m));
     }
 
     case 'kwt': {
@@ -166,14 +170,14 @@ export function checkItem(item: Item, response: ItemResponse, options: CheckOpti
       for (const raw of readings) {
         let r: CheckResult;
         if (!containsKeyword(raw, item.keyword)) {
-          r = single('incorrect', `You must use the key word ${item.keyword}, without changing it.`);
+          r = single('incorrect', 'You must use the key word {keyword}, without changing it.', { keyword: item.keyword });
         } else {
           const n = countWordsCambridge(raw);
           if (n < min || n > max) {
-            r = single('incorrect', `Use between ${min} and ${max} words, including the key word (you used ${n}; contractions count as two words).`);
+            r = single('incorrect', 'Use between {min} and {max} words, including the key word (you used {n}; contractions count as two words).', { min, max, n });
           } else {
             const m = matchText(raw, item.acceptedAnswers, { contractions: item.contractions, knownWords: options.knownWords });
-            r = single(verdictFromMatch(m), m.almost ? spellingMessage(m.almost) : undefined);
+            r = m.almost ? spelling(verdictFromMatch(m), m.almost) : single(verdictFromMatch(m));
           }
         }
         // Prefer the better verdict; among wrong readings keep the most specific message (the stripped one).
@@ -193,7 +197,7 @@ export function checkItem(item: Item, response: ItemResponse, options: CheckOpti
         knownWords: options.knownWords,
       });
       if (m.match) return single('correct');
-      if (m.almost) return single('almost', spellingMessage(m.almost));
+      if (m.almost) return spelling('almost', m.almost);
       return single('incorrect', 'You found the error, but the correction is not right.');
     }
 

@@ -89,6 +89,8 @@ export const StateSchema = z.object({
   settings: z
     .object({
       theme: z.enum(['auto', 'day', 'night']).default('auto'),
+      /** Interface language; the study content itself stays in English. */
+      lang: z.enum(['pt', 'en']).default('pt'),
       speechRate: z.number().min(0.5).max(1.5).default(0.95),
       streak: z.number().default(0),
       bestStreak: z.number().default(0),
@@ -107,7 +109,7 @@ export function emptyState(): State {
     lexicon: {},
     daily: { streak: 0, best: 0, last: null, level: 'B2', days: {}, current: null },
     completed: {},
-    settings: { theme: 'auto', speechRate: 0.95, streak: 0, bestStreak: 0 },
+    settings: { theme: 'auto', lang: 'pt', speechRate: 0.95, streak: 0, bestStreak: 0 },
   };
 }
 

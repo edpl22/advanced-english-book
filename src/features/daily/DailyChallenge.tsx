@@ -11,15 +11,17 @@ import { update, type Daily } from '@/lib/storage';
 import { TOPIC_INFO, type Topic } from '@/lib/topics';
 import { useStore } from '@/lib/useStore';
 import { loadPool } from '@/features/exams/pool';
+import { fmtDate, N_, useT, type Lang } from '@/lib/i18n';
 
 const LEVELS: Array<[LevelT, string]> = [
-  ['B1', 'Intermediate'],
-  ['B2', 'Upper-intermediate'],
-  ['C1', 'Advanced'],
-  ['C2', 'Proficiency'],
+  ['B1', N_('Intermediate')],
+  ['B2', N_('Upper-intermediate')],
+  ['C1', N_('Advanced')],
+  ['C2', N_('Proficiency')],
 ];
 
 type Verdict = 'correct' | 'almost' | 'incorrect';
+const VERDICT: Record<Verdict, string> = { correct: N_('Correct'), almost: N_('Almost'), incorrect: N_('Not quite') };
 
 /** Re-render every second, so the date and the countdown stay current. */
 function useClock(): Date {
@@ -40,41 +42,42 @@ function untilMidnight(now: Date): string {
 
 const fmtScore = (n: number) => (Number.isInteger(n) ? String(n) : `${Math.floor(n)}½`);
 
-function longDate(key: string): string {
+function longDate(key: string, lang: Lang): string {
   const [y, m, d] = key.split('-').map(Number);
-  return new Date(y, m - 1, d).toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+  return fmtDate(lang, new Date(y, m - 1, d), { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
 }
 
 /** The streak and a two-week calendar strip. */
-function StreakPanel({ daily, today }: { daily: Daily; today: string }) {
+function StreakPanel({ daily, today, lang }: { daily: Daily; today: string; lang: Lang }) {
+  const t = useT();
   const streak = liveStreak(daily, today);
   const days = Array.from({ length: 14 }, (_, i) => shiftDay(today, i - 13));
   return (
-    <section className="streak-panel" aria-label="Your daily streak">
+    <section className="streak-panel" aria-label={t('Your daily streak')}>
       <div className="streak-count">
         <span className="streak-num">{streak}</span>
         <span className="streak-label">
-          {streak === 1 ? 'day' : 'days'} in a row
-          <span className="streak-best">best {daily.best}</span>
+          {streak === 1 ? t('day in a row') : t('days in a row')}
+          <span className="streak-best">{t('best {n}', { n: daily.best })}</span>
         </span>
       </div>
-      <ol className="streak-days" aria-label="The last fourteen days">
+      <ol className="streak-days" aria-label={t('The last fourteen days')}>
         {days.map((d) => {
           const rec = daily.days[d];
           const [, , dd] = d.split('-');
-          const weekday = new Date(`${d}T12:00:00`).toLocaleDateString('en-GB', { weekday: 'narrow' });
+          const weekday = fmtDate(lang, new Date(`${d}T12:00:00`), { weekday: 'narrow' });
           return (
             <li
               key={d}
               className={`day${rec ? ' is-done' : ''}${d === today ? ' is-today' : ''}`}
-              title={rec ? `${longDate(d)}: ${fmtScore(rec.score)}/${rec.total}` : `${longDate(d)}: not done`}
+              title={rec ? `${longDate(d, lang)}: ${fmtScore(rec.score)}/${rec.total}` : `${longDate(d, lang)}: ${t('not done')}`}
             >
               <span className="day-w" aria-hidden="true">
                 {weekday}
               </span>
               <span className="day-mark" aria-hidden="true" />
               <span className="day-n">{Number(dd)}</span>
-              <span className="sr-only">{rec ? `done, ${fmtScore(rec.score)} of ${rec.total}` : 'not done'}</span>
+              <span className="sr-only">{rec ? t('done, {score} of {total}', { score: fmtScore(rec.score), total: rec.total }) : t('not done')}</span>
             </li>
           );
         })}
@@ -84,13 +87,13 @@ function StreakPanel({ daily, today }: { daily: Daily; today: string }) {
 }
 
 function Ledger({ items, results, at }: { items: ReturnType<typeof dailyItems>; results: Verdict[]; at: number }) {
+  const t = useT();
+  const state = (i: number) => (results[i] ? t(VERDICT[results[i]]) : i === at ? t('current') : t('to do'));
   return (
-    <ol className="daily-ledger" aria-label="Questions">
+    <ol className="daily-ledger" aria-label={t('Questions')}>
       {items.map((it, i) => (
-        <li key={it.id} className={`${results[i] ?? ''}${i === at ? ' is-now' : ''}`.trim()} title={TOPIC_INFO[it.topics[0] as Topic]?.label}>
-          <span className="sr-only">
-            Question {i + 1}: {results[i] ?? (i === at ? 'current' : 'to do')}
-          </span>
+        <li key={it.id} className={`${results[i] ?? ''}${i === at ? ' is-now' : ''}`.trim()} title={t(TOPIC_INFO[it.topics[0] as Topic]?.label ?? '')}>
+          <span className="sr-only">{t('Question {n}: {state}', { n: i + 1, state: state(i) })}</span>
         </li>
       ))}
     </ol>
@@ -99,6 +102,9 @@ function Ledger({ items, results, at }: { items: ReturnType<typeof dailyItems>; 
 
 export default function DailyChallenge() {
   const state = useStore();
+  const t = useT();
+  const lang = state.settings.lang;
+  const topicName = (tp: string) => t(TOPIC_INFO[tp as Topic]?.label ?? tp);
   const now = useClock();
   const today = dateKey(now);
   const daily = state.daily;
@@ -149,8 +155,10 @@ export default function DailyChallenge() {
     return (
       <div className="daily single">
         <header className="daily-head">
-          <p className="daily-kicker">Daily Challenge · {longDate(today)}</p>
-          <h1>Today’s page is done</h1>
+          <p className="daily-kicker">
+            {t('Daily Challenge')} · {longDate(today, lang)}
+          </p>
+          <h1>{t('Today’s page is done')}</h1>
         </header>
         <div className="daily-result">
           <p className="daily-score">
@@ -158,24 +166,27 @@ export default function DailyChallenge() {
             <span className="of">/ {record.total}</span>
           </p>
           <p className="daily-verdict">
-            {streak > 1 ? `Day ${streak} in a row. Keep the chain unbroken tomorrow.` : 'A new streak begins today. Come back tomorrow to make it two.'}
+            {streak > 1
+              ? t('Day {n} in a row. Keep the chain unbroken tomorrow.', { n: streak })
+              : t('A new streak begins today. Come back tomorrow to make it two.')}
           </p>
           <p className="muted">
-            Next challenge in <span className="countdown">{untilMidnight(now)}</span>
+            {t('Next challenge in')} <span className="countdown">{untilMidnight(now)}</span>
           </p>
         </div>
-        <StreakPanel daily={daily} today={today} />
-        <h2 className="subhead">Today’s topics</h2>
+        <StreakPanel daily={daily} today={today} lang={lang} />
+        <h2 className="subhead">{t('Today’s topics')}</h2>
         <ol className="daily-topics">
           {items.map((it) => (
             <li key={it.id}>
-              <Link to={refPath(it.ref)}>{TOPIC_INFO[it.topics[0] as Topic]?.label ?? it.topics[0]}</Link>
+              <Link to={refPath(it.ref)}>{topicName(it.topics[0])}</Link>
               <span className="muted"> · {it.ref}</span>
             </li>
           ))}
         </ol>
         <p className="muted">
-          Want more? <Link to="/tests">Set a practice paper</Link> or <Link to="/progress">review the questions you missed</Link>.
+          {t('Want more?')} <Link to="/tests">{t('Set a practice paper')}</Link> {t('or')}{' '}
+          <Link to="/progress">{t('review the questions you missed')}</Link>.
         </p>
       </div>
     );
@@ -188,20 +199,22 @@ export default function DailyChallenge() {
     return (
       <div className="daily single">
         <header className="daily-head">
-          <p className="daily-kicker">Daily Challenge · {longDate(today)}</p>
-          <h1>Ten questions, ten topics</h1>
+          <p className="daily-kicker">
+            {t('Daily Challenge')} · {longDate(today, lang)}
+          </p>
+          <h1>{t('Ten questions, ten topics')}</h1>
           <p className="daily-lede">
-            A short page from every corner of the book, the same for everyone today. Finish all ten to keep your streak; miss a day and it starts again.
+            {t('A short page from every corner of the book, the same for everyone today. Finish all ten to keep your streak; miss a day and it starts again.')}
           </p>
         </header>
-        <StreakPanel daily={daily} today={today} />
+        <StreakPanel daily={daily} today={today} lang={lang} />
         {atRisk && (
           <p className="notice" role="note">
-            Your {streak}-day streak ends at midnight unless you finish today’s challenge — {untilMidnight(now)} left.
+            {t('Your {n}-day streak ends at midnight unless you finish today’s challenge — {time} left.', { n: streak, time: untilMidnight(now) })}
           </p>
         )}
         <fieldset className="daily-level">
-          <legend>Level</legend>
+          <legend>{t('Level')}</legend>
           <div className="level-choice">
             {LEVELS.map(([lv, label]) => (
               <label key={lv} className={daily.level === lv ? 'is-on' : ''}>
@@ -213,22 +226,22 @@ export default function DailyChallenge() {
                   onChange={() => update((s) => ({ ...s, daily: { ...s.daily, level: lv } }))}
                 />
                 <span className="lv">{lv}</span>
-                <span className="lv-label">{label}</span>
+                <span className="lv-label">{t(label)}</span>
               </label>
             ))}
           </div>
         </fieldset>
-        <h2 className="subhead">Today’s topics</h2>
+        <h2 className="subhead">{t('Today’s topics')}</h2>
         <p className="daily-topic-line">
           {items.map((it, i) => (
             <span key={it.id}>
-              {TOPIC_INFO[it.topics[0] as Topic]?.label ?? it.topics[0]}
+              {topicName(it.topics[0])}
               {i < items.length - 1 ? <span className="sep"> · </span> : ''}
             </span>
           ))}
         </p>
         <button type="button" className="btn primary daily-start" onClick={start}>
-          Begin today’s challenge
+          {t('Begin today’s challenge')}
         </button>
       </div>
     );
@@ -240,7 +253,7 @@ export default function DailyChallenge() {
     <div className="daily single">
       <header className="daily-bar">
         <span className="daily-kicker">
-          Daily Challenge · {level} · question {Math.min(index + 1, DAILY_COUNT)} of {DAILY_COUNT}
+          {t('Daily Challenge')} · {level} · {t('question {n} of {total}', { n: Math.min(index + 1, DAILY_COUNT), total: DAILY_COUNT })}
         </span>
         <Ledger items={items} results={results} at={index} />
       </header>
@@ -251,7 +264,7 @@ export default function DailyChallenge() {
             <span className="of">/ {DAILY_COUNT}</span>
           </p>
           <button type="button" className="btn primary" onClick={finish}>
-            Close the page and count the day
+            {t('Close the page and count the day')}
           </button>
         </div>
       ) : (
@@ -265,18 +278,18 @@ export default function DailyChallenge() {
           }}
         >
           <p className="daily-topic">
-            <span className="sc">{TOPIC_INFO[item.topics[0] as Topic]?.label ?? item.topics[0]}</span>
+            <span className="sc">{topicName(item.topics[0])}</span>
             <span className="muted"> · {item.level}</span>
           </p>
           <ItemView key={`${item.id}-${checked ? 'r' : 'q'}`} item={item} n={index + 1} mode={checked ? 'review' : 'test'} response={response} onResponse={setResponse} context="daily" />
           <div className="daily-actions">
             {checked ? (
               <button type="button" className="btn primary" onClick={next} autoFocus>
-                {results.length >= DAILY_COUNT ? 'See my score' : 'Next question'} <span aria-hidden="true">→</span>
+                {results.length >= DAILY_COUNT ? t('See my score') : t('Next question')} <span aria-hidden="true">→</span>
               </button>
             ) : (
               <button type="button" className="btn primary" onClick={check} disabled={response === undefined}>
-                Check
+                {t('Check')}
               </button>
             )}
           </div>

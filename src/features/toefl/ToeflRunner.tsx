@@ -7,6 +7,7 @@ import { bsCorrect, buildSentenceById } from './bank';
 import { AudioPlayer, Countdown, Recorder } from './media';
 import { route as routeFor } from './scoring';
 import { ToeflResults } from './ToeflResults';
+import { N_, useT } from '@/lib/i18n';
 
 export type Mod = 'm1' | 'easy' | 'hard';
 
@@ -69,13 +70,20 @@ export function speakingScreens(t: ToeflTest): Screen[] {
 }
 
 const INTRO: Record<SectionKey, string> = {
-  reading:
+  reading: N_(
     'Reading has two modules. Your answers in Module 1 decide whether Module 2 is easier or harder. Tasks: Complete the Words (type the missing letters), Read in Daily Life and Read an Academic Passage. You cannot go back to earlier questions.',
-  listening:
+  ),
+  listening: N_(
     'Listening has two modules and is adaptive, like Reading. Each recording plays once; the text is not shown. Tasks: Listen and Choose a Response, conversations, announcements and academic talks.',
-  writing: 'Writing: Build a Sentence (put the fragments in order), Write an Email and Write for an Academic Discussion. Word counters and task timers are shown.',
-  speaking: 'Speaking: Listen and Repeat, then Take an Interview. Your answers are recorded on this device only so that you can listen to them and assess yourself.',
+  ),
+  writing: N_(
+    'Writing: Build a Sentence (put the fragments in order), Write an Email and Write for an Academic Discussion. Word counters and task timers are shown.',
+  ),
+  speaking: N_(
+    'Speaking: Listen and Repeat, then Take an Interview. Your answers are recorded on this device only so that you can listen to them and assess yourself.',
+  ),
 };
+const MODULE_2 = N_('Module 2 begins now.');
 
 /** Points earned on a screen (and points available). */
 export function screenScore(s: Screen, a: unknown): [number, number] {
@@ -107,6 +115,7 @@ export interface RunnerProps {
 }
 
 export function ToeflRunner({ test, sections, practiceScreens, title, onExit }: RunnerProps) {
+  const t = useT();
   const [sectionIdx, setSectionIdx] = useState(0);
   const [screens, setScreens] = useState<Screen[]>(() => (practiceScreens ? practiceScreens : buildSection(sections[0], 'm1')));
   const [idx, setIdx] = useState(0);
@@ -117,7 +126,7 @@ export function ToeflRunner({ test, sections, practiceScreens, title, onExit }: 
   const [sectionStart, setSectionStart] = useState(Date.now());
 
   function buildSection(sec: SectionKey, module: Mod): Screen[] {
-    const intro: Screen = { id: `intro-${sec}-${module}`, kind: 'intro', section: sec, title: module === 'm1' ? TASK[sec].title : `${TASK[sec].title} · Module 2`, body: module === 'm1' ? INTRO[sec] : 'Module 2 begins now.' };
+    const intro: Screen = { id: `intro-${sec}-${module}`, kind: 'intro', section: sec, title: module === 'm1' ? TASK[sec].title : `${TASK[sec].title} · Module 2`, body: module === 'm1' ? INTRO[sec] : MODULE_2 };
     if (sec === 'reading') return [intro, ...readingScreens(test.reading[module], module)];
     if (sec === 'listening') return [intro, ...listeningScreens(test.listening[module], module)];
     if (sec === 'writing') return [intro, ...writingScreens(test)];
@@ -211,15 +220,18 @@ export function ToeflRunner({ test, sections, practiceScreens, title, onExit }: 
   const pos = sectionScreens.indexOf(screen) + 1;
 
   return (
-    <div className="exam-screen" aria-label="TOEFL simulator">
+    <div className="exam-screen" aria-label={t('TOEFL-format Simulator')}>
       <div className="exam-bar">
         <span>
           {title}
           {title.includes(TASK[section].title) ? '' : ` · ${TASK[section].title}`}
-          {'module' in screen ? ` · Module ${screen.module === 'm1' ? 1 : 2}` : ''}
+          {'module' in screen ? ` · ${t('Module {n}', { n: screen.module === 'm1' ? 1 : 2 })}` : ''}
         </span>
-        <span>{screen.kind !== 'intro' && `Question ${pos} of ${sectionScreens.length}${routes[section] ? '' : TASK[section].adaptive && !practiceScreens ? '+' : ''}`}</span>
-        {!practiceScreens && <Countdown key={`${section}-${sectionStart}`} seconds={TASK[section].minutes * 60} onEnd={timeUp} label="Section" />}
+        <span>
+          {screen.kind !== 'intro' &&
+            `${t('Question {n} of {total}', { n: pos, total: sectionScreens.length })}${routes[section] ? '' : TASK[section].adaptive && !practiceScreens ? '+' : ''}`}
+        </span>
+        {!practiceScreens && <Countdown key={`${section}-${sectionStart}`} seconds={TASK[section].minutes * 60} onEnd={timeUp} label={t('Section')} />}
       </div>
       <div className="exam-body">
         <ScreenView key={screen.id} screen={screen} value={answers[screen.id]} onChange={setAnswer} onAutoNext={next} />
@@ -228,16 +240,20 @@ export function ToeflRunner({ test, sections, practiceScreens, title, onExit }: 
             type="button"
             className="linkish"
             onClick={() => {
-              if (window.confirm('Leave the test? Your answers will be lost.')) onExit();
+              if (window.confirm(t('Leave the test? Your answers will be lost.'))) onExit();
             }}
           >
-            exit
+            {t('exit')}
           </button>
           <button type="button" className="btn primary" onClick={next}>
-            {screen.kind === 'intro' ? 'Begin' : 'Next →'}
+            {screen.kind === 'intro' ? t('Begin') : `${t('Next')} →`}
           </button>
         </div>
-        {!TOEFL_CONFIG.allowBack && screen.kind !== 'intro' && <p className="muted" style={{ fontSize: '0.8rem', textAlign: 'right' }}>As in the real test, you cannot return to earlier questions.</p>}
+        {!TOEFL_CONFIG.allowBack && screen.kind !== 'intro' && (
+          <p className="muted" style={{ fontSize: '0.8rem', textAlign: 'right' }}>
+            {t('As in the real test, you cannot return to earlier questions.')}
+          </p>
+        )}
       </div>
     </div>
   );
@@ -264,13 +280,15 @@ function wordCount(s: string): number {
 
 export function ScreenView({ screen, value, onChange, onAutoNext }: { screen: Screen; value: unknown; onChange: (v: unknown) => void; onAutoNext: () => void }) {
   const [heard, setHeard] = useState(false);
+  const t = useT();
   switch (screen.kind) {
     case 'intro':
       return (
         <div>
-          <h2 className="sc">{screen.title}</h2>
-          <p>{screen.body}</p>
-          <p className="muted">Time for this section: {TASK[screen.section].minutes} minutes.</p>
+          <h2 className="sc">{screen.title.replace('Module 2', t('Module {n}', { n: 2 }))}</h2>
+          <p>{t(screen.body)}</p>
+          <p className="muted">{t('Time for this section: {n} minutes.', { n: TASK[screen.section].minutes })}</p>
+          <p className="muted">{t('The tasks are in English, as in the real exam; buttons and instructions follow the interface language.')}</p>
         </div>
       );
     case 'ctw': {
@@ -279,31 +297,31 @@ export function ScreenView({ screen, value, onChange, onAutoNext }: { screen: Sc
       return (
         <div>
           <h3 className="subhead">{TASK.reading.tasks.completeTheWords.title}</h3>
-          <p className="instruction">Fill in the missing letters to complete the text.</p>
+          <p className="instruction">{t('Fill in the missing letters to complete the text.')}</p>
           <p className="cloze-text" lang="en">
-            {toks.map((t, i) =>
-              t.blank ? (
+            {toks.map((tok, i) =>
+              tok.blank ? (
                 <span key={i} style={{ whiteSpace: 'nowrap' }}>
-                  {t.shown}
+                  {tok.shown}
                   <input
                     className="blank"
-                    style={{ minWidth: 0, width: `${Math.max(2.2, t.missing.length * 0.75 + 0.8)}em` }}
-                    aria-label={`Missing letters ${t.n + 1}: ${t.shown}…`}
-                    value={typed[t.n] ?? ''}
+                    style={{ minWidth: 0, width: `${Math.max(2.2, tok.missing.length * 0.75 + 0.8)}em` }}
+                    aria-label={t('Missing letters {n}: {shown}…', { n: tok.n + 1, shown: tok.shown })}
+                    value={typed[tok.n] ?? ''}
                     autoComplete="off"
                     spellCheck={false}
                     onChange={(e) => {
                       const next = [...typed];
-                      next[t.n] = e.target.value;
+                      next[tok.n] = e.target.value;
                       onChange(next);
                     }}
                   />
-                  {t.tail}
+                  {tok.tail}
                 </span>
               ) : (
                 <span key={i}>
-                  {t.shown}
-                  {t.tail}
+                  {tok.shown}
+                  {tok.tail}
                 </span>
               ),
             )}
@@ -324,7 +342,7 @@ export function ScreenView({ screen, value, onChange, onAutoNext }: { screen: Sc
           </div>
           <div>
             <p className="muted sc">
-              {screen.task} · question {screen.qn} of {screen.of}
+              {screen.task} · {t('question {n} of {total}', { n: screen.qn, total: screen.of })}
             </p>
             <p lang="en">{screen.q.q}</p>
             <Mcq q={screen.q} value={value} onChange={onChange} />
@@ -335,7 +353,7 @@ export function ScreenView({ screen, value, onChange, onAutoNext }: { screen: Sc
       return (
         <div>
           <h3 className="subhead">{TASK.listening.tasks.chooseResponse.title}</h3>
-          <p className="instruction">Listen to the speaker and choose the best response.</p>
+          <p className="instruction">{t('Listen to the speaker and choose the best response.')}</p>
           <AudioPlayer lines={[{ speaker: screen.item.speaker, text: screen.item.line }]} onDone={() => setHeard(true)} />
           <Mcq q={screen.item} value={value} onChange={onChange} disabled={!heard} />
         </div>
@@ -344,7 +362,9 @@ export function ScreenView({ screen, value, onChange, onAutoNext }: { screen: Sc
       return (
         <div>
           <h3 className="subhead">{screen.audio.kind === 'conversation' ? TASK.listening.tasks.conversation.title : screen.audio.kind === 'announcement' ? TASK.listening.tasks.announcement.title : TASK.listening.tasks.academicTalk.title}</h3>
-          <p>{screen.audio.title}. Listen, then answer {screen.audio.questions.length} questions. You may take notes on paper.</p>
+          <p>
+            <span lang="en">{screen.audio.title}</span>. {t('Listen, then answer {n} questions. You may take notes on paper.', { n: screen.audio.questions.length })}
+          </p>
           <AudioPlayer lines={screen.audio.lines} onDone={() => onChange(true)} />
         </div>
       );
@@ -352,7 +372,7 @@ export function ScreenView({ screen, value, onChange, onAutoNext }: { screen: Sc
       return (
         <div>
           <p className="muted sc">
-            {screen.audio.title} · question {screen.qn} of {screen.of}
+            {screen.audio.title} · {t('question {n} of {total}', { n: screen.qn, total: screen.of })}
           </p>
           <p lang="en">{screen.q.q}</p>
           <Mcq q={screen.q} value={value} onChange={onChange} />
@@ -370,12 +390,12 @@ export function ScreenView({ screen, value, onChange, onAutoNext }: { screen: Sc
             <h3 className="subhead" style={{ margin: 0 }}>
               {cfg.title}
             </h3>
-            <Countdown seconds={cfg.minutes * 60} onEnd={onAutoNext} label="Task" />
+            <Countdown seconds={cfg.minutes * 60} onEnd={onAutoNext} label={t('Task')} />
           </div>
           {screen.kind === 'email' ? (
             <div lang="en">
               <p>{screen.task.situation}</p>
-              <p>Write an email. In your email:</p>
+              <p>{t('Write an email. In your email:')}</p>
               <ul>
                 {screen.task.bullets.map((b) => (
                   <li key={b}>{b}</li>
@@ -392,12 +412,12 @@ export function ScreenView({ screen, value, onChange, onAutoNext }: { screen: Sc
                   <b>{p.name}:</b> {p.text}
                 </p>
               ))}
-              <p className="muted">Make a contribution to the discussion in your own words (about {cfg.targetWords} words or more).</p>
+              <p className="muted">{t('Make a contribution to the discussion in your own words (about {n} words or more).', { n: cfg.targetWords })}</p>
             </div>
           )}
-          <textarea className="writing" lang="en" value={text} onChange={(e) => onChange(e.target.value)} aria-label="Your response" spellCheck={false} />
+          <textarea className="writing" lang="en" value={text} onChange={(e) => onChange(e.target.value)} aria-label={t('Your response')} spellCheck={false} />
           <p className="muted">
-            Words: <b>{wordCount(text)}</b> (suggested: {cfg.targetWords}+)
+            {t('Words')}: <b>{wordCount(text)}</b> ({t('suggested')}: {cfg.targetWords}+)
           </p>
         </div>
       );
@@ -407,11 +427,9 @@ export function ScreenView({ screen, value, onChange, onAutoNext }: { screen: Sc
         <div>
           <h3 className="subhead">{TASK.speaking.tasks.listenRepeat.title}</h3>
           <p>{screen.context}</p>
-          <p className="muted">
-            Sentence {screen.n} of {TASK.speaking.tasks.listenRepeat.count}
-          </p>
-          <AudioPlayer lines={[{ speaker: 'Coordinator', text: screen.sentence }]} label="Play sentence" />
-          <p className="muted">Now repeat it exactly.</p>
+          <p className="muted">{t('Sentence {n} of {total}', { n: screen.n, total: TASK.speaking.tasks.listenRepeat.count })}</p>
+          <AudioPlayer lines={[{ speaker: 'Coordinator', text: screen.sentence }]} label={t('Play sentence')} />
+          <p className="muted">{t('Now repeat it exactly.')}</p>
           <Recorder seconds={TASK.speaking.tasks.listenRepeat.responseSeconds} value={value as string | undefined} onChange={onChange} />
         </div>
       );
@@ -420,10 +438,8 @@ export function ScreenView({ screen, value, onChange, onAutoNext }: { screen: Sc
         <div>
           <h3 className="subhead">{TASK.speaking.tasks.interview.title}</h3>
           <p>{screen.context}</p>
-          <p className="muted">
-            Question {screen.n} of {TASK.speaking.tasks.interview.count}
-          </p>
-          <AudioPlayer lines={[{ speaker: 'Researcher', text: screen.q }]} label="Play question" />
+          <p className="muted">{t('Question {n} of {total}', { n: screen.n, total: TASK.speaking.tasks.interview.count })}</p>
+          <AudioPlayer lines={[{ speaker: 'Researcher', text: screen.q }]} label={t('Play question')} />
           <Recorder seconds={TASK.speaking.tasks.interview.responseSeconds} value={value as string | undefined} onChange={onChange} />
         </div>
       );
@@ -431,6 +447,7 @@ export function ScreenView({ screen, value, onChange, onAutoNext }: { screen: Sc
 }
 
 function BuildSentence({ item, value, onChange, n, of }: { item: BuildSentenceItem; value?: string[]; onChange: (v: string[]) => void; n: number; of: number }) {
+  const t = useT();
   const bank = useMemo(() => {
     const all = item.distractor ? [...item.chunks, item.distractor] : [...item.chunks];
     let s = new Rng(item.id).shuffle(all);
@@ -446,16 +463,16 @@ function BuildSentence({ item, value, onChange, n, of }: { item: BuildSentenceIt
   return (
     <div>
       <h3 className="subhead">
-        {TASK.writing.tasks.buildSentence.title} · {n} of {of}
+        {TASK.writing.tasks.buildSentence.title} · {t('{n} of {total}', { n, total: of })}
       </h3>
-      <p className="instruction">Make an appropriate sentence. One fragment may not be needed.</p>
+      <p className="instruction">{t('Make an appropriate sentence. One fragment may not be needed.')}</p>
       <p lang="en">
         <b>A:</b> {item.context}
       </p>
       <p lang="en">
         <b>B:</b>
       </p>
-      <div className="answer-line fragments" aria-label="Your sentence">
+      <div className="answer-line fragments" aria-label={t('Your sentence')} lang="en">
         {placed.map((p, i) => (
           <button key={i} type="button" className="fragment placed" onClick={() => onChange(placed.filter((_, j) => j !== i))}>
             {p}
@@ -463,7 +480,7 @@ function BuildSentence({ item, value, onChange, n, of }: { item: BuildSentenceIt
         ))}
         {placed.length > 0 && <span>{item.punctuation ?? '.'}</span>}
       </div>
-      <div className="fragments">
+      <div className="fragments" lang="en">
         {remaining.map((f, i) => (
           <button key={`${f}-${i}`} type="button" className="fragment" onClick={() => onChange([...placed, f])}>
             {f}
@@ -472,7 +489,7 @@ function BuildSentence({ item, value, onChange, n, of }: { item: BuildSentenceIt
       </div>
       {placed.length > 0 && (
         <button type="button" className="linkish" onClick={() => onChange([])}>
-          clear
+          {t('clear')}
         </button>
       )}
     </div>

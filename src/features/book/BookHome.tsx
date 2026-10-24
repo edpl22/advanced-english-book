@@ -8,6 +8,7 @@ import { dueForReview, everCorrect } from '@/lib/progress';
 import { useStore } from '@/lib/useStore';
 import { dateKey, doneToday, liveStreak } from '@/lib/daily';
 import type { State } from '@/lib/storage';
+import { fmtNum, useT, type Lang, type T } from '@/lib/i18n';
 
 interface Section {
   key: string;
@@ -20,9 +21,8 @@ interface Section {
   cta: string;
 }
 
-const fmt = (n: number) => n.toLocaleString('en-GB');
-
-function sections(state: State): Section[] {
+function sections(state: State, t: T, lang: Lang): Section[] {
+  const fmt = (n: number) => fmtNum(lang, n);
   const units = TOC.flatMap((p) => p.units).filter((u) => u.ready);
   const points = units.reduce((n, u) => n + (getUnit(u.id)?.exercises.flatMap((e) => e.items).reduce((m, it) => m + itemPoints(it), 0) ?? 0), 0);
   const languages = new Set(LEXICON.map((e) => e.origin)).size;
@@ -33,100 +33,100 @@ function sections(state: State): Section[] {
     {
       key: 'book',
       numeral: 'I',
-      label: 'The Book',
+      label: t('The Book'),
       to: '/book',
-      kicker: `Six parts · ${units.length} units`,
-      text: 'Grammar and vocabulary taught the way a good teacher would: the rule, real examples, the mistakes Brazilian learners make, and exercises corrected as you go.',
+      kicker: t('Six parts · {n} units', { n: units.length }),
+      text: t('Grammar and vocabulary taught the way a good teacher would: the rule, real examples, the mistakes Brazilian learners make, and exercises corrected as you go.'),
       facts: [
-        [String(units.length), 'units'],
-        [fmt(points), 'exercise points'],
-        ['3', 'appendices'],
+        [String(units.length), t('units')],
+        [fmt(points), t('exercise points')],
+        ['3', t('appendices')],
       ],
-      cta: 'Open the contents',
+      cta: t('Open the contents'),
     },
     {
       key: 'tests',
       numeral: 'II',
-      label: 'Practice Tests',
+      label: t('Practice Tests'),
       to: '/tests',
-      kicker: 'Papers made to measure',
-      text: 'Choose the level, topics, question types and timer, and the book sets a paper for you. It covers everything from ENEM to the military entrance exams.',
+      kicker: t('Papers made to measure'),
+      text: t('Choose the level, topics, question types and timer, and the book sets a paper for you. It covers everything from ENEM to the military entrance exams.'),
       facts: [
-        ['3,000+', 'authored points'],
-        ['60', 'reading texts'],
-        ['∞', 'generated items'],
+        [`${fmt(3000)}+`, t('authored points')],
+        ['60', t('reading texts')],
+        ['∞', t('generated items')],
       ],
-      cta: 'Set a paper',
+      cta: t('Set a paper'),
     },
     {
       key: 'toefl',
       numeral: 'III',
-      label: 'TOEFL Simulator',
+      label: t('TOEFL format'),
       to: '/toefl',
-      kicker: 'The 2026 iBT format',
-      text: 'Adaptive Reading and Listening, Writing tasks with model answers and recorded Speaking, all scored in bands from 1 to 6 with their CEFR level.',
+      kicker: t('The 2026 iBT format'),
+      text: t('Adaptive Reading and Listening, Writing tasks with model answers and recorded Speaking, all scored in bands from 1 to 6 with their CEFR level.'),
       facts: [
-        ['6', 'complete tests'],
-        ['85', 'minutes each'],
-        ['40', 'prompts per task'],
+        ['6', t('complete tests')],
+        ['85', t('minutes each')],
+        ['40', t('prompts per task')],
       ],
-      cta: 'Enter the simulator',
+      cta: t('Enter the simulator'),
     },
     {
       key: 'lexicon',
       numeral: 'IV',
-      label: 'Lexicon',
+      label: t('Lexicon'),
       to: '/lexicon',
-      kicker: 'Uncommon nouns',
-      text: 'Rare and useful words, each with its pronunciation, its history and an example, plus a game of Real or Fake to test your instincts.',
+      kicker: t('Uncommon nouns'),
+      text: t('Rare and useful words, each with its pronunciation, its history and an example, plus a game of Real or Fake to test your instincts.'),
       facts: [
-        [fmt(LEXICON.length), 'entries'],
-        [String(languages), 'source languages'],
-        ['4', 'ways to practise'],
+        [fmt(LEXICON.length), t('entries')],
+        [String(languages), t('source languages')],
+        ['4', t('ways to practise')],
       ],
-      cta: 'Browse the Lexicon',
+      cta: t('Browse the Lexicon'),
     },
     {
       key: 'medieval',
       numeral: 'V',
-      label: 'Old & Middle English',
+      label: t('Old & Middle English'),
       to: '/medieval',
-      kicker: 'From Beowulf to Shakespeare',
-      text: 'The letters, grammar and words that became modern English, read in the original and explained line by line.',
+      kicker: t('From Beowulf to Shakespeare'),
+      text: t('The letters, grammar and words that became modern English, read in the original and explained line by line.'),
       facts: [
-        ['1,300', 'years of English'],
-        ['150+', 'quiz questions'],
-        ['þ ð ƿ ȝ', 'old letters'],
+        [fmt(1300), t('years of English')],
+        ['150+', t('quiz questions')],
+        ['þ ð ƿ ȝ', t('old letters')],
       ],
-      cta: 'Go back in time',
+      cta: t('Go back in time'),
     },
     {
       key: 'progress',
       numeral: 'VI',
-      label: 'My Progress',
+      label: t('My Progress'),
       to: '/progress',
-      kicker: 'Your record, kept on this device',
-      text: 'See what you have answered, what is due for review today and which topics need another look. Nothing leaves your browser.',
+      kicker: t('Your record, kept on this device'),
+      text: t('See what you have answered, what is due for review today and which topics need another look. Nothing leaves your browser.'),
       facts: [
-        [fmt(stats.length), 'items answered'],
-        [tried ? `${Math.round((right / tried) * 100)}%` : '—', 'accuracy'],
-        [fmt(dueForReview(state).length), 'due for review'],
+        [fmt(stats.length), t('items answered')],
+        [tried ? `${Math.round((right / tried) * 100)}%` : '—', t('accuracy')],
+        [fmt(dueForReview(state).length), t('due for review')],
       ],
-      cta: 'See my progress',
+      cta: t('See my progress'),
     },
     {
       key: 'daily',
       numeral: 'VII',
-      label: 'Daily Challenge',
+      label: t('Daily Challenge'),
       to: '/daily',
-      kicker: doneToday(state.daily, dateKey()) ? 'Done for today' : 'Today’s page is waiting',
-      text: 'Ten questions on ten random topics, the same for everyone each day. Finish them daily to build a streak, and miss a day to start again.',
+      kicker: doneToday(state.daily, dateKey()) ? t('Done for today') : t('Today’s page is waiting'),
+      text: t('Ten questions on ten random topics, the same for everyone each day. Finish them daily to build a streak, and miss a day to start again.'),
       facts: [
-        [String(liveStreak(state.daily, dateKey())), 'day streak'],
-        [String(state.daily.best), 'best streak'],
-        ['10', 'questions a day'],
+        [String(liveStreak(state.daily, dateKey())), t('day streak')],
+        [String(state.daily.best), t('best streak')],
+        ['10', t('questions a day')],
       ],
-      cta: doneToday(state.daily, dateKey()) ? 'See today’s result' : 'Take today’s challenge',
+      cta: doneToday(state.daily, dateKey()) ? t('See today’s result') : t('Take today’s challenge'),
     },
   ];
 }
@@ -164,22 +164,24 @@ function TabLink({ s, children, ...rest }: { s: Section; children: ReactNode } &
 
 export function Cover() {
   const state = useStore();
-  const list = useMemo(() => sections(state), [state]);
+  const t = useT();
+  const lang = state.settings.lang;
+  const list = useMemo(() => sections(state, t, lang), [state, t, lang]);
   const [active, setActive] = useState('book');
   const current = list.find((s) => s.key === active) ?? list[0];
   const resume = lastUnit(state);
 
   return (
-    <section className="jacket" aria-label="Advanced English — cover and sections">
+    <section className="jacket" aria-label={t('Advanced English — cover and sections')}>
       <div className="board">
         <div className="board-frame">
-          <p className="imprint">A course book for Brazilian learners</p>
+          <p className="imprint">{t('A course book for Brazilian learners')}</p>
           <h1 className="title-lockup">
             <span>Advanced</span>
             <span>English</span>
           </h1>
-          <p className="board-subtitle">Grammar, Vocabulary and Exam Practice</p>
-          <p className="board-levels" aria-label="Levels B2 to C2">
+          <p className="board-subtitle">{t('Grammar, Vocabulary and Exam Practice')}</p>
+          <p className="board-levels" aria-label={t('Levels B2 to C2')}>
             B2 <span aria-hidden="true">—</span> C2
           </p>
 
@@ -201,17 +203,19 @@ export function Cover() {
             </TabLink>
           </div>
 
-          <p className="board-exams">TOEFL · IELTS · Cambridge C1/C2 · ITA · IME · AFA · EN · EFOMM · EsPCEx · FUVEST · ENEM</p>
+          <p className="board-exams">
+            {t('Practice in the format of')} TOEFL · IELTS · Cambridge C1/C2 · ITA · IME · AFA · EN · EFOMM · EsPCEx · FUVEST · ENEM
+          </p>
         </div>
         {resume && (
-          <Link className="ribbon" to={`/book/unit/${resume.id}`} title={`Continue with Unit ${resume.number}: ${resume.title}`}>
-            <span className="ribbon-label">Continue</span>
-            <span className="ribbon-unit">Unit {resume.number}</span>
+          <Link className="ribbon" to={`/book/unit/${resume.id}`} title={t('Continue with Unit {n}: {title}', { n: resume.number, title: resume.title })}>
+            <span className="ribbon-label">{t('Continue')}</span>
+            <span className="ribbon-unit">{t('Unit {n}', { n: resume.number })}</span>
           </Link>
         )}
       </div>
 
-      <nav className="thumb-index" aria-label="Sections of the book">
+      <nav className="thumb-index" aria-label={t('Sections of the book')}>
         {list.map((s) => (
           <TabLink
             key={s.key}
@@ -231,32 +235,33 @@ export function Cover() {
 
 export function Contents() {
   const state = useStore();
+  const t = useT();
   const done = everCorrect(state);
   return (
     <nav aria-labelledby="contents-h" className="contents" id="contents">
       <h2 id="contents-h" className="contents-title">
-        Contents
+        {t('Contents')}
       </h2>
       <ol className="toc">
         <li className="part">
           <div className="part-title">
-            <span className="part-name">Front matter</span>
+            <span className="part-name">{t('Front matter')}</span>
           </div>
           <ol className="toc-units">
             <li className="unit">
               <span className="n" />
               <Link to="/book/how-to-use" className="unit-title">
-                How to Use This Book
+                {t('How to Use This Book')}
               </Link>
               <span className="leader" aria-hidden="true" />
-              <span className="meta">correction rules · symbols</span>
+              <span className="meta">{t('correction rules · symbols')}</span>
             </li>
           </ol>
         </li>
         {TOC.map((part) => (
           <li className="part" key={part.part}>
             <div className="part-title">
-              <span className="part-num">Part {part.part}</span>
+              <span className="part-num">{t('Part {n}', { n: part.part })}</span>
               <span className="part-name">{part.title}</span>
             </div>
             <ol className="toc-units">
@@ -281,15 +286,15 @@ export function Contents() {
                     <span className="meta">
                       {u.ready ? (
                         <>
-                          {total} items
+                          {t('{n} items', { n: total })}
                           {marked ? (
-                            <span className="done" title="Marked as completed">
+                            <span className="done" title={t('Marked as completed')}>
                               {' '}
-                              · ✓ completed
+                              · ✓ {t('completed')}
                             </span>
                           ) : (
                             pct > 0 && (
-                              <span className="done" title={`${pct}% of the unit answered correctly`}>
+                              <span className="done" title={t('{pct}% of the unit answered correctly', { pct })}>
                                 {' '}
                                 · {pct}%
                               </span>
@@ -297,7 +302,7 @@ export function Contents() {
                           )}
                         </>
                       ) : (
-                        `in preparation`
+                        t('in preparation')
                       )}
                     </span>
                     {pct > 0 && (
@@ -324,21 +329,21 @@ export function Contents() {
         ))}
         <li className="part">
           <div className="part-title">
-            <span className="part-name">Back matter</span>
+            <span className="part-name">{t('Back matter')}</span>
           </div>
           <ol className="toc-units">
             {[
-              ['A', '/book/appendix/irregular-verbs', 'Irregular verbs'],
-              ['B', '/book/appendix/phrasal-verbs', 'Phrasal verbs dictionary'],
-              ['C', '/book/appendix/false-friends', 'False friends'],
-              ['', '/book/glossary', 'Glossary'],
-              ['', '/book/index', 'Index'],
-              ['', '/book/answer-key', 'Answer Key'],
+              ['A', '/book/appendix/irregular-verbs', t('Irregular verbs')],
+              ['B', '/book/appendix/phrasal-verbs', t('Phrasal verbs dictionary')],
+              ['C', '/book/appendix/false-friends', t('False friends')],
+              ['', '/book/glossary', t('Glossary')],
+              ['', '/book/index', t('Index')],
+              ['', '/book/answer-key', t('Answer Key')],
             ].map(([n, to, label]) => (
               <li className="unit" key={to}>
                 <span className="n">{n}</span>
                 <Link to={to} className="unit-title">
-                  {n ? `Appendix ${n} · ` : ''}
+                  {n ? `${t('Appendix {n}', { n })} · ` : ''}
                   {label}
                 </Link>
                 <span className="leader" aria-hidden="true" />

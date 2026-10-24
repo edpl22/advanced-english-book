@@ -11,34 +11,40 @@ import { update } from '@/lib/storage';
 import { useStore } from '@/lib/useStore';
 import { GENERATORS } from '@/lib/generators';
 import { setUnitCompleted } from '@/lib/progress';
+import { fmtDate, useLangTag, useT } from '@/lib/i18n';
 
 /** Mark the unit as completed by hand (or undo it). */
 function CompleteButton({ unitId, number, big }: { unitId: string; number: number; big?: boolean }) {
   const state = useStore();
+  const t = useT();
   const done = Boolean(state.completed[unitId]);
   if (big) {
     return (
       <div className={`unit-finish${done ? ' is-done' : ''}`}>
         <p>
           {done
-            ? `Unit ${number} is marked as completed on ${new Date(state.completed[unitId]).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' })}.`
-            : 'Finished this unit? Mark it as completed: the contents and My Progress will show it as done.'}
+            ? t('Unit {n} is marked as completed on {date}.', {
+                n: number,
+                date: fmtDate(state.settings.lang, new Date(state.completed[unitId]), { day: 'numeric', month: 'long', year: 'numeric' }),
+              })
+            : t('Finished this unit? Mark it as completed: the contents and My Progress will show it as done.')}
         </p>
         <button type="button" className={done ? 'btn' : 'btn primary'} aria-pressed={done} onClick={() => setUnitCompleted(unitId, !done)}>
-          {done ? 'Mark as not completed' : `Mark Unit ${number} as completed`}
+          {done ? t('Mark as not completed') : t('Mark Unit {n} as completed', { n: number })}
         </button>
       </div>
     );
   }
   return (
     <button type="button" className="linkish" aria-pressed={done} onClick={() => setUnitCompleted(unitId, !done)}>
-      {done ? '✓ Completed (undo)' : 'Mark as completed'}
+      {done ? t('✓ Completed (undo)') : t('Mark as completed')}
     </button>
   );
 }
 
 function BookmarkButton({ path, label }: { path: string; label: string }) {
   const state = useStore();
+  const t = useT();
   const marked = state.bookmarks.some((b) => b.path === path);
   return (
     <button
@@ -52,13 +58,15 @@ function BookmarkButton({ path, label }: { path: string; label: string }) {
         }))
       }
     >
-      {marked ? 'Remove bookmark' : 'Bookmark this unit'}
+      {marked ? t('Remove bookmark') : t('Bookmark this unit')}
     </button>
   );
 }
 
 export function UnitPage() {
   const { id = '' } = useParams();
+  const t = useT();
+  const langTag = useLangTag();
   const [params] = useSearchParams();
   const unit = getUnit(id);
   const toc = tocUnit(id);
@@ -76,7 +84,9 @@ export function UnitPage() {
   if (!toc) {
     return (
       <div className="single">
-        <p>There is no unit with this number. Go back to the <Link to="/book">contents</Link>.</p>
+        <p>
+          {t('There is no unit with this number.')} <Link to="/book">← {t('Contents')}</Link>
+        </p>
       </div>
     );
   }
@@ -89,10 +99,10 @@ export function UnitPage() {
     <article className="single" aria-labelledby="unit-title">
       <div className="running-head">
         <span>
-          Unit {unit.number} · {unit.title}
+          {t('Unit {n}', { n: unit.number })} · {unit.title}
         </span>
         <span>
-          Part {unit.part} · {PART_TITLES[unit.part]}
+          {t('Part {n}', { n: unit.part })} · {t(PART_TITLES[unit.part])}
         </span>
       </div>
 
@@ -102,19 +112,21 @@ export function UnitPage() {
         </div>
         <div>
           <div className="kicker">
-            Unit {unit.number} · Part {unit.part} · {unit.levelRange}
+            {t('Unit {n}', { n: unit.number })} · {t('Part {n}', { n: unit.part })} · {unit.levelRange}
           </div>
-          <h1 id="unit-title">{unit.title}</h1>
+          <h1 id="unit-title" lang="en">
+            {unit.title}
+          </h1>
         </div>
       </header>
 
       <div className="with-margin">
         <div>
-          <p className="dropcap">
+          <p className="dropcap" lang="en">
             <RichText text={unit.intro} />
           </p>
-          <nav aria-label="In this unit" className="muted" style={{ fontSize: '0.95rem' }}>
-            <span className="sc">In this unit: </span>
+          <nav aria-label={t('In this unit')} className="muted" style={{ fontSize: '0.95rem' }}>
+            <span className="sc">{t('In this unit')}: </span>
             {unit.sections.map((s, i) => (
               <span key={s.id}>
                 <a href={`#s-${s.id}`} onClick={(e) => { e.preventDefault(); document.getElementById(`s-${s.id}`)?.scrollIntoView(); }}>
@@ -125,28 +137,28 @@ export function UnitPage() {
             ))}
             {' · '}
             <a href="#exercises" onClick={(e) => { e.preventDefault(); document.getElementById('exercises')?.scrollIntoView(); }}>
-              Exercises ({points} items)
+              {t('Exercises ({n} items)', { n: points })}
             </a>
           </nav>
         </div>
         <div className="margin-col no-print">
           <div className="margin-note">
-            <span className="label">This unit</span>
+            <span className="label">{t('This unit')}</span>
             <BookmarkButton path={`/book/unit/${unit.id}`} label={`${unit.number} ${unit.title}`} />
             <br />
             <CompleteButton unitId={unit.id} number={unit.number} />
             <br />
             <button type="button" className="linkish" onClick={() => window.print()}>
-              Print as book pages
+              {t('Print as book pages')}
             </button>
             <br />
-            <Link to={`/book/unit/${unit.id}/practice`}>More practice</Link>
+            <Link to={`/book/unit/${unit.id}/practice`}>{t('More practice')}</Link>
           </div>
         </div>
       </div>
 
       {unit.sections.map((s) => (
-        <section key={s.id} id={`s-${s.id}`} aria-labelledby={`h-${s.id}`}>
+        <section key={s.id} id={`s-${s.id}`} aria-labelledby={`h-${s.id}`} lang="en">
           <div className="section-title">
             <span className="num">{s.id}</span>
             <h2 id={`h-${s.id}`} tabIndex={-1}>
@@ -168,7 +180,7 @@ export function UnitPage() {
         </section>
       ))}
 
-      <section aria-labelledby="examples-h">
+      <section aria-labelledby="examples-h" lang="en">
         <div className="section-title">
           <span className="num">§</span>
           <h2 id="examples-h">{unit.examples.title}</h2>
@@ -180,7 +192,7 @@ export function UnitPage() {
           {unit.examples.note && (
             <div className="margin-col">
               <div className="margin-note">
-                <span className="label">Task</span>
+                <span className="label">{t('Task')}</span>
                 <RichText text={unit.examples.note} />
               </div>
             </div>
@@ -191,7 +203,7 @@ export function UnitPage() {
       <section aria-labelledby="mistakes-h" lang="pt-BR">
         <div className="section-title">
           <span className="num">§</span>
-          <h2 id="mistakes-h">Common mistakes by Brazilian learners</h2>
+          <h2 id="mistakes-h">{t('Common mistakes by Brazilian learners')}</h2>
         </div>
         <ul className="mistakes prose" style={{ marginLeft: 0 }}>
           {unit.mistakes.map((m, i) => (
@@ -210,9 +222,9 @@ export function UnitPage() {
       <section aria-labelledby="exam-h">
         <div className="section-title">
           <span className="num">§</span>
-          <h2 id="exam-h">Exam focus</h2>
+          <h2 id="exam-h">{t('Exam focus')}</h2>
         </div>
-        <div className="prose" style={{ marginLeft: 0 }}>
+        <div className="prose" style={{ marginLeft: 0 }} lang="en">
           {unit.examFocus.map((f, i) => (
             <p key={i}>
               <b>{f.exam}</b>{' '}
@@ -233,7 +245,7 @@ export function UnitPage() {
       <section id="exercises" aria-labelledby="ex-h">
         <div className="section-title print-break">
           <span className="num">✎</span>
-          <h2 id="ex-h">Exercises</h2>
+          <h2 id="ex-h">{t('Exercises')}</h2>
         </div>
         {unit.exercises.map((ex) => (
           <ExerciseBlock key={ex.id} ex={ex} />
@@ -243,10 +255,10 @@ export function UnitPage() {
       <section aria-labelledby="review-h">
         <div className="section-title">
           <span className="num">§</span>
-          <h2 id="review-h">Quick review</h2>
+          <h2 id="review-h">{t('Quick review')}</h2>
         </div>
         <div className="with-margin">
-          <div>
+          <div lang="en">
             <ul>
               {unit.quickReview.points.map((p, i) => (
                 <li key={i}>
@@ -255,14 +267,16 @@ export function UnitPage() {
               ))}
             </ul>
             {unit.quickReview.table && <BookTable head={unit.quickReview.table.head} rows={unit.quickReview.table.rows} />}
-            <h3 className="subhead">Check yourself</h3>
+            <h3 className="subhead" lang={langTag}>
+              {t('Check yourself')}
+            </h3>
             <ol>
               {unit.quickReview.selfCheck.map((q, i) => (
                 <li key={i}>
                   <RichText text={q.q} />{' '}
                   <details style={{ display: 'inline' }}>
-                    <summary className="linkish" style={{ display: 'inline' }}>
-                      answer
+                    <summary className="linkish" style={{ display: 'inline' }} lang={langTag}>
+                      {t('answer')}
                     </summary>{' '}
                     <i>{q.a}</i>
                   </details>
@@ -277,12 +291,12 @@ export function UnitPage() {
       <section aria-labelledby="more-h" className="no-print">
         <div className="section-title">
           <span className="num">∞</span>
-          <h2 id="more-h">More practice</h2>
+          <h2 id="more-h">{t('More practice')}</h2>
         </div>
         <p>
-          Unlimited new items on this unit, produced by the grammar generators with guaranteed answers:{' '}
+          {t('Unlimited new items on this unit, produced by the grammar generators with guaranteed answers:')}{' '}
           <Link to={`/book/unit/${unit.id}/practice`} className="btn accent" style={{ textDecoration: 'none' }}>
-            More practice
+            {t('More practice')}
           </Link>
         </p>
       </section>
@@ -291,6 +305,7 @@ export function UnitPage() {
 }
 
 function UnitInPreparation({ id }: { id: string }) {
+  const t = useT();
   const toc = tocUnit(id)!;
   const topics = (Object.entries(TOPIC_INFO) as Array<[Topic, (typeof TOPIC_INFO)[Topic]]>).filter(([, v]) => v.unit === toc.number).map(([k]) => k);
   const gens = GENERATORS.filter((g) => topics.includes(g.topic) && !g.key.startsWith('phrasal-') && g.key !== 'tenses');
@@ -298,10 +313,10 @@ function UnitInPreparation({ id }: { id: string }) {
     <div className="single">
       <div className="running-head">
         <span>
-          Unit {toc.number} · {toc.title}
+          {t('Unit {n}', { n: toc.number })} · {toc.title}
         </span>
         <span>
-          Part {toc.part} · {toc.partTitle}
+          {t('Part {n}', { n: toc.part })} · {toc.partTitle}
         </span>
       </div>
       <header className="unit-opening">
@@ -309,11 +324,13 @@ function UnitInPreparation({ id }: { id: string }) {
           {toc.number}
         </div>
         <div>
-          <div className="kicker">Unit {toc.number} · in preparation (phase {toc.phase})</div>
+          <div className="kicker">
+            {t('Unit {n}', { n: toc.number })} · {t('in preparation (phase {n})', { n: toc.phase })}
+          </div>
           <h1>{toc.title}</h1>
         </div>
       </header>
-      <p>The full text of this unit is being written. These are its planned sections:</p>
+      <p>{t('The full text of this unit is being written. These are its planned sections:')}</p>
       <ol>
         {toc.sections.map((s, i) => (
           <li key={i}>
@@ -323,12 +340,15 @@ function UnitInPreparation({ id }: { id: string }) {
       </ol>
       {gens.length > 0 ? (
         <p className="notice">
-          You can already practise this unit’s grammar with the generators:{' '}
-          <Link to={`/book/unit/${id}/practice`}>More practice ({gens.map((g) => g.title).join('; ')})</Link>.
+          {t('You can already practise this unit’s grammar with the generators:')}{' '}
+          <Link to={`/book/unit/${id}/practice`}>
+            {t('More practice')} ({gens.map((g) => g.title).join('; ')})
+          </Link>
+          .
         </p>
       ) : null}
       <p>
-        <Link to="/book">← Contents</Link>
+        <Link to="/book">← {t('Contents')}</Link>
       </p>
     </div>
   );

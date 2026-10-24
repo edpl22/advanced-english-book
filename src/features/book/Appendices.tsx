@@ -7,38 +7,43 @@ import { GLOSSARY } from '@content/appendices/glossary';
 import { UNITS } from '@content/units';
 import { answerText } from '@/lib/checking';
 import { RichText, refPath } from '@/components/RichText';
+import { useT } from '@/lib/i18n';
 
-function BackHead({ title, part = 'Back matter' }: { title: string; part?: string }) {
+function BackHead({ title }: { title: string }) {
+  const t = useT();
   return (
     <div className="running-head">
-      <span>{part}</span>
+      <span>{t('Back matter')}</span>
       <span>{title}</span>
     </div>
   );
 }
 
 export function IrregularVerbs() {
+  const t = useT();
   const [q, setQ] = useState('');
   const rows = IRREGULAR_VERBS.filter((v) => !q || [v.base, ...v.past, ...v.pp, v.pt ?? ''].some((f) => f.toLowerCase().includes(q.toLowerCase())));
   return (
     <div className="single">
-      <BackHead title="Appendix A · Irregular verbs" />
-      <h1 className="sc">Appendix A · Irregular verbs</h1>
+      <BackHead title={`${t('Appendix {n}', { n: 'A' })} · ${t('Irregular verbs')}`} />
+      <h1 className="sc">
+        {t('Appendix {n}', { n: 'A' })} · {t('Irregular verbs')}
+      </h1>
       <p className="muted">
-        Where two forms are given, the first is the one used in this book (usually British); the second is common in American English or in
-        informal use. {IRREGULAR_VERBS.length} verbs.
+        {t('Where two forms are given, the first is the one used in this book (usually British); the second is common in American English or in informal use.')}{' '}
+        {t('{n} verbs.', { n: IRREGULAR_VERBS.length })}
       </p>
       <div className="field no-print">
-        <label htmlFor="iv-q">Find</label>
+        <label htmlFor="iv-q">{t('Find')}</label>
         <input id="iv-q" type="text" value={q} onChange={(e) => setQ(e.target.value)} />
       </div>
       <div className="table-wrap">
         <table className="book-table" lang="en">
           <thead>
             <tr>
-              <th>Base form</th>
-              <th>Past simple</th>
-              <th>Past participle</th>
+              <th>{t('Base form')}</th>
+              <th>{t('Past simple')}</th>
+              <th>{t('Past participle')}</th>
               <th lang="pt-BR">Português</th>
             </tr>
           </thead>
@@ -65,6 +70,7 @@ export function IrregularVerbs() {
 const THEMES: PvTheme[] = ['work', 'relationships', 'travel', 'problems', 'money', 'communication', 'daily-life', 'study', 'health', 'emotions', 'technology'];
 
 export function PhrasalDictionary() {
+  const t = useT();
   const [particle, setParticle] = useState('');
   const [theme, setTheme] = useState('');
   const [q, setQ] = useState('');
@@ -77,30 +83,33 @@ export function PhrasalDictionary() {
   ).sort((a, b) => pvLabel(a).localeCompare(pvLabel(b)));
   return (
     <div className="single">
-      <BackHead title="Appendix B · Phrasal verbs" />
-      <h1 className="sc">Appendix B · Phrasal verbs dictionary</h1>
+      <BackHead title={`${t('Appendix {n}', { n: 'B' })} · ${t('Phrasal verbs dictionary')}`} />
+      <h1 className="sc">
+        {t('Appendix {n}', { n: 'B' })} · {t('Phrasal verbs dictionary')}
+      </h1>
       <p className="muted">
-        {PHRASAL_VERBS.length} entries. Types: <i>intr.</i> intransitive · <i>sep.</i> separable (turn it off) · <i>insep.</i> inseparable (look
-        after it) · <i>3-part</i> (put up with it). See <Link to="/book/unit/u22">Unit 22</Link>.
+        {t('{n} entries.', { n: PHRASAL_VERBS.length })} {t('Types:')} <i lang="en">intr.</i> {t('intransitive')} · <i lang="en">sep.</i>{' '}
+        {t('separable')} (<i lang="en">turn it off</i>) · <i lang="en">insep.</i> {t('inseparable')} (<i lang="en">look after it</i>) ·{' '}
+        <i lang="en">3-part</i> (<i lang="en">put up with it</i>). {t('See')} <Link to="/book/unit/u22">{t('Unit {n}', { n: 22 })}</Link>.
       </p>
       <div className="field no-print">
-        <label htmlFor="pv-q">Find</label>
+        <label htmlFor="pv-q">{t('Find')}</label>
         <input id="pv-q" type="text" value={q} onChange={(e) => setQ(e.target.value)} />
-        <label htmlFor="pv-p">Particle</label>
+        <label htmlFor="pv-p">{t('Particle')}</label>
         <select id="pv-p" value={particle} onChange={(e) => setParticle(e.target.value)}>
-          <option value="">all</option>
+          <option value="">{t('all')}</option>
           {particles.map((p) => (
             <option key={p} value={p}>
               {p}
             </option>
           ))}
         </select>
-        <label htmlFor="pv-t">Theme</label>
+        <label htmlFor="pv-t">{t('Theme')}</label>
         <select id="pv-t" value={theme} onChange={(e) => setTheme(e.target.value)}>
-          <option value="">all</option>
-          {THEMES.map((t) => (
-            <option key={t} value={t}>
-              {t}
+          <option value="">{t('all')}</option>
+          {THEMES.map((th) => (
+            <option key={th} value={th} lang="en">
+              {th}
             </option>
           ))}
         </select>
@@ -110,10 +119,10 @@ export function PhrasalDictionary() {
           <thead>
             <tr>
               <th>Phrasal verb</th>
-              <th>Type</th>
-              <th>Meaning</th>
-              <th>Formal</th>
-              <th>Example</th>
+              <th>{t('Type')}</th>
+              <th>{t('Meaning')}</th>
+              <th>{t('Formal')}</th>
+              <th>{t('Example')}</th>
             </tr>
           </thead>
           <tbody>
@@ -139,10 +148,13 @@ export function PhrasalDictionary() {
 }
 
 export function FalseFriends() {
+  const t = useT();
   return (
     <div className="single">
-      <BackHead title="Appendix C · False friends" />
-      <h1 className="sc">Appendix C · False friends</h1>
+      <BackHead title={`${t('Appendix {n}', { n: 'C' })} · ${t('False friends')}`} />
+      <h1 className="sc">
+        {t('Appendix {n}', { n: 'C' })} · {t('False friends')}
+      </h1>
       <p className="muted" lang="pt-BR">
         Palavras que parecem iguais em português e inglês, mas não significam a mesma coisa.
       </p>
@@ -151,8 +163,8 @@ export function FalseFriends() {
           <thead>
             <tr>
               <th lang="pt-BR">Português</th>
-              <th>Say in English</th>
-              <th>Not…</th>
+              <th>{t('Say in English')}</th>
+              <th>{t('Not…')}</th>
               <th lang="pt-BR">…que significa</th>
             </tr>
           </thead>
@@ -179,12 +191,13 @@ export function FalseFriends() {
 }
 
 export function Glossary() {
+  const t = useT();
   const sorted = [...GLOSSARY].sort((a, b) => a.term.localeCompare(b.term));
   return (
     <div className="single">
-      <BackHead title="Glossary" />
-      <h1 className="sc">Glossary</h1>
-      <dl className="prose" style={{ marginLeft: 0 }}>
+      <BackHead title={t('Glossary')} />
+      <h1 className="sc">{t('Glossary')}</h1>
+      <dl className="prose" style={{ marginLeft: 0 }} lang="en">
         {sorted.map((g) => (
           <div key={g.term} style={{ borderBottom: '1px solid var(--rule)', padding: '0.5rem 0' }}>
             <dt>
@@ -222,6 +235,7 @@ export function Glossary() {
 
 /** Alphabetical index built from section titles, bold terms, the glossary and the phrasal verbs. */
 export function IndexPage() {
+  const t = useT();
   const entries = useMemo(() => {
     const map = new Map<string, Set<string>>();
     const add = (term: string, ref: string) => {
@@ -253,9 +267,9 @@ export function IndexPage() {
   }
   return (
     <div className="single">
-      <BackHead title="Index" />
-      <h1 className="sc">Index</h1>
-      <p className="muted">Numbers refer to sections; B = Appendix B (phrasal verbs).</p>
+      <BackHead title={t('Index')} />
+      <h1 className="sc">{t('Index')}</h1>
+      <p className="muted">{t('Numbers refer to sections; B = Appendix B (phrasal verbs).')}</p>
       <div className="index-cols" lang="en">
         {[...groups.entries()].map(([l, list]) => (
           <div key={l}>
@@ -279,13 +293,14 @@ export function IndexPage() {
 }
 
 export function AnswerKey() {
+  const t = useT();
   return (
     <div className="single">
-      <BackHead title="Answer Key" />
-      <h1 className="sc">Answer Key</h1>
-      <p className="muted">Numbering follows the book. Where several answers are possible, they are separated by a slash.</p>
+      <BackHead title={t('Answer Key')} />
+      <h1 className="sc">{t('Answer Key')}</h1>
+      <p className="muted">{t('Numbering follows the book. Where several answers are possible, they are separated by a slash.')}</p>
       {UNITS.map((u) => (
-        <section key={u.id}>
+        <section key={u.id} lang="en">
           <div className="section-title">
             <span className="num">{u.number}</span>
             <h2>{u.title}</h2>
@@ -293,7 +308,7 @@ export function AnswerKey() {
           {u.exercises.map((ex) => (
             <div key={ex.id} style={{ marginBottom: '1rem' }}>
               <h3 className="subhead">
-                <Link to={`/book/unit/${u.id}?s=${ex.ref}`}>Exercise {ex.id}</Link> · {ex.title}
+                <Link to={`/book/unit/${u.id}?s=${ex.ref}`}>{t('Exercise {n}', { n: ex.id })}</Link> · {ex.title}
               </h3>
               <ol style={{ margin: 0 }}>
                 {ex.items.map((it) => (

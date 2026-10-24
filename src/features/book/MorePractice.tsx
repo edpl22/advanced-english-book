@@ -6,6 +6,7 @@ import { GENERATORS, generateMany, getGenerator, type Generator } from '@/lib/ge
 import { TOPIC_INFO, type Topic } from '@/lib/topics';
 import { ItemView } from '@/components/ItemView';
 import { hashSeed, randomSeedString } from '@/lib/rng';
+import { useT } from '@/lib/i18n';
 
 function generatorsForUnit(id: string): Generator[] {
   const unit = getUnit(id);
@@ -20,6 +21,7 @@ const BATCH = 10;
 
 export function MorePractice() {
   const { id = '' } = useParams();
+  const t = useT();
   const toc = tocUnit(id);
   const gens = generatorsForUnit(id);
   const [genKey, setGenKey] = useState(gens[0]?.key ?? '');
@@ -29,29 +31,29 @@ export function MorePractice() {
   const gen = gens.find((g) => g.key === genKey) ?? gens[0];
   const items = useMemo(() => (gen ? generateMany(gen, hashSeed(`${seed}:${gen.key}`), BATCH * batches) : []), [gen, seed, batches]);
 
-  if (!toc) return <p>Unknown unit.</p>;
+  if (!toc) return <p>{t('Unknown unit.')}</p>;
 
   return (
     <div className="single">
       <div className="running-head">
         <span>
-          Unit {toc.number} · {toc.title}
+          {t('Unit {n}', { n: toc.number })} · {toc.title}
         </span>
-        <span>More practice</span>
+        <span>{t('More practice')}</span>
       </div>
       <h1 className="sc" style={{ marginBottom: '0.5rem' }}>
-        More practice · Unit {toc.number}
+        {t('More practice')} · {t('Unit {n}', { n: toc.number })}
       </h1>
       <p className="muted">
-        Items are produced by the grammar generators from verified tables: every answer is guaranteed, and the same seed always gives the same
-        items. <Link to={`/book/unit/${id}`}>← Back to the unit</Link>
+        {t('Items are produced by the grammar generators from verified tables: every answer is guaranteed, and the same seed always gives the same items.')}{' '}
+        <Link to={`/book/unit/${id}`}>← {t('Back to the unit')}</Link>
       </p>
       {gens.length === 0 ? (
-        <p className="notice">There is no generator for this unit yet.</p>
+        <p className="notice">{t('There is no generator for this unit yet.')}</p>
       ) : (
         <>
           <div className="field no-print">
-            <label htmlFor="gen">Generator</label>
+            <label htmlFor="gen">{t('Generator')}</label>
             <select
               id="gen"
               value={gen?.key}
@@ -67,7 +69,7 @@ export function MorePractice() {
               ))}
             </select>
             <span className="muted">
-              seed <b>{seed}</b>
+              {t('seed')} <b>{seed}</b>
             </span>
             <button
               type="button"
@@ -77,7 +79,7 @@ export function MorePractice() {
                 setBatches(1);
               }}
             >
-              New set
+              {t('New set')}
             </button>
           </div>
           {items.map((it, i) => (
@@ -85,7 +87,7 @@ export function MorePractice() {
           ))}
           <div className="btn-row no-print" style={{ marginTop: '1.5rem' }}>
             <button type="button" className="btn primary" onClick={() => setBatches((b) => b + 1)}>
-              Ten more items
+              {t('Ten more items')}
             </button>
           </div>
         </>
