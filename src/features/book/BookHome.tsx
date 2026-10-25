@@ -172,18 +172,21 @@ export function Cover() {
   const resume = lastUnit(state);
 
   return (
-    <section className="jacket" aria-label={t('Advanced English — cover and sections')}>
+    <section className="jacket" aria-label={t('Thorn — cover and sections')}>
       <div className="board">
         <div className="board-frame">
-          <p className="imprint">{t('A course book for Brazilian learners')}</p>
+          <p className="imprint">{t('Grammar, Vocabulary & Exams')}</p>
           <h1 className="title-lockup">
-            <span>Advanced</span>
-            <span>English</span>
+            <span className="thorn-glyph" aria-hidden="true">
+              Þ
+            </span>
+            <span className="title-word">Thorn</span>
           </h1>
-          <p className="board-subtitle">{t('Grammar, Vocabulary and Exam Practice')}</p>
+          <p className="board-subtitle">{t('Advanced English for Brazilian learners')}</p>
           <p className="board-levels" aria-label={t('Levels B2 to C2')}>
             B2 <span aria-hidden="true">—</span> C2
           </p>
+          <p className="board-name-note">{t('Þ, thorn: the letter English lost — and the thorny points every advanced learner has to master.')}</p>
 
           <div className="plate" aria-live="polite" key={current.key}>
             <p className="plate-kicker">

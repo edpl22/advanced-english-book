@@ -71,12 +71,17 @@ export function Layout() {
       </a>
       <header className="masthead">
         <div className="masthead-inner">
-          <Link to="/book" className="masthead-title" aria-label={`Advanced English — ${t('home')}`}>
-            <span className="wordmark">Advanced English</span>
+          <Link to="/book" className="masthead-title" aria-label={`Thorn — ${t('home')}`}>
+            <span className="wordmark">
+              <span className="wordmark-thorn" aria-hidden="true">
+                Þ
+              </span>
+              Thorn
+            </span>
             <span className="fleuron" aria-hidden="true">
               ❧
             </span>
-            <span className="strap">{t('Grammar, Vocabulary & Exams')}</span>
+            <span className="strap">{t('Advanced English for Brazilian learners')}</span>
           </Link>
           <div className="masthead-tools">
             <div className="paper-switch" role="group" aria-label={t('Interface language')}>
@@ -129,7 +134,7 @@ export function Layout() {
       </main>
       <footer className="colophon">
         <span>
-          <span className="sc">Advanced English</span> · {t('set in EB Garamond')}
+          <span className="sc">Thorn</span> · {t('set in EB Garamond')}
         </span>
         <span>{t('All texts and exercises are original. Your progress stays on this device.')}</span>
         <p className="disclaimer">{t(DISCLAIMER)}</p>

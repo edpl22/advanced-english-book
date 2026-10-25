@@ -1,4 +1,4 @@
-# Tutorial — como rodar o site *Advanced English*
+# Tutorial — como rodar o site *Thorn*
 
 Este guia mostra, passo a passo, como baixar o projeto, abrir o site no seu computador, rodar os testes e gerar a versão final para publicar. Os comandos funcionam no Windows (PowerShell ou Git Bash), no macOS e no Linux.
 

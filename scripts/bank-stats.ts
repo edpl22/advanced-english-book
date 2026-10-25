@@ -105,7 +105,7 @@ const lpad = (s: string | number, n: number) => String(s).padStart(n);
 const pct = (a: number, b: number) => (b ? `${Math.round((a / b) * 100)}%` : '—');
 const pkg = JSON.parse(readFileSync(join(ROOT, 'package.json'), 'utf-8'));
 
-console.log(`\nAdvanced English · question bank statistics (v${pkg.version})\n${'═'.repeat(64)}`);
+console.log(`\nThorn · question bank statistics (v${pkg.version})\n${'═'.repeat(64)}`);
 console.log(`Authored items (scorable points): ${total}`);
 console.log(`  units ${points(fromUnits)} · bank batches ${points(fromBank)} · reading questions ${points(fromReading)} (${passages.length} texts)`);
 console.log(`Generators: ${GENERATORS.length} (unlimited items) · Lexicon ${LEXICON.length} entries · Medieval quiz ${MEDIEVAL_QUIZ.length} · TOEFL tests ${TOEFL_TESTS.length}\n`);

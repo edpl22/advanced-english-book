@@ -1,4 +1,4 @@
-# Advanced English — a textbook on the web
+# Thorn (Þ) — advanced English for Brazilian learners, a textbook on the web
 
 **Tutorial em português: [TUTORIAL.md](TUTORIAL.md)** — como instalar, rodar, testar e publicar o site.
 
